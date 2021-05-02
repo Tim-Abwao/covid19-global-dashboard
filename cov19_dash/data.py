@@ -7,6 +7,7 @@ BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/'\
 
 
 data_dir = Path('data')
+location_data = pd.read_csv(data_dir.joinpath('location_data.csv'))
 
 
 def fetch_data(category='confirmed'):
@@ -81,6 +82,31 @@ def refresh_datasets():
     (case_data.groupby('Date')
      .sum()  # Get totals for each day
      .to_csv(cummulative_totals_file))
+
+
+def load_latest_day_data():
+    """Get data for the latest day, and include location data.
+
+    Returns
+    -------
+    A pandas DataFrame with 'confirmed', 'recovered' and 'deaths' info for the
+    latest day.
+    """
+    data = pd.read_csv(data_dir.joinpath('latest_day.csv'),
+                       parse_dates=['Date'])
+    return data.merge(location_data)
+
+
+def load_time_series_data():
+    """Get daily time series data.
+
+    Returns
+    -------
+    A pandas DataFrame with 'confirmed', 'recovered' and 'deaths' info over a
+    range of dates.
+    """
+    return pd.read_csv(data_dir.joinpath('daily_values.csv'),
+                       parse_dates=['Date'])
 
 
 if __name__ == "__main__":
