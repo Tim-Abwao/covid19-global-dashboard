@@ -43,6 +43,7 @@ def fetch_data(category='confirmed'):
 
 def get_case_information():
     """Get combined 'confirmed', 'deaths' and 'recovered' case information.
+    Then calculate 'active' cases.
 
     Returns
     -------
@@ -57,8 +58,13 @@ def get_case_information():
         # index
         .reset_index()
     )
-
+    # Convert the dates to datetime format
     case_data_df['Date'] = pd.to_datetime(case_data_df['Date'])
+
+    # Calculate active cases
+    case_data_df['Active'] = (case_data_df['Confirmed']
+                              - case_data_df['Recovered']
+                              - case_data_df['Deaths'])
     return case_data_df
 
 
