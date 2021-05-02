@@ -6,6 +6,9 @@ BASE_URL = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/'\
     'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19'
 
 
+data_dir = Path('data')
+
+
 def fetch_data(category='confirmed'):
     """Get global covid19 data for the given category from the JHU CSSE
     COVID-19 repository.
@@ -63,11 +66,18 @@ def refresh_datasets():
     """
     case_data = get_case_information()
 
-    # Save daily values
-    daily_values_file = Path('data/daily_values.csv')
+    # Save daily time series
+    daily_values_file = data_dir.joinpath('daily_values.csv')
     case_data.to_csv(daily_values_file, index=False)
+
+    # Save latest day's data
+    latest_day_file = data_dir.joinpath('latest_day.csv')
+    (case_data
+     .query("Date == @case_data['Date'].max()")  # Select latest day's data
+     .to_csv(latest_day_file, index=False))
+
     # Save daily cummulative totals
-    cummulative_totals_file = Path('data/cummulative_totals.csv')
+    cummulative_totals_file = data_dir.joinpath('cummulative_totals.csv')
     (case_data.groupby('Date')
      .sum()  # Get totals for each day
      .to_csv(cummulative_totals_file))
