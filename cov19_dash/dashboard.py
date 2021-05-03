@@ -7,6 +7,8 @@ from dash.dependencies import Input, Output
 from cov19_dash.dash_app import app
 from cov19_dash.tabs import worldwide, countries, tables
 
+server = app.server
+
 
 app.layout = html.Div([
     dcc.Tabs(
