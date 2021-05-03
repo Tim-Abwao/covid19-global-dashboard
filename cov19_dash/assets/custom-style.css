@@ -1,0 +1,54 @@
+body {
+    background-color: #f0ffff;
+}
+
+.tab-content {
+    margin: 1% 5%;
+}
+
+@media screen and (min-width: 900px) {
+    .global-container {
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+    }
+    .global-container h1 {
+        color: magenta;
+    }
+    .countries-container {
+        display: grid;
+        grid-template-columns: 3fr 2fr;
+    }
+    .pie-chart-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .global-map-container, raw-data-table {
+        width: 700px;
+        overflow-x: scroll;
+    }
+    .totals-container {
+        text-align: center;
+    }
+    .totals-container h1 {
+        margin-bottom: 35px;
+    }
+}
+
+#confirmed-total {
+    color: #4da6ff;
+}
+
+#active-total {
+    color: #ef553b;
+}
+
+#recovered-total {
+    color: #00cc0096;
+}
+
+#deaths-total {
+    color: #5c615f;
+}
