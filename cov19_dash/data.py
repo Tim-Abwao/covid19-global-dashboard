@@ -98,9 +98,13 @@ def load_latest_day_data():
     A pandas DataFrame with 'confirmed', 'recovered' and 'deaths' info for the
     latest day.
     """
-    data = pd.read_csv(data_dir.joinpath('latest_day.csv'),
-                       parse_dates=['Date'])
-    return data.merge(location_data)
+    file = data_dir.joinpath('latest_day.csv')
+    if file.exists():
+        data = pd.read_csv(file, parse_dates=['Date'])
+        return data.merge(location_data)
+    else:
+        refresh_datasets()
+        return load_latest_day_data()
 
 
 def load_time_series_data():
@@ -111,8 +115,12 @@ def load_time_series_data():
     A pandas DataFrame with 'confirmed', 'recovered' and 'deaths' info over a
     range of dates.
     """
-    return pd.read_csv(data_dir.joinpath('daily_values.csv'),
-                       parse_dates=['Date'])
+    file = data_dir.joinpath('daily_values.csv')
+    if file.exists():
+        return pd.read_csv(file, parse_dates=['Date'])
+    else:
+        refresh_datasets()
+        return load_time_series_data()
 
 
 def check_if_data_is_stale():
