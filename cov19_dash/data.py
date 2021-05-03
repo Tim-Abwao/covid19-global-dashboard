@@ -115,5 +115,24 @@ def load_time_series_data():
                        parse_dates=['Date'])
 
 
+def check_if_data_is_stale():
+    file = data_dir.joinpath('latest_day.csv')
+
+    if file.exists():
+        # Read a portion of the file to get date info
+        data = pd.read_csv(file, nrows=5, parse_dates=['Date'])
+        latest_date = data['Date'].max()
+        time_now = pd.to_datetime('now')
+
+        if (time_now - latest_date).days > 1:
+            # Since the data source is updated once a day with data for the
+            # previous day, the gap in days could get to 2, but only for a
+            # few hours.
+            refresh_datasets()
+    else:
+        # Download fresh copies if the file is missing
+        refresh_datasets()
+
+
 if __name__ == "__main__":
-    refresh_datasets()
+    check_if_data_is_stale()
