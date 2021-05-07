@@ -2,9 +2,13 @@ import dash_core_components as dcc
 import dash_html_components as html
 import dash_table
 from cov19_dash.dash_app import app
-from cov19_dash.data import load_latest_day_data, load_time_series_data
+from cov19_dash.data import (check_if_data_is_stale, load_latest_day_data,
+                             load_time_series_data)
 from dash.dependencies import Input, Output
 
+
+# Refresh datasets
+check_if_data_is_stale()
 
 data = load_latest_day_data()
 dates = data.pop('Date')

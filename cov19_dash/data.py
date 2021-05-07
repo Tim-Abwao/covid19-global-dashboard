@@ -11,7 +11,7 @@ location_data = pd.read_csv(data_dir.joinpath('location_data.csv'))
 
 
 def fetch_data(category='confirmed'):
-    """Get global covid19 data for the given category from the JHU CSSE
+    """Get global covid-19 data for the given category from the JHU CSSE
     COVID-19 repository.
 
     Parameters
@@ -49,13 +49,13 @@ def get_case_information():
     -------
     A pandas DataFrame with covid-19 case information.
     """
-    case_data = [fetch_data(category) for category in {
-                         'confirmed', 'deaths', 'recovered'}]
+    case_data = [fetch_data(category)
+                 for category in {'confirmed', 'deaths', 'recovered'}]
     case_data_df = (
         # Combine the case data into a DataFrame
         pd.concat(case_data, axis=1)
         # Restore 'Country/Region' and 'Date' as columns and set a default
-        # index
+        # RangeIndex
         .reset_index()
     )
     # Convert the dates to datetime format
@@ -83,26 +83,21 @@ def refresh_datasets():
      .query("Date == @case_data['Date'].max()")  # Select latest day's data
      .to_csv(latest_day_file, index=False))
 
-    # Save daily cummulative totals
-    cummulative_totals_file = data_dir.joinpath('cummulative_totals.csv')
-    (case_data.groupby('Date')
-     .sum()  # Get totals for each day
-     .to_csv(cummulative_totals_file))
-
 
 def load_latest_day_data():
     """Get data for the latest day, and include location data.
 
     Returns
     -------
-    A pandas DataFrame with 'confirmed', 'recovered' and 'deaths' info for the
-    latest day.
+    A pandas DataFrame with 'confirmed', 'active', 'recovered' and 'deaths'
+    info for the latest day.
     """
     file = data_dir.joinpath('latest_day.csv')
     if file.exists():
         data = pd.read_csv(file, parse_dates=['Date'])
         return data.merge(location_data)
     else:
+        print('Downloading data...')
         refresh_datasets()
         return load_latest_day_data()
 
@@ -119,11 +114,15 @@ def load_time_series_data():
     if file.exists():
         return pd.read_csv(file, parse_dates=['Date'])
     else:
+        print('Downloading data...')
         refresh_datasets()
         return load_time_series_data()
 
 
 def check_if_data_is_stale():
+    """Scan current files, and create fresh copies if they are missing or
+    outdated.
+    """
     file = data_dir.joinpath('latest_day.csv')
 
     if file.exists():
@@ -136,11 +135,9 @@ def check_if_data_is_stale():
             # Since the data source is updated once a day with data for the
             # previous day, the gap in days could get to 2, but only for a
             # few hours.
+            print('Fetching fresh data...')
             refresh_datasets()
     else:
         # Download fresh copies if the file is missing
+        print('Downloading data...')
         refresh_datasets()
-
-
-if __name__ == "__main__":
-    check_if_data_is_stale()
