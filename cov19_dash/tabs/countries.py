@@ -83,6 +83,7 @@ def plot_countries_lineplots(countries, category):
     lineplot = px.line(selection, x='Date', y=category, color='Country/Region')
     lineplot.update_layout(paper_bgcolor='#f0ffff',
                            plot_bgcolor='#f0ffff')
+    lineplot.update_traces(hovertemplate='<b>%{x}</b><br>%{y:,}')
     lineplot.update_xaxes(fixedrange=True)
     lineplot.update_yaxes(fixedrange=True)
 
@@ -114,6 +115,9 @@ def plot_barplot_and_piecharts(countries):
         selection, y=['Active', 'Deaths', 'Recovered']
     )
     barplot.update_layout(paper_bgcolor='#f0ffff', plot_bgcolor='#f0ffff')
+    barplot.update_traces(
+        hovertemplate='<b>%{x}</b><br>%{value:,}'
+    )
     barplot.update_xaxes(fixedrange=True)
     barplot.update_yaxes(fixedrange=True, title='Number of Cases')
 
@@ -125,6 +129,9 @@ def plot_barplot_and_piecharts(countries):
             hole=0.4
         )
         fig.update_layout(paper_bgcolor='#f0ffff', plot_bgcolor='#f0ffff')
+        fig.update_traces(
+            hovertemplate='<b>%{label}:</b> %{value:,}<extra></extra>'
+        )
         pie_div = html.Div(
             dcc.Graph(id=f'{country}-pie-chart', figure=fig)
         )

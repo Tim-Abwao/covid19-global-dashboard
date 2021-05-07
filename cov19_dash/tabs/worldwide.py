@@ -90,7 +90,7 @@ def plot_global_bubble_map(category):
     )
     geo_scatterplot.update_layout(paper_bgcolor='#f0ffff')
     geo_scatterplot.update_traces(
-        hovertemplate=f'''<b>%{{hovertext}}</b><br>
+        hovertemplate=f'''<b>%{{hovertext}}</b><br>\
 {category}: %{{customdata[0]:,}}'''
     )
 
@@ -133,6 +133,9 @@ def plot_daily_new_cases(category):
     )
     new_cases_barplot.update_layout(paper_bgcolor='#f0ffff',
                                     plot_bgcolor='#f0ffff')
+    new_cases_barplot.update_traces(
+        hovertemplate='<b>%{y}</b> <i>%{x}</i><extra></extra>'
+    )
     new_cases_barplot.update_xaxes(fixedrange=True)
     new_cases_barplot.update_yaxes(fixedrange=True, title='Number of Cases')
 
