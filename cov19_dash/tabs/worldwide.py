@@ -3,7 +3,7 @@ import dash_html_components as html
 import plotly.express as px
 from cov19_dash.dash_app import app
 from dash.dependencies import Input, Output
-from cov19_dash.data import load_latest_day_data, check_if_data_is_stale
+from cov19_dash.data import load_latest_day_data, load_time_series_data
 
 
 layout = html.Div(className='global-container', children=[
@@ -11,10 +11,10 @@ layout = html.Div(className='global-container', children=[
         # Display global totals
         html.Div(id='totals', className='totals-container')
     ]),
-    html.Div(id='global-map-container', children=[
+    html.Div(className='global-map-container', children=[
         # Select case category
         dcc.RadioItems(
-            id='category',
+            id='category-global-totals',
             options=[
                 {'label': 'Confirmed', 'value': 'Confirmed'},
                 {'label': 'Active', 'value': 'Active'},
@@ -24,21 +24,45 @@ layout = html.Div(className='global-container', children=[
             value='Confirmed'),
         # Display a geo-scatterplot
         dcc.Loading(
-            id='refresh-data',
-            children=dcc.Graph(id='global-bubble-map'),
-            color='steelblue'
+            id='refresh-geoscatterplot',
+            color='steelblue',
+            children=dcc.Graph(id='global-bubble-map')
         )
-    ], className='global-map-container')
+    ]),
+    html.Div(id='placeholder'),
+    html.Div(className='global-map-container', children=[
+        # Select case category
+        dcc.RadioItems(
+            id='category-new-cases',
+            options=[
+                {'label': 'Confirmed', 'value': 'Confirmed'},
+                {'label': 'Active', 'value': 'Active'},
+                {'label': 'Recovered', 'value': 'Recovered'},
+                {'label': 'Deaths', 'value': 'Deaths'}
+            ],
+            value='Confirmed'),
+        # Display a bar-plot of new cases
+        dcc.Loading(
+            id='refresh-barplot',
+            color='steelblue',
+            children=dcc.Graph(id='new-cases-barplot')
+        )
+    ])
 ])
 
 
 @app.callback(
     [Output('totals', 'children'),
      Output('global-bubble-map', 'figure')],
-    Input('category', 'value')
+    Input('category-global-totals', 'value')
 )
 def plot_global_bubble_map(category):
-    check_if_data_is_stale()
+    """Create a geo-scatterplot of case totals.
+
+    Parameters
+    ----------
+    category: {'Confirmed', 'Recovered', 'Active', 'Deaths'}
+    """
     data = load_latest_day_data()
     data_date = data["Date"].max().strftime('%A, %b %-d %Y')
     # Prepare totals content
@@ -69,4 +93,47 @@ def plot_global_bubble_map(category):
         hovertemplate=f'''<b>%{{hovertext}}</b><br>
 {category}: %{{customdata[0]:,}}'''
     )
+
     return totals_content, geo_scatterplot
+
+
+@app.callback(
+    Output('new-cases-barplot', 'figure'),
+    Input('category-new-cases', 'value')
+)
+def plot_daily_new_cases(category):
+    """Create a bar-plot of daily new cases.
+
+    Parameters
+    ----------
+    category: {'Confirmed', 'Recovered', 'Active', 'Deaths'}
+    """
+    time_series_data = load_time_series_data()
+
+    new_cases = (
+        # Calculate global totals for each day
+        time_series_data[['Date', category]].groupby('Date').sum()
+        # Calculate daily changes
+        .diff()
+        # Truncate negative values
+        .clip(lower=0)
+        # Rename the resultant dataframe approrpiately
+        .rename(columns={category: f'{category} (New)'})
+    )
+
+    colors = {
+        'Confirmed': '#4da6ff',
+        'Active': '#ef553b',
+        'Recovered': '#00cc00',
+        'Deaths': '#5c615f'
+    }
+
+    new_cases_barplot = px.bar(
+        new_cases, color_discrete_sequence=[colors[category]]
+    )
+    new_cases_barplot.update_layout(paper_bgcolor='#f0ffff',
+                                    plot_bgcolor='#f0ffff')
+    new_cases_barplot.update_xaxes(fixedrange=True)
+    new_cases_barplot.update_yaxes(fixedrange=True, title='Number of Cases')
+
+    return new_cases_barplot
