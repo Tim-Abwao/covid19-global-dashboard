@@ -2,10 +2,11 @@ import logging
 
 import waitress
 
+
 from cov19_dash.dashboard import server
 
-logger = logging.getLogger('waitress')
-logger.setLevel(logging.ERROR)
+# Set waitress.queue logging level to ERROR
+logging.getLogger('waitress.queue').setLevel(logging.ERROR)
 
 
 def run_server():
