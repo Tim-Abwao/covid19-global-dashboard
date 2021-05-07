@@ -17,6 +17,7 @@ latest_day_data = (
 layout = html.Div([
     html.Div(className='countries-container', children=[
         html.Div(children=[
+            # Country selector
             dcc.Dropdown(
                 id='countries',
                 options=[
@@ -29,27 +30,31 @@ layout = html.Div([
                 placeholder='Select a Country',
                 value=['Kenya', 'Uganda', 'Tanzania']
             ),
+            # Category selector
             dcc.RadioItems(
                 id='category-countries',
                 options=[
-                    {'label': 'Confirmed Cases', 'value': 'Confirmed'},
-                    {'label': 'Recovered', 'value': 'Recovered'},
-                    {'label': 'Deaths', 'value': 'Deaths'}
+                    {'label': category, 'value': category}
+                    for category in ['Confirmed', 'Active', 'Recovered',
+                                     'Deaths']
                 ],
                 value='Confirmed'
             ),
+            # Line-plot
             dcc.Loading(
                 id='lineplot',
                 children=dcc.Graph(id='countries-lineplot'),
                 color='steelblue'
             )
         ]),
+        # Bar-plot
         dcc.Loading(
             id='barplot',
             children=html.Div([dcc.Graph(id='countries-barplot')]),
             color='steelblue'
         )
     ]),
+    # Pie-charts
     html.Div(className='pie-chart-container', id='countries-piecharts')
 ])
 
@@ -60,13 +65,26 @@ layout = html.Div([
      Input('category-countries', 'value')]
 )
 def plot_countries_lineplots(countries, category):
-    """Get a lineplot of `category` values for various countries."""
+    """Get a lineplot of `category` values for various countries.
+
+    Parameters
+    ----------
+    countries : list
+        A list of countries
+    category : {'Active', 'Confirmed', 'Deaths', 'Recovered'}
+
+    Returns
+    -------
+    A comparative lineplot, with a line for each country.
+    """
     if countries == []:  # If no country is selected
         countries = ['Kenya', 'Uganda', 'Tanzania']
     selection = time_series_data.query('`Country/Region` in @countries')
     lineplot = px.line(selection, x='Date', y=category, color='Country/Region')
     lineplot.update_layout(paper_bgcolor='#f0ffff',
                            plot_bgcolor='#f0ffff')
+    lineplot.update_xaxes(fixedrange=True)
+    lineplot.update_yaxes(fixedrange=True)
 
     return lineplot
 
@@ -77,7 +95,17 @@ def plot_countries_lineplots(countries, category):
     Input('countries', 'value')
 )
 def plot_barplot_and_piecharts(countries):
-    """Get a barplot, and pie-charts for each of the supplied countries."""
+    """Get a barplot, and pie-charts for each of the supplied countries.
+
+    Parameters
+    ----------
+    countries : list
+        A list of countries to compare.
+
+    Returns
+    -------
+    A comparative bar-plot, and pie-charts for each country supplied.
+    """
     if countries == []:  # If no country is selected
         countries = ['Kenya', 'Uganda', 'Tanzania']
     selection = latest_day_data.loc[countries]
@@ -86,6 +114,8 @@ def plot_barplot_and_piecharts(countries):
         selection, y=['Active', 'Deaths', 'Recovered']
     )
     barplot.update_layout(paper_bgcolor='#f0ffff', plot_bgcolor='#f0ffff')
+    barplot.update_xaxes(fixedrange=True)
+    barplot.update_yaxes(fixedrange=True, title='Number of Cases')
 
     pie_charts = []
     for country, row in selection.iterrows():
@@ -95,9 +125,9 @@ def plot_barplot_and_piecharts(countries):
             hole=0.4
         )
         fig.update_layout(paper_bgcolor='#f0ffff', plot_bgcolor='#f0ffff')
-        div = html.Div(
+        pie_div = html.Div(
             dcc.Graph(id=f'{country}-pie-chart', figure=fig)
         )
-        pie_charts.append(div)
+        pie_charts.append(pie_div)
 
     return barplot, pie_charts
