@@ -6,6 +6,10 @@ body {
     margin: 1% 5%;
 }
 
+button {
+    padding: 7px 15px;
+}
+
 @media screen and (min-width: 900px) {
     .global-container {
         display: grid;
