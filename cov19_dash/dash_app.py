@@ -1,14 +1,15 @@
 import dash
 
-
 app = dash.Dash(
-    'cov19_dash',
+    "cov19_dash",
     suppress_callback_exceptions=True,
-    title='Covid19 Dashboard',
+    title="COVID-19 Dashboard",
     meta_tags=[
-        {'name': 'viewport',
-         'content': 'width=device-width, initial-scale=1.0'}
-    ]
+        {
+            "name": "viewport",
+            "content": "width=device-width, initial-scale=1.0",
+        }
+    ],
 )
 
 server = app.server
