@@ -168,7 +168,9 @@ def plot_daily_new_cases(category):
     }
 
     new_cases_barplot = px.bar(
-        new_cases, color_discrete_sequence=[colors[category]]
+        new_cases,
+        color_discrete_sequence=[colors[category]],
+        title=f"Daily New Cases <i>({category})</i>",
     )
     new_cases_barplot.update_layout(
         paper_bgcolor="#f0ffff", plot_bgcolor="#f0ffff"
