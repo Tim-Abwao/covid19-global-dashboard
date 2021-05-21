@@ -13,7 +13,7 @@ app.layout = html.Div(
             id="tabs",
             value="tab-1",
             children=[
-                dcc.Tab(label="Global Map", value="tab-1"),
+                dcc.Tab(label="Global", value="tab-1"),
                 dcc.Tab(label="Compare Countries", value="tab-2"),
                 dcc.Tab(label="Raw Data", value="tab-3"),
             ],
