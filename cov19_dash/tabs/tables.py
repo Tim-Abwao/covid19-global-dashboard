@@ -8,6 +8,7 @@ from cov19_dash.data import (
     load_time_series_data,
 )
 from dash.dependencies import Input, Output
+from dash_table.Format import Format
 
 # Refresh datasets
 check_if_data_is_stale()
@@ -40,7 +41,35 @@ data/csse_covid_19_time_series
             children=[
                 dash_table.DataTable(
                     id="table",
-                    columns=[{"name": col, "id": col} for col in data.columns],
+                    columns=[
+                        {"name": "Country/Region", "id": "Country/Region"},
+                        {
+                            "name": "Confirmed",
+                            "id": "Confirmed",
+                            "type": "numeric",
+                            "format": Format().group(True),
+                        },
+                        {
+                            "name": "Recovered",
+                            "id": "Recovered",
+                            "type": "numeric",
+                            "format": Format().group(True),
+                        },
+                        {
+                            "name": "Active",
+                            "id": "Active",
+                            "type": "numeric",
+                            "format": Format().group(True),
+                        },
+                        {
+                            "name": "Deaths",
+                            "id": "Deaths",
+                            "type": "numeric",
+                            "format": Format().group(True),
+                        },
+                        {"name": "Lat", "id": "Lat", "type": "numeric"},
+                        {"name": "Long", "id": "Long", "type": "numeric"},
+                    ],
                     data=data.to_dict("records"),
                     sort_action="native",
                     page_size=50,
