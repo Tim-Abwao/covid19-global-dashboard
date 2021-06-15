@@ -139,7 +139,9 @@ def plot_barplot_and_piecharts(countries):
             values=cases,
             names=cases.index,
             color=cases.index,
-            title=country,
+            title=(
+                f"{country} <i>({row.loc['Confirmed']:,} Confirmed Cases)</i>"
+            ),
             hole=0.4,
         )
         fig.update_layout(paper_bgcolor="#f0ffff", plot_bgcolor="#f0ffff")
