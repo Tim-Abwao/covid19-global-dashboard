@@ -88,4 +88,6 @@ def download_global_dataset(n_clicks) -> dict:
         used by the Download component.
     """
     data = load_latest_day_data()
-    return dcc.send_data_frame(data.to_excel, "covid19-global.xlsx")
+    return dcc.send_data_frame(
+        data.to_excel, "covid19-global.xlsx", index=False
+    )
