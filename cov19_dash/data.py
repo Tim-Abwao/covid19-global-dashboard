@@ -86,7 +86,7 @@ def fetch_time_series_data() -> None:
     case_data.reset_index(inplace=True)
 
     # Harmonize country names accross data sources
-    case_data["Country/Region"] = case_data["Country/Region"].map(
+    case_data["Country/Region"] = case_data["Country/Region"].replace(
         {
             "Cabo Verde": "Cape Verde",
             "Congo (Brazzaville)": "Congo",
