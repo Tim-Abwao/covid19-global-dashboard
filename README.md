@@ -12,7 +12,12 @@
 
 ![data screencast](cov19_dash/assets/data-screencast.gif)
 
-Built with [Dash][dash]. The data is obtained from the [JHU CSSE COVID-19 Data][jhucsse] repository.
+Built with [Dash][dash].
+
+The data is obtained from:
+
+* [Our World in Data][owid]
+* [JHU CSSE COVID-19 Data][jhucsse] repository.
 
 ## Running locally
 
@@ -39,4 +44,5 @@ Built with [Dash][dash]. The data is obtained from the [JHU CSSE COVID-19 Data][
     ```
 
 [dash]: https://plotly.com/dash/
+[owid]: https://github.com/owid/covid-19-data/tree/master/public/data
 [jhucsse]: https://github.com/CSSEGISandData/COVID-19
