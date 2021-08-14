@@ -6,53 +6,47 @@ body {
     margin: 1% 5%;
 }
 
+#global-bubble-map, #table {
+    min-width: 700px;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.totals-container {
+    text-align: center;
+}
+
+.totals-container h1 {
+    margin-bottom: 35px;
+}
+
+.line-plots, .pie-charts {
+    width: 100%;
+}
+
 button {
     padding: 7px 15px;
 }
 
-@media screen and (min-width: 900px) {
+@media only screen and (min-width: 768px){
+    .pie-charts {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }    
+}
+
+@media screen and (min-width: 1024px) {
     .global-container {
         display: grid;
-        grid-template-columns: 1fr 4fr;
+        grid-template-columns: 2fr 5fr;
     }
-    .global-container h1 {
-        color: magenta;
+
+    .line-plots {
+        max-width: 70%;
     }
-    .countries-container {
-        display: grid;
-        grid-template-columns: 3fr 2fr;
-    }
-    .pie-chart-container {
+
+    .pie-charts {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
-}
-
-@media screen and (max-width: 800px) {
-    .global-map-container, raw-data-table {
-        width: 700px;
-        overflow-x: scroll;
-    }
-    .totals-container {
-        text-align: center;
-    }
-    .totals-container h1 {
-        margin-bottom: 35px;
-    }
-}
-
-#confirmed-total {
-    color: #4da6ff;
-}
-
-#active-total {
-    color: #ef553b;
-}
-
-#recovered-total {
-    color: #00cc0096;
-}
-
-#deaths-total {
-    color: #5c615f;
 }
