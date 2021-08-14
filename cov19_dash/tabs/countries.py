@@ -2,30 +2,36 @@ import dash_core_components as dcc
 import dash_html_components as html
 import plotly.express as px
 from cov19_dash.dash_app import app
-from cov19_dash.data import load_time_series_data
-from dash.dependencies import Input, Output
-
-time_series_data = load_time_series_data()
-latest_day_data = (
-    time_series_data.query('Date == @time_series_data["Date"].max()')
-    .drop("Date", 1)  # Leave only case data
-    .set_index("Country/Region")
+from cov19_dash.data import (
+    fetch_latest_data,
+    fetch_time_series_data,
+    load_latest_day_data,
+    load_time_series_data,
 )
+from dash.dependencies import Input, Output
+from plotly.graph_objects import Figure
+
+fetch_latest_data()
+fetch_time_series_data()
+time_series_data = load_time_series_data()
+latest_day_data = load_latest_day_data()
 
 layout = html.Div(
     [
+        # Trend (line-plots)
         html.Div(
-            # "Countries" tab container
-            className="countries-container",
+            className="line-plots",
             children=[
                 html.Div(
                     children=[
-                        # Country selector
+                        # Select country
                         dcc.Dropdown(
                             id="countries",
                             options=[
                                 {"label": country, "value": country}
-                                for country in latest_day_data.index
+                                for country in time_series_data[
+                                    "Country/Region"
+                                ].unique()
                             ],
                             multi=True,
                             clearable=False,
@@ -33,15 +39,13 @@ layout = html.Div(
                             placeholder="Select a Country",
                             value=["Kenya", "Uganda", "Tanzania"],
                         ),
-                        # Category selector
+                        # Select category
                         dcc.RadioItems(
-                            id="countries-category",
+                            id="info-category",
                             options=[
                                 {"label": category, "value": category}
                                 for category in [
                                     "Confirmed",
-                                    "Active",
-                                    "Recovered",
                                     "Deaths",
                                 ]
                             ],
@@ -49,44 +53,39 @@ layout = html.Div(
                         ),
                         # Line-plot
                         dcc.Loading(
-                            id="lineplot",
-                            children=dcc.Graph(id="countries-lineplot"),
+                            id="line-plot-container",
+                            children=dcc.Graph(id="line-plot"),
                             color="steelblue",
                         ),
                     ]
                 ),
-                # Bar-plot
-                dcc.Loading(
-                    id="barplot",
-                    children=html.Div([dcc.Graph(id="countries-barplot")]),
-                    color="steelblue",
-                ),
             ],
         ),
         # Country pie-charts
-        html.Div(className="pie-chart-container", id="countries-piecharts"),
+        html.Div(className="pie-charts", id="pie-charts"),
     ]
 )
 
 
 @app.callback(
-    Output("countries-lineplot", "figure"),
-    [Input("countries", "value"), Input("countries-category", "value")],
+    Output("line-plot", "figure"),
+    [Input("countries", "value"), Input("info-category", "value")],
 )
-def plot_countries_lineplots(countries, category):
+def plot_lineplots(countries: list, category: str) -> Figure:
     """Get a lineplot of `category` values for various countries.
 
     Parameters
     ----------
     countries : list
-        A list of countries
-    category : {"Active", "Confirmed", "Deaths", "Recovered"}
+        A list of country names.
+    category : {"Confirmed", "Deaths"}
 
     Returns
     -------
-    A comparative lineplot, with a line for each country.
+    plotly.graph_objs._figure.Figure
+        A comparative lineplot, with a line for each country.
     """
-    if countries == []:  # If no country is selected
+    if not countries:  # If no country is selected
         countries = ["Kenya", "Uganda", "Tanzania"]
 
     data = time_series_data.query("`Country/Region` in @countries")
@@ -101,13 +100,10 @@ def plot_countries_lineplots(countries, category):
 
 
 @app.callback(
-    [
-        Output("countries-barplot", "figure"),
-        Output("countries-piecharts", "children"),
-    ],
+    Output("pie-charts", "children"),
     Input("countries", "value"),
 )
-def plot_barplot_and_piecharts(countries):
+def plot_piecharts(countries) -> list[Figure]:
     """Get a barplot, and pie-charts for each of the supplied countries.
 
     Parameters
@@ -117,38 +113,35 @@ def plot_barplot_and_piecharts(countries):
 
     Returns
     -------
-    A comparative bar-plot, and pie-charts for each country supplied.
+    pie-charts : list[Figure]
+        Country comparisons.
     """
     if countries == []:  # If no country is selected
         countries = ["Kenya", "Uganda", "Tanzania"]
 
-    data = latest_day_data.loc[countries]
+    data = latest_day_data.set_index("Location").loc[countries]
 
-    # Bar-plot
-    barplot = px.bar(data, y=["Active", "Deaths", "Recovered"])
-    barplot.update_layout(paper_bgcolor="#f0ffff", plot_bgcolor="#f0ffff")
-    barplot.update_traces(hovertemplate="<b>%{x}</b><br>%{value:,}")
-    barplot.update_xaxes(fixedrange=True)
-    barplot.update_yaxes(fixedrange=True, title="Number of Cases")
-
-    # Pie-charts
     pie_charts = []
-    for country, row in data.iterrows():
-        cases = row.loc[["Active", "Deaths", "Recovered"]]
+    for metric in (
+        "Total Cases Per Million",
+        "Total Deaths Per Million",
+        "People Vaccinated Per Hundred",
+        "People Fully Vaccinated Per Hundred",
+        "Hospital Beds Per Thousand",
+        "Population Density",
+    ):
         fig = px.pie(
-            values=cases,
-            names=cases.index,
-            color=cases.index,
-            title=(
-                f"{country} <i>({row.loc['Confirmed']:,} Confirmed Cases)</i>"
-            ),
+            values=data[metric],
+            names=countries,
+            color=countries,
+            title=(f"{metric.replace('_', ' ').title()}"),
             hole=0.4,
         )
         fig.update_layout(paper_bgcolor="#f0ffff", plot_bgcolor="#f0ffff")
         fig.update_traces(
             hovertemplate="<b>%{label}:</b> %{value:,}<extra></extra>"
         )
-        pie_div = html.Div(dcc.Graph(id=f"{country}-pie-chart", figure=fig))
+        pie_div = html.Div(dcc.Graph(id=f"{metric}-pie-chart", figure=fig))
         pie_charts.append(pie_div)
 
-    return barplot, pie_charts
+    return pie_charts
