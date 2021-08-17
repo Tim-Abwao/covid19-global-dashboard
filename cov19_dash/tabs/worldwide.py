@@ -26,10 +26,18 @@ layout = html.Div(
                             "Total Cases",
                             "New Cases",
                             "Total Deaths",
+                            "People Fully Vaccinated",
                             "Total Vaccinations",
+                            "Hospital Beds Per Thousand",
+                            "Aged 65 Older",
+                            "Population Density",
                         ]
                     ],
                     value="Total Cases",
+                    clearable=False,
+                    placeholder="Select category",
+                    searchable=False,
+                    style={"maxWidth": 700},
                 ),
                 # Display geo-scatterplot
                 html.Div(
@@ -68,7 +76,7 @@ def plot_global_bubble_map(category: str) -> tuple[list, Figure]:
         A geo-scatterplot with values of the specified category.
     """
     data = load_latest_day_data()
-    data_date = data["Last Updated Date"].max().strftime("%A, %b %-d %Y")
+    data_date = data["Last Updated Date"].max().strftime("%A, %b %d %Y")
 
     # Prepare totals content
     totals = (
