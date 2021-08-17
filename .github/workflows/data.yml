@@ -46,7 +46,7 @@ jobs:
           status_options: ""
 
           # File pattern used for `git add`. For example `src/\*.js`
-          file_pattern: covid-19-data/*.csv
+          file_pattern: covid-19-data/*.csv.zip
 
           # Name used for the commit user
           commit_user_name: GitHub Actions
@@ -55,7 +55,7 @@ jobs:
           commit_user_email: actions@github.com
 
           # Value used for the commit author. Defaults to the username of whoever triggered this workflow run.
-          commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          commit_author: GitHub Actions <actions@users.noreply.github.com>
 
           # Message used to create a new git tag with the commit. Keep this empty, if no tag should be created.
           tagging_message: ""
