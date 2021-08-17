@@ -2,17 +2,11 @@ import dash_core_components as dcc
 import dash_html_components as html
 import plotly.express as px
 from cov19_dash.dash_app import app
-from cov19_dash.data import (
-    fetch_latest_data,
-    fetch_time_series_data,
-    load_latest_day_data,
-    load_time_series_data,
-)
+from cov19_dash.data import load_latest_day_data, load_time_series_data
 from dash.dependencies import Input, Output
 from plotly.graph_objects import Figure
 
-fetch_latest_data()
-fetch_time_series_data()
+
 time_series_data = load_time_series_data()
 latest_day_data = load_latest_day_data()
 

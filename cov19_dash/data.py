@@ -5,14 +5,16 @@ OWID_URL = (
     "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/"
     "latest/owid-covid-latest.csv"
 )
-
 JHU_URL = (
     "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_"
     "covid_19_data/csse_covid_19_time_series/time_series_covid19"
 )
-
 DATA_DIR = Path("covid-19-data")
 DATA_DIR.mkdir(exist_ok=True)
+DATA_URL = (
+    "https://raw.githubusercontent.com/Tim-Abwao/covid19-global-dashboard/"
+    "datasets/covid-19-data"
+)
 
 
 def fetch_latest_data() -> None:
@@ -114,7 +116,7 @@ def load_latest_day_data() -> pd.DataFrame:
         COVID-19 info for the latest day.
     """
     return pd.read_csv(
-        DATA_DIR / "latest-data.csv", parse_dates=["Last Updated Date"]
+        f"{DATA_URL}/latest-data.csv", parse_dates=["Last Updated Date"]
     )
 
 
@@ -126,4 +128,11 @@ def load_time_series_data() -> pd.DataFrame:
     pandas.DataFrame
         COVID-19 time series data.
     """
-    return pd.read_csv(DATA_DIR / "time-series-data.csv", parse_dates=["Date"])
+    return pd.read_csv(
+        f"{DATA_URL}/time-series-data.csv", parse_dates=["Date"]
+    )
+
+
+if __name__ == "__main__":
+    fetch_latest_data()
+    fetch_time_series_data()
