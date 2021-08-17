@@ -1,0 +1,64 @@
+name: Update Datasets
+
+on:
+  schedule:
+    # Run every day at 6:00 UTC
+    - cron: "0 6 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch fresh data
+        run: python cov19_dash/data.py
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.11.0
+        with:
+          # Commit message
+          commit_message: Refresh datasets
+
+          # Git branch name, where changes should be pushed to.
+          # Required if Action is used on the `pull_request` event.
+          branch: datasets
+
+          # Commit options (eg. --no-verify)
+          commit_options: -a
+
+          # Add options (eg. -u)
+          add_options: ""
+
+          # Status options (eg. --untracked-files=no)
+          status_options: ""
+
+          # File pattern used for `git add`. For example `src/\*.js`
+          file_pattern: covid-19-data/*.csv
+
+          # Name used for the commit user
+          commit_user_name: GitHub Actions
+
+          # Email address used for the commit user
+          commit_user_email: actions@github.com
+
+          # Value used for the commit author. Defaults to the username of whoever triggered this workflow run.
+          commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+
+          # Message used to create a new git tag with the commit. Keep this empty, if no tag should be created.
+          tagging_message: ""
+
+          # Push options (eg. --force)
+          push_options: ""
