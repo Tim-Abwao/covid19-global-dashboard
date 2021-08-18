@@ -13,7 +13,7 @@ DATA_DIR = Path("covid-19-data")
 DATA_DIR.mkdir(exist_ok=True)
 DATA_URL = (
     "https://raw.githubusercontent.com/Tim-Abwao/covid19-global-dashboard/"
-    "datasets/covid-19-data"
+    "main/covid-19-data"
 )
 
 

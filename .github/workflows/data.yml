@@ -34,7 +34,7 @@ jobs:
 
           # Git branch name, where changes should be pushed to.
           # Required if Action is used on the `pull_request` event.
-          branch: datasets
+          branch: main
 
           # Commit options (eg. --no-verify)
           commit_options: -a
@@ -52,10 +52,10 @@ jobs:
           commit_user_name: GitHub Actions
 
           # Email address used for the commit user
-          commit_user_email: actions@users.noreply.github.com
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
 
           # Value used for the commit author. Defaults to the username of whoever triggered this workflow run.
-          commit_author: GitHub Actions <actions@users.noreply.github.com>
+          commit_author: GitHub Actions <41898282+github-actions[bot]@users.noreply.github.com>
 
           # Message used to create a new git tag with the commit. Keep this empty, if no tag should be created.
           tagging_message: ""
