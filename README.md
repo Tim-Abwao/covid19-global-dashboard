@@ -19,6 +19,8 @@ The data is obtained from:
 * [Our World in Data][owid]
 * [JHU CSSE COVID-19 Data][jhucsse] repository.
 
+[![Update Datasets](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml/badge.svg)](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml)
+
 ## Running locally
 
 1. Download the code, and create a virtual environment:
