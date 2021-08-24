@@ -2,15 +2,15 @@
 
 ## View the situation accross the globe
 
-![global screencast](cov19_dash/assets/global-screencast.gif)
+[![global screencast](cov19_dash/assets/global-screencast.gif)][live_app]
 
 ## Compare Countries
 
-![countries screencast](cov19_dash/assets/countries-screencast.gif)
+[![countries screencast](cov19_dash/assets/countries-screencast.gif)][live_app]
 
 ## View & get the data
 
-![data screencast](cov19_dash/assets/data-screencast.gif)
+[![data screencast](cov19_dash/assets/data-screencast.gif)][live_app]
 
 Built with [Dash][dash].
 
@@ -48,3 +48,4 @@ The data is obtained from:
 [dash]: https://plotly.com/dash/
 [owid]: https://github.com/owid/covid-19-data/tree/master/public/data
 [jhucsse]: https://github.com/CSSEGISandData/COVID-19
+[live_app]: https://covid19-global-dash.herokuapp.com/
