@@ -33,7 +33,7 @@ def fetch_latest_data() -> None:
         # 'OWID_SAM', 'OWID_WRL'
         data[~data["Iso Code"].str.startswith("OWID")]
         # Persist local copy
-        .to_csv(DATA_DIR / "latest-data.csv.zip", index=False)
+        .to_csv(DATA_DIR / "latest-data.csv", index=False)
     )
 
 
@@ -104,7 +104,7 @@ def fetch_time_series_data() -> None:
         }
     )
 
-    case_data.to_csv(DATA_DIR / "time-series-data.csv.zip", index=False)
+    case_data.to_csv(DATA_DIR / "time-series-data.csv", index=False)
 
 
 def load_latest_day_data() -> pd.DataFrame:
@@ -116,7 +116,7 @@ def load_latest_day_data() -> pd.DataFrame:
         COVID-19 info for the latest day.
     """
     return pd.read_csv(
-        f"{DATA_URL}/latest-data.csv.zip", parse_dates=["Last Updated Date"]
+        f"{DATA_URL}/latest-data.csv", parse_dates=["Last Updated Date"]
     )
 
 
@@ -129,7 +129,7 @@ def load_time_series_data() -> pd.DataFrame:
         COVID-19 time series data.
     """
     return pd.read_csv(
-        f"{DATA_URL}/time-series-data.csv.zip", parse_dates=["Date"]
+        f"{DATA_URL}/time-series-data.csv", parse_dates=["Date"]
     )
 
 
