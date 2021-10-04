@@ -1,10 +1,8 @@
-import dash_core_components as dcc
-import dash_html_components as html
-import dash_table
 from cov19_dash.dash_app import app
 from cov19_dash.data import load_latest_day_data
+from dash import dash_table, dcc, html
+from dash.dash_table.Format import Format
 from dash.dependencies import Input, Output
-from dash_table.Format import Format
 
 data = load_latest_day_data()
 dates = data.pop("Last Updated Date")
