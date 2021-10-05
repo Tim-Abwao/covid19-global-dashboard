@@ -46,7 +46,7 @@ jobs:
           status_options: ""
 
           # File pattern used for `git add`. For example `src/\*.js`
-          file_pattern: covid-19-data/*.csv.zip
+          file_pattern: covid-19-data/*.csv
 
           # Name used for the commit user
           commit_user_name: GitHub Actions
