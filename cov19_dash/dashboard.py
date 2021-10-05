@@ -36,7 +36,3 @@ def render_content(tab):
         return countries.layout
     elif tab == "tab-3":
         return tables.layout
-
-
-if __name__ == "__main__":
-    app.run_server(debug=True)
