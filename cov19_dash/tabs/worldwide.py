@@ -32,7 +32,7 @@ layout = html.Div(
                             "Population Density",
                         ]
                     ],
-                    value="Total Cases",
+                    value="New Cases",
                     clearable=False,
                     placeholder="Select category",
                     searchable=False,
@@ -80,7 +80,12 @@ def plot_global_bubble_map(category: str) -> tuple[list, Figure]:
     # Prepare totals content
     totals = (
         data[
-            ["Total Cases", "New Cases", "Total Deaths", "Total Vaccinations"]
+            [
+                "Total Cases",
+                "New Cases",
+                "Total Deaths",
+                "People Fully Vaccinated",
+            ]
         ]
         .sum()
         .items()
@@ -89,7 +94,7 @@ def plot_global_bubble_map(category: str) -> tuple[list, Figure]:
         "Total Cases": "#4da6ff",
         "New Cases": "#ef553b",
         "Total Deaths": "#5c615f",
-        "Total Vaccinations": "#00cc0096",
+        "People Fully Vaccinated": "#00cc0096",
     }
     totals_content = sum(
         [
@@ -114,7 +119,7 @@ def plot_global_bubble_map(category: str) -> tuple[list, Figure]:
         locationmode="ISO-3",
         color=category,
         size=category,
-        size_max=60,
+        size_max=40,
         hover_name="Location",
         color_continuous_scale=["#00334d", "#ffff77"],
         custom_data=[category],
