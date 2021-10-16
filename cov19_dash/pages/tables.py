@@ -16,11 +16,8 @@ layout = html.Div(
             f"{data['Location'].nunique()} countries as at "
             f"*{dates[0].strftime('%c')}* UTC. "
             "\n\nThe data used here is obtained from the **Our World in Data**"
-            " [owid / covid-19-data][1] GitHub repository. You can "
-            "[view the original here][2]."
+            " [owid / covid-19-data][1] GitHub repository."
             "\n\n[1]: https://github.com/owid/covid-19-data"
-            "\n[2]: https://github.com/owid/covid-19-data/blob/master/public/"
-            "data/latest/owid-covid-latest.csv"
         ),
         # Data table
         html.Div(
@@ -59,6 +56,13 @@ layout = html.Div(
                 dcc.Download(
                     id="download-dataset", type="application/vnd.ms-excel"
                 ),
+            ],
+        ),
+        html.Div(
+            className="page-link",
+            children=[
+                dcc.Link("Compare Countries", href="/compare-countries"),
+                dcc.Link("Global Dashboard", href="/"),
             ],
         ),
     ]
