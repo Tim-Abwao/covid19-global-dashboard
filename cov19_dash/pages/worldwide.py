@@ -37,7 +37,7 @@ layout = html.Div(
                     clearable=False,
                     placeholder="Select category",
                     searchable=False,
-                    style={"maxWidth": 400, "margin": 15},
+                    style={"maxWidth": 400},
                 ),
                 # Global choropleth map
                 html.Div(

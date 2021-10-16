@@ -38,6 +38,10 @@ body {
 	width: 160px;
 }
 
+.page-link a:hover {
+    opacity: 0.7;
+}
+
 button {
     padding: 7px 15px;
 }
@@ -62,7 +66,7 @@ button {
     }
     label {
         display: block;
-        margin: 10px 30px 0px;
+        margin: 10px;
     }
 }
 
