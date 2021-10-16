@@ -1,25 +1,24 @@
 # COVID-19 Global Dashboard
 
-## View the situation accross the globe
+Track COVID-19 cases worldwide.
 
-[![global screencast](cov19_dash/assets/global-screencast.gif)][live_app]
+[![Update Datasets](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml/badge.svg)](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml)
 
-## Compare Countries
+1. View global metrics:
 
-[![countries screencast](cov19_dash/assets/countries-screencast.gif)][live_app]
+    [![global screencast](cov19_dash/assets/global.gif)][live_app]
 
-## View & get the data
+2. Compare the situation among Countries:
 
-[![data screencast](cov19_dash/assets/data-screencast.gif)][live_app]
+    [![countries screencast](cov19_dash/assets/countries.gif)][live_app]
 
 Built with [Dash][dash].
 
 The data is obtained from:
 
-* [Our World in Data][owid]
-* [JHU CSSE COVID-19 Data][jhucsse] repository.
+* [Our World in Data  COVID-19 data repository][owid]
+* [JHU CSSE COVID-19 Data repository][jhucsse]
 
-[![Update Datasets](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml/badge.svg)](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml)
 
 ## Running locally
 
