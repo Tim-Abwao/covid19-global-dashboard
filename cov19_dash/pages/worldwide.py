@@ -97,7 +97,7 @@ def plot_metrics_and_map(category: str) -> tuple[list, Figure]:
     )
     daily_differences = ts_data.groupby("Date").sum().diff().tail(30)
     new_cases_sparkline = plotting.plot_spark_line(
-        daily_differences["Confirmed"], color="blue", title="New Cases"
+        daily_differences["Confirmed"], color="#8080ff", title="New Cases"
     )
     new_deaths = plotting.plot_spark_line(
         daily_differences["Deaths"], color="silver", title="Deaths"

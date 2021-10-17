@@ -76,6 +76,7 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
             text=f"{data.iloc[-1]:,.0f}",
             textposition="top center",
             textfont={"size": 8},
+            hovertemplate="<i>%{x}:</i> <b>%{y:,.0f}</b><extra></extra>",
             showlegend=False,
         )
     )
@@ -217,7 +218,7 @@ def plot_pie_chart(data: DataFrame, metric: str, countries: list) -> go.Figure:
 
 
 def plot_lines(data: DataFrame, category: str) -> go.Figure:
-    """Get a combined line-plot of the given data
+    """Get a combined line-plot of the given data.
 
     Parameters
     ----------
@@ -228,7 +229,7 @@ def plot_lines(data: DataFrame, category: str) -> go.Figure:
 
     Returns
     -------
-    gplotly.graph_objs._figure.Figure
+    plotly.graph_objs._figure.Figure
         A line-plot.
     """
     fig = px.line(data, x="Date", y=category, color="Country/Region")
