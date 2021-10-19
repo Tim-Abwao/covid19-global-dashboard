@@ -80,7 +80,7 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
             showlegend=False,
         )
     )
-    fig.update_xaxes(visible=False, fixedrange=True)
+    fig.update_xaxes(fixedrange=True, tickfont={"size": 9})
     fig.update_yaxes(visible=False, fixedrange=True)
     fig.update_layout(
         width=220,
