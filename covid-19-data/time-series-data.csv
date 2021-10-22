@@ -11377,7 +11377,7 @@ Date,Country/Region,Confirmed,Deaths
 3/20/20,Georgia,43,0
 3/20/20,Germany,19848,67
 3/20/20,Ghana,16,0
-3/20/20,Greece,495,6
+3/20/20,Greece,495,8
 3/20/20,Grenada,0,0
 3/20/20,Guatemala,12,1
 3/20/20,Guinea,1,0
@@ -12352,7 +12352,7 @@ Date,Country/Region,Confirmed,Deaths
 3/25/20,Georgia,75,0
 3/25/20,Germany,37323,206
 3/25/20,Ghana,93,4
-3/25/20,Greece,821,22
+3/25/20,Greece,835,22
 3/25/20,Grenada,1,0
 3/25/20,Guatemala,24,1
 3/25/20,Guinea,4,0
@@ -12547,7 +12547,7 @@ Date,Country/Region,Confirmed,Deaths
 3/26/20,Georgia,79,0
 3/26/20,Germany,43938,267
 3/26/20,Ghana,132,4
-3/26/20,Greece,892,26
+3/26/20,Greece,835,22
 3/26/20,Grenada,7,0
 3/26/20,Guatemala,25,1
 3/26/20,Guinea,4,0
@@ -12742,7 +12742,7 @@ Date,Country/Region,Confirmed,Deaths
 3/27/20,Georgia,83,0
 3/27/20,Germany,50871,342
 3/27/20,Ghana,137,4
-3/27/20,Greece,966,28
+3/27/20,Greece,835,22
 3/27/20,Grenada,7,0
 3/27/20,Guatemala,28,1
 3/27/20,Guinea,8,0
@@ -12937,7 +12937,7 @@ Date,Country/Region,Confirmed,Deaths
 3/28/20,Georgia,90,0
 3/28/20,Germany,57695,433
 3/28/20,Ghana,141,5
-3/28/20,Greece,1061,32
+3/28/20,Greece,835,22
 3/28/20,Grenada,7,0
 3/28/20,Guatemala,34,1
 3/28/20,Guinea,8,0
@@ -13132,7 +13132,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/20,Georgia,91,0
 3/29/20,Germany,62095,533
 3/29/20,Ghana,152,5
-3/29/20,Greece,1156,38
+3/29/20,Greece,1156,69
 3/29/20,Grenada,9,0
 3/29/20,Guatemala,34,1
 3/29/20,Guinea,16,0
@@ -13327,7 +13327,7 @@ Date,Country/Region,Confirmed,Deaths
 3/30/20,Georgia,103,0
 3/30/20,Germany,66885,645
 3/30/20,Ghana,152,5
-3/30/20,Greece,1212,43
+3/30/20,Greece,1156,69
 3/30/20,Grenada,9,0
 3/30/20,Guatemala,36,1
 3/30/20,Guinea,22,0
@@ -13522,7 +13522,7 @@ Date,Country/Region,Confirmed,Deaths
 3/31/20,Georgia,110,0
 3/31/20,Germany,71808,775
 3/31/20,Ghana,161,5
-3/31/20,Greece,1314,49
+3/31/20,Greece,1156,69
 3/31/20,Grenada,9,0
 3/31/20,Guatemala,38,1
 3/31/20,Guinea,22,0
@@ -13717,7 +13717,7 @@ Date,Country/Region,Confirmed,Deaths
 4/1/20,Georgia,117,0
 4/1/20,Germany,77872,920
 4/1/20,Ghana,195,5
-4/1/20,Greece,1415,50
+4/1/20,Greece,1156,69
 4/1/20,Grenada,9,0
 4/1/20,Guatemala,39,1
 4/1/20,Guinea,30,0
@@ -13912,7 +13912,7 @@ Date,Country/Region,Confirmed,Deaths
 4/2/20,Georgia,134,0
 4/2/20,Germany,84794,1107
 4/2/20,Ghana,204,5
-4/2/20,Greece,1544,53
+4/2/20,Greece,1156,69
 4/2/20,Grenada,10,0
 4/2/20,Guatemala,47,1
 4/2/20,Guinea,52,0
@@ -14107,7 +14107,7 @@ Date,Country/Region,Confirmed,Deaths
 4/3/20,Georgia,155,0
 4/3/20,Germany,91159,1275
 4/3/20,Ghana,205,5
-4/3/20,Greece,1613,63
+4/3/20,Greece,1613,59
 4/3/20,Grenada,12,0
 4/3/20,Guatemala,50,1
 4/3/20,Guinea,73,0
@@ -15277,7 +15277,7 @@ Date,Country/Region,Confirmed,Deaths
 4/9/20,Georgia,218,3
 4/9/20,Germany,118181,2607
 4/9/20,Ghana,378,6
-4/9/20,Greece,1955,87
+4/9/20,Greece,1955,86
 4/9/20,Grenada,12,0
 4/9/20,Guatemala,95,3
 4/9/20,Guinea,194,0
@@ -15472,7 +15472,7 @@ Date,Country/Region,Confirmed,Deaths
 4/10/20,Georgia,234,3
 4/10/20,Germany,122171,2767
 4/10/20,Ghana,378,6
-4/10/20,Greece,2011,92
+4/10/20,Greece,2009,90
 4/10/20,Grenada,14,0
 4/10/20,Guatemala,126,3
 4/10/20,Guinea,212,0
@@ -15862,7 +15862,7 @@ Date,Country/Region,Confirmed,Deaths
 4/12/20,Georgia,257,3
 4/12/20,Germany,127854,3022
 4/12/20,Ghana,566,8
-4/12/20,Greece,2114,98
+4/12/20,Greece,2081,93
 4/12/20,Grenada,14,0
 4/12/20,Guatemala,155,5
 4/12/20,Guinea,250,0
@@ -17227,7 +17227,7 @@ Date,Country/Region,Confirmed,Deaths
 4/19/20,Georgia,394,4
 4/19/20,Germany,145184,4586
 4/19/20,Ghana,1042,9
-4/19/20,Greece,2235,113
+4/19/20,Greece,2245,116
 4/19/20,Grenada,14,0
 4/19/20,Guatemala,257,7
 4/19/20,Guinea,579,5
@@ -23662,7 +23662,7 @@ Date,Country/Region,Confirmed,Deaths
 5/22/20,Georgia,723,12
 5/22/20,Germany,179710,8228
 5/22/20,Ghana,6486,31
-5/22/20,Greece,2874,169
+5/22/20,Greece,2873,169
 5/22/20,Grenada,22,0
 5/22/20,Guatemala,2743,51
 5/22/20,Guinea,3067,19
@@ -24442,7 +24442,7 @@ Date,Country/Region,Confirmed,Deaths
 5/26/20,Georgia,732,12
 5/26/20,Germany,181200,8372
 5/26/20,Ghana,7117,34
-5/26/20,Greece,2892,173
+5/26/20,Greece,2889,173
 5/26/20,Grenada,23,0
 5/26/20,Guatemala,3954,63
 5/26/20,Guinea,3275,20
@@ -26002,7 +26002,7 @@ Date,Country/Region,Confirmed,Deaths
 6/3/20,Georgia,800,13
 6/3/20,Germany,184121,8602
 6/3/20,Ghana,8548,38
-6/3/20,Greece,2937,179
+6/3/20,Greece,2952,180
 6/3/20,Grenada,23,0
 6/3/20,Guatemala,5760,143
 6/3/20,Guinea,3933,23
@@ -26392,7 +26392,7 @@ Date,Country/Region,Confirmed,Deaths
 6/5/20,Georgia,805,13
 6/5/20,Germany,184924,8658
 6/5/20,Ghana,9168,42
-6/5/20,Greece,2967,180
+6/5/20,Greece,3049,182
 6/5/20,Grenada,23,0
 6/5/20,Guatemala,6485,216
 6/5/20,Guinea,4060,23
@@ -26587,7 +26587,7 @@ Date,Country/Region,Confirmed,Deaths
 6/6/20,Georgia,808,13
 6/6/20,Germany,185450,8673
 6/6/20,Ghana,9462,44
-6/6/20,Greece,2980,180
+6/6/20,Greece,3049,182
 6/6/20,Grenada,23,0
 6/6/20,Guatemala,6792,230
 6/6/20,Guinea,4117,23
@@ -26782,7 +26782,7 @@ Date,Country/Region,Confirmed,Deaths
 6/7/20,Georgia,809,13
 6/7/20,Germany,185750,8685
 6/7/20,Ghana,9638,44
-6/7/20,Greece,2997,180
+6/7/20,Greece,3049,182
 6/7/20,Grenada,23,0
 6/7/20,Guatemala,7055,252
 6/7/20,Guinea,4117,23
@@ -38287,7 +38287,7 @@ Date,Country/Region,Confirmed,Deaths
 8/5/20,Georgia,1197,17
 8/5/20,Germany,214113,9179
 8/5/20,Ghana,39075,199
-8/5/20,Greece,4974,210
+8/5/20,Greece,4973,210
 8/5/20,Grenada,24,0
 8/5/20,Guatemala,53509,2072
 8/5/20,Guinea,7575,49
@@ -42382,7 +42382,7 @@ Date,Country/Region,Confirmed,Deaths
 8/26/20,Georgia,1436,19
 8/26/20,Germany,239010,9285
 8/26/20,Ghana,43769,270
-8/26/20,Greece,9280,248
+8/26/20,Greece,8987,243
 8/26/20,Grenada,24,0
 8/26/20,Guatemala,70714,2662
 8/26/20,Guinea,9167,57
@@ -93082,7 +93082,7 @@ Date,Country/Region,Confirmed,Deaths
 5/13/21,Georgia,326441,4379
 5/13/21,Germany,3578125,85853
 5/13/21,Ghana,93159,783
-5/13/21,Greece,371712,11266
+5/13/21,Greece,371693,11266
 5/13/21,Grenada,161,1
 5/13/21,Guatemala,238787,7832
 5/13/21,Guinea,22719,151
@@ -98932,7 +98932,7 @@ Date,Country/Region,Confirmed,Deaths
 6/12/21,Georgia,353443,5034
 6/12/21,Germany,3722295,89841
 6/12/21,Ghana,94493,789
-6/12/21,Greece,414636,12402
+6/12/21,Greece,414636,12405
 6/12/21,Grenada,161,1
 6/12/21,Guatemala,271131,8439
 6/12/21,Guinea,23389,167
@@ -99127,7 +99127,7 @@ Date,Country/Region,Confirmed,Deaths
 6/13/21,Georgia,353965,5048
 6/13/21,Germany,3723295,89849
 6/13/21,Ghana,94493,789
-6/13/21,Greece,414933,12419
+6/13/21,Greece,414933,12422
 6/13/21,Grenada,161,1
 6/13/21,Guatemala,271703,8455
 6/13/21,Guinea,23398,167
@@ -99322,7 +99322,7 @@ Date,Country/Region,Confirmed,Deaths
 6/14/21,Georgia,354276,5060
 6/14/21,Germany,3724168,89944
 6/14/21,Ghana,94493,789
-6/14/21,Greece,415401,12437
+6/14/21,Greece,415401,12443
 6/14/21,Grenada,161,1
 6/14/21,Guatemala,271990,8465
 6/14/21,Guinea,23398,167
@@ -99517,7 +99517,7 @@ Date,Country/Region,Confirmed,Deaths
 6/15/21,Georgia,355368,5083
 6/15/21,Germany,3725328,90079
 6/15/21,Ghana,94699,790
-6/15/21,Greece,416195,12459
+6/15/21,Greece,416195,12465
 6/15/21,Grenada,161,1
 6/15/21,Guatemala,273730,8500
 6/15/21,Guinea,23398,167
@@ -99712,7 +99712,7 @@ Date,Country/Region,Confirmed,Deaths
 6/16/21,Georgia,356179,5096
 6/16/21,Germany,3726767,90185
 6/16/21,Ghana,94824,790
-6/16/21,Greece,416741,12472
+6/16/21,Greece,416741,12478
 6/16/21,Grenada,161,1
 6/16/21,Guatemala,275202,8527
 6/16/21,Guinea,23398,167
@@ -99907,7 +99907,7 @@ Date,Country/Region,Confirmed,Deaths
 6/17/21,Georgia,356920,5114
 6/17/21,Germany,3727668,90277
 6/17/21,Ghana,94824,790
-6/17/21,Greece,417253,12488
+6/17/21,Greece,417253,12494
 6/17/21,Grenada,161,1
 6/17/21,Guatemala,276927,8549
 6/17/21,Guinea,23431,167
@@ -100102,7 +100102,7 @@ Date,Country/Region,Confirmed,Deaths
 6/18/21,Georgia,357591,5131
 6/18/21,Germany,3728601,90374
 6/18/21,Ghana,94913,793
-6/18/21,Greece,417706,12508
+6/18/21,Greece,417706,12514
 6/18/21,Grenada,161,1
 6/18/21,Guatemala,278409,8595
 6/18/21,Guinea,23450,167
@@ -100297,7 +100297,7 @@ Date,Country/Region,Confirmed,Deaths
 6/19/21,Georgia,358360,5148
 6/19/21,Germany,3729597,90390
 6/19/21,Ghana,94913,793
-6/19/21,Greece,418095,12528
+6/19/21,Greece,418095,12534
 6/19/21,Grenada,161,1
 6/19/21,Guatemala,279947,8645
 6/19/21,Guinea,23450,168
@@ -100492,7 +100492,7 @@ Date,Country/Region,Confirmed,Deaths
 6/20/21,Georgia,358881,5160
 6/20/21,Germany,3730126,90400
 6/20/21,Ghana,94913,793
-6/20/21,Greece,418342,12542
+6/20/21,Greece,418342,12548
 6/20/21,Grenada,161,1
 6/20/21,Guatemala,280507,8694
 6/20/21,Guinea,23450,168
@@ -100687,7 +100687,7 @@ Date,Country/Region,Confirmed,Deaths
 6/21/21,Georgia,359141,5175
 6/21/21,Germany,3730619,90477
 6/21/21,Ghana,95059,794
-6/21/21,Greece,418548,12559
+6/21/21,Greece,418548,12565
 6/21/21,Grenada,161,1
 6/21/21,Guatemala,280854,8735
 6/21/21,Guinea,23535,168
@@ -100882,7 +100882,7 @@ Date,Country/Region,Confirmed,Deaths
 6/22/21,Georgia,360055,5199
 6/22/21,Germany,3731304,90553
 6/22/21,Ghana,95236,794
-6/22/21,Greece,418943,12575
+6/22/21,Greece,418943,12581
 6/22/21,Grenada,161,1
 6/22/21,Guatemala,282713,8785
 6/22/21,Guinea,23543,168
@@ -101077,7 +101077,7 @@ Date,Country/Region,Confirmed,Deaths
 6/23/21,Georgia,360828,5211
 6/23/21,Germany,3732439,90620
 6/23/21,Ghana,95236,794
-6/23/21,Greece,419455,12589
+6/23/21,Greece,419455,12595
 6/23/21,Grenada,161,1
 6/23/21,Guatemala,284741,8845
 6/23/21,Guinea,23579,168
@@ -101272,7 +101272,7 @@ Date,Country/Region,Confirmed,Deaths
 6/24/21,Georgia,361484,5228
 6/24/21,Germany,3732914,90685
 6/24/21,Ghana,95259,794
-6/24/21,Greece,419909,12604
+6/24/21,Greece,419909,12613
 6/24/21,Grenada,161,1
 6/24/21,Guatemala,286708,8894
 6/24/21,Guinea,23615,168
@@ -101467,7 +101467,7 @@ Date,Country/Region,Confirmed,Deaths
 6/25/21,Georgia,362183,5237
 6/25/21,Germany,3733665,90752
 6/25/21,Ghana,95259,794
-6/25/21,Greece,420295,12625
+6/25/21,Greece,420295,12634
 6/25/21,Grenada,161,1
 6/25/21,Guatemala,288987,8960
 6/25/21,Guinea,23653,168
@@ -101662,7 +101662,7 @@ Date,Country/Region,Confirmed,Deaths
 6/26/21,Georgia,362937,5255
 6/26/21,Germany,3734153,90761
 6/26/21,Ghana,95259,794
-6/26/21,Greece,420670,12637
+6/26/21,Greece,420670,12646
 6/26/21,Grenada,161,1
 6/26/21,Guatemala,290852,9008
 6/26/21,Guinea,23692,168
@@ -101857,7 +101857,7 @@ Date,Country/Region,Confirmed,Deaths
 6/27/21,Georgia,363522,5266
 6/27/21,Germany,3734489,90768
 6/27/21,Ghana,95369,795
-6/27/21,Greece,420905,12655
+6/27/21,Greece,420905,12664
 6/27/21,Grenada,161,1
 6/27/21,Guatemala,291595,9050
 6/27/21,Guinea,23692,168
@@ -102052,7 +102052,7 @@ Date,Country/Region,Confirmed,Deaths
 6/28/21,Georgia,363874,5275
 6/28/21,Germany,3734830,90826
 6/28/21,Ghana,95476,795
-6/28/21,Greece,421266,12663
+6/28/21,Greece,421266,12682
 6/28/21,Grenada,161,1
 6/28/21,Guatemala,291977,9089
 6/28/21,Guinea,23744,168
@@ -102247,7 +102247,7 @@ Date,Country/Region,Confirmed,Deaths
 6/29/21,Georgia,365068,5297
 6/29/21,Germany,3735399,90883
 6/29/21,Ghana,95642,795
-6/29/21,Greece,421829,12676
+6/29/21,Greece,421829,12695
 6/29/21,Grenada,161,1
 6/29/21,Guatemala,292674,9147
 6/29/21,Guinea,23753,169
@@ -102442,7 +102442,7 @@ Date,Country/Region,Confirmed,Deaths
 6/30/21,Georgia,366078,5316
 6/30/21,Germany,3736205,90945
 6/30/21,Ghana,95914,796
-6/30/21,Greece,422456,12687
+6/30/21,Greece,422456,12706
 6/30/21,Grenada,161,1
 6/30/21,Guatemala,293583,9215
 6/30/21,Guinea,23770,171
@@ -102637,7 +102637,7 @@ Date,Country/Region,Confirmed,Deaths
 7/1/21,Georgia,367058,5327
 7/1/21,Germany,3736959,91014
 7/1/21,Ghana,95914,796
-7/1/21,Greece,423185,12691
+7/1/21,Greece,423185,12710
 7/1/21,Grenada,161,1
 7/1/21,Guatemala,296438,9282
 7/1/21,Guinea,23787,172
@@ -102832,7 +102832,7 @@ Date,Country/Region,Confirmed,Deaths
 7/2/21,Georgia,368022,5335
 7/2/21,Germany,3737630,91032
 7/2/21,Ghana,95914,796
-7/2/21,Greece,424165,12701
+7/2/21,Greece,424165,12722
 7/2/21,Grenada,161,1
 7/2/21,Guatemala,298904,9350
 7/2/21,Guinea,23807,172
@@ -103027,7 +103027,7 @@ Date,Country/Region,Confirmed,Deaths
 7/3/21,Georgia,369048,5347
 7/3/21,Germany,3738059,91040
 7/3/21,Ghana,96067,796
-7/3/21,Greece,425347,12710
+7/3/21,Greece,425347,12731
 7/3/21,Grenada,161,1
 7/3/21,Guatemala,301189,9419
 7/3/21,Guinea,23807,172
@@ -103222,7 +103222,7 @@ Date,Country/Region,Confirmed,Deaths
 7/4/21,Georgia,369048,5347
 7/4/21,Germany,3738470,91039
 7/4/21,Ghana,96317,796
-7/4/21,Greece,425964,12716
+7/4/21,Greece,425964,12737
 7/4/21,Grenada,161,1
 7/4/21,Guatemala,302012,9461
 7/4/21,Guinea,23807,172
@@ -103417,7 +103417,7 @@ Date,Country/Region,Confirmed,Deaths
 7/5/21,Georgia,369886,5373
 7/5/21,Germany,3738862,91068
 7/5/21,Ghana,96402,796
-7/5/21,Greece,426963,12722
+7/5/21,Greece,426963,12743
 7/5/21,Grenada,161,1
 7/5/21,Guatemala,302534,9498
 7/5/21,Guinea,23871,173
@@ -103612,7 +103612,7 @@ Date,Country/Region,Confirmed,Deaths
 7/6/21,Georgia,371293,5383
 7/6/21,Germany,3739575,91118
 7/6/21,Ghana,96402,796
-7/6/21,Greece,429144,12730
+7/6/21,Greece,429144,12754
 7/6/21,Grenada,161,1
 7/6/21,Guatemala,305319,9548
 7/6/21,Guinea,23895,174
@@ -103807,7 +103807,7 @@ Date,Country/Region,Confirmed,Deaths
 7/7/21,Georgia,372685,5394
 7/7/21,Germany,3740567,91148
 7/7/21,Ghana,96708,797
-7/7/21,Greece,430960,12739
+7/7/21,Greece,430960,12763
 7/7/21,Grenada,161,1
 7/7/21,Guatemala,308273,9573
 7/7/21,Guinea,23945,174
@@ -104002,7 +104002,7 @@ Date,Country/Region,Confirmed,Deaths
 7/8/21,Georgia,373728,5415
 7/8/21,Germany,3741470,91197
 7/8/21,Ghana,96971,797
-7/8/21,Greece,433021,12749
+7/8/21,Greece,433021,12773
 7/8/21,Grenada,161,1
 7/8/21,Guatemala,311342,9609
 7/8/21,Guinea,23999,174
@@ -104197,7 +104197,7 @@ Date,Country/Region,Confirmed,Deaths
 7/9/21,Georgia,374836,5421
 7/9/21,Germany,3742355,91232
 7/9/21,Ghana,96971,797
-7/9/21,Greece,435018,12761
+7/9/21,Greece,435018,12785
 7/9/21,Grenada,161,1
 7/9/21,Guatemala,314302,9643
 7/9/21,Guinea,24020,175
@@ -104392,7 +104392,7 @@ Date,Country/Region,Confirmed,Deaths
 7/10/21,Georgia,376200,5443
 7/10/21,Germany,3743164,91239
 7/10/21,Ghana,97130,799
-7/10/21,Greece,437345,12763
+7/10/21,Greece,437345,12787
 7/10/21,Grenada,161,1
 7/10/21,Guatemala,317311,9688
 7/10/21,Guinea,24065,176
@@ -104587,7 +104587,7 @@ Date,Country/Region,Confirmed,Deaths
 7/11/21,Georgia,377152,5452
 7/11/21,Germany,3743732,91241
 7/11/21,Ghana,97585,801
-7/11/21,Greece,438809,12768
+7/11/21,Greece,438809,12792
 7/11/21,Grenada,161,1
 7/11/21,Guatemala,318541,9713
 7/11/21,Guinea,24117,177
@@ -104782,7 +104782,7 @@ Date,Country/Region,Confirmed,Deaths
 7/12/21,Georgia,377811,5468
 7/12/21,Germany,3744285,91268
 7/12/21,Ghana,97585,801
-7/12/21,Greece,440872,12778
+7/12/21,Greece,440872,12802
 7/12/21,Grenada,161,1
 7/12/21,Guatemala,319157,9721
 7/12/21,Guinea,24134,179
@@ -104977,7 +104977,7 @@ Date,Country/Region,Confirmed,Deaths
 7/13/21,Georgia,379673,5479
 7/13/21,Germany,3745312,91295
 7/13/21,Ghana,97728,802
-7/13/21,Greece,444783,12782
+7/13/21,Greece,444783,12806
 7/13/21,Grenada,161,1
 7/13/21,Guatemala,322120,9756
 7/13/21,Guinea,24173,180
@@ -105172,7 +105172,7 @@ Date,Country/Region,Confirmed,Deaths
 7/14/21,Georgia,381336,5492
 7/14/21,Germany,3746935,91326
 7/14/21,Ghana,97728,802
-7/14/21,Greece,447718,12789
+7/14/21,Greece,447718,12813
 7/14/21,Grenada,161,1
 7/14/21,Guatemala,325024,9798
 7/14/21,Guinea,24252,183
@@ -105367,7 +105367,7 @@ Date,Country/Region,Confirmed,Deaths
 7/15/21,Georgia,382734,5503
 7/15/21,Germany,3748379,91346
 7/15/21,Ghana,98114,806
-7/15/21,Greece,450512,12795
+7/15/21,Greece,450512,12819
 7/15/21,Grenada,161,1
 7/15/21,Guatemala,327755,9834
 7/15/21,Guinea,24298,184
@@ -105562,7 +105562,7 @@ Date,Country/Region,Confirmed,Deaths
 7/16/21,Georgia,384387,5516
 7/16/21,Germany,3749944,91367
 7/16/21,Ghana,98114,806
-7/16/21,Greece,453200,12809
+7/16/21,Greece,453200,12833
 7/16/21,Grenada,161,1
 7/16/21,Guatemala,330651,9871
 7/16/21,Guinea,24385,185
@@ -105757,7 +105757,7 @@ Date,Country/Region,Confirmed,Deaths
 7/17/21,Georgia,386195,5538
 7/17/21,Germany,3751253,91369
 7/17/21,Ghana,98435,810
-7/17/21,Greece,455754,12816
+7/17/21,Greece,455754,12840
 7/17/21,Grenada,161,1
 7/17/21,Guatemala,333126,9898
 7/17/21,Guinea,24509,186
@@ -105952,7 +105952,7 @@ Date,Country/Region,Confirmed,Deaths
 7/18/21,Georgia,387481,5551
 7/18/21,Germany,3752236,91370
 7/18/21,Ghana,98817,812
-7/18/21,Greece,457312,12826
+7/18/21,Greece,457312,12850
 7/18/21,Grenada,161,1
 7/18/21,Guatemala,333827,9914
 7/18/21,Guinea,24668,188
@@ -106147,7 +106147,7 @@ Date,Country/Region,Confirmed,Deaths
 7/19/21,Georgia,388329,5566
 7/19/21,Germany,3753220,91404
 7/19/21,Ghana,98817,812
-7/19/21,Greece,459146,12834
+7/19/21,Greece,459146,12858
 7/19/21,Grenada,161,1
 7/19/21,Guatemala,334375,9927
 7/19/21,Guinea,24711,190
@@ -106342,7 +106342,7 @@ Date,Country/Region,Confirmed,Deaths
 7/20/21,Georgia,390945,5592
 7/20/21,Germany,3754846,91423
 7/20/21,Ghana,99160,815
-7/20/21,Greece,463473,12843
+7/20/21,Greece,463473,12867
 7/20/21,Grenada,161,1
 7/20/21,Guatemala,337762,9927
 7/20/21,Guinea,24765,194
@@ -106537,7 +106537,7 @@ Date,Country/Region,Confirmed,Deaths
 7/21/21,Georgia,393360,5618
 7/21/21,Germany,3756497,91466
 7/21/21,Ghana,99160,815
-7/21/21,Greece,466441,12846
+7/21/21,Greece,466441,12870
 7/21/21,Grenada,164,1
 7/21/21,Guatemala,340857,9927
 7/21/21,Guinea,24823,195
@@ -106732,7 +106732,7 @@ Date,Country/Region,Confirmed,Deaths
 7/22/21,Georgia,395621,5636
 7/22/21,Germany,3758425,91505
 7/22/21,Ghana,99160,815
-7/22/21,Greece,469042,12851
+7/22/21,Greece,469042,12875
 7/22/21,Grenada,164,1
 7/22/21,Guatemala,344221,10029
 7/22/21,Guinea,24823,195
@@ -106927,7 +106927,7 @@ Date,Country/Region,Confirmed,Deaths
 7/23/21,Georgia,398081,5656
 7/23/21,Germany,3760291,91514
 7/23/21,Ghana,100250,819
-7/23/21,Greece,471894,12858
+7/23/21,Greece,471894,12882
 7/23/21,Grenada,164,1
 7/23/21,Guatemala,347496,10063
 7/23/21,Guinea,24878,197
@@ -107122,7 +107122,7 @@ Date,Country/Region,Confirmed,Deaths
 7/24/21,Georgia,400698,5665
 7/24/21,Germany,3761869,91531
 7/24/21,Ghana,100747,819
-7/24/21,Greece,474366,12866
+7/24/21,Greece,474366,12890
 7/24/21,Grenada,164,1
 7/24/21,Guatemala,350816,10093
 7/24/21,Guinea,24993,198
@@ -107317,7 +107317,7 @@ Date,Country/Region,Confirmed,Deaths
 7/25/21,Georgia,402759,5688
 7/25/21,Germany,3763018,91534
 7/25/21,Ghana,101170,821
-7/25/21,Greece,475919,12874
+7/25/21,Greece,475919,12898
 7/25/21,Grenada,164,1
 7/25/21,Guatemala,352088,10100
 7/25/21,Guinea,25054,202
@@ -107512,7 +107512,7 @@ Date,Country/Region,Confirmed,Deaths
 7/26/21,Georgia,404023,5714
 7/26/21,Germany,3764441,91573
 7/26/21,Ghana,102103,823
-7/26/21,Greece,477975,12879
+7/26/21,Greece,477975,12903
 7/26/21,Grenada,164,1
 7/26/21,Guatemala,352584,10112
 7/26/21,Guinea,25126,205
@@ -107707,7 +107707,7 @@ Date,Country/Region,Confirmed,Deaths
 7/27/21,Georgia,407689,5731
 7/27/21,Germany,3766501,91592
 7/27/21,Ghana,102103,823
-7/27/21,Greece,482145,12887
+7/27/21,Greece,482145,12911
 7/27/21,Grenada,164,1
 7/27/21,Guatemala,355223,10176
 7/27/21,Guinea,25211,206
@@ -107902,7 +107902,7 @@ Date,Country/Region,Confirmed,Deaths
 7/28/21,Georgia,410830,5751
 7/28/21,Germany,3769552,91709
 7/28/21,Ghana,103019,823
-7/28/21,Greece,485015,12902
+7/28/21,Greece,485015,12926
 7/28/21,Grenada,164,1
 7/28/21,Guatemala,358798,10224
 7/28/21,Guinea,25293,208
@@ -108097,7 +108097,7 @@ Date,Country/Region,Confirmed,Deaths
 7/29/21,Georgia,413626,5768
 7/29/21,Germany,3772326,91622
 7/29/21,Ghana,103019,823
-7/29/21,Greece,487709,12911
+7/29/21,Greece,487709,12935
 7/29/21,Grenada,164,1
 7/29/21,Guatemala,362134,10248
 7/29/21,Guinea,25401,211
@@ -108292,7 +108292,7 @@ Date,Country/Region,Confirmed,Deaths
 7/30/21,Georgia,416338,5793
 7/30/21,Germany,3774918,91663
 7/30/21,Ghana,103019,823
-7/30/21,Greece,490552,12923
+7/30/21,Greece,490552,12948
 7/30/21,Grenada,164,1
 7/30/21,Guatemala,365528,10289
 7/30/21,Guinea,25564,214
@@ -108487,7 +108487,7 @@ Date,Country/Region,Confirmed,Deaths
 7/31/21,Georgia,419534,5820
 7/31/21,Germany,3776724,91666
 7/31/21,Ghana,103019,823
-7/31/21,Greece,493304,12940
+7/31/21,Greece,493304,12965
 7/31/21,Grenada,164,1
 7/31/21,Guatemala,368484,10339
 7/31/21,Guinea,25688,220
@@ -108682,7 +108682,7 @@ Date,Country/Region,Confirmed,Deaths
 8/1/21,Georgia,422188,5853
 8/1/21,Germany,3778277,91666
 8/1/21,Ghana,103019,823
-8/1/21,Greece,494907,12950
+8/1/21,Greece,494907,12975
 8/1/21,Grenada,164,1
 8/1/21,Guatemala,369626,10413
 8/1/21,Guinea,25801,229
@@ -108877,7 +108877,7 @@ Date,Country/Region,Confirmed,Deaths
 8/2/21,Georgia,423843,5876
 8/2/21,Germany,3779797,91685
 8/2/21,Ghana,104994,837
-8/2/21,Greece,497061,12958
+8/2/21,Greece,497061,12983
 8/2/21,Grenada,164,1
 8/2/21,Guatemala,370258,10448
 8/2/21,Guinea,25914,232
@@ -109072,7 +109072,7 @@ Date,Country/Region,Confirmed,Deaths
 8/3/21,Georgia,428670,5910
 8/3/21,Germany,3782344,91710
 8/3/21,Ghana,105512,844
-8/3/21,Greece,501030,12972
+8/3/21,Greece,501030,12997
 8/3/21,Grenada,164,1
 8/3/21,Guatemala,373047,10483
 8/3/21,Guinea,25992,234
@@ -109267,7 +109267,7 @@ Date,Country/Region,Confirmed,Deaths
 8/4/21,Georgia,432903,5948
 8/4/21,Germany,3786003,91736
 8/4/21,Ghana,106053,847
-8/4/21,Greece,503885,12988
+8/4/21,Greece,503885,13013
 8/4/21,Grenada,164,1
 8/4/21,Guatemala,377446,10524
 8/4/21,Guinea,26188,238
@@ -109462,7 +109462,7 @@ Date,Country/Region,Confirmed,Deaths
 8/5/21,Georgia,436573,5986
 8/5/21,Germany,3789460,91761
 8/5/21,Ghana,106434,854
-8/5/21,Greece,506672,13000
+8/5/21,Greece,506672,13026
 8/5/21,Grenada,164,1
 8/5/21,Guatemala,381514,10578
 8/5/21,Guinea,26188,238
@@ -109657,7 +109657,7 @@ Date,Country/Region,Confirmed,Deaths
 8/6/21,Georgia,440353,6016
 8/6/21,Germany,3792848,91785
 8/6/21,Ghana,106434,854
-8/6/21,Greece,509596,13021
+8/6/21,Greece,509596,13048
 8/6/21,Grenada,164,1
 8/6/21,Guatemala,385512,10644
 8/6/21,Guinea,26477,243
@@ -109852,7 +109852,7 @@ Date,Country/Region,Confirmed,Deaths
 8/7/21,Georgia,444569,6054
 8/7/21,Germany,3795609,91789
 8/7/21,Ghana,106750,859
-8/7/21,Greece,512342,13031
+8/7/21,Greece,512342,13058
 8/7/21,Grenada,164,1
 8/7/21,Guatemala,389510,10714
 8/7/21,Guinea,26847,257
@@ -110047,7 +110047,7 @@ Date,Country/Region,Confirmed,Deaths
 8/8/21,Georgia,447913,6084
 8/8/21,Germany,3797849,91791
 8/8/21,Ghana,108226,874
-8/8/21,Greece,514192,13048
+8/8/21,Greece,514192,13075
 8/8/21,Grenada,178,1
 8/8/21,Guatemala,390514,10771
 8/8/21,Guinea,26847,257
@@ -110242,7 +110242,7 @@ Date,Country/Region,Confirmed,Deaths
 8/9/21,Georgia,450149,6128
 8/9/21,Germany,3800069,91810
 8/9/21,Ghana,108226,874
-8/9/21,Greece,516785,13068
+8/9/21,Greece,516785,13097
 8/9/21,Grenada,178,1
 8/9/21,Guatemala,391118,10808
 8/9/21,Guinea,26969,260
@@ -110437,7 +110437,7 @@ Date,Country/Region,Confirmed,Deaths
 8/10/21,Georgia,455846,6182
 8/10/21,Germany,3803351,91824
 8/10/21,Ghana,108677,880
-8/10/21,Greece,521399,13087
+8/10/21,Greece,521399,13118
 8/10/21,Grenada,180,1
 8/10/21,Guatemala,394372,10845
 8/10/21,Guinea,27112,263
@@ -110632,7 +110632,7 @@ Date,Country/Region,Confirmed,Deaths
 8/11/21,Georgia,461198,6230
 8/11/21,Germany,3808838,91841
 8/11/21,Ghana,109022,892
-8/11/21,Greece,524871,13106
+8/11/21,Greece,524871,13138
 8/11/21,Grenada,180,1
 8/11/21,Guatemala,398990,10898
 8/11/21,Guinea,27311,266
@@ -110827,7 +110827,7 @@ Date,Country/Region,Confirmed,Deaths
 8/12/21,Georgia,466326,6279
 8/12/21,Germany,3814335,91860
 8/12/21,Ghana,109428,899
-8/12/21,Greece,528474,13126
+8/12/21,Greece,528474,13158
 8/12/21,Grenada,180,1
 8/12/21,Guatemala,403348,10960
 8/12/21,Guinea,27507,271
@@ -111022,7 +111022,7 @@ Date,Country/Region,Confirmed,Deaths
 8/13/21,Georgia,471685,6321
 8/13/21,Germany,3819871,91871
 8/13/21,Ghana,109736,906
-8/13/21,Greece,531967,13150
+8/13/21,Greece,531967,13182
 8/13/21,Grenada,180,1
 8/13/21,Guatemala,407564,11006
 8/13/21,Guinea,27645,277
@@ -111217,7 +111217,7 @@ Date,Country/Region,Confirmed,Deaths
 8/14/21,Georgia,477264,6371
 8/14/21,Germany,3824546,91874
 8/14/21,Ghana,110306,913
-8/14/21,Greece,535237,13174
+8/14/21,Greece,535237,13206
 8/14/21,Grenada,180,1
 8/14/21,Guatemala,411731,11085
 8/14/21,Guinea,27837,279
@@ -111412,7 +111412,7 @@ Date,Country/Region,Confirmed,Deaths
 8/15/21,Georgia,481578,6406
 8/15/21,Germany,3828278,91878
 8/15/21,Ghana,110710,922
-8/15/21,Greece,537125,13191
+8/15/21,Greece,537125,13223
 8/15/21,Grenada,180,1
 8/15/21,Guatemala,413040,11155
 8/15/21,Guinea,28020,287
@@ -111607,7 +111607,7 @@ Date,Country/Region,Confirmed,Deaths
 8/16/21,Georgia,484254,6436
 8/16/21,Germany,3831827,91905
 8/16/21,Ghana,111232,930
-8/16/21,Greece,539337,13204
+8/16/21,Greece,539337,13237
 8/16/21,Grenada,188,1
 8/16/21,Guatemala,413797,11189
 8/16/21,Guinea,28118,292
@@ -111802,7 +111802,7 @@ Date,Country/Region,Confirmed,Deaths
 8/17/21,Georgia,490462,6483
 8/17/21,Germany,3837218,91927
 8/17/21,Ghana,111232,930
-8/17/21,Greece,543749,13220
+8/17/21,Greece,543749,13253
 8/17/21,Grenada,188,1
 8/17/21,Guatemala,417620,11219
 8/17/21,Guinea,28255,293
@@ -111997,7 +111997,7 @@ Date,Country/Region,Confirmed,Deaths
 8/18/21,Georgia,496376,6532
 8/18/21,Germany,3846226,91949
 8/18/21,Ghana,112378,945
-8/18/21,Greece,547186,13245
+8/18/21,Greece,547186,13278
 8/18/21,Grenada,188,1
 8/18/21,Guatemala,422270,11273
 8/18/21,Guinea,28308,299
@@ -112192,7 +112192,7 @@ Date,Country/Region,Confirmed,Deaths
 8/19/21,Georgia,501297,6590
 8/19/21,Germany,3854529,91963
 8/19/21,Ghana,112928,945
-8/19/21,Greece,550459,13265
+8/19/21,Greece,550459,13298
 8/19/21,Grenada,196,1
 8/19/21,Guatemala,428096,11339
 8/19/21,Guinea,28428,302
@@ -112387,7 +112387,7 @@ Date,Country/Region,Confirmed,Deaths
 8/20/21,Georgia,506040,6649
 8/20/21,Germany,3863495,91980
 8/20/21,Ghana,112928,945
-8/20/21,Greece,554055,13295
+8/20/21,Greece,554055,13328
 8/20/21,Grenada,196,1
 8/20/21,Guatemala,433339,11372
 8/20/21,Guinea,28524,306
@@ -112582,7 +112582,7 @@ Date,Country/Region,Confirmed,Deaths
 8/21/21,Georgia,510941,6723
 8/21/21,Germany,3870095,91983
 8/21/21,Ghana,113957,961
-8/21/21,Greece,557239,13318
+8/21/21,Greece,557239,13351
 8/21/21,Grenada,212,1
 8/21/21,Guatemala,437919,11450
 8/21/21,Guinea,28647,308
@@ -112777,7 +112777,7 @@ Date,Country/Region,Confirmed,Deaths
 8/22/21,Georgia,514744,6771
 8/22/21,Germany,3876041,91987
 8/22/21,Ghana,114584,968
-8/22/21,Greece,559186,13351
+8/22/21,Greece,559186,13384
 8/22/21,Grenada,222,1
 8/22/21,Guatemala,439253,11500
 8/22/21,Guinea,28802,314
@@ -112972,7 +112972,7 @@ Date,Country/Region,Confirmed,Deaths
 8/23/21,Georgia,517098,6831
 8/23/21,Germany,3881633,92028
 8/23/21,Ghana,115102,974
-8/23/21,Greece,561812,13385
+8/23/21,Greece,561812,13422
 8/23/21,Grenada,222,1
 8/23/21,Guatemala,440007,11516
 8/23/21,Guinea,28802,314
@@ -113167,7 +113167,7 @@ Date,Country/Region,Confirmed,Deaths
 8/24/21,Georgia,523022,6891
 8/24/21,Germany,3898287,92067
 8/24/21,Ghana,115525,982
-8/24/21,Greece,566812,13417
+8/24/21,Greece,566812,13466
 8/24/21,Grenada,230,1
 8/24/21,Guatemala,444924,11552
 8/24/21,Guinea,29022,318
@@ -113362,7 +113362,7 @@ Date,Country/Region,Confirmed,Deaths
 8/25/21,Georgia,528043,6949
 8/25/21,Germany,3911562,92090
 8/25/21,Ghana,115525,982
-8/25/21,Greece,570077,13459
+8/25/21,Greece,570077,13509
 8/25/21,Grenada,266,1
 8/25/21,Guatemala,450150,11615
 8/25/21,Guinea,29022,318
@@ -113557,7 +113557,7 @@ Date,Country/Region,Confirmed,Deaths
 8/26/21,Georgia,532171,7028
 8/26/21,Germany,3923250,92108
 8/26/21,Ghana,116441,991
-8/26/21,Greece,573605,13487
+8/26/21,Greece,573605,13539
 8/26/21,Grenada,295,1
 8/26/21,Guatemala,455263,11694
 8/26/21,Guinea,29209,326
@@ -113752,7 +113752,7 @@ Date,Country/Region,Confirmed,Deaths
 8/27/21,Georgia,536202,7101
 8/27/21,Germany,3925190,92125
 8/27/21,Ghana,117040,1001
-8/27/21,Greece,576672,13509
+8/27/21,Greece,576672,13561
 8/27/21,Grenada,317,1
 8/27/21,Guatemala,460017,11768
 8/27/21,Guinea,29209,326
@@ -113947,7 +113947,7 @@ Date,Country/Region,Confirmed,Deaths
 8/28/21,Georgia,540449,7175
 8/28/21,Germany,3933585,92136
 8/28/21,Ghana,117636,1008
-8/28/21,Greece,579734,13544
+8/28/21,Greece,579734,13599
 8/28/21,Grenada,317,1
 8/28/21,Guatemala,463753,11818
 8/28/21,Guinea,29209,326
@@ -114142,7 +114142,7 @@ Date,Country/Region,Confirmed,Deaths
 8/29/21,Georgia,543118,7251
 8/29/21,Germany,3940212,92146
 8/29/21,Ghana,117636,1008
-8/29/21,Greece,581315,13581
+8/29/21,Greece,581315,13636
 8/29/21,Grenada,357,1
 8/29/21,Guatemala,465059,11858
 8/29/21,Guinea,29209,326
@@ -114337,7 +114337,7 @@ Date,Country/Region,Confirmed,Deaths
 8/30/21,Georgia,545033,7329
 8/30/21,Germany,3947035,92208
 8/30/21,Ghana,118266,1017
-8/30/21,Greece,583658,13600
+8/30/21,Greece,583658,13656
 8/30/21,Grenada,357,1
 8/30/21,Guatemala,465799,11886
 8/30/21,Guinea,29400,335
@@ -114532,7 +114532,7 @@ Date,Country/Region,Confirmed,Deaths
 8/31/21,Georgia,549811,7408
 8/31/21,Germany,3965681,92229
 8/31/21,Ghana,119436,1036
-8/31/21,Greece,587964,13622
+8/31/21,Greece,587964,13691
 8/31/21,Grenada,461,2
 8/31/21,Guatemala,470277,11926
 8/31/21,Guinea,29501,337
@@ -114727,7 +114727,7 @@ Date,Country/Region,Confirmed,Deaths
 9/1/21,Georgia,553697,7482
 9/1/21,Germany,3979839,92262
 9/1/21,Ghana,119436,1036
-9/1/21,Greece,590832,13669
+9/1/21,Greece,590832,13743
 9/1/21,Grenada,539,2
 9/1/21,Guatemala,475548,12007
 9/1/21,Guinea,29541,338
@@ -114922,7 +114922,7 @@ Date,Country/Region,Confirmed,Deaths
 9/2/21,Georgia,556909,7563
 9/2/21,Germany,3993789,92307
 9/2/21,Ghana,120003,1047
-9/2/21,Greece,593668,13702
+9/2/21,Greece,593668,13777
 9/2/21,Grenada,817,4
 9/2/21,Guatemala,479376,12098
 9/2/21,Guinea,29605,341
@@ -115117,7 +115117,7 @@ Date,Country/Region,Confirmed,Deaths
 9/3/21,Georgia,559943,7649
 9/3/21,Germany,3996688,92331
 9/3/21,Ghana,120452,1052
-9/3/21,Greece,596383,13737
+9/3/21,Greece,596383,13813
 9/3/21,Grenada,817,4
 9/3/21,Guatemala,484263,12155
 9/3/21,Guinea,29742,346
@@ -124395,7 +124395,7 @@ Date,Country/Region,Confirmed,Deaths
 10/20/21,Trinidad and Tobago,54623,1621
 10/20/21,Tunisia,711164,25121
 10/20/21,Turkey,7744109,68274
-10/20/21,United States,45218907,731263
+10/20/21,United States,45220898,731310
 10/20/21,Uganda,125364,3188
 10/20/21,Ukraine,2804050,65876
 10/20/21,United Arab Emirates,738924,2124
@@ -124409,3 +124409,198 @@ Date,Country/Region,Confirmed,Deaths
 10/20/21,Yemen,9596,1821
 10/20/21,Zambia,209571,3658
 10/20/21,Zimbabwe,132437,4659
+10/21/21,Afghanistan,155891,7249
+10/21/21,Albania,180029,2855
+10/21/21,Algeria,205599,5881
+10/21/21,Andorra,15382,130
+10/21/21,Angola,63567,1685
+10/21/21,Antigua and Barbuda,3984,97
+10/21/21,Argentina,5277525,115796
+10/21/21,Armenia,288906,5902
+10/21/21,Australia,154489,1611
+10/21/21,Austria,787644,11220
+10/21/21,Azerbaijan,509862,6829
+10/21/21,Bahamas,22154,630
+10/21/21,Bahrain,276395,1392
+10/21/21,Bangladesh,1566907,27801
+10/21/21,Barbados,14326,124
+10/21/21,Belarus,580029,4466
+10/21/21,Belgium,1305678,25835
+10/21/21,Belize,25244,473
+10/21/21,Benin,24560,161
+10/21/21,Bhutan,2617,3
+10/21/21,Bolivia,508702,18891
+10/21/21,Bosnia and Herzegovina,247182,11283
+10/21/21,Botswana,184919,2396
+10/21/21,Brazil,21697341,604679
+10/21/21,Brunei,11542,79
+10/21/21,Bulgaria,559893,22839
+10/21/21,Burkina Faso,14793,214
+10/21/21,Myanmar,491584,18465
+10/21/21,Burundi,19867,38
+10/21/21,Cape Verde,38098,347
+10/21/21,Cambodia,117352,2704
+10/21/21,Cameroon,100289,1600
+10/21/21,Canada,1701354,28722
+10/21/21,Central African Republic,11478,100
+10/21/21,Chad,5069,174
+10/21/21,Chile,1676019,37640
+10/21/21,China,109058,4849
+10/21/21,Colombia,4986249,126959
+10/21/21,Comoros,4197,147
+10/21/21,Congo,16408,239
+10/21/21,Democratic Republic of Congo,57402,1091
+10/21/21,Costa Rica,554604,6895
+10/21/21,Cote d'Ivoire,61139,689
+10/21/21,Croatia,436189,8968
+10/21/21,Cuba,941562,8133
+10/21/21,Cyprus,122852,567
+10/21/21,Czechia,1718808,30587
+10/21/21,Denmark,374659,2698
+10/21/21,Diamond Princess,712,13
+10/21/21,Djibouti,13423,181
+10/21/21,Dominica,4465,30
+10/21/21,Dominican Republic,373929,4097
+10/21/21,Ecuador,514087,32937
+10/21/21,Egypt,321967,18151
+10/21/21,El Salvador,110188,3532
+10/21/21,Equatorial Guinea,13097,163
+10/21/21,Eritrea,6788,45
+10/21/21,Estonia,177287,1444
+10/21/21,Eswatini,46380,1238
+10/21/21,Ethiopia,361027,6316
+10/21/21,Fiji,51909,663
+10/21/21,Finland,152707,1135
+10/21/21,France,7209126,118339
+10/21/21,Gabon,34281,219
+10/21/21,Gambia,9946,339
+10/21/21,Georgia,680182,9617
+10/21/21,Germany,4447231,94995
+10/21/21,Ghana,129592,1169
+10/21/21,Greece,707587,15519
+10/21/21,Grenada,5795,194
+10/21/21,Guatemala,591767,14566
+10/21/21,Guinea,30605,385
+10/21/21,Guinea-Bissau,6131,141
+10/21/21,Guyana,34800,887
+10/21/21,Haiti,23406,658
+10/21/21,Vatican,27,0
+10/21/21,Honduras,373455,10159
+10/21/21,Hungary,841277,30468
+10/21/21,Iceland,12827,33
+10/21/21,India,34127450,452811
+10/21/21,Indonesia,4237834,143120
+10/21/21,Iran,5833525,124763
+10/21/21,Iraq,2042117,22875
+10/21/21,Ireland,423260,5369
+10/21/21,Israel,1320962,8036
+10/21/21,Italy,4729678,131724
+10/21/21,Jamaica,87797,2133
+10/21/21,Japan,1716858,18182
+10/21/21,Jordan,846033,10903
+10/21/21,Kazakhstan,1003262,16835
+10/21/21,Kenya,252375,5238
+10/21/21,Kiribati,2,0
+10/21/21,South Korea,348969,2725
+10/21/21,Kosovo,160590,2974
+10/21/21,Kuwait,412449,2459
+10/21/21,Kyrgyzstan,180223,2643
+10/21/21,Laos,33998,49
+10/21/21,Latvia,194256,2967
+10/21/21,Lebanon,636147,8441
+10/21/21,Lesotho,21566,655
+10/21/21,Liberia,5811,287
+10/21/21,Libya,352192,4962
+10/21/21,Liechtenstein,3619,60
+10/21/21,Lithuania,379438,5544
+10/21/21,Luxembourg,80462,842
+10/21/21,MS Zaandam,9,2
+10/21/21,Madagascar,43622,960
+10/21/21,Malawi,61745,2296
+10/21/21,Malaysia,2413592,28234
+10/21/21,Maldives,86550,240
+10/21/21,Mali,15741,558
+10/21/21,Malta,37523,459
+10/21/21,Marshall Islands,4,0
+10/21/21,Mauritania,36820,791
+10/21/21,Mauritius,16951,145
+10/21/21,Mexico,3772556,285669
+10/21/21,Micronesia (country),1,0
+10/21/21,Moldova,323469,7386
+10/21/21,Monaco,3387,35
+10/21/21,Mongolia,344736,1607
+10/21/21,Montenegro,139488,2054
+10/21/21,Morocco,943222,14593
+10/21/21,Mozambique,151174,1927
+10/21/21,Namibia,128414,3544
+10/21/21,Nepal,807522,11326
+10/21/21,Netherlands,2104333,18717
+10/21/21,New Zealand,5450,28
+10/21/21,Nicaragua,16241,207
+10/21/21,Niger,6227,206
+10/21/21,Nigeria,209960,2850
+10/21/21,North Macedonia,198646,7012
+10/21/21,Norway,198909,893
+10/21/21,Oman,304116,4107
+10/21/21,Pakistan,1267393,28344
+10/21/21,Palau,8,0
+10/21/21,Panama,471060,7303
+10/21/21,Papua New Guinea,26154,325
+10/21/21,Paraguay,460646,16229
+10/21/21,Peru,2192205,199945
+10/21/21,Philippines,2740111,41237
+10/21/21,Poland,2956207,76300
+10/21/21,Portugal,1082721,18117
+10/21/21,Qatar,238271,608
+10/21/21,Romania,1519532,43487
+10/21/21,Russia,8005376,223331
+10/21/21,Rwanda,99288,1316
+10/21/21,Saint Kitts and Nevis,2591,21
+10/21/21,Saint Lucia,12331,238
+10/21/21,Saint Vincent and the Grenadines,4786,56
+10/21/21,Samoa,3,0
+10/21/21,San Marino,5490,91
+10/21/21,Sao Tome and Principe,3689,56
+10/21/21,Saudi Arabia,548111,8773
+10/21/21,Senegal,73876,1876
+10/21/21,Serbia,1078032,9331
+10/21/21,Seychelles,22071,119
+10/21/21,Sierra Leone,6397,121
+10/21/21,Singapore,162026,280
+10/21/21,Slovakia,446305,12883
+10/21/21,Slovenia,314162,4661
+10/21/21,Solomon Islands,20,0
+10/21/21,Somalia,21269,1180
+10/21/21,South Africa,2918366,88835
+10/21/21,South Sudan,12279,133
+10/21/21,Spain,4995176,87102
+10/21/21,Sri Lanka,533860,13562
+10/21/21,Sudan,40084,3038
+10/21/21,Summer Olympics 2020,865,0
+10/21/21,Suriname,47677,1048
+10/21/21,Sweden,1165194,14986
+10/21/21,Switzerland,861123,11178
+10/21/21,Syria,40630,2467
+10/21/21,Taiwan,16349,846
+10/21/21,Tajikistan,17484,125
+10/21/21,Tanzania,26034,724
+10/21/21,Thailand,1821579,18559
+10/21/21,Timor,19749,120
+10/21/21,Togo,25950,240
+10/21/21,Trinidad and Tobago,54881,1629
+10/21/21,Tunisia,711397,25132
+10/21/21,Turkey,7772574,68472
+10/21/21,United States,45300970,733213
+10/21/21,Uganda,125426,3192
+10/21/21,Ukraine,2827388,66447
+10/21/21,United Arab Emirates,739018,2126
+10/21/21,United Kingdom,8681795,139562
+10/21/21,Uruguay,391700,6069
+10/21/21,Uzbekistan,182421,1297
+10/21/21,Vanuatu,4,1
+10/21/21,Venezuela,396477,4763
+10/21/21,Vietnam,877537,21487
+10/21/21,Palestine,449980,4604
+10/21/21,Yemen,9635,1831
+10/21/21,Zambia,209589,3658
+10/21/21,Zimbabwe,132540,4662
