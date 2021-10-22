@@ -13132,7 +13132,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/20,Georgia,91,0
 3/29/20,Germany,62095,533
 3/29/20,Ghana,152,5
-3/29/20,Greece,1156,69
+3/29/20,Greece,1156,38
 3/29/20,Grenada,9,0
 3/29/20,Guatemala,34,1
 3/29/20,Guinea,16,0
@@ -13327,7 +13327,7 @@ Date,Country/Region,Confirmed,Deaths
 3/30/20,Georgia,103,0
 3/30/20,Germany,66885,645
 3/30/20,Ghana,152,5
-3/30/20,Greece,1156,69
+3/30/20,Greece,1156,38
 3/30/20,Grenada,9,0
 3/30/20,Guatemala,36,1
 3/30/20,Guinea,22,0
@@ -13522,7 +13522,7 @@ Date,Country/Region,Confirmed,Deaths
 3/31/20,Georgia,110,0
 3/31/20,Germany,71808,775
 3/31/20,Ghana,161,5
-3/31/20,Greece,1156,69
+3/31/20,Greece,1156,38
 3/31/20,Grenada,9,0
 3/31/20,Guatemala,38,1
 3/31/20,Guinea,22,0
@@ -13717,7 +13717,7 @@ Date,Country/Region,Confirmed,Deaths
 4/1/20,Georgia,117,0
 4/1/20,Germany,77872,920
 4/1/20,Ghana,195,5
-4/1/20,Greece,1156,69
+4/1/20,Greece,1156,38
 4/1/20,Grenada,9,0
 4/1/20,Guatemala,39,1
 4/1/20,Guinea,30,0
@@ -13912,7 +13912,7 @@ Date,Country/Region,Confirmed,Deaths
 4/2/20,Georgia,134,0
 4/2/20,Germany,84794,1107
 4/2/20,Ghana,204,5
-4/2/20,Greece,1156,69
+4/2/20,Greece,1156,38
 4/2/20,Grenada,10,0
 4/2/20,Guatemala,47,1
 4/2/20,Guinea,52,0
@@ -124354,7 +124354,7 @@ Date,Country/Region,Confirmed,Deaths
 10/20/21,Paraguay,460615,16228
 10/20/21,Peru,2192205,199945
 10/20/21,Philippines,2735369,40977
-10/20/21,Poland,2945056,76179
+10/20/21,Poland,2950616,76254
 10/20/21,Portugal,1081856,18109
 10/20/21,Qatar,238165,608
 10/20/21,Romania,1503422,43039
@@ -124488,7 +124488,7 @@ Date,Country/Region,Confirmed,Deaths
 10/21/21,Honduras,373455,10159
 10/21/21,Hungary,841277,30468
 10/21/21,Iceland,12827,33
-10/21/21,India,34127450,452811
+10/21/21,India,34143236,453042
 10/21/21,Indonesia,4237834,143120
 10/21/21,Iran,5833525,124763
 10/21/21,Iraq,2042117,22875
