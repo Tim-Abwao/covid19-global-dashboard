@@ -6,11 +6,11 @@ Track COVID-19 cases worldwide.
 
 1. View global metrics:
 
-    [![global screencast](cov19_dash/assets/global.gif)][live_app]
+    [![global screencast](screencasts/global.gif)][live_app]
 
 2. Compare the situation among Countries:
 
-    [![countries screencast](cov19_dash/assets/countries.gif)][live_app]
+    [![countries screencast](screencasts/countries.gif)][live_app]
 
 Built with [Dash][dash].
 
