@@ -1,8 +1,8 @@
 from dash import dcc, html
 from dash.dependencies import Input, Output
 
-from cov19_dash.dash_app import app
-from cov19_dash.pages import countries, tables, worldwide
+from covid19_dash.dash_app import app
+from covid19_dash.pages import countries, tables, worldwide
 
 server = app.server
 

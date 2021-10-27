@@ -3,7 +3,7 @@ import logging
 import waitress
 
 
-from cov19_dash.dashboard import server
+from covid19_dash.dashboard import server
 
 # Set waitress.queue logging level to ERROR
 logging.getLogger("waitress.queue").setLevel(logging.ERROR)

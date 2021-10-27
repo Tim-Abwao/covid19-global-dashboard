@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT cov19_dash:server
+web: waitress-serve --port=$PORT covid19_dash:server

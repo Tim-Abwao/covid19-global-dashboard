@@ -1,7 +1,7 @@
 import dash
 
 app = dash.Dash(
-    __name__,
+    "covid19_dash",
     title="COVID-19 Dashboard",
     external_scripts=[
         "https://cdn.plot.ly/plotly-2.5.1.min.js",

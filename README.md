@@ -17,10 +17,11 @@ Built with [Dash][dash].
 The data is obtained from:
 
 * [Our World in Data  COVID-19 data repository][owid]
-* [JHU CSSE COVID-19 Data repository][jhucsse]
+* [JHU CSSE COVID-19 data repository][jhucsse]
 
+## Running Locally
 
-## Running locally
+### I. Virtual environment
 
 1. Download the code, and create a virtual environment:
 
@@ -41,10 +42,24 @@ The data is obtained from:
 3. Launch the dashboard server:
 
     ```bash
-    waitress-serve cov19_dash:server
+    waitress-serve covid19_dash:server
     ```
+
+    Afterwards, browse to <http://localhost:8080>.
+
+### II. Docker
+
+Fetch the image from [Docker Hub][docker-hub]:
+
+```bash
+docker pull abwao/covid19-dash:latest
+docker run --rm -p 8080:8080 --name covid19-dashboard abwao/covid19-dash
+```
+
+Afterwards, browse to <http://localhost:8080>.
 
 [dash]: https://plotly.com/dash/
 [owid]: https://github.com/owid/covid-19-data/tree/master/public/data
 [jhucsse]: https://github.com/CSSEGISandData/COVID-19
 [live_app]: https://covid19-global-dash.herokuapp.com/
+[docker-hub]: https://hub.docker.com/r/abwao/covid19-dash

@@ -1,6 +1,6 @@
-from cov19_dash import plotting
-from cov19_dash.dash_app import app
-from cov19_dash.data import load_latest_day_data, load_time_series_data
+from covid19_dash import plotting
+from covid19_dash.dash_app import app
+from covid19_dash.data import load_latest_day_data, load_time_series_data
 from dash import dcc, html
 from dash.dependencies import Input, Output
 from plotly.graph_objects import Figure

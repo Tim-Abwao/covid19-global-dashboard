@@ -1,5 +1,5 @@
-from cov19_dash.dash_app import app
-from cov19_dash.data import load_latest_day_data
+from covid19_dash.dash_app import app
+from covid19_dash.data import load_latest_day_data
 from dash import dash_table, dcc, html
 from dash.dash_table.Format import Format
 from dash.dependencies import Input, Output
