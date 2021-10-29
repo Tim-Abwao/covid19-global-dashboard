@@ -71,6 +71,7 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
         go.Scatter(
             x=[data.index[-1]],
             y=[data.iloc[-1]],
+            cliponaxis=False,
             mode="markers+text",
             marker={"size": 8, "color": color},
             text=f"{data.iloc[-1]:,.0f}",
