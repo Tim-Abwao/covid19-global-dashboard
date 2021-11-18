@@ -9369,7 +9369,7 @@ Date,Country/Region,Confirmed,Deaths
 3/9/20,Seychelles,0,0
 3/9/20,Sierra Leone,0,0
 3/9/20,Singapore,150,0
-3/9/20,Slovakia,3,0
+3/9/20,Slovakia,5,0
 3/9/20,Slovenia,16,0
 3/9/20,Solomon Islands,0,0
 3/9/20,Somalia,0,0
@@ -9761,7 +9761,7 @@ Date,Country/Region,Confirmed,Deaths
 3/11/20,Seychelles,0,0
 3/11/20,Sierra Leone,0,0
 3/11/20,Singapore,178,0
-3/11/20,Slovakia,10,0
+3/11/20,Slovakia,7,0
 3/11/20,Slovenia,57,0
 3/11/20,Solomon Islands,0,0
 3/11/20,Somalia,0,0
@@ -9957,7 +9957,7 @@ Date,Country/Region,Confirmed,Deaths
 3/12/20,Seychelles,0,0
 3/12/20,Sierra Leone,0,0
 3/12/20,Singapore,178,0
-3/12/20,Slovakia,16,0
+3/12/20,Slovakia,10,0
 3/12/20,Slovenia,89,0
 3/12/20,Solomon Islands,0,0
 3/12/20,Somalia,0,0
@@ -10153,7 +10153,7 @@ Date,Country/Region,Confirmed,Deaths
 3/13/20,Seychelles,0,0
 3/13/20,Sierra Leone,0,0
 3/13/20,Singapore,200,0
-3/13/20,Slovakia,32,0
+3/13/20,Slovakia,21,0
 3/13/20,Slovenia,141,0
 3/13/20,Solomon Islands,0,0
 3/13/20,Somalia,0,0
@@ -10349,7 +10349,7 @@ Date,Country/Region,Confirmed,Deaths
 3/14/20,Seychelles,0,0
 3/14/20,Sierra Leone,0,0
 3/14/20,Singapore,212,0
-3/14/20,Slovakia,44,0
+3/14/20,Slovakia,32,0
 3/14/20,Slovenia,181,1
 3/14/20,Solomon Islands,0,0
 3/14/20,Somalia,0,0
@@ -10545,7 +10545,7 @@ Date,Country/Region,Confirmed,Deaths
 3/15/20,Seychelles,6,0
 3/15/20,Sierra Leone,0,0
 3/15/20,Singapore,226,0
-3/15/20,Slovakia,54,0
+3/15/20,Slovakia,44,0
 3/15/20,Slovenia,219,1
 3/15/20,Solomon Islands,0,0
 3/15/20,Somalia,0,0
@@ -10741,7 +10741,7 @@ Date,Country/Region,Confirmed,Deaths
 3/16/20,Seychelles,8,0
 3/16/20,Sierra Leone,0,0
 3/16/20,Singapore,243,0
-3/16/20,Slovakia,63,0
+3/16/20,Slovakia,61,0
 3/16/20,Slovenia,253,1
 3/16/20,Solomon Islands,0,0
 3/16/20,Somalia,1,0
@@ -11133,7 +11133,7 @@ Date,Country/Region,Confirmed,Deaths
 3/18/20,Seychelles,10,0
 3/18/20,Sierra Leone,0,0
 3/18/20,Singapore,313,0
-3/18/20,Slovakia,105,1
+3/18/20,Slovakia,96,1
 3/18/20,Slovenia,275,1
 3/18/20,Solomon Islands,0,0
 3/18/20,Somalia,1,0
@@ -11329,7 +11329,7 @@ Date,Country/Region,Confirmed,Deaths
 3/19/20,Seychelles,10,0
 3/19/20,Sierra Leone,0,0
 3/19/20,Singapore,345,0
-3/19/20,Slovakia,123,1
+3/19/20,Slovakia,104,1
 3/19/20,Slovenia,286,1
 3/19/20,Solomon Islands,0,0
 3/19/20,Somalia,1,0
@@ -11525,7 +11525,7 @@ Date,Country/Region,Confirmed,Deaths
 3/20/20,Seychelles,10,0
 3/20/20,Sierra Leone,0,0
 3/20/20,Singapore,385,0
-3/20/20,Slovakia,137,1
+3/20/20,Slovakia,123,1
 3/20/20,Slovenia,341,1
 3/20/20,Solomon Islands,0,0
 3/20/20,Somalia,1,0
@@ -11721,7 +11721,7 @@ Date,Country/Region,Confirmed,Deaths
 3/21/20,Seychelles,7,0
 3/21/20,Sierra Leone,0,0
 3/21/20,Singapore,432,2
-3/21/20,Slovakia,178,1
+3/21/20,Slovakia,137,1
 3/21/20,Slovenia,383,1
 3/21/20,Solomon Islands,0,0
 3/21/20,Somalia,1,0
@@ -11917,7 +11917,7 @@ Date,Country/Region,Confirmed,Deaths
 3/22/20,Seychelles,7,0
 3/22/20,Sierra Leone,0,0
 3/22/20,Singapore,455,2
-3/22/20,Slovakia,185,0
+3/22/20,Slovakia,178,0
 3/22/20,Slovenia,414,2
 3/22/20,Solomon Islands,0,0
 3/22/20,Somalia,1,0
@@ -12113,7 +12113,7 @@ Date,Country/Region,Confirmed,Deaths
 3/23/20,Seychelles,7,0
 3/23/20,Sierra Leone,0,0
 3/23/20,Singapore,509,2
-3/23/20,Slovakia,186,0
+3/23/20,Slovakia,185,0
 3/23/20,Slovenia,442,3
 3/23/20,Solomon Islands,0,0
 3/23/20,Somalia,1,0
@@ -52097,7 +52097,7 @@ Date,Country/Region,Confirmed,Deaths
 10/13/20,Seychelles,147,0
 10/13/20,Sierra Leone,2309,72
 10/13/20,Singapore,57884,28
-10/13/20,Slovakia,20886,61
+10/13/20,Slovakia,20926,61
 10/13/20,Slovenia,9231,173
 10/13/20,Solomon Islands,2,0
 10/13/20,Somalia,3864,99
@@ -52293,7 +52293,7 @@ Date,Country/Region,Confirmed,Deaths
 10/14/20,Seychelles,147,0
 10/14/20,Sierra Leone,2315,73
 10/14/20,Singapore,57889,28
-10/14/20,Slovakia,22296,66
+10/14/20,Slovakia,22420,66
 10/14/20,Slovenia,9938,175
 10/14/20,Solomon Islands,2,0
 10/14/20,Somalia,3864,99
@@ -52489,7 +52489,7 @@ Date,Country/Region,Confirmed,Deaths
 10/15/20,Seychelles,148,0
 10/15/20,Sierra Leone,2323,73
 10/15/20,Singapore,57892,28
-10/15/20,Slovakia,24225,71
+10/15/20,Slovakia,24380,71
 10/15/20,Slovenia,10683,176
 10/15/20,Solomon Islands,3,0
 10/15/20,Somalia,3864,99
@@ -52685,7 +52685,7 @@ Date,Country/Region,Confirmed,Deaths
 10/16/20,Seychelles,148,0
 10/16/20,Sierra Leone,2325,73
 10/16/20,Singapore,57901,28
-10/16/20,Slovakia,26300,71
+10/16/20,Slovakia,26491,71
 10/16/20,Slovenia,11517,180
 10/16/20,Solomon Islands,3,0
 10/16/20,Somalia,3864,99
@@ -52881,7 +52881,7 @@ Date,Country/Region,Confirmed,Deaths
 10/17/20,Seychelles,148,0
 10/17/20,Sierra Leone,2327,73
 10/17/20,Singapore,57904,28
-10/17/20,Slovakia,28268,82
+10/17/20,Slovakia,28486,82
 10/17/20,Slovenia,12416,184
 10/17/20,Solomon Islands,3,0
 10/17/20,Somalia,3864,99
@@ -53077,7 +53077,7 @@ Date,Country/Region,Confirmed,Deaths
 10/18/20,Seychelles,148,0
 10/18/20,Sierra Leone,2330,73
 10/18/20,Singapore,57911,28
-10/18/20,Slovakia,29835,88
+10/18/20,Slovakia,30053,88
 10/18/20,Slovenia,13142,188
 10/18/20,Solomon Islands,3,0
 10/18/20,Somalia,3864,99
@@ -53273,7 +53273,7 @@ Date,Country/Region,Confirmed,Deaths
 10/19/20,Seychelles,148,0
 10/19/20,Sierra Leone,2331,73
 10/19/20,Singapore,57915,28
-10/19/20,Slovakia,30695,92
+10/19/20,Slovakia,30913,92
 10/19/20,Slovenia,13679,190
 10/19/20,Solomon Islands,3,0
 10/19/20,Somalia,3890,99
@@ -53469,7 +53469,7 @@ Date,Country/Region,Confirmed,Deaths
 10/20/20,Seychelles,148,0
 10/20/20,Sierra Leone,2336,73
 10/20/20,Singapore,57921,28
-10/20/20,Slovakia,31400,98
+10/20/20,Slovakia,31687,98
 10/20/20,Slovenia,14473,192
 10/20/20,Solomon Islands,3,0
 10/20/20,Somalia,3890,101
@@ -53665,7 +53665,7 @@ Date,Country/Region,Confirmed,Deaths
 10/21/20,Seychelles,148,0
 10/21/20,Sierra Leone,2337,73
 10/21/20,Singapore,57933,28
-10/21/20,Slovakia,33602,98
+10/21/20,Slovakia,33927,98
 10/21/20,Slovenia,15982,200
 10/21/20,Solomon Islands,3,0
 10/21/20,Somalia,3890,101
@@ -53861,7 +53861,7 @@ Date,Country/Region,Confirmed,Deaths
 10/22/20,Seychelles,149,0
 10/22/20,Sierra Leone,2340,73
 10/22/20,Singapore,57941,28
-10/22/20,Slovakia,35330,115
+10/22/20,Slovakia,35703,115
 10/22/20,Slovenia,17646,211
 10/22/20,Solomon Islands,4,0
 10/22/20,Somalia,3897,102
@@ -54057,7 +54057,7 @@ Date,Country/Region,Confirmed,Deaths
 10/23/20,Seychelles,152,0
 10/23/20,Sierra Leone,2343,74
 10/23/20,Singapore,57951,28
-10/23/20,Slovakia,37911,134
+10/23/20,Slovakia,38425,134
 10/23/20,Slovenia,19307,214
 10/23/20,Solomon Islands,4,0
 10/23/20,Somalia,3897,102
@@ -54253,7 +54253,7 @@ Date,Country/Region,Confirmed,Deaths
 10/24/20,Seychelles,152,0
 10/24/20,Sierra Leone,2345,74
 10/24/20,Singapore,57965,28
-10/24/20,Slovakia,40801,159
+10/24/20,Slovakia,41434,159
 10/24/20,Slovenia,21274,235
 10/24/20,Solomon Islands,4,0
 10/24/20,Somalia,3897,102
@@ -54449,7 +54449,7 @@ Date,Country/Region,Confirmed,Deaths
 10/25/20,Seychelles,152,0
 10/25/20,Sierra Leone,2346,74
 10/25/20,Singapore,57970,28
-10/25/20,Slovakia,43843,159
+10/25/20,Slovakia,44541,159
 10/25/20,Slovenia,22950,240
 10/25/20,Solomon Islands,4,0
 10/25/20,Somalia,3941,104
@@ -54645,7 +54645,7 @@ Date,Country/Region,Confirmed,Deaths
 10/26/20,Seychelles,152,0
 10/26/20,Sierra Leone,2346,74
 10/26/20,Singapore,57973,28
-10/26/20,Slovakia,45155,165
+10/26/20,Slovakia,45893,165
 10/26/20,Slovenia,24080,251
 10/26/20,Solomon Islands,4,0
 10/26/20,Somalia,3941,104
@@ -54841,7 +54841,7 @@ Date,Country/Region,Confirmed,Deaths
 10/27/20,Seychelles,152,0
 10/27/20,Sierra Leone,2350,74
 10/27/20,Singapore,57980,28
-10/27/20,Slovakia,46056,176
+10/27/20,Slovakia,47025,176
 10/27/20,Slovenia,25603,264
 10/27/20,Solomon Islands,8,0
 10/27/20,Somalia,3941,104
@@ -55037,7 +55037,7 @@ Date,Country/Region,Confirmed,Deaths
 10/28/20,Seychelles,152,0
 10/28/20,Sierra Leone,2354,74
 10/28/20,Singapore,57987,28
-10/28/20,Slovakia,48943,184
+10/28/20,Slovakia,50146,184
 10/28/20,Slovenia,28215,278
 10/28/20,Solomon Islands,8,0
 10/28/20,Somalia,3941,104
@@ -55233,7 +55233,7 @@ Date,Country/Region,Confirmed,Deaths
 10/29/20,Seychelles,152,0
 10/29/20,Sierra Leone,2362,74
 10/29/20,Singapore,57994,28
-10/29/20,Slovakia,51728,200
+10/29/20,Slovakia,53156,200
 10/29/20,Slovenia,30705,292
 10/29/20,Solomon Islands,8,0
 10/29/20,Somalia,3941,104
@@ -55429,7 +55429,7 @@ Date,Country/Region,Confirmed,Deaths
 10/30/20,Seychelles,152,0
 10/30/20,Sierra Leone,2365,74
 10/30/20,Singapore,58003,28
-10/30/20,Slovakia,55091,212
+10/30/20,Slovakia,56758,212
 10/30/20,Slovenia,32503,315
 10/30/20,Solomon Islands,8,0
 10/30/20,Somalia,3941,104
@@ -55625,7 +55625,7 @@ Date,Country/Region,Confirmed,Deaths
 10/31/20,Seychelles,152,0
 10/31/20,Sierra Leone,2366,74
 10/31/20,Singapore,58015,28
-10/31/20,Slovakia,57664,219
+10/31/20,Slovakia,59823,219
 10/31/20,Slovenia,34307,338
 10/31/20,Solomon Islands,8,0
 10/31/20,Somalia,3941,104
@@ -55821,7 +55821,7 @@ Date,Country/Region,Confirmed,Deaths
 11/1/20,Seychelles,154,0
 11/1/20,Sierra Leone,2366,74
 11/1/20,Singapore,58019,28
-11/1/20,Slovakia,59946,219
+11/1/20,Slovakia,63080,219
 11/1/20,Slovenia,35649,363
 11/1/20,Solomon Islands,8,0
 11/1/20,Somalia,3941,104
@@ -56017,7 +56017,7 @@ Date,Country/Region,Confirmed,Deaths
 11/2/20,Seychelles,154,0
 11/2/20,Sierra Leone,2366,74
 11/2/20,Singapore,58020,28
-11/2/20,Slovakia,61829,219
+11/2/20,Slovakia,65339,219
 11/2/20,Slovenia,36206,388
 11/2/20,Solomon Islands,13,0
 11/2/20,Somalia,3941,104
@@ -56213,7 +56213,7 @@ Date,Country/Region,Confirmed,Deaths
 11/3/20,Seychelles,154,0
 11/3/20,Sierra Leone,2368,74
 11/3/20,Singapore,58029,28
-11/3/20,Slovakia,63556,235
+11/3/20,Slovakia,68397,235
 11/3/20,Slovenia,37382,412
 11/3/20,Solomon Islands,13,0
 11/3/20,Somalia,4229,107
@@ -56409,7 +56409,7 @@ Date,Country/Region,Confirmed,Deaths
 11/4/20,Seychelles,154,0
 11/4/20,Sierra Leone,2369,74
 11/4/20,Singapore,58036,28
-11/4/20,Slovakia,66772,261
+11/4/20,Slovakia,71711,261
 11/4/20,Slovenia,39408,441
 11/4/20,Solomon Islands,13,0
 11/4/20,Somalia,4229,107
@@ -56605,7 +56605,7 @@ Date,Country/Region,Confirmed,Deaths
 11/5/20,Seychelles,154,0
 11/5/20,Sierra Leone,2371,74
 11/5/20,Singapore,58043,28
-11/5/20,Slovakia,68734,286
+11/5/20,Slovakia,73755,286
 11/5/20,Slovenia,41094,471
 11/5/20,Solomon Islands,13,0
 11/5/20,Somalia,4229,107
@@ -56801,7 +56801,7 @@ Date,Country/Region,Confirmed,Deaths
 11/6/20,Seychelles,154,0
 11/6/20,Sierra Leone,2373,74
 11/6/20,Singapore,58047,28
-11/6/20,Slovakia,71088,317
+11/6/20,Slovakia,76249,317
 11/6/20,Slovenia,42658,497
 11/6/20,Solomon Islands,13,0
 11/6/20,Somalia,4229,107
@@ -56997,7 +56997,7 @@ Date,Country/Region,Confirmed,Deaths
 11/7/20,Seychelles,154,0
 11/7/20,Sierra Leone,2381,74
 11/7/20,Singapore,58054,28
-11/7/20,Slovakia,73667,351
+11/7/20,Slovakia,79155,351
 11/7/20,Slovenia,44270,531
 11/7/20,Solomon Islands,13,0
 11/7/20,Somalia,4229,107
@@ -57193,7 +57193,7 @@ Date,Country/Region,Confirmed,Deaths
 11/8/20,Seychelles,154,0
 11/8/20,Sierra Leone,2381,74
 11/8/20,Singapore,58056,28
-11/8/20,Slovakia,75495,351
+11/8/20,Slovakia,81422,351
 11/8/20,Slovenia,45161,554
 11/8/20,Solomon Islands,13,0
 11/8/20,Somalia,4229,107
@@ -57389,7 +57389,7 @@ Date,Country/Region,Confirmed,Deaths
 11/9/20,Seychelles,154,0
 11/9/20,Sierra Leone,2385,74
 11/9/20,Singapore,58064,28
-11/9/20,Slovakia,76072,366
+11/9/20,Slovakia,82142,366
 11/9/20,Slovenia,45625,578
 11/9/20,Solomon Islands,16,0
 11/9/20,Somalia,4301,107
@@ -57585,7 +57585,7 @@ Date,Country/Region,Confirmed,Deaths
 11/10/20,Seychelles,154,0
 11/10/20,Sierra Leone,2386,74
 11/10/20,Singapore,58073,28
-11/10/20,Slovakia,77123,390
+11/10/20,Slovakia,84347,390
 11/10/20,Slovenia,46717,605
 11/10/20,Solomon Islands,16,0
 11/10/20,Somalia,4301,107
@@ -57781,7 +57781,7 @@ Date,Country/Region,Confirmed,Deaths
 11/11/20,Seychelles,158,0
 11/11/20,Sierra Leone,2386,74
 11/11/20,Singapore,58091,28
-11/11/20,Slovakia,79181,414
+11/11/20,Slovakia,86545,414
 11/11/20,Slovenia,48939,645
 11/11/20,Solomon Islands,16,0
 11/11/20,Somalia,4301,107
@@ -57977,7 +57977,7 @@ Date,Country/Region,Confirmed,Deaths
 11/12/20,Seychelles,158,0
 11/12/20,Sierra Leone,2387,74
 11/12/20,Singapore,58102,28
-11/12/20,Slovakia,81772,464
+11/12/20,Slovakia,89237,464
 11/12/20,Slovenia,50870,686
 11/12/20,Solomon Islands,16,0
 11/12/20,Somalia,4301,107
@@ -58173,7 +58173,7 @@ Date,Country/Region,Confirmed,Deaths
 11/13/20,Seychelles,158,0
 11/13/20,Sierra Leone,2389,74
 11/13/20,Singapore,58114,28
-11/13/20,Slovakia,83796,491
+11/13/20,Slovakia,91434,491
 11/13/20,Slovenia,52385,724
 11/13/20,Solomon Islands,16,0
 11/13/20,Somalia,4301,107
@@ -58369,7 +58369,7 @@ Date,Country/Region,Confirmed,Deaths
 11/14/20,Seychelles,158,0
 11/14/20,Sierra Leone,2391,74
 11/14/20,Singapore,58116,28
-11/14/20,Slovakia,85567,510
+11/14/20,Slovakia,93363,510
 11/14/20,Slovenia,54122,765
 11/14/20,Solomon Islands,16,0
 11/14/20,Somalia,4301,107
@@ -58565,7 +58565,7 @@ Date,Country/Region,Confirmed,Deaths
 11/15/20,Seychelles,158,0
 11/15/20,Sierra Leone,2391,74
 11/15/20,Singapore,58119,28
-11/15/20,Slovakia,86767,510
+11/15/20,Slovakia,94662,510
 11/15/20,Slovenia,55042,797
 11/15/20,Solomon Islands,16,0
 11/15/20,Somalia,4301,107
@@ -58761,7 +58761,7 @@ Date,Country/Region,Confirmed,Deaths
 11/16/20,Seychelles,158,0
 11/16/20,Sierra Leone,2391,74
 11/16/20,Singapore,58124,28
-11/16/20,Slovakia,87276,526
+11/16/20,Slovakia,95204,526
 11/16/20,Slovenia,55544,831
 11/16/20,Solomon Islands,16,0
 11/16/20,Somalia,4301,107
@@ -58957,7 +58957,7 @@ Date,Country/Region,Confirmed,Deaths
 11/17/20,Seychelles,158,0
 11/17/20,Sierra Leone,2392,74
 11/17/20,Singapore,58130,28
-11/17/20,Slovakia,88602,557
+11/17/20,Slovakia,96816,557
 11/17/20,Slovenia,56937,876
 11/17/20,Solomon Islands,16,0
 11/17/20,Somalia,4382,108
@@ -59153,7 +59153,7 @@ Date,Country/Region,Confirmed,Deaths
 11/18/20,Seychelles,161,0
 11/18/20,Sierra Leone,2397,74
 11/18/20,Singapore,58135,28
-11/18/20,Slovakia,89913,579
+11/18/20,Slovakia,98351,579
 11/18/20,Slovenia,58964,919
 11/18/20,Solomon Islands,16,0
 11/18/20,Somalia,4382,108
@@ -59349,7 +59349,7 @@ Date,Country/Region,Confirmed,Deaths
 11/19/20,Seychelles,161,0
 11/19/20,Sierra Leone,2397,74
 11/19/20,Singapore,58139,28
-11/19/20,Slovakia,91578,579
+11/19/20,Slovakia,100458,579
 11/19/20,Slovenia,61034,964
 11/19/20,Solomon Islands,16,0
 11/19/20,Somalia,4382,108
@@ -59545,7 +59545,7 @@ Date,Country/Region,Confirmed,Deaths
 11/20/20,Seychelles,161,0
 11/20/20,Sierra Leone,2399,74
 11/20/20,Singapore,58143,28
-11/20/20,Slovakia,93396,614
+11/20/20,Slovakia,103046,614
 11/20/20,Slovenia,62580,995
 11/20/20,Solomon Islands,16,0
 11/20/20,Somalia,4382,108
@@ -59741,7 +59741,7 @@ Date,Country/Region,Confirmed,Deaths
 11/21/20,Seychelles,161,0
 11/21/20,Sierra Leone,2405,74
 11/21/20,Singapore,58148,28
-11/21/20,Slovakia,95257,644
+11/21/20,Slovakia,105518,644
 11/21/20,Slovenia,64284,1026
 11/21/20,Solomon Islands,16,0
 11/21/20,Somalia,4382,108
@@ -59937,7 +59937,7 @@ Date,Country/Region,Confirmed,Deaths
 11/22/20,Seychelles,161,0
 11/22/20,Sierra Leone,2405,74
 11/22/20,Singapore,58160,28
-11/22/20,Slovakia,96241,671
+11/22/20,Slovakia,106824,671
 11/22/20,Slovenia,65308,1052
 11/22/20,Solomon Islands,16,0
 11/22/20,Somalia,4445,113
@@ -60133,7 +60133,7 @@ Date,Country/Region,Confirmed,Deaths
 11/23/20,Seychelles,161,0
 11/23/20,Sierra Leone,2406,74
 11/23/20,Singapore,58165,28
-11/23/20,Slovakia,96472,693
+11/23/20,Slovakia,107112,693
 11/23/20,Slovenia,65778,1097
 11/23/20,Solomon Islands,16,0
 11/23/20,Somalia,4445,113
@@ -60329,7 +60329,7 @@ Date,Country/Region,Confirmed,Deaths
 11/24/20,Seychelles,161,0
 11/24/20,Sierra Leone,2406,74
 11/24/20,Singapore,58183,28
-11/24/20,Slovakia,97493,709
+11/24/20,Slovakia,109017,709
 11/24/20,Slovenia,67080,1156
 11/24/20,Solomon Islands,17,0
 11/24/20,Somalia,4445,113
@@ -60525,7 +60525,7 @@ Date,Country/Region,Confirmed,Deaths
 11/25/20,Seychelles,167,0
 11/25/20,Sierra Leone,2408,74
 11/25/20,Singapore,58190,28
-11/25/20,Slovakia,99304,732
+11/25/20,Slovakia,111722,732
 11/25/20,Slovenia,69306,1199
 11/25/20,Solomon Islands,17,0
 11/25/20,Somalia,4445,113
@@ -60721,7 +60721,7 @@ Date,Country/Region,Confirmed,Deaths
 11/26/20,Seychelles,167,0
 11/26/20,Sierra Leone,2409,74
 11/26/20,Singapore,58195,28
-11/26/20,Slovakia,101257,749
+11/26/20,Slovakia,114408,749
 11/26/20,Slovenia,71073,1245
 11/26/20,Solomon Islands,17,0
 11/26/20,Somalia,4451,113
@@ -60917,7 +60917,7 @@ Date,Country/Region,Confirmed,Deaths
 11/27/20,Seychelles,167,0
 11/27/20,Sierra Leone,2410,74
 11/27/20,Singapore,58199,28
-11/27/20,Slovakia,103106,771
+11/27/20,Slovakia,117124,771
 11/27/20,Slovenia,72674,1293
 11/27/20,Solomon Islands,17,0
 11/27/20,Somalia,4451,113
@@ -61113,7 +61113,7 @@ Date,Country/Region,Confirmed,Deaths
 11/28/20,Seychelles,167,0
 11/28/20,Sierra Leone,2410,74
 11/28/20,Singapore,58205,29
-11/28/20,Slovakia,104632,798
+11/28/20,Slovakia,119438,798
 11/28/20,Slovenia,74257,1336
 11/28/20,Solomon Islands,17,0
 11/28/20,Somalia,4451,113
@@ -61309,7 +61309,7 @@ Date,Country/Region,Confirmed,Deaths
 11/29/20,Seychelles,172,0
 11/29/20,Sierra Leone,2411,74
 11/29/20,Singapore,58213,29
-11/29/20,Slovakia,105733,816
+11/29/20,Slovakia,120971,816
 11/29/20,Slovenia,75381,1384
 11/29/20,Solomon Islands,17,0
 11/29/20,Somalia,4451,113
@@ -61505,7 +61505,7 @@ Date,Country/Region,Confirmed,Deaths
 11/30/20,Seychelles,172,0
 11/30/20,Sierra Leone,2412,74
 11/30/20,Singapore,58218,29
-11/30/20,Slovakia,105929,839
+11/30/20,Slovakia,121347,839
 11/30/20,Slovenia,75814,1435
 11/30/20,Solomon Islands,17,0
 11/30/20,Somalia,4451,113
@@ -61701,7 +61701,7 @@ Date,Country/Region,Confirmed,Deaths
 12/1/20,Seychelles,172,0
 12/1/20,Sierra Leone,2413,74
 12/1/20,Singapore,58228,29
-12/1/20,Slovakia,107183,868
+12/1/20,Slovakia,124318,868
 12/1/20,Slovenia,77135,1490
 12/1/20,Solomon Islands,17,0
 12/1/20,Somalia,4451,113
@@ -61897,7 +61897,7 @@ Date,Country/Region,Confirmed,Deaths
 12/2/20,Seychelles,172,0
 12/2/20,Sierra Leone,2416,74
 12/2/20,Singapore,58230,29
-12/2/20,Slovakia,109226,898
+12/2/20,Slovakia,127958,898
 12/2/20,Slovenia,79566,1547
 12/2/20,Solomon Islands,17,0
 12/2/20,Somalia,4525,121
@@ -62093,7 +62093,7 @@ Date,Country/Region,Confirmed,Deaths
 12/3/20,Seychelles,181,0
 12/3/20,Sierra Leone,2416,74
 12/3/20,Singapore,58239,29
-12/3/20,Slovakia,111208,930
+12/3/20,Slovakia,131603,930
 12/3/20,Slovenia,81349,1592
 12/3/20,Solomon Islands,17,0
 12/3/20,Somalia,4525,121
@@ -62289,7 +62289,7 @@ Date,Country/Region,Confirmed,Deaths
 12/4/20,Seychelles,181,0
 12/4/20,Sierra Leone,2420,74
 12/4/20,Singapore,58242,29
-12/4/20,Slovakia,113392,957
+12/4/20,Slovakia,135061,957
 12/4/20,Slovenia,83133,1653
 12/4/20,Solomon Islands,17,0
 12/4/20,Somalia,4525,121
@@ -62485,7 +62485,7 @@ Date,Country/Region,Confirmed,Deaths
 12/5/20,Seychelles,182,0
 12/5/20,Sierra Leone,2420,74
 12/5/20,Singapore,58255,29
-12/5/20,Slovakia,115462,981
+12/5/20,Slovakia,138391,981
 12/5/20,Slovenia,84775,1700
 12/5/20,Solomon Islands,17,0
 12/5/20,Somalia,4525,121
@@ -62681,7 +62681,7 @@ Date,Country/Region,Confirmed,Deaths
 12/6/20,Seychelles,182,0
 12/6/20,Sierra Leone,2426,74
 12/6/20,Singapore,58260,29
-12/6/20,Slovakia,116731,996
+12/6/20,Slovakia,140027,996
 12/6/20,Slovenia,85805,1744
 12/6/20,Solomon Islands,17,0
 12/6/20,Somalia,4525,121
@@ -62877,7 +62877,7 @@ Date,Country/Region,Confirmed,Deaths
 12/7/20,Seychelles,182,0
 12/7/20,Sierra Leone,2428,74
 12/7/20,Singapore,58273,29
-12/7/20,Slovakia,117283,1018
+12/7/20,Slovakia,140708,1018
 12/7/20,Slovenia,86288,1796
 12/7/20,Solomon Islands,17,0
 12/7/20,Somalia,4579,121
@@ -63073,7 +63073,7 @@ Date,Country/Region,Confirmed,Deaths
 12/8/20,Seychelles,182,0
 12/8/20,Sierra Leone,2428,74
 12/8/20,Singapore,58285,29
-12/8/20,Slovakia,119232,1046
+12/8/20,Slovakia,144821,1046
 12/8/20,Slovenia,87936,1862
 12/8/20,Solomon Islands,17,0
 12/8/20,Somalia,4579,121
@@ -63269,7 +63269,7 @@ Date,Country/Region,Confirmed,Deaths
 12/9/20,Seychelles,182,0
 12/9/20,Sierra Leone,2434,74
 12/9/20,Singapore,58291,29
-12/9/20,Slovakia,121796,1084
+12/9/20,Slovakia,150345,1084
 12/9/20,Slovenia,90075,1900
 12/9/20,Solomon Islands,17,0
 12/9/20,Somalia,4579,121
@@ -63465,7 +63465,7 @@ Date,Country/Region,Confirmed,Deaths
 12/10/20,Seychelles,182,0
 12/10/20,Sierra Leone,2435,74
 12/10/20,Singapore,58297,29
-12/10/20,Slovakia,124921,1104
+12/10/20,Slovakia,155776,1104
 12/10/20,Slovenia,91922,1949
 12/10/20,Solomon Islands,17,0
 12/10/20,Somalia,4579,121
@@ -63661,7 +63661,7 @@ Date,Country/Region,Confirmed,Deaths
 12/11/20,Seychelles,182,0
 12/11/20,Sierra Leone,2438,75
 12/11/20,Singapore,58305,29
-12/11/20,Slovakia,127087,1122
+12/11/20,Slovakia,161050,1122
 12/11/20,Slovenia,93737,1998
 12/11/20,Solomon Islands,17,0
 12/11/20,Somalia,4579,121
@@ -63857,7 +63857,7 @@ Date,Country/Region,Confirmed,Deaths
 12/12/20,Seychelles,185,0
 12/12/20,Sierra Leone,2440,75
 12/12/20,Singapore,58313,29
-12/12/20,Slovakia,130794,1148
+12/12/20,Slovakia,167317,1148
 12/12/20,Slovenia,95481,2041
 12/12/20,Solomon Islands,17,0
 12/12/20,Somalia,4579,121
@@ -64053,7 +64053,7 @@ Date,Country/Region,Confirmed,Deaths
 12/13/20,Seychelles,185,0
 12/13/20,Sierra Leone,2440,75
 12/13/20,Singapore,58320,29
-12/13/20,Slovakia,132984,1175
+12/13/20,Slovakia,170507,1175
 12/13/20,Slovenia,96314,2063
 12/13/20,Solomon Islands,17,0
 12/13/20,Somalia,4579,121
@@ -64249,7 +64249,7 @@ Date,Country/Region,Confirmed,Deaths
 12/14/20,Seychelles,185,0
 12/14/20,Sierra Leone,2445,75
 12/14/20,Singapore,58325,29
-12/14/20,Slovakia,133489,1205
+12/14/20,Slovakia,171111,1205
 12/14/20,Slovenia,96745,2107
 12/14/20,Solomon Islands,17,0
 12/14/20,Somalia,4579,121
@@ -64445,7 +64445,7 @@ Date,Country/Region,Confirmed,Deaths
 12/15/20,Seychelles,185,0
 12/15/20,Sierra Leone,2451,75
 12/15/20,Singapore,58341,29
-12/15/20,Slovakia,135523,1251
+12/15/20,Slovakia,176317,1251
 12/15/20,Slovenia,98281,2149
 12/15/20,Solomon Islands,17,0
 12/15/20,Somalia,4579,121
@@ -64641,7 +64641,7 @@ Date,Country/Region,Confirmed,Deaths
 12/16/20,Seychelles,185,0
 12/16/20,Sierra Leone,2460,75
 12/16/20,Singapore,58353,29
-12/16/20,Slovakia,139088,1309
+12/16/20,Slovakia,184020,1309
 12/16/20,Slovenia,100401,2190
 12/16/20,Solomon Islands,17,0
 12/16/20,Somalia,4579,121
@@ -64837,7 +64837,7 @@ Date,Country/Region,Confirmed,Deaths
 12/17/20,Seychelles,202,0
 12/17/20,Sierra Leone,2464,75
 12/17/20,Singapore,58377,29
-12/17/20,Slovakia,142133,1378
+12/17/20,Slovakia,190616,1378
 12/17/20,Slovenia,102043,2233
 12/17/20,Solomon Islands,17,0
 12/17/20,Somalia,4662,124
@@ -65033,7 +65033,7 @@ Date,Country/Region,Confirmed,Deaths
 12/18/20,Seychelles,202,0
 12/18/20,Sierra Leone,2486,75
 12/18/20,Singapore,58386,29
-12/18/20,Slovakia,146124,1440
+12/18/20,Slovakia,198451,1440
 12/18/20,Slovenia,103555,2274
 12/18/20,Solomon Islands,17,0
 12/18/20,Somalia,4662,124
@@ -65229,7 +65229,7 @@ Date,Country/Region,Confirmed,Deaths
 12/19/20,Seychelles,202,0
 12/19/20,Sierra Leone,2497,75
 12/19/20,Singapore,58403,29
-12/19/20,Slovakia,149275,1510
+12/19/20,Slovakia,204973,1510
 12/19/20,Slovenia,105013,2314
 12/19/20,Solomon Islands,17,0
 12/19/20,Somalia,4662,124
@@ -65425,7 +65425,7 @@ Date,Country/Region,Confirmed,Deaths
 12/20/20,Seychelles,202,0
 12/20/20,Sierra Leone,2509,75
 12/20/20,Singapore,58422,29
-12/20/20,Slovakia,151336,1555
+12/20/20,Slovakia,208055,1555
 12/20/20,Slovenia,105899,2353
 12/20/20,Solomon Islands,17,0
 12/20/20,Somalia,4662,124
@@ -65621,7 +65621,7 @@ Date,Country/Region,Confirmed,Deaths
 12/21/20,Seychelles,202,0
 12/21/20,Sierra Leone,2509,75
 12/21/20,Singapore,58432,29
-12/21/20,Slovakia,152555,1618
+12/21/20,Slovakia,209770,1618
 12/21/20,Slovenia,106294,2379
 12/21/20,Solomon Islands,17,0
 12/21/20,Somalia,4662,124
@@ -65817,7 +65817,7 @@ Date,Country/Region,Confirmed,Deaths
 12/22/20,Seychelles,202,0
 12/22/20,Sierra Leone,2518,75
 12/22/20,Singapore,58461,29
-12/22/20,Slovakia,155218,1618
+12/22/20,Slovakia,219523,1618
 12/22/20,Slovenia,107805,2418
 12/22/20,Solomon Islands,17,0
 12/22/20,Somalia,4690,127
@@ -66013,7 +66013,7 @@ Date,Country/Region,Confirmed,Deaths
 12/23/20,Seychelles,211,0
 12/23/20,Sierra Leone,2524,76
 12/23/20,Singapore,58482,29
-12/23/20,Slovakia,158905,1686
+12/23/20,Slovakia,228738,1686
 12/23/20,Slovenia,109934,2454
 12/23/20,Solomon Islands,17,0
 12/23/20,Somalia,4690,127
@@ -66209,7 +66209,7 @@ Date,Country/Region,Confirmed,Deaths
 12/24/20,Seychelles,211,0
 12/24/20,Sierra Leone,2531,76
 12/24/20,Singapore,58495,29
-12/24/20,Slovakia,161562,1732
+12/24/20,Slovakia,236092,1732
 12/24/20,Slovenia,112021,2479
 12/24/20,Solomon Islands,17,0
 12/24/20,Somalia,4690,127
@@ -66405,7 +66405,7 @@ Date,Country/Region,Confirmed,Deaths
 12/25/20,Seychelles,211,0
 12/25/20,Sierra Leone,2549,76
 12/25/20,Singapore,58509,29
-12/25/20,Slovakia,165608,1732
+12/25/20,Slovakia,241156,1732
 12/25/20,Slovenia,113815,2507
 12/25/20,Solomon Islands,17,0
 12/25/20,Somalia,4690,127
@@ -66601,7 +66601,7 @@ Date,Country/Region,Confirmed,Deaths
 12/26/20,Seychelles,211,0
 12/26/20,Sierra Leone,2549,76
 12/26/20,Singapore,58519,29
-12/26/20,Slovakia,166649,1732
+12/26/20,Slovakia,242338,1732
 12/26/20,Slovenia,114184,2532
 12/26/20,Solomon Islands,17,0
 12/26/20,Somalia,4690,127
@@ -66797,7 +66797,7 @@ Date,Country/Region,Confirmed,Deaths
 12/27/20,Seychelles,211,0
 12/27/20,Sierra Leone,2560,76
 12/27/20,Singapore,58524,29
-12/27/20,Slovakia,167523,1773
+12/27/20,Slovakia,243424,1773
 12/27/20,Slovenia,114806,2565
 12/27/20,Solomon Islands,17,0
 12/27/20,Somalia,4690,127
@@ -66993,7 +66993,7 @@ Date,Country/Region,Confirmed,Deaths
 12/28/20,Seychelles,211,0
 12/28/20,Sierra Leone,2560,76
 12/28/20,Singapore,58529,29
-12/28/20,Slovakia,168092,1879
+12/28/20,Slovakia,244297,1879
 12/28/20,Slovenia,115327,2595
 12/28/20,Solomon Islands,17,0
 12/28/20,Somalia,4690,127
@@ -67189,7 +67189,7 @@ Date,Country/Region,Confirmed,Deaths
 12/29/20,Seychelles,211,0
 12/29/20,Sierra Leone,2569,76
 12/29/20,Singapore,58542,29
-12/29/20,Slovakia,170187,1983
+12/29/20,Slovakia,252945,1983
 12/29/20,Slovenia,117305,2631
 12/29/20,Solomon Islands,17,0
 12/29/20,Somalia,4690,127
@@ -67385,7 +67385,7 @@ Date,Country/Region,Confirmed,Deaths
 12/30/20,Seychelles,226,0
 12/30/20,Sierra Leone,2583,76
 12/30/20,Singapore,58569,29
-12/30/20,Slovakia,173228,2065
+12/30/20,Slovakia,262688,2065
 12/30/20,Slovenia,119740,2665
 12/30/20,Solomon Islands,17,0
 12/30/20,Somalia,4714,130
@@ -67581,7 +67581,7 @@ Date,Country/Region,Confirmed,Deaths
 12/31/20,Seychelles,226,0
 12/31/20,Sierra Leone,2611,76
 12/31/20,Singapore,58599,29
-12/31/20,Slovakia,179543,2138
+12/31/20,Slovakia,274603,2138
 12/31/20,Slovenia,122152,2697
 12/31/20,Solomon Islands,17,0
 12/31/20,Somalia,4714,130
@@ -67777,7 +67777,7 @@ Date,Country/Region,Confirmed,Deaths
 1/1/21,Seychelles,267,0
 1/1/21,Sierra Leone,2635,76
 1/1/21,Singapore,58629,29
-1/1/21,Slovakia,184508,2250
+1/1/21,Slovakia,285079,2250
 1/1/21,Slovenia,123950,2728
 1/1/21,Solomon Islands,17,0
 1/1/21,Somalia,4714,130
@@ -67973,7 +67973,7 @@ Date,Country/Region,Confirmed,Deaths
 1/2/21,Seychelles,267,0
 1/2/21,Sierra Leone,2646,76
 1/2/21,Singapore,58662,29
-1/2/21,Slovakia,186244,2250
+1/2/21,Slovakia,287405,2250
 1/2/21,Slovenia,124343,2774
 1/2/21,Solomon Islands,17,0
 1/2/21,Somalia,4714,130
@@ -68169,7 +68169,7 @@ Date,Country/Region,Confirmed,Deaths
 1/3/21,Seychelles,284,0
 1/3/21,Sierra Leone,2673,76
 1/3/21,Singapore,58697,29
-1/3/21,Slovakia,187463,2317
+1/3/21,Slovakia,289150,2317
 1/3/21,Slovenia,125086,2803
 1/3/21,Solomon Islands,17,0
 1/3/21,Somalia,4714,130
@@ -68365,7 +68365,7 @@ Date,Country/Region,Confirmed,Deaths
 1/4/21,Seychelles,296,0
 1/4/21,Sierra Leone,2673,76
 1/4/21,Singapore,58721,29
-1/4/21,Slovakia,188099,2521
+1/4/21,Slovakia,290058,2521
 1/4/21,Slovenia,125858,2838
 1/4/21,Solomon Islands,17,0
 1/4/21,Somalia,4714,130
@@ -68561,7 +68561,7 @@ Date,Country/Region,Confirmed,Deaths
 1/5/21,Seychelles,322,1
 1/5/21,Sierra Leone,2724,76
 1/5/21,Singapore,58749,29
-1/5/21,Slovakia,191088,2603
+1/5/21,Slovakia,300405,2603
 1/5/21,Slovenia,128370,2868
 1/5/21,Solomon Islands,17,0
 1/5/21,Somalia,4714,130
@@ -68757,7 +68757,7 @@ Date,Country/Region,Confirmed,Deaths
 1/6/21,Seychelles,346,1
 1/6/21,Sierra Leone,2739,76
 1/6/21,Singapore,58780,29
-1/6/21,Slovakia,196047,2657
+1/6/21,Slovakia,311485,2657
 1/6/21,Slovenia,131724,2899
 1/6/21,Solomon Islands,17,0
 1/6/21,Somalia,4726,130
@@ -68953,7 +68953,7 @@ Date,Country/Region,Confirmed,Deaths
 1/7/21,Seychelles,373,1
 1/7/21,Sierra Leone,2757,77
 1/7/21,Singapore,58813,29
-1/7/21,Slovakia,198184,2717
+1/7/21,Slovakia,314650,2717
 1/7/21,Slovenia,134545,2922
 1/7/21,Solomon Islands,17,0
 1/7/21,Somalia,4726,130
@@ -69149,7 +69149,7 @@ Date,Country/Region,Confirmed,Deaths
 1/8/21,Seychelles,418,1
 1/8/21,Sierra Leone,2782,77
 1/8/21,Singapore,58836,29
-1/8/21,Slovakia,201164,2788
+1/8/21,Slovakia,322941,2788
 1/8/21,Slovenia,136629,2947
 1/8/21,Solomon Islands,17,0
 1/8/21,Somalia,4726,130
@@ -69345,7 +69345,7 @@ Date,Country/Region,Confirmed,Deaths
 1/9/21,Seychelles,448,1
 1/9/21,Sierra Leone,2803,77
 1/9/21,Singapore,58865,29
-1/9/21,Slovakia,205236,2836
+1/9/21,Slovakia,330944,2836
 1/9/21,Slovenia,138518,2973
 1/9/21,Solomon Islands,17,0
 1/9/21,Somalia,4726,130
@@ -69541,7 +69541,7 @@ Date,Country/Region,Confirmed,Deaths
 1/10/21,Seychelles,502,1
 1/10/21,Sierra Leone,2834,77
 1/10/21,Singapore,58907,29
-1/10/21,Slovakia,208209,2918
+1/10/21,Slovakia,335804,2918
 1/10/21,Slovenia,139281,2998
 1/10/21,Solomon Islands,17,0
 1/10/21,Somalia,4726,130
@@ -69737,7 +69737,7 @@ Date,Country/Region,Confirmed,Deaths
 1/11/21,Seychelles,525,1
 1/11/21,Sierra Leone,2846,77
 1/11/21,Singapore,58929,29
-1/11/21,Slovakia,209069,3007
+1/11/21,Slovakia,337589,3007
 1/11/21,Slovenia,139713,3022
 1/11/21,Solomon Islands,17,0
 1/11/21,Somalia,4726,130
@@ -69933,7 +69933,7 @@ Date,Country/Region,Confirmed,Deaths
 1/12/21,Seychelles,577,1
 1/12/21,Sierra Leone,2864,77
 1/12/21,Singapore,58946,29
-1/12/21,Slovakia,211479,3102
+1/12/21,Slovakia,343293,3102
 1/12/21,Slovenia,141587,3053
 1/12/21,Solomon Islands,17,0
 1/12/21,Somalia,4726,130
@@ -70129,7 +70129,7 @@ Date,Country/Region,Confirmed,Deaths
 1/13/21,Seychelles,577,1
 1/13/21,Sierra Leone,2887,77
 1/13/21,Singapore,58984,29
-1/13/21,Slovakia,215055,3163
+1/13/21,Slovakia,349898,3163
 1/13/21,Slovenia,143679,3070
 1/13/21,Solomon Islands,17,0
 1/13/21,Somalia,4726,130
@@ -70325,7 +70325,7 @@ Date,Country/Region,Confirmed,Deaths
 1/14/21,Seychelles,610,1
 1/14/21,Sierra Leone,2933,77
 1/14/21,Singapore,59029,29
-1/14/21,Slovakia,217978,3260
+1/14/21,Slovakia,355451,3260
 1/14/21,Slovenia,145472,3093
 1/14/21,Solomon Islands,17,0
 1/14/21,Somalia,4744,130
@@ -70521,7 +70521,7 @@ Date,Country/Region,Confirmed,Deaths
 1/15/21,Seychelles,626,1
 1/15/21,Sierra Leone,2959,77
 1/15/21,Singapore,59059,29
-1/15/21,Slovakia,220707,3362
+1/15/21,Slovakia,360473,3362
 1/15/21,Slovenia,147016,3121
 1/15/21,Solomon Islands,17,0
 1/15/21,Somalia,4744,130
@@ -70717,7 +70717,7 @@ Date,Country/Region,Confirmed,Deaths
 1/16/21,Seychelles,626,1
 1/16/21,Sierra Leone,2970,77
 1/16/21,Singapore,59083,29
-1/16/21,Slovakia,222752,3417
+1/16/21,Slovakia,364694,3417
 1/16/21,Slovenia,148556,3140
 1/16/21,Solomon Islands,17,0
 1/16/21,Somalia,4744,130
@@ -70913,7 +70913,7 @@ Date,Country/Region,Confirmed,Deaths
 1/17/21,Seychelles,689,1
 1/17/21,Sierra Leone,3006,77
 1/17/21,Singapore,59113,29
-1/17/21,Slovakia,223325,3474
+1/17/21,Slovakia,366395,3474
 1/17/21,Slovenia,149125,3180
 1/17/21,Solomon Islands,17,0
 1/17/21,Somalia,4744,130
@@ -71109,7 +71109,7 @@ Date,Country/Region,Confirmed,Deaths
 1/18/21,Seychelles,688,2
 1/18/21,Sierra Leone,3014,77
 1/18/21,Singapore,59127,29
-1/18/21,Slovakia,224385,3526
+1/18/21,Slovakia,369089,3526
 1/18/21,Slovenia,149424,3206
 1/18/21,Solomon Islands,17,0
 1/18/21,Somalia,4744,130
@@ -71305,7 +71305,7 @@ Date,Country/Region,Confirmed,Deaths
 1/19/21,Seychelles,746,2
 1/19/21,Sierra Leone,3030,77
 1/19/21,Singapore,59157,29
-1/19/21,Slovakia,226294,3637
+1/19/21,Slovakia,374383,3637
 1/19/21,Slovenia,151137,3231
 1/19/21,Solomon Islands,17,0
 1/19/21,Somalia,4744,130
@@ -71501,7 +71501,7 @@ Date,Country/Region,Confirmed,Deaths
 1/20/21,Seychelles,762,2
 1/20/21,Sierra Leone,3030,77
 1/20/21,Singapore,59197,29
-1/20/21,Slovakia,228778,3737
+1/20/21,Slovakia,379537,3737
 1/20/21,Slovenia,152851,3257
 1/20/21,Solomon Islands,17,0
 1/20/21,Somalia,4744,130
@@ -71697,7 +71697,7 @@ Date,Country/Region,Confirmed,Deaths
 1/21/21,Seychelles,844,3
 1/21/21,Sierra Leone,3081,77
 1/21/21,Singapore,59235,29
-1/21/21,Slovakia,231242,3801
+1/21/21,Slovakia,384329,3801
 1/21/21,Slovenia,154306,3284
 1/21/21,Solomon Islands,17,0
 1/21/21,Somalia,4744,130
@@ -71893,7 +71893,7 @@ Date,Country/Region,Confirmed,Deaths
 1/22/21,Seychelles,866,3
 1/22/21,Sierra Leone,3093,77
 1/22/21,Singapore,59250,29
-1/22/21,Slovakia,233027,3894
+1/22/21,Slovakia,389217,3894
 1/22/21,Slovenia,155752,3309
 1/22/21,Solomon Islands,17,0
 1/22/21,Somalia,4744,130
@@ -72089,7 +72089,7 @@ Date,Country/Region,Confirmed,Deaths
 1/23/21,Seychelles,972,3
 1/23/21,Sierra Leone,3120,77
 1/23/21,Singapore,59260,29
-1/23/21,Slovakia,234571,3965
+1/23/21,Slovakia,393609,3965
 1/23/21,Slovenia,157293,3329
 1/23/21,Solomon Islands,17,0
 1/23/21,Somalia,4754,130
@@ -72285,7 +72285,7 @@ Date,Country/Region,Confirmed,Deaths
 1/24/21,Seychelles,1033,3
 1/24/21,Sierra Leone,3139,77
 1/24/21,Singapore,59308,29
-1/24/21,Slovakia,236476,4068
+1/24/21,Slovakia,402029,4068
 1/24/21,Slovenia,157830,3360
 1/24/21,Solomon Islands,17,0
 1/24/21,Somalia,4754,130
@@ -72481,7 +72481,7 @@ Date,Country/Region,Confirmed,Deaths
 1/25/21,Seychelles,1033,3
 1/25/21,Sierra Leone,3173,77
 1/25/21,Singapore,59352,29
-1/25/21,Slovakia,237027,4068
+1/25/21,Slovakia,406373,4068
 1/25/21,Slovenia,158131,3379
 1/25/21,Solomon Islands,17,0
 1/25/21,Somalia,4754,130
@@ -72677,7 +72677,7 @@ Date,Country/Region,Confirmed,Deaths
 1/26/21,Seychelles,1069,3
 1/26/21,Sierra Leone,3194,77
 1/26/21,Singapore,59366,29
-1/26/21,Slovakia,238617,4260
+1/26/21,Slovakia,410701,4260
 1/26/21,Slovenia,159812,3406
 1/26/21,Solomon Islands,17,0
 1/26/21,Somalia,4754,130
@@ -72873,7 +72873,7 @@ Date,Country/Region,Confirmed,Deaths
 1/27/21,Seychelles,1116,3
 1/27/21,Sierra Leone,3236,77
 1/27/21,Singapore,59391,29
-1/27/21,Slovakia,241392,4361
+1/27/21,Slovakia,416143,4361
 1/27/21,Slovenia,161662,3425
 1/27/21,Solomon Islands,17,0
 1/27/21,Somalia,4754,130
@@ -73069,7 +73069,7 @@ Date,Country/Region,Confirmed,Deaths
 1/28/21,Seychelles,1130,3
 1/28/21,Sierra Leone,3282,77
 1/28/21,Singapore,59425,29
-1/28/21,Slovakia,243427,4411
+1/28/21,Slovakia,419905,4411
 1/28/21,Slovenia,163235,3448
 1/28/21,Solomon Islands,17,0
 1/28/21,Somalia,4784,130
@@ -73265,7 +73265,7 @@ Date,Country/Region,Confirmed,Deaths
 1/29/21,Seychelles,1130,3
 1/29/21,Sierra Leone,3382,79
 1/29/21,Singapore,59449,29
-1/29/21,Slovakia,246008,4495
+1/29/21,Slovakia,424576,4495
 1/29/21,Slovenia,164529,3468
 1/29/21,Solomon Islands,17,0
 1/29/21,Somalia,4784,130
@@ -73461,7 +73461,7 @@ Date,Country/Region,Confirmed,Deaths
 1/30/21,Seychelles,1157,3
 1/30/21,Sierra Leone,3528,79
 1/30/21,Singapore,59507,29
-1/30/21,Slovakia,248190,4565
+1/30/21,Slovakia,429474,4565
 1/30/21,Slovenia,165887,3490
 1/30/21,Solomon Islands,17,0
 1/30/21,Somalia,4784,130
@@ -73657,7 +73657,7 @@ Date,Country/Region,Confirmed,Deaths
 1/31/21,Seychelles,1186,3
 1/31/21,Sierra Leone,3593,79
 1/31/21,Singapore,59536,29
-1/31/21,Slovakia,249913,4642
+1/31/21,Slovakia,436016,4642
 1/31/21,Slovenia,166473,3503
 1/31/21,Solomon Islands,17,0
 1/31/21,Somalia,4784,130
@@ -73853,7 +73853,7 @@ Date,Country/Region,Confirmed,Deaths
 2/1/21,Seychelles,1201,4
 2/1/21,Sierra Leone,3634,79
 2/1/21,Singapore,59565,29
-2/1/21,Slovakia,250357,4711
+2/1/21,Slovakia,439325,4711
 2/1/21,Slovenia,166836,3522
 2/1/21,Solomon Islands,17,0
 2/1/21,Somalia,4784,130
@@ -74049,7 +74049,7 @@ Date,Country/Region,Confirmed,Deaths
 2/2/21,Seychelles,1205,4
 2/2/21,Sierra Leone,3660,79
 2/2/21,Singapore,59584,29
-2/2/21,Slovakia,252094,4784
+2/2/21,Slovakia,444562,4784
 2/2/21,Slovenia,168486,3541
 2/2/21,Solomon Islands,17,0
 2/2/21,Somalia,4784,130
@@ -74245,7 +74245,7 @@ Date,Country/Region,Confirmed,Deaths
 2/3/21,Seychelles,1243,5
 2/3/21,Sierra Leone,3699,79
 2/3/21,Singapore,59602,29
-2/3/21,Slovakia,254826,4889
+2/3/21,Slovakia,451043,4889
 2/3/21,Slovenia,170101,3564
 2/3/21,Solomon Islands,17,0
 2/3/21,Somalia,4814,132
@@ -74441,7 +74441,7 @@ Date,Country/Region,Confirmed,Deaths
 2/4/21,Seychelles,1243,5
 2/4/21,Sierra Leone,3728,79
 2/4/21,Singapore,59624,29
-2/4/21,Slovakia,256903,4976
+2/4/21,Slovakia,455693,4976
 2/4/21,Slovenia,171340,3580
 2/4/21,Solomon Islands,17,0
 2/4/21,Somalia,4814,132
@@ -74637,7 +74637,7 @@ Date,Country/Region,Confirmed,Deaths
 2/5/21,Seychelles,1279,5
 2/5/21,Sierra Leone,3759,79
 2/5/21,Singapore,59649,29
-2/5/21,Slovakia,259533,5050
+2/5/21,Slovakia,461246,5050
 2/5/21,Slovenia,172299,3595
 2/5/21,Solomon Islands,17,0
 2/5/21,Somalia,4814,132
@@ -74833,7 +74833,7 @@ Date,Country/Region,Confirmed,Deaths
 2/6/21,Seychelles,1289,5
 2/6/21,Sierra Leone,3772,79
 2/6/21,Singapore,59675,29
-2/6/21,Slovakia,261774,5135
+2/6/21,Slovakia,466535,5135
 2/6/21,Slovenia,173201,3612
 2/6/21,Solomon Islands,17,0
 2/6/21,Somalia,4854,134
@@ -75029,7 +75029,7 @@ Date,Country/Region,Confirmed,Deaths
 2/7/21,Seychelles,1504,6
 2/7/21,Sierra Leone,3785,79
 2/7/21,Singapore,59699,29
-2/7/21,Slovakia,263326,5199
+2/7/21,Slovakia,473575,5199
 2/7/21,Slovenia,173702,3623
 2/7/21,Solomon Islands,17,0
 2/7/21,Somalia,4862,134
@@ -75225,7 +75225,7 @@ Date,Country/Region,Confirmed,Deaths
 2/8/21,Seychelles,1513,7
 2/8/21,Sierra Leone,3789,79
 2/8/21,Singapore,59721,29
-2/8/21,Slovakia,264083,5271
+2/8/21,Slovakia,477647,5271
 2/8/21,Slovenia,174000,3635
 2/8/21,Solomon Islands,17,0
 2/8/21,Somalia,4862,134
@@ -75421,7 +75421,7 @@ Date,Country/Region,Confirmed,Deaths
 2/9/21,Seychelles,1575,7
 2/9/21,Sierra Leone,3801,79
 2/9/21,Singapore,59732,29
-2/9/21,Slovakia,265807,5382
+2/9/21,Slovakia,483002,5382
 2/9/21,Slovenia,174364,3654
 2/9/21,Solomon Islands,17,0
 2/9/21,Somalia,4862,134
@@ -75617,7 +75617,7 @@ Date,Country/Region,Confirmed,Deaths
 2/10/21,Seychelles,1575,7
 2/10/21,Sierra Leone,3803,79
 2/10/21,Singapore,59747,29
-2/10/21,Slovakia,268986,5502
+2/10/21,Slovakia,489218,5502
 2/10/21,Slovenia,175795,3667
 2/10/21,Solomon Islands,18,0
 2/10/21,Somalia,4935,139
@@ -75813,7 +75813,7 @@ Date,Country/Region,Confirmed,Deaths
 2/11/21,Seychelles,1695,7
 2/11/21,Sierra Leone,3813,79
 2/11/21,Singapore,59759,29
-2/11/21,Slovakia,271473,5629
+2/11/21,Slovakia,494688,5629
 2/11/21,Slovenia,177140,3677
 2/11/21,Solomon Islands,18,0
 2/11/21,Somalia,5013,144
@@ -76009,7 +76009,7 @@ Date,Country/Region,Confirmed,Deaths
 2/12/21,Seychelles,1695,7
 2/12/21,Sierra Leone,3817,79
 2/12/21,Singapore,59777,29
-2/12/21,Slovakia,273904,5733
+2/12/21,Slovakia,499593,5733
 2/12/21,Slovenia,178133,3692
 2/12/21,Solomon Islands,18,0
 2/12/21,Somalia,5075,146
@@ -76205,7 +76205,7 @@ Date,Country/Region,Confirmed,Deaths
 2/13/21,Seychelles,1802,7
 2/13/21,Sierra Leone,3821,79
 2/13/21,Singapore,59786,29
-2/13/21,Slovakia,276234,5812
+2/13/21,Slovakia,505266,5812
 2/13/21,Slovenia,179148,3705
 2/13/21,Solomon Islands,18,0
 2/13/21,Somalia,5092,148
@@ -76401,7 +76401,7 @@ Date,Country/Region,Confirmed,Deaths
 2/14/21,Seychelles,1892,8
 2/14/21,Sierra Leone,3821,79
 2/14/21,Singapore,59800,29
-2/14/21,Slovakia,277682,5885
+2/14/21,Slovakia,511547,5885
 2/14/21,Slovenia,179477,3717
 2/14/21,Solomon Islands,18,0
 2/14/21,Somalia,5183,152
@@ -76597,7 +76597,7 @@ Date,Country/Region,Confirmed,Deaths
 2/15/21,Seychelles,1892,8
 2/15/21,Sierra Leone,3823,79
 2/15/21,Singapore,59809,29
-2/15/21,Slovakia,278254,5952
+2/15/21,Slovakia,515038,5952
 2/15/21,Slovenia,179780,3728
 2/15/21,Solomon Islands,18,0
 2/15/21,Somalia,5273,154
@@ -76793,7 +76793,7 @@ Date,Country/Region,Confirmed,Deaths
 2/16/21,Seychelles,1987,9
 2/16/21,Sierra Leone,3825,79
 2/16/21,Singapore,59810,29
-2/16/21,Slovakia,279696,6063
+2/16/21,Slovakia,519763,6063
 2/16/21,Slovenia,180520,3733
 2/16/21,Solomon Islands,18,0
 2/16/21,Somalia,5373,163
@@ -76989,7 +76989,7 @@ Date,Country/Region,Confirmed,Deaths
 2/17/21,Seychelles,1987,9
 2/17/21,Sierra Leone,3825,79
 2/17/21,Singapore,59821,29
-2/17/21,Slovakia,282864,6168
+2/17/21,Slovakia,525692,6168
 2/17/21,Slovenia,181606,3745
 2/17/21,Solomon Islands,18,0
 2/17/21,Somalia,5500,172
@@ -77185,7 +77185,7 @@ Date,Country/Region,Confirmed,Deaths
 2/18/21,Seychelles,2211,10
 2/18/21,Sierra Leone,3829,79
 2/18/21,Singapore,59832,29
-2/18/21,Slovakia,285419,6271
+2/18/21,Slovakia,531043,6271
 2/18/21,Slovenia,182484,3755
 2/18/21,Solomon Islands,18,0
 2/18/21,Somalia,5632,179
@@ -77381,7 +77381,7 @@ Date,Country/Region,Confirmed,Deaths
 2/19/21,Seychelles,2264,10
 2/19/21,Sierra Leone,3841,79
 2/19/21,Singapore,59846,29
-2/19/21,Slovakia,287752,6350
+2/19/21,Slovakia,536173,6350
 2/19/21,Slovenia,183396,3762
 2/19/21,Solomon Islands,18,0
 2/19/21,Somalia,5632,179
@@ -77577,7 +77577,7 @@ Date,Country/Region,Confirmed,Deaths
 2/20/21,Seychelles,2264,10
 2/20/21,Sierra Leone,3849,79
 2/20/21,Singapore,59858,29
-2/20/21,Slovakia,290457,6424
+2/20/21,Slovakia,542452,6424
 2/20/21,Slovenia,184352,3769
 2/20/21,Solomon Islands,18,0
 2/20/21,Somalia,5889,194
@@ -77773,7 +77773,7 @@ Date,Country/Region,Confirmed,Deaths
 2/21/21,Seychelles,2328,10
 2/21/21,Sierra Leone,3855,79
 2/21/21,Singapore,59869,29
-2/21/21,Slovakia,292143,6505
+2/21/21,Slovakia,549434,6505
 2/21/21,Slovenia,184767,3776
 2/21/21,Solomon Islands,18,0
 2/21/21,Somalia,6017,202
@@ -77969,7 +77969,7 @@ Date,Country/Region,Confirmed,Deaths
 2/22/21,Seychelles,2401,10
 2/22/21,Sierra Leone,3857,79
 2/22/21,Singapore,59879,29
-2/22/21,Slovakia,292792,6577
+2/22/21,Slovakia,552972,6577
 2/22/21,Slovenia,185014,3784
 2/22/21,Solomon Islands,18,0
 2/22/21,Somalia,6246,208
@@ -78165,7 +78165,7 @@ Date,Country/Region,Confirmed,Deaths
 2/23/21,Seychelles,2464,11
 2/23/21,Sierra Leone,3862,79
 2/23/21,Singapore,59883,29
-2/23/21,Slovakia,294790,6671
+2/23/21,Slovakia,558407,6671
 2/23/21,Slovenia,185916,3792
 2/23/21,Solomon Islands,18,0
 2/23/21,Somalia,6246,208
@@ -78361,7 +78361,7 @@ Date,Country/Region,Confirmed,Deaths
 2/24/21,Seychelles,2464,11
 2/24/21,Sierra Leone,3880,79
 2/24/21,Singapore,59890,29
-2/24/21,Slovakia,298337,6775
+2/24/21,Slovakia,564839,6775
 2/24/21,Slovenia,187005,3802
 2/24/21,Solomon Islands,18,0
 2/24/21,Somalia,6549,218
@@ -78557,7 +78557,7 @@ Date,Country/Region,Confirmed,Deaths
 2/25/21,Seychelles,2562,11
 2/25/21,Sierra Leone,3884,79
 2/25/21,Singapore,59900,29
-2/25/21,Slovakia,300775,6859
+2/25/21,Slovakia,570287,6859
 2/25/21,Slovenia,187762,3809
 2/25/21,Solomon Islands,18,0
 2/25/21,Somalia,6687,223
@@ -78753,7 +78753,7 @@ Date,Country/Region,Confirmed,Deaths
 2/26/21,Seychelles,2562,11
 2/26/21,Sierra Leone,3884,79
 2/26/21,Singapore,59913,29
-2/26/21,Slovakia,303420,6966
+2/26/21,Slovakia,575542,6966
 2/26/21,Slovenia,188676,3823
 2/26/21,Solomon Islands,18,0
 2/26/21,Somalia,6687,223
@@ -78949,7 +78949,7 @@ Date,Country/Region,Confirmed,Deaths
 2/27/21,Seychelles,2562,11
 2/27/21,Sierra Leone,3887,79
 2/27/21,Singapore,59925,29
-2/27/21,Slovakia,306268,7075
+2/27/21,Slovakia,581724,7075
 2/27/21,Slovenia,189627,3836
 2/27/21,Solomon Islands,18,0
 2/27/21,Somalia,6991,231
@@ -79145,7 +79145,7 @@ Date,Country/Region,Confirmed,Deaths
 2/28/21,Seychelles,2592,11
 2/28/21,Sierra Leone,3887,79
 2/28/21,Singapore,59936,29
-2/28/21,Slovakia,308083,7189
+2/28/21,Slovakia,588671,7189
 2/28/21,Slovenia,190081,3836
 2/28/21,Solomon Islands,18,0
 2/28/21,Somalia,7257,239
@@ -79341,7 +79341,7 @@ Date,Country/Region,Confirmed,Deaths
 3/1/21,Seychelles,2618,11
 3/1/21,Sierra Leone,3887,79
 3/1/21,Singapore,59948,29
-3/1/21,Slovakia,308925,7270
+3/1/21,Slovakia,592135,7270
 3/1/21,Slovenia,190324,3854
 3/1/21,Solomon Islands,18,0
 3/1/21,Somalia,7392,243
@@ -79537,7 +79537,7 @@ Date,Country/Region,Confirmed,Deaths
 3/2/21,Seychelles,2618,11
 3/2/21,Sierra Leone,3889,79
 3/2/21,Singapore,59956,29
-3/2/21,Slovakia,311002,7388
+3/2/21,Slovakia,597397,7388
 3/2/21,Slovenia,191056,3863
 3/2/21,Solomon Islands,18,0
 3/2/21,Somalia,7518,249
@@ -79733,7 +79733,7 @@ Date,Country/Region,Confirmed,Deaths
 3/3/21,Seychelles,2618,11
 3/3/21,Sierra Leone,3900,79
 3/3/21,Singapore,59979,29
-3/3/21,Slovakia,314359,7489
+3/3/21,Slovakia,603500,7489
 3/3/21,Slovenia,192266,3874
 3/3/21,Solomon Islands,18,0
 3/3/21,Somalia,7727,260
@@ -79929,7 +79929,7 @@ Date,Country/Region,Confirmed,Deaths
 3/4/21,Seychelles,2849,11
 3/4/21,Sierra Leone,3900,79
 3/4/21,Singapore,59998,29
-3/4/21,Slovakia,317159,7560
+3/4/21,Slovakia,608790,7560
 3/4/21,Slovenia,193285,3878
 3/4/21,Solomon Islands,18,0
 3/4/21,Somalia,7850,274
@@ -80125,7 +80125,7 @@ Date,Country/Region,Confirmed,Deaths
 3/5/21,Seychelles,2849,11
 3/5/21,Sierra Leone,3909,79
 3/5/21,Singapore,60007,29
-3/5/21,Slovakia,319582,7665
+3/5/21,Slovakia,613613,7665
 3/5/21,Slovenia,194165,3882
 3/5/21,Solomon Islands,18,0
 3/5/21,Somalia,7850,274
@@ -80321,7 +80321,7 @@ Date,Country/Region,Confirmed,Deaths
 3/6/21,Seychelles,2890,13
 3/6/21,Sierra Leone,3918,79
 3/6/21,Singapore,60020,29
-3/6/21,Slovakia,322104,7739
+3/6/21,Slovakia,618978,7739
 3/6/21,Slovenia,195086,3888
 3/6/21,Solomon Islands,18,0
 3/6/21,Somalia,8041,294
@@ -80517,7 +80517,7 @@ Date,Country/Region,Confirmed,Deaths
 3/7/21,Seychelles,2950,14
 3/7/21,Sierra Leone,3920,79
 3/7/21,Singapore,60033,29
-3/7/21,Slovakia,323390,7836
+3/7/21,Slovakia,624188,7836
 3/7/21,Slovenia,195468,3891
 3/7/21,Solomon Islands,18,0
 3/7/21,Somalia,8321,302
@@ -80713,7 +80713,7 @@ Date,Country/Region,Confirmed,Deaths
 3/8/21,Seychelles,2979,14
 3/8/21,Sierra Leone,3921,79
 3/8/21,Singapore,60046,29
-3/8/21,Slovakia,323786,7921
+3/8/21,Slovakia,626882,7921
 3/8/21,Slovenia,195678,3897
 3/8/21,Solomon Islands,18,0
 3/8/21,Somalia,8438,307
@@ -80909,7 +80909,7 @@ Date,Country/Region,Confirmed,Deaths
 3/9/21,Seychelles,2989,14
 3/9/21,Sierra Leone,3922,79
 3/9/21,Singapore,60052,29
-3/9/21,Slovakia,325993,8037
+3/9/21,Slovakia,631700,8037
 3/9/21,Slovenia,196421,3904
 3/9/21,Solomon Islands,18,0
 3/9/21,Somalia,8577,319
@@ -81105,7 +81105,7 @@ Date,Country/Region,Confirmed,Deaths
 3/10/21,Seychelles,2989,14
 3/10/21,Sierra Leone,3928,79
 3/10/21,Singapore,60062,29
-3/10/21,Slovakia,329593,8146
+3/10/21,Slovakia,637344,8146
 3/10/21,Slovenia,197374,3908
 3/10/21,Solomon Islands,18,0
 3/10/21,Somalia,8713,327
@@ -81301,7 +81301,7 @@ Date,Country/Region,Confirmed,Deaths
 3/11/21,Seychelles,3000,14
 3/11/21,Sierra Leone,3932,79
 3/11/21,Singapore,60070,29
-3/11/21,Slovakia,331571,8244
+3/11/21,Slovakia,641295,8244
 3/11/21,Slovenia,198234,3918
 3/11/21,Solomon Islands,18,0
 3/11/21,Somalia,8820,338
@@ -81497,7 +81497,7 @@ Date,Country/Region,Confirmed,Deaths
 3/12/21,Seychelles,3087,15
 3/12/21,Sierra Leone,3934,79
 3/12/21,Singapore,60080,29
-3/12/21,Slovakia,333872,8346
+3/12/21,Slovakia,645457,8346
 3/12/21,Slovenia,199004,3926
 3/12/21,Solomon Islands,18,0
 3/12/21,Somalia,8820,338
@@ -81693,7 +81693,7 @@ Date,Country/Region,Confirmed,Deaths
 3/13/21,Seychelles,3132,15
 3/13/21,Sierra Leone,3937,79
 3/13/21,Singapore,60088,30
-3/13/21,Slovakia,336235,8440
+3/13/21,Slovakia,650209,8440
 3/13/21,Slovenia,199854,3929
 3/13/21,Solomon Islands,18,0
 3/13/21,Somalia,8946,349
@@ -81889,7 +81889,7 @@ Date,Country/Region,Confirmed,Deaths
 3/14/21,Seychelles,3173,15
 3/14/21,Sierra Leone,3937,79
 3/14/21,Singapore,60105,30
-3/14/21,Slovakia,337503,8528
+3/14/21,Slovakia,654912,8528
 3/14/21,Slovenia,200374,3934
 3/14/21,Solomon Islands,18,0
 3/14/21,Somalia,9190,367
@@ -82085,7 +82085,7 @@ Date,Country/Region,Confirmed,Deaths
 3/15/21,Seychelles,3232,15
 3/15/21,Sierra Leone,3938,79
 3/15/21,Singapore,60117,30
-3/15/21,Slovakia,337960,8605
+3/15/21,Slovakia,657214,8605
 3/15/21,Slovenia,200579,3938
 3/15/21,Solomon Islands,18,0
 3/15/21,Somalia,9328,379
@@ -82281,7 +82281,7 @@ Date,Country/Region,Confirmed,Deaths
 3/16/21,Seychelles,3315,16
 3/16/21,Sierra Leone,3939,79
 3/16/21,Singapore,60128,30
-3/16/21,Slovakia,339538,8669
+3/16/21,Slovakia,661025,8669
 3/16/21,Slovenia,201497,3941
 3/16/21,Solomon Islands,18,0
 3/16/21,Somalia,9437,385
@@ -82477,7 +82477,7 @@ Date,Country/Region,Confirmed,Deaths
 3/17/21,Seychelles,3315,16
 3/17/21,Sierra Leone,3942,79
 3/17/21,Singapore,60137,30
-3/17/21,Slovakia,342430,8738
+3/17/21,Slovakia,665746,8738
 3/17/21,Slovenia,202573,3948
 3/17/21,Solomon Islands,18,0
 3/17/21,Somalia,9600,392
@@ -82673,7 +82673,7 @@ Date,Country/Region,Confirmed,Deaths
 3/18/21,Seychelles,3354,16
 3/18/21,Sierra Leone,3947,79
 3/18/21,Singapore,60152,30
-3/18/21,Slovakia,344470,8814
+3/18/21,Slovakia,669337,8814
 3/18/21,Slovenia,203544,3951
 3/18/21,Solomon Islands,18,0
 3/18/21,Somalia,9600,392
@@ -82869,7 +82869,7 @@ Date,Country/Region,Confirmed,Deaths
 3/19/21,Seychelles,3386,16
 3/19/21,Sierra Leone,3947,79
 3/19/21,Singapore,60167,30
-3/19/21,Slovakia,346149,8894
+3/19/21,Slovakia,672631,8894
 3/19/21,Slovenia,204482,3961
 3/19/21,Solomon Islands,18,0
 3/19/21,Somalia,9925,414
@@ -83065,7 +83065,7 @@ Date,Country/Region,Confirmed,Deaths
 3/20/21,Seychelles,3566,16
 3/20/21,Sierra Leone,3948,79
 3/20/21,Singapore,60184,30
-3/20/21,Slovakia,347944,8978
+3/20/21,Slovakia,676460,8978
 3/20/21,Slovenia,205509,3967
 3/20/21,Solomon Islands,18,0
 3/20/21,Somalia,9968,419
@@ -83261,7 +83261,7 @@ Date,Country/Region,Confirmed,Deaths
 3/21/21,Seychelles,3616,16
 3/21/21,Sierra Leone,3948,79
 3/21/21,Singapore,60196,30
-3/21/21,Slovakia,348869,9044
+3/21/21,Slovakia,680076,9044
 3/21/21,Slovenia,206026,3972
 3/21/21,Solomon Islands,18,0
 3/21/21,Somalia,10085,429
@@ -83457,7 +83457,7 @@ Date,Country/Region,Confirmed,Deaths
 3/22/21,Seychelles,3770,16
 3/22/21,Sierra Leone,3948,79
 3/22/21,Singapore,60208,30
-3/22/21,Slovakia,349270,9104
+3/22/21,Slovakia,682042,9104
 3/22/21,Slovenia,206317,3976
 3/22/21,Solomon Islands,18,0
 3/22/21,Somalia,10214,441
@@ -83653,7 +83653,7 @@ Date,Country/Region,Confirmed,Deaths
 3/23/21,Seychelles,3798,16
 3/23/21,Sierra Leone,3949,79
 3/23/21,Singapore,60221,30
-3/23/21,Slovakia,350551,9190
+3/23/21,Slovakia,685094,9190
 3/23/21,Slovenia,207298,3985
 3/23/21,Solomon Islands,18,0
 3/23/21,Somalia,10369,453
@@ -83849,7 +83849,7 @@ Date,Country/Region,Confirmed,Deaths
 3/24/21,Seychelles,3828,16
 3/24/21,Sierra Leone,3953,79
 3/24/21,Singapore,60236,30
-3/24/21,Slovakia,352528,9261
+3/24/21,Slovakia,688587,9261
 3/24/21,Slovenia,208588,3994
 3/24/21,Solomon Islands,18,0
 3/24/21,Somalia,10369,453
@@ -84045,7 +84045,7 @@ Date,Country/Region,Confirmed,Deaths
 3/25/21,Seychelles,3862,18
 3/25/21,Sierra Leone,3953,79
 3/25/21,Singapore,60253,30
-3/25/21,Slovakia,354182,9313
+3/25/21,Slovakia,691648,9313
 3/25/21,Slovenia,209753,3998
 3/25/21,Solomon Islands,18,0
 3/25/21,Somalia,10664,471
@@ -84241,7 +84241,7 @@ Date,Country/Region,Confirmed,Deaths
 3/26/21,Seychelles,3882,18
 3/26/21,Sierra Leone,3962,79
 3/26/21,Singapore,60265,30
-3/26/21,Slovakia,355454,9373
+3/26/21,Slovakia,694284,9373
 3/26/21,Slovenia,210785,4008
 3/26/21,Solomon Islands,18,0
 3/26/21,Somalia,10664,471
@@ -84437,7 +84437,7 @@ Date,Country/Region,Confirmed,Deaths
 3/27/21,Seychelles,3996,18
 3/27/21,Sierra Leone,3962,79
 3/27/21,Singapore,60288,30
-3/27/21,Slovakia,356985,9426
+3/27/21,Slovakia,697479,9426
 3/27/21,Slovenia,212040,4011
 3/27/21,Solomon Islands,18,0
 3/27/21,Somalia,10838,488
@@ -84633,7 +84633,7 @@ Date,Country/Region,Confirmed,Deaths
 3/28/21,Seychelles,4054,18
 3/28/21,Sierra Leone,3970,79
 3/28/21,Singapore,60300,30
-3/28/21,Slovakia,357910,9496
+3/28/21,Slovakia,700607,9496
 3/28/21,Slovenia,212678,4018
 3/28/21,Solomon Islands,18,0
 3/28/21,Somalia,10977,496
@@ -84829,7 +84829,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/21,Seychelles,4084,20
 3/29/21,Sierra Leone,3970,79
 3/29/21,Singapore,60321,30
-3/29/21,Slovakia,358115,9542
+3/29/21,Slovakia,702117,9542
 3/29/21,Slovenia,212966,4024
 3/29/21,Solomon Islands,18,0
 3/29/21,Somalia,11164,510
@@ -85025,7 +85025,7 @@ Date,Country/Region,Confirmed,Deaths
 3/30/21,Seychelles,4114,20
 3/30/21,Sierra Leone,3970,79
 3/30/21,Singapore,60347,30
-3/30/21,Slovakia,359330,9624
+3/30/21,Slovakia,704811,9624
 3/30/21,Slovenia,214045,4040
 3/30/21,Solomon Islands,18,0
 3/30/21,Somalia,11292,521
@@ -85221,7 +85221,7 @@ Date,Country/Region,Confirmed,Deaths
 3/31/21,Seychelles,4114,20
 3/31/21,Sierra Leone,3980,79
 3/31/21,Singapore,60381,30
-3/31/21,Slovakia,361185,9719
+3/31/21,Slovakia,707876,9719
 3/31/21,Slovenia,215602,4047
 3/31/21,Solomon Islands,19,0
 3/31/21,Somalia,11398,529
@@ -85417,7 +85417,7 @@ Date,Country/Region,Confirmed,Deaths
 4/1/21,Seychelles,4189,21
 4/1/21,Sierra Leone,3981,79
 4/1/21,Singapore,60407,30
-4/1/21,Slovakia,362489,9790
+4/1/21,Slovakia,710422,9790
 4/1/21,Slovenia,216939,4054
 4/1/21,Solomon Islands,19,0
 4/1/21,Somalia,11499,537
@@ -85613,7 +85613,7 @@ Date,Country/Region,Confirmed,Deaths
 4/2/21,Seychelles,4230,22
 4/2/21,Sierra Leone,3987,79
 4/2/21,Singapore,60450,30
-4/2/21,Slovakia,363874,9877
+4/2/21,Slovakia,713050,9877
 4/2/21,Slovenia,218114,4063
 4/2/21,Solomon Islands,19,0
 4/2/21,Somalia,11499,537
@@ -85809,7 +85809,7 @@ Date,Country/Region,Confirmed,Deaths
 4/3/21,Seychelles,4259,22
 4/3/21,Sierra Leone,3987,79
 4/3/21,Singapore,60468,30
-4/3/21,Slovakia,364622,9948
+4/3/21,Slovakia,714421,9948
 4/3/21,Slovenia,219420,4068
 4/3/21,Solomon Islands,19,0
 4/3/21,Somalia,11504,537
@@ -86005,7 +86005,7 @@ Date,Country/Region,Confirmed,Deaths
 4/4/21,Seychelles,4294,22
 4/4/21,Sierra Leone,3988,79
 4/4/21,Singapore,60478,30
-4/4/21,Slovakia,365242,10025
+4/4/21,Slovakia,716997,10025
 4/4/21,Slovenia,220141,4075
 4/4/21,Solomon Islands,19,0
 4/4/21,Somalia,11783,557
@@ -86201,7 +86201,7 @@ Date,Country/Region,Confirmed,Deaths
 4/5/21,Seychelles,4294,22
 4/5/21,Sierra Leone,3989,79
 4/5/21,Singapore,60495,30
-4/5/21,Slovakia,365400,10094
+4/5/21,Slovakia,717704,10094
 4/5/21,Slovenia,220425,4082
 4/5/21,Solomon Islands,19,0
 4/5/21,Somalia,11908,568
@@ -86397,7 +86397,7 @@ Date,Country/Region,Confirmed,Deaths
 4/6/21,Seychelles,4330,22
 4/6/21,Sierra Leone,3990,79
 4/6/21,Singapore,60519,30
-4/6/21,Slovakia,365733,10094
+4/6/21,Slovakia,718676,10094
 4/6/21,Slovenia,220698,4089
 4/6/21,Solomon Islands,19,0
 4/6/21,Somalia,11978,576
@@ -86593,7 +86593,7 @@ Date,Country/Region,Confirmed,Deaths
 4/7/21,Seychelles,4355,22
 4/7/21,Sierra Leone,3993,79
 4/7/21,Singapore,60554,30
-4/7/21,Slovakia,366894,10243
+4/7/21,Slovakia,721316,10243
 4/7/21,Slovenia,221890,4092
 4/7/21,Solomon Islands,19,0
 4/7/21,Somalia,11978,576
@@ -86789,7 +86789,7 @@ Date,Country/Region,Confirmed,Deaths
 4/8/21,Seychelles,4367,22
 4/8/21,Sierra Leone,3993,79
 4/8/21,Singapore,60575,30
-4/8/21,Slovakia,368470,10322
+4/8/21,Slovakia,723860,10322
 4/8/21,Slovenia,223416,4097
 4/8/21,Solomon Islands,19,0
 4/8/21,Somalia,12271,605
@@ -86985,7 +86985,7 @@ Date,Country/Region,Confirmed,Deaths
 4/9/21,Seychelles,4395,23
 4/9/21,Sierra Leone,3995,79
 4/9/21,Singapore,60601,30
-4/9/21,Slovakia,369393,10411
+4/9/21,Slovakia,725589,10411
 4/9/21,Slovenia,224699,4100
 4/9/21,Solomon Islands,19,0
 4/9/21,Somalia,12271,605
@@ -87181,7 +87181,7 @@ Date,Country/Region,Confirmed,Deaths
 4/10/21,Seychelles,4395,23
 4/10/21,Sierra Leone,3995,79
 4/10/21,Singapore,60633,30
-4/10/21,Slovakia,370473,10487
+4/10/21,Slovakia,727606,10487
 4/10/21,Slovenia,225950,4112
 4/10/21,Solomon Islands,19,0
 4/10/21,Somalia,12271,605
@@ -87377,7 +87377,7 @@ Date,Country/Region,Confirmed,Deaths
 4/11/21,Seychelles,4490,24
 4/11/21,Sierra Leone,4005,79
 4/11/21,Singapore,60653,30
-4/11/21,Slovakia,371062,10565
+4/11/21,Slovakia,729587,10565
 4/11/21,Slovenia,226499,4119
 4/11/21,Solomon Islands,19,0
 4/11/21,Somalia,12406,618
@@ -87573,7 +87573,7 @@ Date,Country/Region,Confirmed,Deaths
 4/12/21,Seychelles,4528,24
 4/12/21,Sierra Leone,4008,79
 4/12/21,Singapore,60678,30
-4/12/21,Slovakia,371168,10630
+4/12/21,Slovakia,730428,10630
 4/12/21,Slovenia,226786,4126
 4/12/21,Solomon Islands,19,0
 4/12/21,Somalia,12566,618
@@ -87769,7 +87769,7 @@ Date,Country/Region,Confirmed,Deaths
 4/13/21,Seychelles,4563,24
 4/13/21,Sierra Leone,4009,79
 4/13/21,Singapore,60692,30
-4/13/21,Slovakia,372038,10716
+4/13/21,Slovakia,732212,10716
 4/13/21,Slovenia,227836,4130
 4/13/21,Solomon Islands,19,0
 4/13/21,Somalia,12566,618
@@ -87965,7 +87965,7 @@ Date,Country/Region,Confirmed,Deaths
 4/14/21,Seychelles,4563,24
 4/14/21,Sierra Leone,4013,79
 4/14/21,Singapore,60719,30
-4/14/21,Slovakia,373107,10798
+4/14/21,Slovakia,733974,10798
 4/14/21,Slovenia,229076,4135
 4/14/21,Solomon Islands,19,0
 4/14/21,Somalia,12837,656
@@ -88161,7 +88161,7 @@ Date,Country/Region,Confirmed,Deaths
 4/15/21,Seychelles,4633,25
 4/15/21,Sierra Leone,4016,79
 4/15/21,Singapore,60735,30
-4/15/21,Slovakia,373950,10877
+4/15/21,Slovakia,735497,10877
 4/15/21,Slovenia,229967,4142
 4/15/21,Solomon Islands,19,0
 4/15/21,Somalia,12837,656
@@ -88357,7 +88357,7 @@ Date,Country/Region,Confirmed,Deaths
 4/16/21,Seychelles,4727,25
 4/16/21,Sierra Leone,4016,79
 4/16/21,Singapore,60769,30
-4/16/21,Slovakia,374586,10970
+4/16/21,Slovakia,736807,10970
 4/16/21,Slovenia,230826,4147
 4/16/21,Solomon Islands,20,0
 4/16/21,Somalia,12837,656
@@ -88553,7 +88553,7 @@ Date,Country/Region,Confirmed,Deaths
 4/17/21,Seychelles,4765,25
 4/17/21,Sierra Leone,4020,79
 4/17/21,Singapore,60808,30
-4/17/21,Slovakia,375336,11043
+4/17/21,Slovakia,738393,11043
 4/17/21,Slovenia,231593,4153
 4/17/21,Solomon Islands,20,0
 4/17/21,Somalia,12837,656
@@ -88749,7 +88749,7 @@ Date,Country/Region,Confirmed,Deaths
 4/18/21,Seychelles,4834,25
 4/18/21,Sierra Leone,4028,79
 4/18/21,Singapore,60831,30
-4/18/21,Slovakia,375974,11106
+4/18/21,Slovakia,740038,11106
 4/18/21,Slovenia,232071,4159
 4/18/21,Solomon Islands,20,0
 4/18/21,Somalia,13079,670
@@ -88945,7 +88945,7 @@ Date,Country/Region,Confirmed,Deaths
 4/19/21,Seychelles,4875,25
 4/19/21,Sierra Leone,4038,79
 4/19/21,Singapore,60851,30
-4/19/21,Slovakia,376067,11172
+4/19/21,Slovakia,740766,11172
 4/19/21,Slovenia,232311,4167
 4/19/21,Solomon Islands,20,0
 4/19/21,Somalia,13324,678
@@ -89141,7 +89141,7 @@ Date,Country/Region,Confirmed,Deaths
 4/20/21,Seychelles,4922,25
 4/20/21,Sierra Leone,4041,79
 4/20/21,Singapore,60865,30
-4/20/21,Slovakia,376709,11244
+4/20/21,Slovakia,742236,11244
 4/20/21,Slovenia,233031,4172
 4/20/21,Solomon Islands,20,0
 4/20/21,Somalia,13324,678
@@ -89337,7 +89337,7 @@ Date,Country/Region,Confirmed,Deaths
 4/21/21,Seychelles,4976,25
 4/21/21,Sierra Leone,4042,79
 4/21/21,Singapore,60880,30
-4/21/21,Slovakia,377473,11304
+4/21/21,Slovakia,743647,11304
 4/21/21,Slovenia,234067,4176
 4/21/21,Solomon Islands,20,0
 4/21/21,Somalia,13459,689
@@ -89533,7 +89533,7 @@ Date,Country/Region,Confirmed,Deaths
 4/22/21,Seychelles,5016,25
 4/22/21,Sierra Leone,4044,79
 4/22/21,Singapore,60904,30
-4/22/21,Slovakia,378150,11357
+4/22/21,Slovakia,744982,11357
 4/22/21,Slovenia,234811,4187
 4/22/21,Solomon Islands,20,0
 4/22/21,Somalia,13459,689
@@ -89729,7 +89729,7 @@ Date,Country/Region,Confirmed,Deaths
 4/23/21,Seychelles,5016,25
 4/23/21,Sierra Leone,4044,79
 4/23/21,Singapore,60943,30
-4/23/21,Slovakia,378635,11405
+4/23/21,Slovakia,746030,11405
 4/23/21,Slovenia,235711,4195
 4/23/21,Solomon Islands,20,0
 4/23/21,Somalia,13459,689
@@ -89925,7 +89925,7 @@ Date,Country/Region,Confirmed,Deaths
 4/24/21,Seychelles,5016,25
 4/24/21,Sierra Leone,4044,79
 4/24/21,Singapore,60966,30
-4/24/21,Slovakia,379476,11458
+4/24/21,Slovakia,747566,11458
 4/24/21,Slovenia,236613,4203
 4/24/21,Solomon Islands,20,0
 4/24/21,Somalia,13459,689
@@ -90121,7 +90121,7 @@ Date,Country/Region,Confirmed,Deaths
 4/25/21,Seychelles,5016,25
 4/25/21,Sierra Leone,4044,79
 4/25/21,Singapore,61006,30
-4/25/21,Slovakia,379911,11495
+4/25/21,Slovakia,748935,11495
 4/25/21,Slovenia,237028,4208
 4/25/21,Solomon Islands,20,0
 4/25/21,Somalia,13670,698
@@ -90317,7 +90317,7 @@ Date,Country/Region,Confirmed,Deaths
 4/26/21,Seychelles,5140,27
 4/26/21,Sierra Leone,4046,79
 4/26/21,Singapore,61051,30
-4/26/21,Slovakia,380010,11531
+4/26/21,Slovakia,749627,11531
 4/26/21,Slovenia,237219,4214
 4/26/21,Solomon Islands,20,0
 4/26/21,Somalia,13812,702
@@ -90513,7 +90513,7 @@ Date,Country/Region,Confirmed,Deaths
 4/27/21,Seychelles,5422,27
 4/27/21,Sierra Leone,4046,79
 4/27/21,Singapore,61063,30
-4/27/21,Slovakia,380498,11572
+4/27/21,Slovakia,750817,11572
 4/27/21,Slovenia,238023,4221
 4/27/21,Solomon Islands,20,0
 4/27/21,Somalia,13915,713
@@ -90709,7 +90709,7 @@ Date,Country/Region,Confirmed,Deaths
 4/28/21,Seychelles,5500,27
 4/28/21,Sierra Leone,4049,79
 4/28/21,Singapore,61086,30
-4/28/21,Slovakia,381180,11611
+4/28/21,Slovakia,752009,11611
 4/28/21,Slovenia,238421,4236
 4/28/21,Solomon Islands,20,0
 4/28/21,Somalia,13915,713
@@ -90905,7 +90905,7 @@ Date,Country/Region,Confirmed,Deaths
 4/29/21,Seychelles,5602,27
 4/29/21,Sierra Leone,4053,79
 4/29/21,Singapore,61121,30
-4/29/21,Slovakia,381744,11647
+4/29/21,Slovakia,753075,11647
 4/29/21,Slovenia,239339,4243
 4/29/21,Solomon Islands,20,0
 4/29/21,Somalia,13915,713
@@ -91101,7 +91101,7 @@ Date,Country/Region,Confirmed,Deaths
 4/30/21,Seychelles,5838,27
 4/30/21,Sierra Leone,4054,79
 4/30/21,Singapore,61145,30
-4/30/21,Slovakia,382211,11684
+4/30/21,Slovakia,754078,11684
 4/30/21,Slovenia,240292,4250
 4/30/21,Solomon Islands,20,0
 4/30/21,Somalia,13915,713
@@ -91297,7 +91297,7 @@ Date,Country/Region,Confirmed,Deaths
 5/1/21,Seychelles,5966,27
 5/1/21,Sierra Leone,4057,79
 5/1/21,Singapore,61179,31
-5/1/21,Slovakia,382720,11732
+5/1/21,Slovakia,755233,11732
 5/1/21,Slovenia,241309,4258
 5/1/21,Solomon Islands,20,0
 5/1/21,Somalia,13915,713
@@ -91493,7 +91493,7 @@ Date,Country/Region,Confirmed,Deaths
 5/2/21,Seychelles,6106,28
 5/2/21,Sierra Leone,4062,79
 5/2/21,Singapore,61218,31
-5/2/21,Slovakia,383098,11766
+5/2/21,Slovakia,756249,11766
 5/2/21,Slovenia,241672,4263
 5/2/21,Solomon Islands,20,0
 5/2/21,Somalia,13915,713
@@ -91689,7 +91689,7 @@ Date,Country/Region,Confirmed,Deaths
 5/3/21,Seychelles,6270,28
 5/3/21,Sierra Leone,4062,79
 5/3/21,Singapore,61235,31
-5/3/21,Slovakia,383228,11807
+5/3/21,Slovakia,756876,11807
 5/3/21,Slovenia,241883,4269
 5/3/21,Solomon Islands,20,0
 5/3/21,Somalia,13915,713
@@ -91885,7 +91885,7 @@ Date,Country/Region,Confirmed,Deaths
 5/4/21,Seychelles,6352,28
 5/4/21,Sierra Leone,4068,79
 5/4/21,Singapore,61252,31
-5/4/21,Slovakia,383609,11855
+5/4/21,Slovakia,757806,11855
 5/4/21,Slovenia,242777,4273
 5/4/21,Solomon Islands,20,0
 5/4/21,Somalia,14121,721
@@ -92081,7 +92081,7 @@ Date,Country/Region,Confirmed,Deaths
 5/5/21,Seychelles,6708,28
 5/5/21,Sierra Leone,4068,79
 5/5/21,Singapore,61268,31
-5/5/21,Slovakia,384317,11886
+5/5/21,Slovakia,758896,11886
 5/5/21,Slovenia,243719,4279
 5/5/21,Solomon Islands,20,0
 5/5/21,Somalia,14121,721
@@ -92277,7 +92277,7 @@ Date,Country/Region,Confirmed,Deaths
 5/6/21,Seychelles,7192,28
 5/6/21,Sierra Leone,4068,79
 5/6/21,Singapore,61286,31
-5/6/21,Slovakia,384660,11920
+5/6/21,Slovakia,759611,11920
 5/6/21,Slovenia,244556,4282
 5/6/21,Solomon Islands,20,0
 5/6/21,Somalia,14368,745
@@ -92473,7 +92473,7 @@ Date,Country/Region,Confirmed,Deaths
 5/7/21,Seychelles,7675,28
 5/7/21,Sierra Leone,4068,79
 5/7/21,Singapore,61311,31
-5/7/21,Slovakia,385022,11946
+5/7/21,Slovakia,760362,11946
 5/7/21,Slovenia,245159,4285
 5/7/21,Solomon Islands,20,0
 5/7/21,Somalia,14368,745
@@ -92669,7 +92669,7 @@ Date,Country/Region,Confirmed,Deaths
 5/8/21,Seychelles,8069,28
 5/8/21,Sierra Leone,4068,79
 5/8/21,Singapore,61331,31
-5/8/21,Slovakia,385395,11990
+5/8/21,Slovakia,761194,11990
 5/8/21,Slovenia,245793,4286
 5/8/21,Solomon Islands,20,0
 5/8/21,Somalia,14415,747
@@ -92865,7 +92865,7 @@ Date,Country/Region,Confirmed,Deaths
 5/9/21,Seychelles,8297,28
 5/9/21,Sierra Leone,4068,79
 5/9/21,Singapore,61359,31
-5/9/21,Slovakia,385475,12019
+5/9/21,Slovakia,761546,12019
 5/9/21,Slovenia,246082,4293
 5/9/21,Solomon Islands,20,0
 5/9/21,Somalia,14415,747
@@ -93061,7 +93061,7 @@ Date,Country/Region,Confirmed,Deaths
 5/10/21,Seychelles,8507,28
 5/10/21,Sierra Leone,4089,79
 5/10/21,Singapore,61378,31
-5/10/21,Slovakia,385786,12051
+5/10/21,Slovakia,762257,12051
 5/10/21,Slovenia,246231,4299
 5/10/21,Solomon Islands,20,0
 5/10/21,Somalia,14415,747
@@ -93257,7 +93257,7 @@ Date,Country/Region,Confirmed,Deaths
 5/11/21,Seychelles,8696,28
 5/11/21,Sierra Leone,4089,79
 5/11/21,Singapore,61403,31
-5/11/21,Slovakia,386136,12077
+5/11/21,Slovakia,763041,12077
 5/11/21,Slovenia,246725,4302
 5/11/21,Solomon Islands,20,0
 5/11/21,Somalia,14486,753
@@ -93453,7 +93453,7 @@ Date,Country/Region,Confirmed,Deaths
 5/12/21,Seychelles,8873,30
 5/12/21,Sierra Leone,4089,79
 5/12/21,Singapore,61419,31
-5/12/21,Slovakia,386540,12096
+5/12/21,Slovakia,763714,12096
 5/12/21,Slovenia,247449,4304
 5/12/21,Solomon Islands,20,0
 5/12/21,Somalia,14486,753
@@ -93649,7 +93649,7 @@ Date,Country/Region,Confirmed,Deaths
 5/13/21,Seychelles,9081,30
 5/13/21,Sierra Leone,4096,79
 5/13/21,Singapore,61453,31
-5/13/21,Slovakia,386868,12135
+5/13/21,Slovakia,764321,12135
 5/13/21,Slovenia,248046,4308
 5/13/21,Solomon Islands,20,0
 5/13/21,Somalia,14486,753
@@ -93845,7 +93845,7 @@ Date,Country/Region,Confirmed,Deaths
 5/14/21,Seychelles,9251,30
 5/14/21,Sierra Leone,4103,79
 5/14/21,Singapore,61505,31
-5/14/21,Slovakia,387162,12168
+5/14/21,Slovakia,764881,12168
 5/14/21,Slovenia,248520,4314
 5/14/21,Solomon Islands,20,0
 5/14/21,Somalia,14486,753
@@ -94041,7 +94041,7 @@ Date,Country/Region,Confirmed,Deaths
 5/15/21,Seychelles,9440,30
 5/15/21,Sierra Leone,4103,79
 5/15/21,Singapore,61536,31
-5/15/21,Slovakia,387420,12203
+5/15/21,Slovakia,765492,12203
 5/15/21,Slovenia,249014,4320
 5/15/21,Solomon Islands,20,0
 5/15/21,Somalia,14486,753
@@ -94237,7 +94237,7 @@ Date,Country/Region,Confirmed,Deaths
 5/16/21,Seychelles,9661,30
 5/16/21,Sierra Leone,4107,79
 5/16/21,Singapore,61585,31
-5/16/21,Slovakia,387523,12224
+5/16/21,Slovakia,765867,12224
 5/16/21,Slovenia,249310,4324
 5/16/21,Solomon Islands,20,0
 5/16/21,Somalia,14486,753
@@ -94433,7 +94433,7 @@ Date,Country/Region,Confirmed,Deaths
 5/17/21,Seychelles,9741,30
 5/17/21,Sierra Leone,4107,79
 5/17/21,Singapore,61613,31
-5/17/21,Slovakia,387659,12238
+5/17/21,Slovakia,766253,12238
 5/17/21,Slovenia,249424,4327
 5/17/21,Solomon Islands,20,0
 5/17/21,Somalia,14486,753
@@ -94629,7 +94629,7 @@ Date,Country/Region,Confirmed,Deaths
 5/18/21,Seychelles,9900,35
 5/18/21,Sierra Leone,4107,79
 5/18/21,Singapore,61651,31
-5/18/21,Slovakia,387892,12248
+5/18/21,Slovakia,766804,12248
 5/18/21,Slovenia,249921,4333
 5/18/21,Solomon Islands,20,0
 5/18/21,Somalia,14575,762
@@ -94825,7 +94825,7 @@ Date,Country/Region,Confirmed,Deaths
 5/19/21,Seychelles,10090,35
 5/19/21,Sierra Leone,4107,79
 5/19/21,Singapore,61689,31
-5/19/21,Slovakia,388138,12262
+5/19/21,Slovakia,767276,12262
 5/19/21,Slovenia,250453,4338
 5/19/21,Solomon Islands,20,0
 5/19/21,Somalia,14575,762
@@ -95021,7 +95021,7 @@ Date,Country/Region,Confirmed,Deaths
 5/20/21,Seychelles,10194,35
 5/20/21,Sierra Leone,4115,79
 5/20/21,Singapore,61730,32
-5/20/21,Slovakia,388391,12272
+5/20/21,Slovakia,767731,12272
 5/20/21,Slovenia,250811,4345
 5/20/21,Solomon Islands,20,0
 5/20/21,Somalia,14594,767
@@ -95217,7 +95217,7 @@ Date,Country/Region,Confirmed,Deaths
 5/21/21,Seychelles,10297,38
 5/21/21,Sierra Leone,4115,79
 5/21/21,Singapore,61770,32
-5/21/21,Slovakia,388529,12280
+5/21/21,Slovakia,768041,12280
 5/21/21,Slovenia,251148,4348
 5/21/21,Solomon Islands,20,0
 5/21/21,Somalia,14594,767
@@ -95413,7 +95413,7 @@ Date,Country/Region,Confirmed,Deaths
 5/22/21,Seychelles,10433,38
 5/22/21,Sierra Leone,4121,79
 5/22/21,Singapore,61799,32
-5/22/21,Slovakia,388719,12286
+5/22/21,Slovakia,768439,12286
 5/22/21,Slovenia,251531,4349
 5/22/21,Solomon Islands,20,0
 5/22/21,Somalia,14623,767
@@ -95609,7 +95609,7 @@ Date,Country/Region,Confirmed,Deaths
 5/23/21,Seychelles,10433,38
 5/23/21,Sierra Leone,4121,79
 5/23/21,Singapore,61824,32
-5/23/21,Slovakia,388835,12292
+5/23/21,Slovakia,768747,12292
 5/23/21,Slovenia,251690,4353
 5/23/21,Solomon Islands,20,0
 5/23/21,Somalia,14632,767
@@ -95805,7 +95805,7 @@ Date,Country/Region,Confirmed,Deaths
 5/24/21,Seychelles,10669,38
 5/24/21,Sierra Leone,4121,79
 5/24/21,Singapore,61860,32
-5/24/21,Slovakia,388854,12296
+5/24/21,Slovakia,768955,12296
 5/24/21,Slovenia,251773,4355
 5/24/21,Solomon Islands,20,0
 5/24/21,Somalia,14632,767
@@ -96001,7 +96001,7 @@ Date,Country/Region,Confirmed,Deaths
 5/25/21,Seychelles,10682,38
 5/25/21,Sierra Leone,4121,79
 5/25/21,Singapore,61890,32
-5/25/21,Slovakia,388986,12301
+5/25/21,Slovakia,769351,12301
 5/25/21,Slovenia,252098,4358
 5/25/21,Solomon Islands,20,0
 5/25/21,Somalia,14632,767
@@ -96197,7 +96197,7 @@ Date,Country/Region,Confirmed,Deaths
 5/26/21,Seychelles,10790,38
 5/26/21,Sierra Leone,4121,79
 5/26/21,Singapore,61916,32
-5/26/21,Slovakia,389176,12312
+5/26/21,Slovakia,769748,12312
 5/26/21,Slovenia,252486,4363
 5/26/21,Solomon Islands,20,0
 5/26/21,Somalia,14632,767
@@ -96393,7 +96393,7 @@ Date,Country/Region,Confirmed,Deaths
 5/27/21,Seychelles,11001,38
 5/27/21,Sierra Leone,4133,79
 5/27/21,Singapore,61940,32
-5/27/21,Slovakia,389344,12320
+5/27/21,Slovakia,770058,12320
 5/27/21,Slovenia,252848,4366
 5/27/21,Solomon Islands,20,0
 5/27/21,Somalia,14647,768
@@ -96589,7 +96589,7 @@ Date,Country/Region,Confirmed,Deaths
 5/28/21,Seychelles,11112,38
 5/28/21,Sierra Leone,4140,79
 5/28/21,Singapore,61970,32
-5/28/21,Slovakia,389440,12333
+5/28/21,Slovakia,770311,12333
 5/28/21,Slovenia,253140,4370
 5/28/21,Solomon Islands,20,0
 5/28/21,Somalia,14647,768
@@ -96785,7 +96785,7 @@ Date,Country/Region,Confirmed,Deaths
 5/29/21,Seychelles,11271,38
 5/29/21,Sierra Leone,4141,79
 5/29/21,Singapore,62003,32
-5/29/21,Slovakia,389440,12333
+5/29/21,Slovakia,770629,12333
 5/29/21,Slovenia,253493,4372
 5/29/21,Solomon Islands,20,0
 5/29/21,Somalia,14653,768
@@ -96981,7 +96981,7 @@ Date,Country/Region,Confirmed,Deaths
 5/30/21,Seychelles,11373,40
 5/30/21,Sierra Leone,4147,79
 5/30/21,Singapore,62028,33
-5/30/21,Slovakia,389690,12339
+5/30/21,Slovakia,770851,12339
 5/30/21,Slovenia,253631,4374
 5/30/21,Solomon Islands,20,0
 5/30/21,Somalia,14660,769
@@ -97177,7 +97177,7 @@ Date,Country/Region,Confirmed,Deaths
 5/31/21,Seychelles,11468,40
 5/31/21,Sierra Leone,4147,79
 5/31/21,Singapore,62051,33
-5/31/21,Slovakia,389721,12343
+5/31/21,Slovakia,771008,12343
 5/31/21,Slovenia,253722,4375
 5/31/21,Solomon Islands,20,0
 5/31/21,Somalia,14662,769
@@ -97373,7 +97373,7 @@ Date,Country/Region,Confirmed,Deaths
 6/1/21,Seychelles,11612,40
 6/1/21,Sierra Leone,4148,79
 6/1/21,Singapore,62069,33
-6/1/21,Slovakia,389866,12353
+6/1/21,Slovakia,771363,12353
 6/1/21,Slovenia,254045,4376
 6/1/21,Solomon Islands,20,0
 6/1/21,Somalia,14667,769
@@ -97569,7 +97569,7 @@ Date,Country/Region,Confirmed,Deaths
 6/2/21,Seychelles,11698,40
 6/2/21,Sierra Leone,4156,79
 6/2/21,Singapore,62100,33
-6/2/21,Slovakia,389990,12366
+6/2/21,Slovakia,771621,12366
 6/2/21,Slovenia,254419,4380
 6/2/21,Solomon Islands,20,0
 6/2/21,Somalia,14691,770
@@ -97765,7 +97765,7 @@ Date,Country/Region,Confirmed,Deaths
 6/3/21,Seychelles,11888,42
 6/3/21,Sierra Leone,4162,79
 6/3/21,Singapore,62145,33
-6/3/21,Slovakia,390129,12375
+6/3/21,Slovakia,771879,12375
 6/3/21,Slovenia,254692,4383
 6/3/21,Solomon Islands,20,0
 6/3/21,Somalia,14699,771
@@ -97961,7 +97961,7 @@ Date,Country/Region,Confirmed,Deaths
 6/4/21,Seychelles,12035,42
 6/4/21,Sierra Leone,4168,79
 6/4/21,Singapore,62158,33
-6/4/21,Slovakia,390223,12382
+6/4/21,Slovakia,772106,12382
 6/4/21,Slovenia,254973,4385
 6/4/21,Solomon Islands,20,0
 6/4/21,Somalia,14699,771
@@ -98157,7 +98157,7 @@ Date,Country/Region,Confirmed,Deaths
 6/5/21,Seychelles,12158,42
 6/5/21,Sierra Leone,4188,79
 6/5/21,Singapore,62176,33
-6/5/21,Slovakia,390340,12395
+6/5/21,Slovakia,772358,12395
 6/5/21,Slovenia,255218,4387
 6/5/21,Solomon Islands,20,0
 6/5/21,Somalia,14729,773
@@ -98353,7 +98353,7 @@ Date,Country/Region,Confirmed,Deaths
 6/6/21,Seychelles,12238,42
 6/6/21,Sierra Leone,4201,79
 6/6/21,Singapore,62196,33
-6/6/21,Slovakia,390436,12404
+6/6/21,Slovakia,772528,12404
 6/6/21,Slovenia,255375,4388
 6/6/21,Solomon Islands,20,0
 6/6/21,Somalia,14748,773
@@ -98549,7 +98549,7 @@ Date,Country/Region,Confirmed,Deaths
 6/7/21,Seychelles,12383,42
 6/7/21,Sierra Leone,4208,79
 6/7/21,Singapore,62210,33
-6/7/21,Slovakia,390451,12414
+6/7/21,Slovakia,772630,12414
 6/7/21,Slovenia,255432,4390
 6/7/21,Solomon Islands,20,0
 6/7/21,Somalia,14768,773
@@ -98745,7 +98745,7 @@ Date,Country/Region,Confirmed,Deaths
 6/8/21,Seychelles,12466,42
 6/8/21,Sierra Leone,4219,82
 6/8/21,Singapore,62219,34
-6/8/21,Slovakia,390546,12423
+6/8/21,Slovakia,772873,12423
 6/8/21,Slovenia,255652,4391
 6/8/21,Solomon Islands,20,0
 6/8/21,Somalia,14776,773
@@ -98941,7 +98941,7 @@ Date,Country/Region,Confirmed,Deaths
 6/9/21,Seychelles,12611,42
 6/9/21,Sierra Leone,4251,82
 6/9/21,Singapore,62223,34
-6/9/21,Slovakia,390693,12430
+6/9/21,Slovakia,773114,12430
 6/9/21,Slovenia,255907,4392
 6/9/21,Solomon Islands,20,0
 6/9/21,Somalia,14779,774
@@ -99137,7 +99137,7 @@ Date,Country/Region,Confirmed,Deaths
 6/10/21,Seychelles,12813,42
 6/10/21,Sierra Leone,4289,82
 6/10/21,Singapore,62236,34
-6/10/21,Slovakia,390809,12433
+6/10/21,Slovakia,773280,12433
 6/10/21,Slovenia,256103,4393
 6/10/21,Solomon Islands,20,0
 6/10/21,Somalia,14779,774
@@ -99333,7 +99333,7 @@ Date,Country/Region,Confirmed,Deaths
 6/11/21,Seychelles,12973,42
 6/11/21,Sierra Leone,4312,82
 6/11/21,Singapore,62245,34
-6/11/21,Slovakia,390893,12433
+6/11/21,Slovakia,773436,12433
 6/11/21,Slovenia,256224,4398
 6/11/21,Solomon Islands,20,0
 6/11/21,Somalia,14779,774
@@ -99529,7 +99529,7 @@ Date,Country/Region,Confirmed,Deaths
 6/12/21,Seychelles,13200,42
 6/12/21,Sierra Leone,4349,82
 6/12/21,Singapore,62263,34
-6/12/21,Slovakia,390984,12436
+6/12/21,Slovakia,773611,12436
 6/12/21,Slovenia,256352,4401
 6/12/21,Solomon Islands,20,0
 6/12/21,Somalia,14779,774
@@ -99725,7 +99725,7 @@ Date,Country/Region,Confirmed,Deaths
 6/13/21,Seychelles,13414,43
 6/13/21,Sierra Leone,4388,82
 6/13/21,Singapore,62276,34
-6/13/21,Slovakia,391026,12439
+6/13/21,Slovakia,773710,12439
 6/13/21,Slovenia,256443,4404
 6/13/21,Solomon Islands,20,0
 6/13/21,Somalia,14817,774
@@ -99921,7 +99921,7 @@ Date,Country/Region,Confirmed,Deaths
 6/14/21,Seychelles,13539,43
 6/14/21,Sierra Leone,4433,82
 6/14/21,Singapore,62301,34
-6/14/21,Slovakia,391038,12441
+6/14/21,Slovakia,773779,12441
 6/14/21,Slovenia,256467,4406
 6/14/21,Solomon Islands,20,0
 6/14/21,Somalia,14817,774
@@ -100117,7 +100117,7 @@ Date,Country/Region,Confirmed,Deaths
 6/15/21,Seychelles,13630,43
 6/15/21,Sierra Leone,4449,82
 6/15/21,Singapore,62315,34
-6/15/21,Slovakia,391087,12446
+6/15/21,Slovakia,773906,12446
 6/15/21,Slovenia,256581,4408
 6/15/21,Solomon Islands,20,0
 6/15/21,Somalia,14823,775
@@ -100313,7 +100313,7 @@ Date,Country/Region,Confirmed,Deaths
 6/16/21,Seychelles,13731,46
 6/16/21,Sierra Leone,4505,82
 6/16/21,Singapore,62339,34
-6/16/21,Slovakia,391149,12456
+6/16/21,Slovakia,774015,12456
 6/16/21,Slovenia,256701,4409
 6/16/21,Solomon Islands,20,0
 6/16/21,Somalia,14827,775
@@ -100509,7 +100509,7 @@ Date,Country/Region,Confirmed,Deaths
 6/17/21,Seychelles,13965,51
 6/17/21,Sierra Leone,4553,82
 6/17/21,Singapore,62366,34
-6/17/21,Slovakia,391210,12464
+6/17/21,Slovakia,774115,12464
 6/17/21,Slovenia,256784,4409
 6/17/21,Solomon Islands,20,0
 6/17/21,Somalia,14841,775
@@ -100705,7 +100705,7 @@ Date,Country/Region,Confirmed,Deaths
 6/18/21,Seychelles,14123,51
 6/18/21,Sierra Leone,4631,82
 6/18/21,Singapore,62382,34
-6/18/21,Slovakia,391248,12478
+6/18/21,Slovakia,774196,12478
 6/18/21,Slovenia,256871,4411
 6/18/21,Solomon Islands,20,0
 6/18/21,Somalia,14841,775
@@ -100901,7 +100901,7 @@ Date,Country/Region,Confirmed,Deaths
 6/19/21,Seychelles,14301,52
 6/19/21,Sierra Leone,4702,82
 6/19/21,Singapore,62403,34
-6/19/21,Slovakia,391248,12478
+6/19/21,Slovakia,774299,12478
 6/19/21,Slovenia,256956,4412
 6/19/21,Solomon Islands,20,0
 6/19/21,Somalia,14852,775
@@ -101097,7 +101097,7 @@ Date,Country/Region,Confirmed,Deaths
 6/20/21,Seychelles,14414,52
 6/20/21,Sierra Leone,4816,82
 6/20/21,Singapore,62414,34
-6/20/21,Slovakia,391248,12478
+6/20/21,Slovakia,774350,12478
 6/20/21,Slovenia,256982,4412
 6/20/21,Solomon Islands,20,0
 6/20/21,Somalia,14852,775
@@ -101293,7 +101293,7 @@ Date,Country/Region,Confirmed,Deaths
 6/21/21,Seychelles,14549,52
 6/21/21,Sierra Leone,4879,82
 6/21/21,Singapore,62430,35
-6/21/21,Slovakia,391326,12496
+6/21/21,Slovakia,774392,12496
 6/21/21,Slovenia,257001,4415
 6/21/21,Solomon Islands,20,0
 6/21/21,Somalia,14867,775
@@ -101489,7 +101489,7 @@ Date,Country/Region,Confirmed,Deaths
 6/22/21,Seychelles,14620,52
 6/22/21,Sierra Leone,4963,84
 6/22/21,Singapore,62448,35
-6/22/21,Slovakia,391385,12502
+6/22/21,Slovakia,774510,12502
 6/22/21,Slovenia,257066,4416
 6/22/21,Solomon Islands,20,0
 6/22/21,Somalia,14868,775
@@ -101685,7 +101685,7 @@ Date,Country/Region,Confirmed,Deaths
 6/23/21,Seychelles,14755,53
 6/23/21,Sierra Leone,4963,84
 6/23/21,Singapore,62470,35
-6/23/21,Slovakia,391420,12502
+6/23/21,Slovakia,774575,12502
 6/23/21,Slovenia,257116,4417
 6/23/21,Solomon Islands,20,0
 6/23/21,Somalia,14868,775
@@ -101881,7 +101881,7 @@ Date,Country/Region,Confirmed,Deaths
 6/24/21,Seychelles,14953,55
 6/24/21,Sierra Leone,5155,87
 6/24/21,Singapore,62493,35
-6/24/21,Slovakia,391456,12502
+6/24/21,Slovakia,774642,12502
 6/24/21,Slovenia,257164,4417
 6/24/21,Solomon Islands,20,0
 6/24/21,Somalia,14875,775
@@ -102077,7 +102077,7 @@ Date,Country/Region,Confirmed,Deaths
 6/25/21,Seychelles,15111,55
 6/25/21,Sierra Leone,5253,87
 6/25/21,Singapore,62513,35
-6/25/21,Slovakia,391490,12505
+6/25/21,Slovakia,774712,12505
 6/25/21,Slovenia,257210,4417
 6/25/21,Solomon Islands,20,0
 6/25/21,Somalia,14875,775
@@ -102273,7 +102273,7 @@ Date,Country/Region,Confirmed,Deaths
 6/26/21,Seychelles,15265,55
 6/26/21,Sierra Leone,5306,93
 6/26/21,Singapore,62530,36
-6/26/21,Slovakia,391531,12505
+6/26/21,Slovakia,774786,12505
 6/26/21,Slovenia,257221,4419
 6/26/21,Solomon Islands,20,0
 6/26/21,Somalia,14892,775
@@ -102469,7 +102469,7 @@ Date,Country/Region,Confirmed,Deaths
 6/27/21,Seychelles,15427,55
 6/27/21,Sierra Leone,5381,94
 6/27/21,Singapore,62544,36
-6/27/21,Slovakia,391551,12505
+6/27/21,Slovakia,774838,12505
 6/27/21,Slovenia,257240,4419
 6/27/21,Solomon Islands,20,0
 6/27/21,Somalia,14892,775
@@ -102665,7 +102665,7 @@ Date,Country/Region,Confirmed,Deaths
 6/28/21,Seychelles,15522,55
 6/28/21,Sierra Leone,5443,97
 6/28/21,Singapore,62553,36
-6/28/21,Slovakia,391566,12509
+6/28/21,Slovakia,774875,12509
 6/28/21,Slovenia,257252,4419
 6/28/21,Solomon Islands,20,0
 6/28/21,Somalia,14933,775
@@ -102861,7 +102861,7 @@ Date,Country/Region,Confirmed,Deaths
 6/29/21,Seychelles,15579,55
 6/29/21,Sierra Leone,5495,98
 6/29/21,Singapore,62563,36
-6/29/21,Slovakia,391609,12510
+6/29/21,Slovakia,774954,12510
 6/29/21,Slovenia,257287,4419
 6/29/21,Solomon Islands,20,0
 6/29/21,Somalia,14933,775
@@ -103057,7 +103057,7 @@ Date,Country/Region,Confirmed,Deaths
 6/30/21,Seychelles,15671,56
 6/30/21,Sierra Leone,5575,100
 6/30/21,Singapore,62579,36
-6/30/21,Slovakia,391642,12510
+6/30/21,Slovakia,775011,12510
 6/30/21,Slovenia,257335,4419
 6/30/21,Solomon Islands,20,0
 6/30/21,Somalia,14946,775
@@ -103253,7 +103253,7 @@ Date,Country/Region,Confirmed,Deaths
 7/1/21,Seychelles,15751,57
 7/1/21,Sierra Leone,5652,102
 7/1/21,Singapore,62589,36
-7/1/21,Slovakia,391659,12511
+7/1/21,Slovakia,775066,12511
 7/1/21,Slovenia,257358,4419
 7/1/21,Solomon Islands,20,0
 7/1/21,Somalia,14946,775
@@ -103449,7 +103449,7 @@ Date,Country/Region,Confirmed,Deaths
 7/2/21,Seychelles,15857,57
 7/2/21,Sierra Leone,5702,104
 7/2/21,Singapore,62599,36
-7/2/21,Slovakia,391676,12511
+7/2/21,Slovakia,775094,12511
 7/2/21,Slovenia,257383,4419
 7/2/21,Solomon Islands,20,0
 7/2/21,Somalia,14946,775
@@ -103645,7 +103645,7 @@ Date,Country/Region,Confirmed,Deaths
 7/3/21,Seychelles,15986,57
 7/3/21,Sierra Leone,5748,104
 7/3/21,Singapore,62606,36
-7/3/21,Slovakia,391696,12513
+7/3/21,Slovakia,775128,12513
 7/3/21,Slovenia,257413,4419
 7/3/21,Solomon Islands,20,0
 7/3/21,Somalia,14946,775
@@ -103841,7 +103841,7 @@ Date,Country/Region,Confirmed,Deaths
 7/4/21,Seychelles,16149,57
 7/4/21,Sierra Leone,5793,106
 7/4/21,Singapore,62617,36
-7/4/21,Slovakia,391717,12513
+7/4/21,Slovakia,775157,12513
 7/4/21,Slovenia,257421,4419
 7/4/21,Solomon Islands,20,0
 7/4/21,Somalia,14977,775
@@ -104037,7 +104037,7 @@ Date,Country/Region,Confirmed,Deaths
 7/5/21,Seychelles,16259,57
 7/5/21,Sierra Leone,5811,107
 7/5/21,Singapore,62630,36
-7/5/21,Slovakia,391720,12513
+7/5/21,Slovakia,775169,12513
 7/5/21,Slovenia,257429,4420
 7/5/21,Solomon Islands,20,0
 7/5/21,Somalia,14977,775
@@ -104233,7 +104233,7 @@ Date,Country/Region,Confirmed,Deaths
 7/6/21,Seychelles,16304,57
 7/6/21,Sierra Leone,5836,108
 7/6/21,Singapore,62640,36
-7/6/21,Slovakia,391735,12514
+7/6/21,Slovakia,775193,12514
 7/6/21,Slovenia,257477,4421
 7/6/21,Solomon Islands,20,0
 7/6/21,Somalia,14995,775
@@ -104429,7 +104429,7 @@ Date,Country/Region,Confirmed,Deaths
 7/7/21,Seychelles,16411,57
 7/7/21,Sierra Leone,5867,108
 7/7/21,Singapore,62652,36
-7/7/21,Slovakia,391780,12516
+7/7/21,Slovakia,775249,12516
 7/7/21,Slovenia,257550,4422
 7/7/21,Solomon Islands,20,0
 7/7/21,Somalia,14995,775
@@ -104625,7 +104625,7 @@ Date,Country/Region,Confirmed,Deaths
 7/8/21,Seychelles,16565,68
 7/8/21,Sierra Leone,5887,109
 7/8/21,Singapore,62668,36
-7/8/21,Slovakia,391813,12516
+7/8/21,Slovakia,775297,12516
 7/8/21,Slovenia,257619,4423
 7/8/21,Solomon Islands,20,0
 7/8/21,Somalia,14995,775
@@ -104821,7 +104821,7 @@ Date,Country/Region,Confirmed,Deaths
 7/9/21,Seychelles,16679,68
 7/9/21,Sierra Leone,5963,109
 7/9/21,Singapore,62678,36
-7/9/21,Slovakia,391852,12517
+7/9/21,Slovakia,775347,12517
 7/9/21,Slovenia,257703,4423
 7/9/21,Solomon Islands,20,0
 7/9/21,Somalia,14995,775
@@ -105017,7 +105017,7 @@ Date,Country/Region,Confirmed,Deaths
 7/10/21,Seychelles,16793,68
 7/10/21,Sierra Leone,6003,110
 7/10/21,Singapore,62684,36
-7/10/21,Slovakia,391893,12519
+7/10/21,Slovakia,775405,12519
 7/10/21,Slovenia,257838,4423
 7/10/21,Solomon Islands,20,0
 7/10/21,Somalia,14995,775
@@ -105213,7 +105213,7 @@ Date,Country/Region,Confirmed,Deaths
 7/11/21,Seychelles,16899,68
 7/11/21,Sierra Leone,6031,112
 7/11/21,Singapore,62692,36
-7/11/21,Slovakia,391918,12519
+7/11/21,Slovakia,775439,12519
 7/11/21,Slovenia,257863,4423
 7/11/21,Solomon Islands,20,0
 7/11/21,Somalia,15036,777
@@ -105409,7 +105409,7 @@ Date,Country/Region,Confirmed,Deaths
 7/12/21,Seychelles,16957,68
 7/12/21,Sierra Leone,6046,112
 7/12/21,Singapore,62718,36
-7/12/21,Slovakia,391925,12521
+7/12/21,Slovakia,775454,12521
 7/12/21,Slovenia,257875,4425
 7/12/21,Solomon Islands,20,0
 7/12/21,Somalia,15060,779
@@ -105605,7 +105605,7 @@ Date,Country/Region,Confirmed,Deaths
 7/13/21,Seychelles,17005,68
 7/13/21,Sierra Leone,6074,113
 7/13/21,Singapore,62744,36
-7/13/21,Slovakia,391953,12522
+7/13/21,Slovakia,775495,12522
 7/13/21,Slovenia,257959,4425
 7/13/21,Solomon Islands,20,0
 7/13/21,Somalia,15068,781
@@ -105801,7 +105801,7 @@ Date,Country/Region,Confirmed,Deaths
 7/14/21,Seychelles,17096,68
 7/14/21,Sierra Leone,6100,113
 7/14/21,Singapore,62804,36
-7/14/21,Slovakia,391971,12523
+7/14/21,Slovakia,775527,12523
 7/14/21,Slovenia,257989,4425
 7/14/21,Solomon Islands,20,0
 7/14/21,Somalia,15076,781
@@ -105997,7 +105997,7 @@ Date,Country/Region,Confirmed,Deaths
 7/15/21,Seychelles,17171,68
 7/15/21,Sierra Leone,6122,113
 7/15/21,Singapore,62852,36
-7/15/21,Slovakia,392000,12524
+7/15/21,Slovakia,775566,12524
 7/15/21,Slovenia,258045,4425
 7/15/21,Solomon Islands,20,0
 7/15/21,Somalia,15081,781
@@ -106193,7 +106193,7 @@ Date,Country/Region,Confirmed,Deaths
 7/16/21,Seychelles,17234,68
 7/16/21,Sierra Leone,6142,114
 7/16/21,Singapore,62913,36
-7/16/21,Slovakia,392034,12524
+7/16/21,Slovakia,775609,12524
 7/16/21,Slovenia,258108,4425
 7/16/21,Solomon Islands,20,0
 7/16/21,Somalia,15081,781
@@ -106389,7 +106389,7 @@ Date,Country/Region,Confirmed,Deaths
 7/17/21,Seychelles,17305,75
 7/17/21,Sierra Leone,6166,115
 7/17/21,Singapore,62981,36
-7/17/21,Slovakia,392034,12524
+7/17/21,Slovakia,775657,12524
 7/17/21,Slovenia,258169,4425
 7/17/21,Solomon Islands,20,0
 7/17/21,Somalia,15085,781
@@ -106585,7 +106585,7 @@ Date,Country/Region,Confirmed,Deaths
 7/18/21,Seychelles,17435,75
 7/18/21,Sierra Leone,6186,115
 7/18/21,Singapore,63073,36
-7/18/21,Slovakia,392100,12524
+7/18/21,Slovakia,775694,12524
 7/18/21,Slovenia,258190,4425
 7/18/21,Solomon Islands,20,0
 7/18/21,Somalia,15123,781
@@ -106781,7 +106781,7 @@ Date,Country/Region,Confirmed,Deaths
 7/19/21,Seychelles,17500,75
 7/19/21,Sierra Leone,6191,115
 7/19/21,Singapore,63245,36
-7/19/21,Slovakia,392104,12527
+7/19/21,Slovakia,775705,12527
 7/19/21,Slovenia,258199,4425
 7/19/21,Solomon Islands,20,0
 7/19/21,Somalia,15123,781
@@ -106977,7 +106977,7 @@ Date,Country/Region,Confirmed,Deaths
 7/20/21,Seychelles,17541,79
 7/20/21,Sierra Leone,6198,116
 7/20/21,Singapore,63440,36
-7/20/21,Slovakia,392139,12531
+7/20/21,Slovakia,775757,12531
 7/20/21,Slovenia,258287,4425
 7/20/21,Solomon Islands,20,0
 7/20/21,Somalia,15162,781
@@ -107173,7 +107173,7 @@ Date,Country/Region,Confirmed,Deaths
 7/21/21,Seychelles,17686,79
 7/21/21,Sierra Leone,6201,116
 7/21/21,Singapore,63621,36
-7/21/21,Slovakia,392185,12534
+7/21/21,Slovakia,775809,12534
 7/21/21,Slovenia,258397,4425
 7/21/21,Solomon Islands,20,0
 7/21/21,Somalia,15162,781
@@ -107369,7 +107369,7 @@ Date,Country/Region,Confirmed,Deaths
 7/22/21,Seychelles,17747,79
 7/22/21,Sierra Leone,6206,117
 7/22/21,Singapore,63791,36
-7/22/21,Slovakia,392219,12534
+7/22/21,Slovakia,775859,12534
 7/22/21,Slovenia,258468,4426
 7/22/21,Solomon Islands,20,0
 7/22/21,Somalia,15162,781
@@ -107565,7 +107565,7 @@ Date,Country/Region,Confirmed,Deaths
 7/23/21,Seychelles,17878,79
 7/23/21,Sierra Leone,6206,118
 7/23/21,Singapore,63924,36
-7/23/21,Slovakia,392259,12534
+7/23/21,Slovakia,775926,12534
 7/23/21,Slovenia,258525,4426
 7/23/21,Solomon Islands,20,0
 7/23/21,Somalia,15180,781
@@ -107761,7 +107761,7 @@ Date,Country/Region,Confirmed,Deaths
 7/24/21,Seychelles,17941,79
 7/24/21,Sierra Leone,6218,118
 7/24/21,Singapore,64054,37
-7/24/21,Slovakia,392259,12534
+7/24/21,Slovakia,775979,12534
 7/24/21,Slovenia,258619,4427
 7/24/21,Solomon Islands,20,0
 7/24/21,Somalia,15203,789
@@ -107957,7 +107957,7 @@ Date,Country/Region,Confirmed,Deaths
 7/25/21,Seychelles,18056,79
 7/25/21,Sierra Leone,6228,118
 7/25/21,Singapore,64179,37
-7/25/21,Slovakia,392348,12534
+7/25/21,Slovakia,776037,12534
 7/25/21,Slovenia,258651,4428
 7/25/21,Solomon Islands,20,0
 7/25/21,Somalia,15230,796
@@ -108153,7 +108153,7 @@ Date,Country/Region,Confirmed,Deaths
 7/26/21,Seychelles,18095,79
 7/26/21,Sierra Leone,6228,118
 7/26/21,Singapore,64314,37
-7/26/21,Slovakia,392355,12534
+7/26/21,Slovakia,776056,12534
 7/26/21,Slovenia,258674,4428
 7/26/21,Solomon Islands,20,0
 7/26/21,Somalia,15251,797
@@ -108349,7 +108349,7 @@ Date,Country/Region,Confirmed,Deaths
 7/27/21,Seychelles,18128,79
 7/27/21,Sierra Leone,6247,119
 7/27/21,Singapore,64453,37
-7/27/21,Slovakia,392406,12534
+7/27/21,Slovakia,776129,12534
 7/27/21,Slovenia,258780,4428
 7/27/21,Solomon Islands,20,0
 7/27/21,Somalia,15294,798
@@ -108545,7 +108545,7 @@ Date,Country/Region,Confirmed,Deaths
 7/28/21,Seychelles,18155,79
 7/28/21,Sierra Leone,6250,119
 7/28/21,Singapore,64589,37
-7/28/21,Slovakia,392488,12534
+7/28/21,Slovakia,776229,12534
 7/28/21,Slovenia,258864,4428
 7/28/21,Solomon Islands,20,0
 7/28/21,Somalia,15323,804
@@ -108741,7 +108741,7 @@ Date,Country/Region,Confirmed,Deaths
 7/29/21,Seychelles,18220,79
 7/29/21,Sierra Leone,6268,120
 7/29/21,Singapore,64722,37
-7/29/21,Slovakia,392537,12536
+7/29/21,Slovakia,776298,12536
 7/29/21,Slovenia,258963,4428
 7/29/21,Solomon Islands,20,0
 7/29/21,Somalia,15358,809
@@ -108937,7 +108937,7 @@ Date,Country/Region,Confirmed,Deaths
 7/30/21,Seychelles,18275,79
 7/30/21,Sierra Leone,6279,120
 7/30/21,Singapore,64861,37
-7/30/21,Slovakia,392581,12536
+7/30/21,Slovakia,776358,12536
 7/30/21,Slovenia,259079,4428
 7/30/21,Solomon Islands,20,0
 7/30/21,Somalia,15358,809
@@ -109133,7 +109133,7 @@ Date,Country/Region,Confirmed,Deaths
 7/31/21,Seychelles,18328,79
 7/31/21,Sierra Leone,6283,120
 7/31/21,Singapore,64981,37
-7/31/21,Slovakia,392647,12540
+7/31/21,Slovakia,776444,12540
 7/31/21,Slovenia,259215,4429
 7/31/21,Solomon Islands,20,0
 7/31/21,Somalia,15403,811
@@ -109329,7 +109329,7 @@ Date,Country/Region,Confirmed,Deaths
 8/1/21,Seychelles,18362,86
 8/1/21,Sierra Leone,6283,120
 8/1/21,Singapore,65102,37
-8/1/21,Slovakia,392704,12540
+8/1/21,Slovakia,776512,12540
 8/1/21,Slovenia,259273,4429
 8/1/21,Solomon Islands,20,0
 8/1/21,Somalia,15456,813
@@ -109525,7 +109525,7 @@ Date,Country/Region,Confirmed,Deaths
 8/2/21,Seychelles,18411,86
 8/2/21,Sierra Leone,6288,120
 8/2/21,Singapore,65213,38
-8/2/21,Slovakia,392710,12540
+8/2/21,Slovakia,776534,12540
 8/2/21,Slovenia,259304,4429
 8/2/21,Solomon Islands,20,0
 8/2/21,Somalia,15497,819
@@ -109721,7 +109721,7 @@ Date,Country/Region,Confirmed,Deaths
 8/3/21,Seychelles,18470,91
 8/3/21,Sierra Leone,6292,120
 8/3/21,Singapore,65315,38
-8/3/21,Slovakia,392751,12541
+8/3/21,Slovakia,776608,12541
 8/3/21,Slovenia,259486,4429
 8/3/21,Solomon Islands,20,0
 8/3/21,Somalia,15594,828
@@ -109917,7 +109917,7 @@ Date,Country/Region,Confirmed,Deaths
 8/4/21,Seychelles,18546,91
 8/4/21,Sierra Leone,6296,120
 8/4/21,Singapore,65410,39
-8/4/21,Slovakia,392845,12541
+8/4/21,Slovakia,776716,12541
 8/4/21,Slovenia,259625,4429
 8/4/21,Solomon Islands,20,0
 8/4/21,Somalia,15658,832
@@ -110113,7 +110113,7 @@ Date,Country/Region,Confirmed,Deaths
 8/5/21,Seychelles,18617,91
 8/5/21,Sierra Leone,6303,120
 8/5/21,Singapore,65508,40
-8/5/21,Slovakia,392898,12541
+8/5/21,Slovakia,776781,12541
 8/5/21,Slovenia,259764,4429
 8/5/21,Solomon Islands,20,0
 8/5/21,Somalia,15735,837
@@ -110309,7 +110309,7 @@ Date,Country/Region,Confirmed,Deaths
 8/6/21,Seychelles,18617,91
 8/6/21,Sierra Leone,6310,120
 8/6/21,Singapore,65605,41
-8/6/21,Slovakia,392898,12541
+8/6/21,Slovakia,776867,12541
 8/6/21,Slovenia,259909,4430
 8/6/21,Solomon Islands,20,0
 8/6/21,Somalia,15735,837
@@ -110505,7 +110505,7 @@ Date,Country/Region,Confirmed,Deaths
 8/7/21,Seychelles,18617,91
 8/7/21,Sierra Leone,6313,120
 8/7/21,Singapore,65686,42
-8/7/21,Slovakia,393007,12541
+8/7/21,Slovakia,776934,12541
 8/7/21,Slovenia,260041,4431
 8/7/21,Solomon Islands,20,0
 8/7/21,Somalia,15788,847
@@ -110701,7 +110701,7 @@ Date,Country/Region,Confirmed,Deaths
 8/8/21,Seychelles,18617,91
 8/8/21,Sierra Leone,6315,121
 8/8/21,Singapore,65764,42
-8/8/21,Slovakia,393040,12541
+8/8/21,Slovakia,776988,12541
 8/8/21,Slovenia,260109,4433
 8/8/21,Solomon Islands,20,0
 8/8/21,Somalia,15865,850
@@ -110897,7 +110897,7 @@ Date,Country/Region,Confirmed,Deaths
 8/9/21,Seychelles,18617,91
 8/9/21,Sierra Leone,6315,121
 8/9/21,Singapore,65836,42
-8/9/21,Slovakia,393059,12541
+8/9/21,Slovakia,777021,12541
 8/9/21,Slovenia,260156,4433
 8/9/21,Solomon Islands,20,0
 8/9/21,Somalia,15929,858
@@ -111093,7 +111093,7 @@ Date,Country/Region,Confirmed,Deaths
 8/10/21,Seychelles,18668,91
 8/10/21,Sierra Leone,6315,121
 8/10/21,Singapore,65836,42
-8/10/21,Slovakia,393160,12543
+8/10/21,Slovakia,777140,12543
 8/10/21,Slovenia,260372,4433
 8/10/21,Solomon Islands,20,0
 8/10/21,Somalia,16039,863
@@ -111289,7 +111289,7 @@ Date,Country/Region,Confirmed,Deaths
 8/11/21,Seychelles,18772,91
 8/11/21,Sierra Leone,6324,121
 8/11/21,Singapore,65953,43
-8/11/21,Slovakia,393228,12544
+8/11/21,Slovakia,777237,12544
 8/11/21,Slovenia,260619,4433
 8/11/21,Solomon Islands,20,0
 8/11/21,Somalia,16103,864
@@ -111485,7 +111485,7 @@ Date,Country/Region,Confirmed,Deaths
 8/12/21,Seychelles,18954,91
 8/12/21,Sierra Leone,6332,121
 8/12/21,Singapore,66012,43
-8/12/21,Slovakia,393302,12544
+8/12/21,Slovakia,777332,12544
 8/12/21,Slovenia,260867,4433
 8/12/21,Solomon Islands,20,0
 8/12/21,Somalia,16195,870
@@ -111681,7 +111681,7 @@ Date,Country/Region,Confirmed,Deaths
 8/13/21,Seychelles,18981,91
 8/13/21,Sierra Leone,6333,121
 8/13/21,Singapore,66061,44
-8/13/21,Slovakia,393361,12544
+8/13/21,Slovakia,777417,12544
 8/13/21,Slovenia,261068,4433
 8/13/21,Solomon Islands,20,0
 8/13/21,Somalia,16195,870
@@ -111877,7 +111877,7 @@ Date,Country/Region,Confirmed,Deaths
 8/14/21,Seychelles,19082,91
 8/14/21,Sierra Leone,6338,121
 8/14/21,Singapore,66119,44
-8/14/21,Slovakia,393455,12544
+8/14/21,Slovakia,777545,12544
 8/14/21,Slovenia,261333,4433
 8/14/21,Solomon Islands,20,0
 8/14/21,Somalia,16265,878
@@ -112073,7 +112073,7 @@ Date,Country/Region,Confirmed,Deaths
 8/15/21,Seychelles,19149,98
 8/15/21,Sierra Leone,6342,121
 8/15/21,Singapore,66172,44
-8/15/21,Slovakia,393529,12544
+8/15/21,Slovakia,777640,12544
 8/15/21,Slovenia,261428,4433
 8/15/21,Solomon Islands,20,0
 8/15/21,Somalia,16319,883
@@ -112269,7 +112269,7 @@ Date,Country/Region,Confirmed,Deaths
 8/16/21,Seychelles,19199,98
 8/16/21,Sierra Leone,6342,121
 8/16/21,Singapore,66225,44
-8/16/21,Slovakia,393536,12544
+8/16/21,Slovakia,777668,12544
 8/16/21,Slovenia,261484,4433
 8/16/21,Solomon Islands,20,0
 8/16/21,Somalia,16399,892
@@ -112465,7 +112465,7 @@ Date,Country/Region,Confirmed,Deaths
 8/17/21,Seychelles,19224,98
 8/17/21,Sierra Leone,6343,121
 8/17/21,Singapore,66281,45
-8/17/21,Slovakia,393610,12546
+8/17/21,Slovakia,777787,12546
 8/17/21,Slovenia,261804,4433
 8/17/21,Solomon Islands,20,0
 8/17/21,Somalia,16399,892
@@ -112661,7 +112661,7 @@ Date,Country/Region,Confirmed,Deaths
 8/18/21,Seychelles,19272,98
 8/18/21,Sierra Leone,6346,121
 8/18/21,Singapore,66334,46
-8/18/21,Slovakia,393722,12547
+8/18/21,Slovakia,777924,12547
 8/18/21,Slovenia,262189,4436
 8/18/21,Solomon Islands,20,0
 8/18/21,Somalia,16535,897
@@ -112857,7 +112857,7 @@ Date,Country/Region,Confirmed,Deaths
 8/19/21,Seychelles,19320,98
 8/19/21,Sierra Leone,6347,121
 8/19/21,Singapore,66366,46
-8/19/21,Slovakia,393799,12547
+8/19/21,Slovakia,778055,12547
 8/19/21,Slovenia,262571,4438
 8/19/21,Solomon Islands,20,0
 8/19/21,Somalia,16535,897
@@ -113053,7 +113053,7 @@ Date,Country/Region,Confirmed,Deaths
 8/20/21,Seychelles,19476,98
 8/20/21,Sierra Leone,6347,121
 8/20/21,Singapore,66406,47
-8/20/21,Slovakia,393883,12547
+8/20/21,Slovakia,778177,12547
 8/20/21,Slovenia,262904,4438
 8/20/21,Solomon Islands,20,0
 8/20/21,Somalia,16535,897
@@ -113249,7 +113249,7 @@ Date,Country/Region,Confirmed,Deaths
 8/21/21,Seychelles,19530,98
 8/21/21,Sierra Leone,6347,121
 8/21/21,Singapore,66443,47
-8/21/21,Slovakia,393977,12547
+8/21/21,Slovakia,778322,12547
 8/21/21,Slovenia,263303,4438
 8/21/21,Solomon Islands,20,0
 8/21/21,Somalia,16535,897
@@ -113445,7 +113445,7 @@ Date,Country/Region,Confirmed,Deaths
 8/22/21,Seychelles,19586,98
 8/22/21,Sierra Leone,6355,121
 8/22/21,Singapore,66478,49
-8/22/21,Slovakia,394082,12547
+8/22/21,Slovakia,778450,12547
 8/22/21,Slovenia,263547,4440
 8/22/21,Solomon Islands,20,0
 8/22/21,Somalia,16787,918
@@ -113641,7 +113641,7 @@ Date,Country/Region,Confirmed,Deaths
 8/23/21,Seychelles,19609,98
 8/23/21,Sierra Leone,6355,121
 8/23/21,Singapore,66576,50
-8/23/21,Slovakia,394093,12547
+8/23/21,Slovakia,778501,12547
 8/23/21,Slovenia,263664,4441
 8/23/21,Solomon Islands,20,0
 8/23/21,Somalia,16892,927
@@ -113837,7 +113837,7 @@ Date,Country/Region,Confirmed,Deaths
 8/24/21,Seychelles,19680,98
 8/24/21,Sierra Leone,6357,121
 8/24/21,Singapore,66692,50
-8/24/21,Slovakia,394204,12547
+8/24/21,Slovakia,778664,12547
 8/24/21,Slovenia,264141,4442
 8/24/21,Solomon Islands,20,0
 8/24/21,Somalia,16892,927
@@ -114033,7 +114033,7 @@ Date,Country/Region,Confirmed,Deaths
 8/25/21,Seychelles,19770,98
 8/25/21,Sierra Leone,6358,121
 8/25/21,Singapore,66812,52
-8/25/21,Slovakia,394285,12547
+8/25/21,Slovakia,778774,12547
 8/25/21,Slovenia,264649,4443
 8/25/21,Solomon Islands,20,0
 8/25/21,Somalia,17016,938
@@ -114229,7 +114229,7 @@ Date,Country/Region,Confirmed,Deaths
 8/26/21,Seychelles,19806,102
 8/26/21,Sierra Leone,6363,121
 8/26/21,Singapore,66928,52
-8/26/21,Slovakia,394446,12547
+8/26/21,Slovakia,778983,12547
 8/26/21,Slovenia,265159,4444
 8/26/21,Solomon Islands,20,0
 8/26/21,Somalia,17016,938
@@ -114425,7 +114425,7 @@ Date,Country/Region,Confirmed,Deaths
 8/27/21,Seychelles,19863,102
 8/27/21,Sierra Leone,6363,121
 8/27/21,Singapore,66928,52
-8/27/21,Slovakia,394535,12548
+8/27/21,Slovakia,779136,12548
 8/27/21,Slovenia,265703,4446
 8/27/21,Solomon Islands,20,0
 8/27/21,Somalia,17016,938
@@ -114621,7 +114621,7 @@ Date,Country/Region,Confirmed,Deaths
 8/28/21,Seychelles,19910,102
 8/28/21,Sierra Leone,6363,121
 8/28/21,Singapore,67171,55
-8/28/21,Slovakia,394657,12548
+8/28/21,Slovakia,779324,12548
 8/28/21,Slovenia,266241,4448
 8/28/21,Solomon Islands,20,0
 8/28/21,Somalia,17210,953
@@ -114817,7 +114817,7 @@ Date,Country/Region,Confirmed,Deaths
 8/29/21,Seychelles,19910,102
 8/29/21,Sierra Leone,6363,121
 8/29/21,Singapore,67171,55
-8/29/21,Slovakia,394742,12548
+8/29/21,Slovakia,779460,12548
 8/29/21,Slovenia,266514,4448
 8/29/21,Solomon Islands,20,0
 8/29/21,Somalia,17302,963
@@ -115013,7 +115013,7 @@ Date,Country/Region,Confirmed,Deaths
 8/30/21,Seychelles,19992,102
 8/30/21,Sierra Leone,6367,121
 8/30/21,Singapore,67459,55
-8/30/21,Slovakia,394791,12548
+8/30/21,Slovakia,779540,12548
 8/30/21,Slovenia,266657,4449
 8/30/21,Solomon Islands,20,0
 8/30/21,Somalia,17399,969
@@ -115209,7 +115209,7 @@ Date,Country/Region,Confirmed,Deaths
 8/31/21,Seychelles,20038,102
 8/31/21,Sierra Leone,6367,121
 8/31/21,Singapore,67620,55
-8/31/21,Slovakia,394923,12548
+8/31/21,Slovakia,779767,12548
 8/31/21,Slovenia,267198,4450
 8/31/21,Solomon Islands,20,0
 8/31/21,Somalia,17466,977
@@ -115405,7 +115405,7 @@ Date,Country/Region,Confirmed,Deaths
 9/1/21,Seychelles,20128,102
 9/1/21,Sierra Leone,6368,121
 9/1/21,Singapore,67800,55
-9/1/21,Slovakia,395122,12548
+9/1/21,Slovakia,780075,12548
 9/1/21,Slovenia,267962,4450
 9/1/21,Solomon Islands,20,0
 9/1/21,Somalia,17466,977
@@ -115601,7 +115601,7 @@ Date,Country/Region,Confirmed,Deaths
 9/2/21,Seychelles,20128,102
 9/2/21,Sierra Leone,6369,121
 9/2/21,Singapore,67991,55
-9/2/21,Slovakia,395300,12548
+9/2/21,Slovakia,780305,12548
 9/2/21,Slovenia,268636,4453
 9/2/21,Solomon Islands,20,0
 9/2/21,Somalia,17630,992
@@ -115797,7 +115797,7 @@ Date,Country/Region,Confirmed,Deaths
 9/3/21,Seychelles,20230,103
 9/3/21,Sierra Leone,6371,121
 9/3/21,Singapore,68210,55
-9/3/21,Slovakia,395532,12549
+9/3/21,Slovakia,780689,12549
 9/3/21,Slovenia,269248,4453
 9/3/21,Solomon Islands,20,0
 9/3/21,Somalia,17630,992
@@ -115993,7 +115993,7 @@ Date,Country/Region,Confirmed,Deaths
 9/4/21,Seychelles,20230,103
 9/4/21,Sierra Leone,6372,121
 9/4/21,Singapore,68469,55
-9/4/21,Slovakia,395861,12549
+9/4/21,Slovakia,781164,12549
 9/4/21,Slovenia,269990,4455
 9/4/21,Solomon Islands,20,0
 9/4/21,Somalia,17726,997
@@ -116189,7 +116189,7 @@ Date,Country/Region,Confirmed,Deaths
 9/5/21,Seychelles,20230,103
 9/5/21,Sierra Leone,6374,121
 9/5/21,Singapore,68660,55
-9/5/21,Slovakia,396080,12549
+9/5/21,Slovakia,781455,12549
 9/5/21,Slovenia,270307,4455
 9/5/21,Solomon Islands,20,0
 9/5/21,Somalia,17832,1002
@@ -116385,7 +116385,7 @@ Date,Country/Region,Confirmed,Deaths
 9/6/21,Seychelles,20230,103
 9/6/21,Sierra Leone,6374,121
 9/6/21,Singapore,68901,55
-9/6/21,Slovakia,396181,12551
+9/6/21,Slovakia,781644,12551
 9/6/21,Slovenia,270541,4456
 9/6/21,Solomon Islands,20,0
 9/6/21,Somalia,17947,1005
@@ -116581,7 +116581,7 @@ Date,Country/Region,Confirmed,Deaths
 9/7/21,Seychelles,20281,103
 9/7/21,Sierra Leone,6376,121
 9/7/21,Singapore,69233,55
-9/7/21,Slovakia,396487,12552
+9/7/21,Slovakia,782148,12552
 9/7/21,Slovenia,271418,4458
 9/7/21,Solomon Islands,20,0
 9/7/21,Somalia,17947,1005
@@ -116777,7 +116777,7 @@ Date,Country/Region,Confirmed,Deaths
 9/8/21,Seychelles,20281,103
 9/8/21,Sierra Leone,6376,121
 9/8/21,Singapore,69582,56
-9/8/21,Slovakia,396904,12553
+9/8/21,Slovakia,782740,12553
 9/8/21,Slovenia,272512,4461
 9/8/21,Solomon Islands,20,0
 9/8/21,Somalia,17947,1005
@@ -116973,7 +116973,7 @@ Date,Country/Region,Confirmed,Deaths
 9/9/21,Seychelles,20593,106
 9/9/21,Sierra Leone,6378,121
 9/9/21,Singapore,70039,57
-9/9/21,Slovakia,397382,12556
+9/9/21,Slovakia,783397,12556
 9/9/21,Slovenia,273529,4462
 9/9/21,Solomon Islands,20,0
 9/9/21,Somalia,18273,1017
@@ -117169,7 +117169,7 @@ Date,Country/Region,Confirmed,Deaths
 9/10/21,Seychelles,20593,106
 9/10/21,Sierra Leone,6379,121
 9/10/21,Singapore,70612,58
-9/10/21,Slovakia,397759,12558
+9/10/21,Slovakia,783959,12558
 9/10/21,Slovenia,274528,4466
 9/10/21,Solomon Islands,20,0
 9/10/21,Somalia,18273,1017
@@ -117365,7 +117365,7 @@ Date,Country/Region,Confirmed,Deaths
 9/11/21,Seychelles,20593,106
 9/11/21,Sierra Leone,6379,121
 9/11/21,Singapore,71167,58
-9/11/21,Slovakia,398278,12558
+9/11/21,Slovakia,784662,12558
 9/11/21,Slovenia,275615,4469
 9/11/21,Solomon Islands,20,0
 9/11/21,Somalia,18373,1023
@@ -117561,7 +117561,7 @@ Date,Country/Region,Confirmed,Deaths
 9/12/21,Seychelles,20593,106
 9/12/21,Sierra Leone,6385,121
 9/12/21,Singapore,71687,58
-9/12/21,Slovakia,398690,12558
+9/12/21,Slovakia,785184,12558
 9/12/21,Slovenia,276174,4469
 9/12/21,Solomon Islands,20,0
 9/12/21,Somalia,18373,1023
@@ -117757,7 +117757,7 @@ Date,Country/Region,Confirmed,Deaths
 9/13/21,Seychelles,20593,106
 9/13/21,Sierra Leone,6385,121
 9/13/21,Singapore,72294,58
-9/13/21,Slovakia,398744,12560
+9/13/21,Slovakia,785387,12560
 9/13/21,Slovenia,276457,4470
 9/13/21,Solomon Islands,20,0
 9/13/21,Somalia,18568,1032
@@ -117953,7 +117953,7 @@ Date,Country/Region,Confirmed,Deaths
 9/14/21,Seychelles,20593,106
 9/14/21,Sierra Leone,6386,121
 9/14/21,Singapore,73131,58
-9/14/21,Slovakia,399218,12562
+9/14/21,Slovakia,786153,12562
 9/14/21,Slovenia,277853,4473
 9/14/21,Solomon Islands,20,0
 9/14/21,Somalia,18568,1032
@@ -118149,7 +118149,7 @@ Date,Country/Region,Confirmed,Deaths
 9/15/21,Seychelles,20593,106
 9/15/21,Sierra Leone,6388,121
 9/15/21,Singapore,73938,58
-9/15/21,Slovakia,399978,12566
+9/15/21,Slovakia,787184,12566
 9/15/21,Slovenia,279217,4479
 9/15/21,Solomon Islands,20,0
 9/15/21,Somalia,18820,1041
@@ -118345,7 +118345,7 @@ Date,Country/Region,Confirmed,Deaths
 9/16/21,Seychelles,20593,106
 9/16/21,Sierra Leone,6388,121
 9/16/21,Singapore,74848,59
-9/16/21,Slovakia,400348,12566
+9/16/21,Slovakia,787646,12566
 9/16/21,Slovenia,280544,4486
 9/16/21,Solomon Islands,20,0
 9/16/21,Somalia,18820,1041
@@ -118541,7 +118541,7 @@ Date,Country/Region,Confirmed,Deaths
 9/17/21,Seychelles,20593,106
 9/17/21,Sierra Leone,6391,121
 9/17/21,Singapore,75783,59
-9/17/21,Slovakia,401250,12569
+9/17/21,Slovakia,788941,12569
 9/17/21,Slovenia,281687,4492
 9/17/21,Solomon Islands,20,0
 9/17/21,Somalia,18820,1041
@@ -118737,7 +118737,7 @@ Date,Country/Region,Confirmed,Deaths
 9/18/21,Seychelles,20593,106
 9/18/21,Sierra Leone,6392,121
 9/18/21,Singapore,76792,60
-9/18/21,Slovakia,402066,12569
+9/18/21,Slovakia,790041,12569
 9/18/21,Slovenia,282935,4494
 9/18/21,Solomon Islands,20,0
 9/18/21,Somalia,19004,1063
@@ -118933,7 +118933,7 @@ Date,Country/Region,Confirmed,Deaths
 9/19/21,Seychelles,20593,106
 9/19/21,Sierra Leone,6392,121
 9/19/21,Singapore,77804,60
-9/19/21,Slovakia,402808,12569
+9/19/21,Slovakia,790957,12569
 9/19/21,Slovenia,283479,4498
 9/19/21,Solomon Islands,20,0
 9/19/21,Somalia,19004,1063
@@ -119129,7 +119129,7 @@ Date,Country/Region,Confirmed,Deaths
 9/20/21,Seychelles,20961,106
 9/20/21,Sierra Leone,6392,121
 9/20/21,Singapore,78721,62
-9/20/21,Slovakia,402922,12573
+9/20/21,Slovakia,791268,12573
 9/20/21,Slovenia,283770,4503
 9/20/21,Solomon Islands,20,0
 9/20/21,Somalia,19235,1079
@@ -119325,7 +119325,7 @@ Date,Country/Region,Confirmed,Deaths
 9/21/21,Seychelles,21077,110
 9/21/21,Sierra Leone,6393,121
 9/21/21,Singapore,79899,65
-9/21/21,Slovakia,403802,12580
+9/21/21,Slovakia,792516,12580
 9/21/21,Slovenia,285079,4506
 9/21/21,Solomon Islands,20,0
 9/21/21,Somalia,19235,1079
@@ -119521,7 +119521,7 @@ Date,Country/Region,Confirmed,Deaths
 9/22/21,Seychelles,21180,110
 9/22/21,Sierra Leone,6393,121
 9/22/21,Singapore,81356,68
-9/22/21,Slovakia,404982,12589
+9/22/21,Slovakia,794018,12589
 9/22/21,Slovenia,286267,4516
 9/22/21,Solomon Islands,20,0
 9/22/21,Somalia,19235,1079
@@ -119717,7 +119717,7 @@ Date,Country/Region,Confirmed,Deaths
 9/23/21,Seychelles,21180,110
 9/23/21,Sierra Leone,6393,121
 9/23/21,Singapore,82860,70
-9/23/21,Slovakia,405931,12592
+9/23/21,Slovakia,795286,12592
 9/23/21,Slovenia,287278,4521
 9/23/21,Solomon Islands,20,0
 9/23/21,Somalia,19583,1099
@@ -119913,7 +119913,7 @@ Date,Country/Region,Confirmed,Deaths
 9/24/21,Seychelles,21281,110
 9/24/21,Sierra Leone,6393,121
 9/24/21,Singapore,84510,73
-9/24/21,Slovakia,406760,12594
+9/24/21,Slovakia,796411,12594
 9/24/21,Slovenia,288219,4526
 9/24/21,Solomon Islands,20,0
 9/24/21,Somalia,19583,1099
@@ -120109,7 +120109,7 @@ Date,Country/Region,Confirmed,Deaths
 9/25/21,Seychelles,21281,110
 9/25/21,Sierra Leone,6393,121
 9/25/21,Singapore,85953,76
-9/25/21,Slovakia,407799,12596
+9/25/21,Slovakia,797808,12596
 9/25/21,Slovenia,289225,4531
 9/25/21,Solomon Islands,20,0
 9/25/21,Somalia,19723,1103
@@ -120305,7 +120305,7 @@ Date,Country/Region,Confirmed,Deaths
 9/26/21,Seychelles,21281,110
 9/26/21,Sierra Leone,6393,121
 9/26/21,Singapore,87892,78
-9/26/21,Slovakia,408488,12596
+9/26/21,Slovakia,798722,12596
 9/26/21,Slovenia,289670,4537
 9/26/21,Solomon Islands,20,0
 9/26/21,Somalia,19723,1103
@@ -120501,7 +120501,7 @@ Date,Country/Region,Confirmed,Deaths
 9/27/21,Seychelles,21374,110
 9/27/21,Sierra Leone,6393,121
 9/27/21,Singapore,89539,80
-9/27/21,Slovakia,408609,12596
+9/27/21,Slovakia,799121,12596
 9/27/21,Slovenia,289955,4544
 9/27/21,Solomon Islands,20,0
 9/27/21,Somalia,19980,1111
@@ -120697,7 +120697,7 @@ Date,Country/Region,Confirmed,Deaths
 9/28/21,Seychelles,21374,110
 9/28/21,Sierra Leone,6393,121
 9/28/21,Singapore,91775,85
-9/28/21,Slovakia,409621,12606
+9/28/21,Slovakia,800730,12606
 9/28/21,Slovenia,290994,4553
 9/28/21,Solomon Islands,20,0
 9/28/21,Somalia,19980,1111
@@ -120893,7 +120893,7 @@ Date,Country/Region,Confirmed,Deaths
 9/29/21,Seychelles,21473,112
 9/29/21,Sierra Leone,6393,121
 9/29/21,Singapore,94043,93
-9/29/21,Slovakia,411080,12620
+9/29/21,Slovakia,802589,12620
 9/29/21,Slovenia,292333,4557
 9/29/21,Solomon Islands,20,0
 9/29/21,Somalia,19980,1111
@@ -121089,7 +121089,7 @@ Date,Country/Region,Confirmed,Deaths
 9/30/21,Seychelles,21473,112
 9/30/21,Sierra Leone,6394,121
 9/30/21,Singapore,96521,95
-9/30/21,Slovakia,412507,12637
+9/30/21,Slovakia,804372,12637
 9/30/21,Slovenia,293364,4561
 9/30/21,Solomon Islands,20,0
 9/30/21,Somalia,19980,1111
@@ -121285,7 +121285,7 @@ Date,Country/Region,Confirmed,Deaths
 10/1/21,Seychelles,21507,112
 10/1/21,Sierra Leone,6394,121
 10/1/21,Singapore,99430,103
-10/1/21,Slovakia,413723,12649
+10/1/21,Slovakia,805983,12649
 10/1/21,Slovenia,294335,4565
 10/1/21,Solomon Islands,20,0
 10/1/21,Somalia,19980,1111
@@ -121481,7 +121481,7 @@ Date,Country/Region,Confirmed,Deaths
 10/2/21,Seychelles,21507,112
 10/2/21,Sierra Leone,6394,121
 10/2/21,Singapore,101786,107
-10/2/21,Slovakia,413723,12649
+10/2/21,Slovakia,807709,12649
 10/2/21,Slovenia,295328,4569
 10/2/21,Solomon Islands,20,0
 10/2/21,Somalia,19980,1111
@@ -121677,7 +121677,7 @@ Date,Country/Region,Confirmed,Deaths
 10/3/21,Seychelles,21507,112
 10/3/21,Sierra Leone,6396,121
 10/3/21,Singapore,103843,113
-10/3/21,Slovakia,415993,12668
+10/3/21,Slovakia,808960,12668
 10/3/21,Slovenia,295858,4574
 10/3/21,Solomon Islands,20,0
 10/3/21,Somalia,20577,1137
@@ -121873,7 +121873,7 @@ Date,Country/Region,Confirmed,Deaths
 10/4/21,Seychelles,21556,112
 10/4/21,Sierra Leone,6396,121
 10/4/21,Singapore,106318,121
-10/4/21,Slovakia,416260,12676
+10/4/21,Slovakia,809552,12676
 10/4/21,Slovenia,296083,4581
 10/4/21,Solomon Islands,20,0
 10/4/21,Somalia,20577,1137
@@ -122069,7 +122069,7 @@ Date,Country/Region,Confirmed,Deaths
 10/5/21,Seychelles,21556,112
 10/5/21,Sierra Leone,6396,121
 10/5/21,Singapore,109804,130
-10/5/21,Slovakia,417502,12690
+10/5/21,Slovakia,811438,12690
 10/5/21,Slovenia,297062,4589
 10/5/21,Solomon Islands,20,0
 10/5/21,Somalia,20577,1137
@@ -122265,7 +122265,7 @@ Date,Country/Region,Confirmed,Deaths
 10/6/21,Seychelles,21626,116
 10/6/21,Sierra Leone,6396,121
 10/6/21,Singapore,113381,133
-10/6/21,Slovakia,419473,12697
+10/6/21,Slovakia,813926,12697
 10/6/21,Slovenia,298274,4597
 10/6/21,Solomon Islands,20,0
 10/6/21,Somalia,20900,1152
@@ -122461,7 +122461,7 @@ Date,Country/Region,Confirmed,Deaths
 10/7/21,Seychelles,21705,116
 10/7/21,Sierra Leone,6396,121
 10/7/21,Singapore,116864,136
-10/7/21,Slovakia,420924,12705
+10/7/21,Slovakia,815858,12705
 10/7/21,Slovenia,299243,4600
 10/7/21,Solomon Islands,20,0
 10/7/21,Somalia,20900,1152
@@ -122657,7 +122657,7 @@ Date,Country/Region,Confirmed,Deaths
 10/8/21,Seychelles,21726,118
 10/8/21,Sierra Leone,6396,121
 10/8/21,Singapore,120454,142
-10/8/21,Slovakia,422614,12720
+10/8/21,Slovakia,818022,12720
 10/8/21,Slovenia,300084,4602
 10/8/21,Solomon Islands,20,0
 10/8/21,Somalia,20900,1152
@@ -122853,7 +122853,7 @@ Date,Country/Region,Confirmed,Deaths
 10/9/21,Seychelles,21726,118
 10/9/21,Sierra Leone,6396,121
 10/9/21,Singapore,124157,153
-10/9/21,Slovakia,424407,12729
+10/9/21,Slovakia,820303,12729
 10/9/21,Slovenia,300969,4607
 10/9/21,Solomon Islands,20,0
 10/9/21,Somalia,20900,1152
@@ -123049,7 +123049,7 @@ Date,Country/Region,Confirmed,Deaths
 10/10/21,Seychelles,21726,118
 10/10/21,Sierra Leone,6396,121
 10/10/21,Singapore,126966,162
-10/10/21,Slovakia,425569,12731
+10/10/21,Slovakia,821714,12731
 10/10/21,Slovenia,301458,4613
 10/10/21,Solomon Islands,20,0
 10/10/21,Somalia,21269,1180
@@ -123245,7 +123245,7 @@ Date,Country/Region,Confirmed,Deaths
 10/11/21,Seychelles,21769,118
 10/11/21,Sierra Leone,6396,121
 10/11/21,Singapore,129229,172
-10/11/21,Slovakia,425971,12735
+10/11/21,Slovakia,822475,12735
 10/11/21,Slovenia,301644,4617
 10/11/21,Solomon Islands,20,0
 10/11/21,Somalia,21269,1180
@@ -123441,7 +123441,7 @@ Date,Country/Region,Confirmed,Deaths
 10/12/21,Seychelles,21799,118
 10/12/21,Sierra Leone,6396,121
 10/12/21,Singapore,132205,183
-10/12/21,Slovakia,427480,12752
+10/12/21,Slovakia,824687,12752
 10/12/21,Slovenia,302654,4618
 10/12/21,Solomon Islands,20,0
 10/12/21,Somalia,21269,1180
@@ -123637,7 +123637,7 @@ Date,Country/Region,Confirmed,Deaths
 10/13/21,Seychelles,21826,118
 10/13/21,Sierra Leone,6396,121
 10/13/21,Singapore,135395,192
-10/13/21,Slovakia,429886,12772
+10/13/21,Slovakia,827648,12772
 10/13/21,Slovenia,303882,4623
 10/13/21,Solomon Islands,20,0
 10/13/21,Somalia,21269,1180
@@ -123833,7 +123833,7 @@ Date,Country/Region,Confirmed,Deaths
 10/14/21,Seychelles,21854,118
 10/14/21,Sierra Leone,6396,121
 10/14/21,Singapore,138327,207
-10/14/21,Slovakia,431757,12791
+10/14/21,Slovakia,830031,12791
 10/14/21,Slovenia,304963,4627
 10/14/21,Solomon Islands,20,0
 10/14/21,Somalia,21269,1180
@@ -124029,7 +124029,7 @@ Date,Country/Region,Confirmed,Deaths
 10/15/21,Seychelles,21854,119
 10/15/21,Sierra Leone,6396,121
 10/15/21,Singapore,141772,215
-10/15/21,Slovakia,433709,12816
+10/15/21,Slovakia,832457,12816
 10/15/21,Slovenia,306064,4631
 10/15/21,Solomon Islands,20,0
 10/15/21,Somalia,21269,1180
@@ -124225,7 +124225,7 @@ Date,Country/Region,Confirmed,Deaths
 10/16/21,Seychelles,21854,119
 10/16/21,Sierra Leone,6396,121
 10/16/21,Singapore,145120,224
-10/16/21,Slovakia,433709,12816
+10/16/21,Slovakia,834975,12816
 10/16/21,Slovenia,307503,4635
 10/16/21,Solomon Islands,20,0
 10/16/21,Somalia,21269,1180
@@ -124421,7 +124421,7 @@ Date,Country/Region,Confirmed,Deaths
 10/17/21,Seychelles,21854,119
 10/17/21,Sierra Leone,6396,121
 10/17/21,Singapore,148178,233
-10/17/21,Slovakia,437385,12846
+10/17/21,Slovakia,837146,12846
 10/17/21,Slovenia,308136,4638
 10/17/21,Solomon Islands,20,0
 10/17/21,Somalia,21269,1180
@@ -124617,7 +124617,7 @@ Date,Country/Region,Confirmed,Deaths
 10/18/21,Seychelles,21947,119
 10/18/21,Sierra Leone,6397,121
 10/18/21,Singapore,150731,239
-10/18/21,Slovakia,437938,12854
+10/18/21,Slovakia,838331,12854
 10/18/21,Slovenia,308501,4641
 10/18/21,Solomon Islands,20,0
 10/18/21,Somalia,21269,1180
@@ -124813,7 +124813,7 @@ Date,Country/Region,Confirmed,Deaths
 10/19/21,Seychelles,21991,119
 10/19/21,Sierra Leone,6397,121
 10/19/21,Singapore,154725,246
-10/19/21,Slovakia,439735,12864
+10/19/21,Slovakia,841322,12864
 10/19/21,Slovenia,310170,4645
 10/19/21,Solomon Islands,20,0
 10/19/21,Somalia,21269,1180
@@ -125009,7 +125009,7 @@ Date,Country/Region,Confirmed,Deaths
 10/20/21,Seychelles,22039,119
 10/20/21,Sierra Leone,6397,121
 10/20/21,Singapore,158587,264
-10/20/21,Slovakia,443214,12872
+10/20/21,Slovakia,845619,12872
 10/20/21,Slovenia,312316,4654
 10/20/21,Solomon Islands,20,0
 10/20/21,Somalia,21269,1180
@@ -125205,7 +125205,7 @@ Date,Country/Region,Confirmed,Deaths
 10/21/21,Seychelles,22071,119
 10/21/21,Sierra Leone,6397,121
 10/21/21,Singapore,162026,280
-10/21/21,Slovakia,446305,12883
+10/21/21,Slovakia,849611,12883
 10/21/21,Slovenia,314162,4661
 10/21/21,Solomon Islands,20,0
 10/21/21,Somalia,21269,1180
@@ -125401,7 +125401,7 @@ Date,Country/Region,Confirmed,Deaths
 10/22/21,Seychelles,22102,119
 10/22/21,Sierra Leone,6397,121
 10/22/21,Singapore,165663,294
-10/22/21,Slovakia,449775,12886
+10/22/21,Slovakia,854024,12886
 10/22/21,Slovenia,316138,4669
 10/22/21,Solomon Islands,20,0
 10/22/21,Somalia,21269,1180
@@ -125597,7 +125597,7 @@ Date,Country/Region,Confirmed,Deaths
 10/23/21,Seychelles,22102,119
 10/23/21,Sierra Leone,6397,121
 10/23/21,Singapore,169261,300
-10/23/21,Slovakia,453231,12895
+10/23/21,Slovakia,858435,12895
 10/23/21,Slovenia,318412,4678
 10/23/21,Solomon Islands,20,0
 10/23/21,Somalia,21269,1180
@@ -125793,7 +125793,7 @@ Date,Country/Region,Confirmed,Deaths
 10/24/21,Seychelles,22102,119
 10/24/21,Sierra Leone,6397,121
 10/24/21,Singapore,172644,315
-10/24/21,Slovakia,456438,12903
+10/24/21,Slovakia,862348,12903
 10/24/21,Slovenia,319913,4683
 10/24/21,Solomon Islands,20,0
 10/24/21,Somalia,21269,1180
@@ -125989,7 +125989,7 @@ Date,Country/Region,Confirmed,Deaths
 10/25/21,Seychelles,22135,119
 10/25/21,Sierra Leone,6397,121
 10/25/21,Singapore,175818,329
-10/25/21,Slovakia,457431,12917
+10/25/21,Slovakia,864213,12917
 10/25/21,Slovenia,320620,4693
 10/25/21,Solomon Islands,20,0
 10/25/21,Somalia,21998,1208
@@ -126185,7 +126185,7 @@ Date,Country/Region,Confirmed,Deaths
 10/26/21,Seychelles,22150,119
 10/26/21,Sierra Leone,6397,121
 10/26/21,Singapore,179095,339
-10/26/21,Slovakia,460281,12935
+10/26/21,Slovakia,868738,12935
 10/26/21,Slovenia,322914,4704
 10/26/21,Solomon Islands,20,0
 10/26/21,Somalia,21998,1208
@@ -126381,7 +126381,7 @@ Date,Country/Region,Confirmed,Deaths
 10/27/21,Seychelles,22174,119
 10/27/21,Sierra Leone,6397,121
 10/27/21,Singapore,184419,349
-10/27/21,Slovakia,465027,12957
+10/27/21,Slovakia,874816,12957
 10/27/21,Slovenia,326083,4713
 10/27/21,Solomon Islands,20,0
 10/27/21,Somalia,21998,1208
@@ -126577,7 +126577,7 @@ Date,Country/Region,Confirmed,Deaths
 10/28/21,Seychelles,22213,119
 10/28/21,Sierra Leone,6397,121
 10/28/21,Singapore,187851,364
-10/28/21,Slovakia,470008,12977
+10/28/21,Slovakia,881087,12977
 10/28/21,Slovenia,328729,4723
 10/28/21,Solomon Islands,20,0
 10/28/21,Somalia,21998,1208
@@ -126773,7 +126773,7 @@ Date,Country/Region,Confirmed,Deaths
 10/29/21,Seychelles,22243,119
 10/29/21,Sierra Leone,6397,121
 10/29/21,Singapore,192099,380
-10/29/21,Slovakia,474595,13000
+10/29/21,Slovakia,887197,13000
 10/29/21,Slovenia,331206,4730
 10/29/21,Solomon Islands,20,0
 10/29/21,Somalia,21998,1208
@@ -126969,7 +126969,7 @@ Date,Country/Region,Confirmed,Deaths
 10/30/21,Seychelles,22243,119
 10/30/21,Sierra Leone,6397,121
 10/30/21,Singapore,195211,394
-10/30/21,Slovakia,479737,13018
+10/30/21,Slovakia,893866,13018
 10/30/21,Slovenia,334188,4739
 10/30/21,Solomon Islands,20,0
 10/30/21,Somalia,21998,1208
@@ -127165,7 +127165,7 @@ Date,Country/Region,Confirmed,Deaths
 10/31/21,Seychelles,22243,119
 10/31/21,Sierra Leone,6397,121
 10/31/21,Singapore,198374,407
-10/31/21,Slovakia,483773,13034
+10/31/21,Slovakia,898926,13034
 10/31/21,Slovenia,335850,4745
 10/31/21,Solomon Islands,20,0
 10/31/21,Somalia,21998,1208
@@ -127361,7 +127361,7 @@ Date,Country/Region,Confirmed,Deaths
 11/1/21,Seychelles,22265,119
 11/1/21,Sierra Leone,6398,121
 11/1/21,Singapore,200844,421
-11/1/21,Slovakia,485629,13045
+11/1/21,Slovakia,902044,13045
 11/1/21,Slovenia,337108,4756
 11/1/21,Solomon Islands,20,0
 11/1/21,Somalia,21998,1208
@@ -127557,7 +127557,7 @@ Date,Country/Region,Confirmed,Deaths
 11/2/21,Seychelles,22280,119
 11/2/21,Sierra Leone,6398,121
 11/2/21,Singapore,204340,430
-11/2/21,Slovakia,487916,13076
+11/2/21,Slovakia,905284,13076
 11/2/21,Slovenia,338246,4766
 11/2/21,Solomon Islands,20,0
 11/2/21,Somalia,21998,1208
@@ -127753,7 +127753,7 @@ Date,Country/Region,Confirmed,Deaths
 11/3/21,Seychelles,22301,119
 11/3/21,Sierra Leone,6398,121
 11/3/21,Singapore,207975,442
-11/3/21,Slovakia,493277,13112
+11/3/21,Slovakia,913536,13112
 11/3/21,Slovenia,341699,4784
 11/3/21,Solomon Islands,20,0
 11/3/21,Somalia,21998,1208
@@ -127949,7 +127949,7 @@ Date,Country/Region,Confirmed,Deaths
 11/4/21,Seychelles,22336,119
 11/4/21,Sierra Leone,6398,121
 11/4/21,Singapore,210978,459
-11/4/21,Slovakia,499990,13146
+11/4/21,Slovakia,922403,13146
 11/4/21,Slovenia,346220,4793
 11/4/21,Solomon Islands,20,0
 11/4/21,Somalia,21998,1208
@@ -128145,7 +128145,7 @@ Date,Country/Region,Confirmed,Deaths
 11/5/21,Seychelles,22381,119
 11/5/21,Sierra Leone,6398,121
 11/5/21,Singapore,212745,468
-11/5/21,Slovakia,506795,13166
+11/5/21,Slovakia,931129,13166
 11/5/21,Slovenia,349996,4806
 11/5/21,Solomon Islands,20,0
 11/5/21,Somalia,22693,1294
@@ -128341,7 +128341,7 @@ Date,Country/Region,Confirmed,Deaths
 11/6/21,Seychelles,22381,119
 11/6/21,Sierra Leone,6398,121
 11/6/21,Singapore,215780,480
-11/6/21,Slovakia,513297,13205
+11/6/21,Slovakia,939755,13205
 11/6/21,Slovenia,353660,4820
 11/6/21,Solomon Islands,20,0
 11/6/21,Somalia,22693,1294
@@ -128537,7 +128537,7 @@ Date,Country/Region,Confirmed,Deaths
 11/7/21,Seychelles,22381,119
 11/7/21,Sierra Leone,6398,121
 11/7/21,Singapore,218333,497
-11/7/21,Slovakia,518635,13229
+11/7/21,Slovakia,946520,13229
 11/7/21,Slovenia,355979,4830
 11/7/21,Solomon Islands,20,0
 11/7/21,Somalia,22693,1294
@@ -128733,7 +128733,7 @@ Date,Country/Region,Confirmed,Deaths
 11/8/21,Seychelles,22441,119
 11/8/21,Sierra Leone,6398,121
 11/8/21,Singapore,220803,511
-11/8/21,Slovakia,521650,13269
+11/8/21,Slovakia,951417,13269
 11/8/21,Slovenia,357262,4843
 11/8/21,Solomon Islands,20,0
 11/8/21,Somalia,22693,1294
@@ -128929,7 +128929,7 @@ Date,Country/Region,Confirmed,Deaths
 11/9/21,Seychelles,22457,119
 11/9/21,Sierra Leone,6398,121
 11/9/21,Singapore,224200,523
-11/9/21,Slovakia,526608,13314
+11/9/21,Slovakia,959699,13314
 11/9/21,Slovenia,360614,4855
 11/9/21,Solomon Islands,20,0
 11/9/21,Somalia,22693,1294
@@ -129125,7 +129125,7 @@ Date,Country/Region,Confirmed,Deaths
 11/10/21,Seychelles,22526,119
 11/10/21,Sierra Leone,6398,121
 11/10/21,Singapore,227681,540
-11/10/21,Slovakia,533663,13367
+11/10/21,Slovakia,969099,13367
 11/10/21,Slovenia,365095,4875
 11/10/21,Solomon Islands,20,0
 11/10/21,Somalia,22693,1294
@@ -129321,7 +129321,7 @@ Date,Country/Region,Confirmed,Deaths
 11/11/21,Seychelles,22574,119
 11/11/21,Sierra Leone,6400,121
 11/11/21,Singapore,230077,548
-11/11/21,Slovakia,540209,13405
+11/11/21,Slovakia,978203,13405
 11/11/21,Slovenia,368669,4885
 11/11/21,Solomon Islands,20,0
 11/11/21,Somalia,22837,1313
@@ -129517,7 +129517,7 @@ Date,Country/Region,Confirmed,Deaths
 11/12/21,Seychelles,22633,122
 11/12/21,Sierra Leone,6400,121
 11/12/21,Singapore,233176,562
-11/12/21,Slovakia,547052,13446
+11/12/21,Slovakia,987623,13446
 11/12/21,Slovenia,372109,4899
 11/12/21,Solomon Islands,20,0
 11/12/21,Somalia,22837,1313
@@ -129713,7 +129713,7 @@ Date,Country/Region,Confirmed,Deaths
 11/13/21,Seychelles,22633,122
 11/13/21,Sierra Leone,6400,121
 11/13/21,Singapore,235480,576
-11/13/21,Slovakia,554296,13485
+11/13/21,Slovakia,997514,13485
 11/13/21,Slovenia,375775,4920
 11/13/21,Solomon Islands,20,0
 11/13/21,Somalia,22837,1313
@@ -129909,7 +129909,7 @@ Date,Country/Region,Confirmed,Deaths
 11/14/21,Seychelles,22633,122
 11/14/21,Sierra Leone,6400,121
 11/14/21,Singapore,237203,586
-11/14/21,Slovakia,560100,13537
+11/14/21,Slovakia,1005182,13537
 11/14/21,Slovenia,378142,4941
 11/14/21,Solomon Islands,20,0
 11/14/21,Somalia,22837,1313
@@ -130105,7 +130105,7 @@ Date,Country/Region,Confirmed,Deaths
 11/15/21,Seychelles,22722,122
 11/15/21,Sierra Leone,6400,121
 11/15/21,Singapore,239272,594
-11/15/21,Slovakia,563445,13598
+11/15/21,Slovakia,1010857,13598
 11/15/21,Slovenia,379964,4953
 11/15/21,Solomon Islands,20,0
 11/15/21,Somalia,22837,1313
@@ -130301,7 +130301,7 @@ Date,Country/Region,Confirmed,Deaths
 11/16/21,Seychelles,22722,122
 11/16/21,Sierra Leone,6400,121
 11/16/21,Singapore,241341,612
-11/16/21,Slovakia,569866,13644
+11/16/21,Slovakia,1021273,13644
 11/16/21,Slovenia,383734,4959
 11/16/21,Solomon Islands,20,0
 11/16/21,Somalia,22837,1313
@@ -130418,7 +130418,7 @@ Date,Country/Region,Confirmed,Deaths
 11/17/21,Honduras,377293,10372
 11/17/21,Hungary,976432,32514
 11/17/21,Iceland,16113,34
-11/17/21,India,34466598,464153
+11/17/21,India,34478517,464623
 11/17/21,Indonesia,4251945,143698
 11/17/21,Iran,6057893,128531
 11/17/21,Iraq,2071689,23580
@@ -130497,7 +130497,7 @@ Date,Country/Region,Confirmed,Deaths
 11/17/21,Seychelles,22781,122
 11/17/21,Sierra Leone,6400,121
 11/17/21,Singapore,244815,619
-11/17/21,Slovakia,578208,13687
+11/17/21,Slovakia,1032240,13687
 11/17/21,Slovenia,388011,4977
 11/17/21,Solomon Islands,20,0
 11/17/21,Somalia,22837,1313
@@ -130521,7 +130521,7 @@ Date,Country/Region,Confirmed,Deaths
 11/17/21,Trinidad and Tobago,63865,1891
 11/17/21,Tunisia,715911,25325
 11/17/21,Turkey,8482956,74202
-11/17/21,United States,47420114,767431
+11/17/21,United States,47420114,767433
 11/17/21,Uganda,127046,3244
 11/17/21,Ukraine,3418792,83609
 11/17/21,United Arab Emirates,741148,2144
