@@ -39,7 +39,7 @@ layout = html.Div(
                         ],
                     ],
                     data=data.to_dict("records"),
-                    page_size=50,
+                    page_size=25,
                     style_cell={
                         "whiteSpace": "normal",
                         "height": "auto",
