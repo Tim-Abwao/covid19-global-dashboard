@@ -114,7 +114,7 @@ def plot_piecharts(countries) -> list[Figure]:
     if countries == []:  # If no country is selected
         countries = ["Kenya", "Uganda", "Tanzania"]
 
-    data = latest_day_data.set_index("Location").loc[countries]
+    data = latest_day_data.set_index("Location").loc[countries].fillna(0)
 
     pie_charts = [
         html.Div(
