@@ -11481,7 +11481,7 @@ Date,Country/Region,Confirmed,Deaths
 3/20/20,Malta,64,0
 3/20/20,Marshall Islands,0,0
 3/20/20,Mauritania,2,0
-3/20/20,Mauritius,12,0
+3/20/20,Mauritius,7,0
 3/20/20,Mexico,203,2
 3/20/20,Micronesia (country),0,0
 3/20/20,Moldova,66,1
@@ -11677,7 +11677,7 @@ Date,Country/Region,Confirmed,Deaths
 3/21/20,Malta,73,0
 3/21/20,Marshall Islands,0,0
 3/21/20,Mauritania,2,0
-3/21/20,Mauritius,14,1
+3/21/20,Mauritius,12,0
 3/21/20,Mexico,251,2
 3/21/20,Micronesia (country),0,0
 3/21/20,Moldova,80,1
@@ -11873,7 +11873,7 @@ Date,Country/Region,Confirmed,Deaths
 3/22/20,Malta,90,0
 3/22/20,Marshall Islands,0,0
 3/22/20,Mauritania,2,0
-3/22/20,Mauritius,28,2
+3/22/20,Mauritius,14,0
 3/22/20,Mexico,316,3
 3/22/20,Micronesia (country),0,0
 3/22/20,Moldova,94,1
@@ -12069,7 +12069,7 @@ Date,Country/Region,Confirmed,Deaths
 3/23/20,Malta,107,0
 3/23/20,Marshall Islands,0,0
 3/23/20,Mauritania,2,0
-3/23/20,Mauritius,36,2
+3/23/20,Mauritius,24,0
 3/23/20,Mexico,367,4
 3/23/20,Micronesia (country),0,0
 3/23/20,Moldova,109,1
@@ -12265,7 +12265,7 @@ Date,Country/Region,Confirmed,Deaths
 3/24/20,Malta,110,0
 3/24/20,Marshall Islands,0,0
 3/24/20,Mauritania,2,0
-3/24/20,Mauritius,42,2
+3/24/20,Mauritius,36,0
 3/24/20,Mexico,405,5
 3/24/20,Micronesia (country),0,0
 3/24/20,Moldova,125,1
@@ -12461,7 +12461,7 @@ Date,Country/Region,Confirmed,Deaths
 3/25/20,Malta,129,0
 3/25/20,Marshall Islands,0,0
 3/25/20,Mauritania,2,0
-3/25/20,Mauritius,48,2
+3/25/20,Mauritius,42,2
 3/25/20,Mexico,475,6
 3/25/20,Micronesia (country),0,0
 3/25/20,Moldova,149,1
@@ -12657,7 +12657,7 @@ Date,Country/Region,Confirmed,Deaths
 3/26/20,Malta,134,0
 3/26/20,Marshall Islands,0,0
 3/26/20,Mauritania,3,0
-3/26/20,Mauritius,81,2
+3/26/20,Mauritius,48,2
 3/26/20,Mexico,585,8
 3/26/20,Micronesia (country),0,0
 3/26/20,Moldova,177,1
@@ -12853,7 +12853,7 @@ Date,Country/Region,Confirmed,Deaths
 3/27/20,Malta,139,0
 3/27/20,Marshall Islands,0,0
 3/27/20,Mauritania,3,0
-3/27/20,Mauritius,94,2
+3/27/20,Mauritius,82,2
 3/27/20,Mexico,717,12
 3/27/20,Micronesia (country),0,0
 3/27/20,Moldova,199,2
@@ -13049,7 +13049,7 @@ Date,Country/Region,Confirmed,Deaths
 3/28/20,Malta,149,0
 3/28/20,Marshall Islands,0,0
 3/28/20,Mauritania,5,0
-3/28/20,Mauritius,102,2
+3/28/20,Mauritius,94,2
 3/28/20,Mexico,848,16
 3/28/20,Micronesia (country),0,0
 3/28/20,Moldova,231,2
@@ -13245,7 +13245,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/20,Malta,151,0
 3/29/20,Marshall Islands,0,0
 3/29/20,Mauritania,5,0
-3/29/20,Mauritius,107,3
+3/29/20,Mauritius,102,2
 3/29/20,Mexico,993,20
 3/29/20,Micronesia (country),0,0
 3/29/20,Moldova,263,2
@@ -13441,7 +13441,7 @@ Date,Country/Region,Confirmed,Deaths
 3/30/20,Malta,156,0
 3/30/20,Marshall Islands,0,0
 3/30/20,Mauritania,5,1
-3/30/20,Mauritius,128,3
+3/30/20,Mauritius,107,2
 3/30/20,Mexico,1094,28
 3/30/20,Micronesia (country),0,0
 3/30/20,Moldova,298,2
@@ -13637,7 +13637,7 @@ Date,Country/Region,Confirmed,Deaths
 3/31/20,Malta,169,0
 3/31/20,Marshall Islands,0,0
 3/31/20,Mauritania,6,1
-3/31/20,Mauritius,143,5
+3/31/20,Mauritius,125,3
 3/31/20,Mexico,1215,29
 3/31/20,Micronesia (country),0,0
 3/31/20,Moldova,353,4
@@ -13833,7 +13833,7 @@ Date,Country/Region,Confirmed,Deaths
 4/1/20,Malta,188,0
 4/1/20,Marshall Islands,0,0
 4/1/20,Mauritania,6,1
-4/1/20,Mauritius,161,6
+4/1/20,Mauritius,143,5
 4/1/20,Mexico,1378,37
 4/1/20,Micronesia (country),0,0
 4/1/20,Moldova,423,5
@@ -14029,7 +14029,7 @@ Date,Country/Region,Confirmed,Deaths
 4/2/20,Malta,196,0
 4/2/20,Marshall Islands,0,0
 4/2/20,Mauritania,6,1
-4/2/20,Mauritius,169,7
+4/2/20,Mauritius,154,5
 4/2/20,Mexico,1510,50
 4/2/20,Micronesia (country),0,0
 4/2/20,Moldova,505,6
@@ -14225,7 +14225,7 @@ Date,Country/Region,Confirmed,Deaths
 4/3/20,Malta,202,0
 4/3/20,Marshall Islands,0,0
 4/3/20,Mauritania,6,1
-4/3/20,Mauritius,186,7
+4/3/20,Mauritius,171,7
 4/3/20,Mexico,1688,60
 4/3/20,Micronesia (country),0,0
 4/3/20,Moldova,591,8
@@ -14421,7 +14421,7 @@ Date,Country/Region,Confirmed,Deaths
 4/4/20,Malta,213,0
 4/4/20,Marshall Islands,0,0
 4/4/20,Mauritania,6,1
-4/4/20,Mauritius,196,7
+4/4/20,Mauritius,186,7
 4/4/20,Mexico,1890,79
 4/4/20,Micronesia (country),0,0
 4/4/20,Moldova,752,12
@@ -14617,7 +14617,7 @@ Date,Country/Region,Confirmed,Deaths
 4/5/20,Malta,227,0
 4/5/20,Marshall Islands,0,0
 4/5/20,Mauritania,6,1
-4/5/20,Mauritius,227,7
+4/5/20,Mauritius,196,7
 4/5/20,Mexico,2143,94
 4/5/20,Micronesia (country),0,0
 4/5/20,Moldova,864,15
@@ -14813,7 +14813,7 @@ Date,Country/Region,Confirmed,Deaths
 4/6/20,Malta,241,0
 4/6/20,Marshall Islands,0,0
 4/6/20,Mauritania,6,1
-4/6/20,Mauritius,244,7
+4/6/20,Mauritius,227,7
 4/6/20,Mexico,2439,125
 4/6/20,Micronesia (country),0,0
 4/6/20,Moldova,965,19
@@ -15009,7 +15009,7 @@ Date,Country/Region,Confirmed,Deaths
 4/7/20,Malta,293,0
 4/7/20,Marshall Islands,0,0
 4/7/20,Mauritania,6,1
-4/7/20,Mauritius,268,7
+4/7/20,Mauritius,244,7
 4/7/20,Mexico,2785,141
 4/7/20,Micronesia (country),0,0
 4/7/20,Moldova,1056,22
@@ -15205,7 +15205,7 @@ Date,Country/Region,Confirmed,Deaths
 4/8/20,Malta,299,1
 4/8/20,Marshall Islands,0,0
 4/8/20,Mauritania,6,1
-4/8/20,Mauritius,273,7
+4/8/20,Mauritius,268,7
 4/8/20,Mexico,3181,174
 4/8/20,Micronesia (country),0,0
 4/8/20,Moldova,1174,27
@@ -15401,7 +15401,7 @@ Date,Country/Region,Confirmed,Deaths
 4/9/20,Malta,337,2
 4/9/20,Marshall Islands,0,0
 4/9/20,Mauritania,7,1
-4/9/20,Mauritius,314,7
+4/9/20,Mauritius,273,7
 4/9/20,Mexico,3441,194
 4/9/20,Micronesia (country),0,0
 4/9/20,Moldova,1289,29
@@ -15597,7 +15597,7 @@ Date,Country/Region,Confirmed,Deaths
 4/10/20,Malta,350,2
 4/10/20,Marshall Islands,0,0
 4/10/20,Mauritania,7,1
-4/10/20,Mauritius,318,9
+4/10/20,Mauritius,314,7
 4/10/20,Mexico,3844,233
 4/10/20,Micronesia (country),0,0
 4/10/20,Moldova,1438,29
@@ -15793,7 +15793,7 @@ Date,Country/Region,Confirmed,Deaths
 4/11/20,Malta,370,3
 4/11/20,Marshall Islands,0,0
 4/11/20,Mauritania,7,1
-4/11/20,Mauritius,319,9
+4/11/20,Mauritius,318,9
 4/11/20,Mexico,4219,273
 4/11/20,Micronesia (country),0,0
 4/11/20,Moldova,1560,30
@@ -15989,7 +15989,7 @@ Date,Country/Region,Confirmed,Deaths
 4/12/20,Malta,378,3
 4/12/20,Marshall Islands,0,0
 4/12/20,Mauritania,7,1
-4/12/20,Mauritius,324,9
+4/12/20,Mauritius,319,9
 4/12/20,Mexico,4661,296
 4/12/20,Micronesia (country),0,0
 4/12/20,Moldova,1662,31
@@ -17165,7 +17165,7 @@ Date,Country/Region,Confirmed,Deaths
 4/18/20,Malta,426,3
 4/18/20,Marshall Islands,0,0
 4/18/20,Mauritania,7,1
-4/18/20,Mauritius,325,9
+4/18/20,Mauritius,324,9
 4/18/20,Mexico,7497,650
 4/18/20,Micronesia (country),0,0
 4/18/20,Moldova,2378,57
@@ -17361,7 +17361,7 @@ Date,Country/Region,Confirmed,Deaths
 4/19/20,Malta,427,3
 4/19/20,Marshall Islands,0,0
 4/19/20,Mauritania,7,1
-4/19/20,Mauritius,328,9
+4/19/20,Mauritius,325,9
 4/19/20,Mexico,8261,686
 4/19/20,Micronesia (country),0,0
 4/19/20,Moldova,2472,67
@@ -17949,7 +17949,7 @@ Date,Country/Region,Confirmed,Deaths
 4/22/20,Malta,444,3
 4/22/20,Marshall Islands,0,0
 4/22/20,Mauritania,7,1
-4/22/20,Mauritius,329,9
+4/22/20,Mauritius,328,9
 4/22/20,Mexico,10544,970
 4/22/20,Micronesia (country),0,0
 4/22/20,Moldova,2778,75
@@ -18145,7 +18145,7 @@ Date,Country/Region,Confirmed,Deaths
 4/23/20,Malta,445,3
 4/23/20,Marshall Islands,0,0
 4/23/20,Mauritania,7,1
-4/23/20,Mauritius,331,9
+4/23/20,Mauritius,329,9
 4/23/20,Mexico,11633,1069
 4/23/20,Micronesia (country),0,0
 4/23/20,Moldova,2926,80
@@ -18733,7 +18733,7 @@ Date,Country/Region,Confirmed,Deaths
 4/26/20,Malta,448,4
 4/26/20,Marshall Islands,0,0
 4/26/20,Mauritania,7,1
-4/26/20,Mauritius,332,9
+4/26/20,Mauritius,331,9
 4/26/20,Mexico,14677,1351
 4/26/20,Micronesia (country),0,0
 4/26/20,Moldova,3408,96
@@ -18929,7 +18929,7 @@ Date,Country/Region,Confirmed,Deaths
 4/27/20,Malta,450,4
 4/27/20,Marshall Islands,0,0
 4/27/20,Mauritania,7,1
-4/27/20,Mauritius,334,10
+4/27/20,Mauritius,332,9
 4/27/20,Mexico,15529,1434
 4/27/20,Micronesia (country),0,0
 4/27/20,Moldova,3481,102
@@ -19125,7 +19125,7 @@ Date,Country/Region,Confirmed,Deaths
 4/28/20,Malta,458,4
 4/28/20,Marshall Islands,0,0
 4/28/20,Mauritania,7,1
-4/28/20,Mauritius,334,10
+4/28/20,Mauritius,332,9
 4/28/20,Mexico,16752,1569
 4/28/20,Micronesia (country),0,0
 4/28/20,Moldova,3638,103
@@ -24221,7 +24221,7 @@ Date,Country/Region,Confirmed,Deaths
 5/24/20,Malta,610,6
 5/24/20,Marshall Islands,0,0
 5/24/20,Mauritania,237,6
-5/24/20,Mauritius,334,10
+5/24/20,Mauritius,332,10
 5/24/20,Mexico,68620,7394
 5/24/20,Micronesia (country),0,0
 5/24/20,Moldova,7093,250
@@ -25201,7 +25201,7 @@ Date,Country/Region,Confirmed,Deaths
 5/29/20,Malta,616,9
 5/29/20,Marshall Islands,0,0
 5/29/20,Mauritania,423,20
-5/29/20,Mauritius,335,10
+5/29/20,Mauritius,334,10
 5/29/20,Mexico,84627,9415
 5/29/20,Micronesia (country),0,0
 5/29/20,Moldova,7896,288
@@ -26573,7 +26573,7 @@ Date,Country/Region,Confirmed,Deaths
 6/5/20,Malta,625,9
 6/5/20,Marshall Islands,0,0
 6/5/20,Mauritania,883,43
-6/5/20,Mauritius,337,10
+6/5/20,Mauritius,335,10
 6/5/20,Mexico,110026,13170
 6/5/20,Micronesia (country),0,0
 6/5/20,Moldova,9247,323
@@ -29905,7 +29905,7 @@ Date,Country/Region,Confirmed,Deaths
 6/22/20,Malta,665,9
 6/22/20,Marshall Islands,0,0
 6/22/20,Mauritania,3121,112
-6/22/20,Mauritius,340,10
+6/22/20,Mauritius,337,10
 6/22/20,Mexico,185122,22584
 6/22/20,Micronesia (country),0,0
 6/22/20,Moldova,14363,480
@@ -30297,7 +30297,7 @@ Date,Country/Region,Confirmed,Deaths
 6/24/20,Malta,665,9
 6/24/20,Marshall Islands,0,0
 6/24/20,Mauritania,3519,116
-6/24/20,Mauritius,341,10
+6/24/20,Mauritius,340,10
 6/24/20,Mexico,196847,24324
 6/24/20,Micronesia (country),0,0
 6/24/20,Moldova,15078,495
@@ -32649,7 +32649,7 @@ Date,Country/Region,Confirmed,Deaths
 7/6/20,Malta,672,9
 7/6/20,Marshall Islands,0,0
 7/6/20,Mauritania,4948,133
-7/6/20,Mauritius,342,10
+7/6/20,Mauritius,341,10
 7/6/20,Mexico,261750,31119
 7/6/20,Micronesia (country),0,0
 7/6/20,Moldova,17906,592
@@ -34217,7 +34217,7 @@ Date,Country/Region,Confirmed,Deaths
 7/14/20,Malta,674,9
 7/14/20,Marshall Islands,0,0
 7/14/20,Mauritania,5518,147
-7/14/20,Mauritius,342,10
+7/14/20,Mauritius,343,10
 7/14/20,Mexico,311486,36327
 7/14/20,Micronesia (country),0,0
 7/14/20,Moldova,19708,655
@@ -36177,7 +36177,7 @@ Date,Country/Region,Confirmed,Deaths
 7/24/20,Malta,686,9
 7/24/20,Marshall Islands,0,0
 7/24/20,Mauritania,6116,156
-7/24/20,Mauritius,344,10
+7/24/20,Mauritius,343,10
 7/24/20,Mexico,378285,42645
 7/24/20,Micronesia (country),0,0
 7/24/20,Moldova,22483,726
@@ -40293,7 +40293,7 @@ Date,Country/Region,Confirmed,Deaths
 8/14/20,Malta,1276,9
 8/14/20,Marshall Islands,0,0
 8/14/20,Mauritania,6676,157
-8/14/20,Mauritius,345,10
+8/14/20,Mauritius,344,10
 8/14/20,Mexico,511369,55908
 8/14/20,Micronesia (country),0,0
 8/14/20,Moldova,29483,884
@@ -40489,7 +40489,7 @@ Date,Country/Region,Confirmed,Deaths
 8/15/20,Malta,1348,9
 8/15/20,Marshall Islands,0,0
 8/15/20,Mauritania,6693,157
-8/15/20,Mauritius,346,10
+8/15/20,Mauritius,344,10
 8/15/20,Mexico,517714,56543
 8/15/20,Micronesia (country),0,0
 8/15/20,Moldova,29905,895
@@ -42253,7 +42253,7 @@ Date,Country/Region,Confirmed,Deaths
 8/24/20,Malta,1667,10
 8/24/20,Marshall Islands,0,0
 8/24/20,Mauritania,6928,158
-8/24/20,Mauritius,347,10
+8/24/20,Mauritius,346,10
 8/24/20,Mexico,563705,60800
 8/24/20,Micronesia (country),0,0
 8/24/20,Moldova,33828,945
@@ -42449,7 +42449,7 @@ Date,Country/Region,Confirmed,Deaths
 8/25/20,Malta,1705,10
 8/25/20,Marshall Islands,0,0
 8/25/20,Mauritania,6960,158
-8/25/20,Mauritius,348,10
+8/25/20,Mauritius,346,10
 8/25/20,Mexico,568621,61450
 8/25/20,Micronesia (country),0,0
 8/25/20,Moldova,34358,960
@@ -42645,7 +42645,7 @@ Date,Country/Region,Confirmed,Deaths
 8/26/20,Malta,1751,10
 8/26/20,Marshall Islands,0,0
 8/26/20,Mauritania,6977,158
-8/26/20,Mauritius,348,10
+8/26/20,Mauritius,346,10
 8/26/20,Mexico,573888,62076
 8/26/20,Micronesia (country),0,0
 8/26/20,Moldova,34982,967
@@ -42841,7 +42841,7 @@ Date,Country/Region,Confirmed,Deaths
 8/27/20,Malta,1788,10
 8/27/20,Marshall Islands,0,0
 8/27/20,Mauritania,6993,158
-8/27/20,Mauritius,355,10
+8/27/20,Mauritius,346,10
 8/27/20,Mexico,579914,62594
 8/27/20,Micronesia (country),0,0
 8/27/20,Moldova,35546,977
@@ -43037,7 +43037,7 @@ Date,Country/Region,Confirmed,Deaths
 8/28/20,Malta,1820,10
 8/28/20,Marshall Islands,0,0
 8/28/20,Mauritania,7012,158
-8/28/20,Mauritius,355,10
+8/28/20,Mauritius,346,10
 8/28/20,Mexico,585738,63146
 8/28/20,Micronesia (country),0,0
 8/28/20,Moldova,35904,981
@@ -43233,7 +43233,7 @@ Date,Country/Region,Confirmed,Deaths
 8/29/20,Malta,1847,10
 8/29/20,Marshall Islands,0,0
 8/29/20,Mauritania,7012,158
-8/29/20,Mauritius,355,10
+8/29/20,Mauritius,346,10
 8/29/20,Mexico,591712,63819
 8/29/20,Micronesia (country),0,0
 8/29/20,Moldova,36404,990
@@ -43429,7 +43429,7 @@ Date,Country/Region,Confirmed,Deaths
 8/30/20,Malta,1862,12
 8/30/20,Marshall Islands,0,0
 8/30/20,Mauritania,7016,159
-8/30/20,Mauritius,355,10
+8/30/20,Mauritius,346,10
 8/30/20,Mexico,595841,64158
 8/30/20,Micronesia (country),0,0
 8/30/20,Moldova,36700,992
@@ -43625,7 +43625,7 @@ Date,Country/Region,Confirmed,Deaths
 8/31/20,Malta,1883,12
 8/31/20,Marshall Islands,0,0
 8/31/20,Mauritania,7048,159
-8/31/20,Mauritius,356,10
+8/31/20,Mauritius,355,10
 8/31/20,Mexico,599560,64414
 8/31/20,Micronesia (country),0,0
 8/31/20,Moldova,36920,995
@@ -45193,7 +45193,7 @@ Date,Country/Region,Confirmed,Deaths
 9/8/20,Malta,2099,14
 9/8/20,Marshall Islands,0,0
 9/8/20,Mauritania,7165,160
-9/8/20,Mauritius,361,10
+9/8/20,Mauritius,356,10
 9/8/20,Mexico,642860,68484
 9/8/20,Micronesia (country),0,0
 9/8/20,Moldova,40556,1087
@@ -45389,7 +45389,7 @@ Date,Country/Region,Confirmed,Deaths
 9/9/20,Malta,2162,14
 9/9/20,Marshall Islands,0,0
 9/9/20,Mauritania,7191,161
-9/9/20,Mauritius,361,10
+9/9/20,Mauritius,357,10
 9/9/20,Mexico,647321,69049
 9/9/20,Micronesia (country),0,0
 9/9/20,Moldova,41144,1096
@@ -45585,7 +45585,7 @@ Date,Country/Region,Confirmed,Deaths
 9/10/20,Malta,2204,14
 9/10/20,Marshall Islands,0,0
 9/10/20,Mauritania,7222,161
-9/10/20,Mauritius,361,10
+9/10/20,Mauritius,357,10
 9/10/20,Mexico,652364,69649
 9/10/20,Micronesia (country),0,0
 9/10/20,Moldova,41704,1106
@@ -46369,7 +46369,7 @@ Date,Country/Region,Confirmed,Deaths
 9/14/20,Malta,2405,16
 9/14/20,Marshall Islands,0,0
 9/14/20,Mauritania,7295,161
-9/14/20,Mauritius,361,10
+9/14/20,Mauritius,362,10
 9/14/20,Mexico,671716,71049
 9/14/20,Micronesia (country),0,0
 9/14/20,Moldova,43207,1129
@@ -46565,7 +46565,7 @@ Date,Country/Region,Confirmed,Deaths
 9/15/20,Malta,2454,16
 9/15/20,Marshall Islands,0,0
 9/15/20,Mauritania,7319,161
-9/15/20,Mauritius,365,10
+9/15/20,Mauritius,362,10
 9/15/20,Mexico,676487,71678
 9/15/20,Micronesia (country),0,0
 9/15/20,Moldova,43734,1143
@@ -46957,7 +46957,7 @@ Date,Country/Region,Confirmed,Deaths
 9/17/20,Malta,2595,16
 9/17/20,Marshall Islands,0,0
 9/17/20,Mauritania,7346,161
-9/17/20,Mauritius,366,10
+9/17/20,Mauritius,365,10
 9/17/20,Mexico,684113,72179
 9/17/20,Micronesia (country),0,0
 9/17/20,Moldova,44983,1170
@@ -47349,7 +47349,7 @@ Date,Country/Region,Confirmed,Deaths
 9/19/20,Malta,2699,19
 9/19/20,Marshall Islands,0,0
 9/19/20,Mauritania,7365,161
-9/19/20,Mauritius,366,10
+9/19/20,Mauritius,367,10
 9/19/20,Mexico,694121,73258
 9/19/20,Micronesia (country),0,0
 9/19/20,Moldova,46336,1201
@@ -47545,7 +47545,7 @@ Date,Country/Region,Confirmed,Deaths
 9/20/20,Malta,2731,20
 9/20/20,Marshall Islands,0,0
 9/20/20,Mauritania,7368,161
-9/20/20,Mauritius,366,10
+9/20/20,Mauritius,367,10
 9/20/20,Mexico,697663,73493
 9/20/20,Micronesia (country),0,0
 9/20/20,Moldova,46596,1203
@@ -47741,7 +47741,7 @@ Date,Country/Region,Confirmed,Deaths
 9/21/20,Malta,2776,23
 9/21/20,Marshall Islands,0,0
 9/21/20,Mauritania,7384,161
-9/21/20,Mauritius,366,10
+9/21/20,Mauritius,367,10
 9/21/20,Mexico,700580,73697
 9/21/20,Micronesia (country),0,0
 9/21/20,Moldova,46796,1211
@@ -49309,7 +49309,7 @@ Date,Country/Region,Confirmed,Deaths
 9/29/20,Malta,3035,34
 9/29/20,Marshall Islands,0,0
 9/29/20,Mauritania,7488,161
-9/29/20,Mauritius,367,10
+9/29/20,Mauritius,370,10
 9/29/20,Mexico,738163,77163
 9/29/20,Micronesia (country),0,0
 9/29/20,Moldova,52029,1310
@@ -49897,7 +49897,7 @@ Date,Country/Region,Confirmed,Deaths
 10/2/20,Malta,3139,37
 10/2/20,Marshall Islands,0,0
 10/2/20,Mauritania,7511,162
-10/2/20,Mauritius,385,10
+10/2/20,Mauritius,381,10
 10/2/20,Mexico,753090,78492
 10/2/20,Micronesia (country),0,0
 10/2/20,Moldova,55016,1344
@@ -50093,7 +50093,7 @@ Date,Country/Region,Confirmed,Deaths
 10/3/20,Malta,3204,38
 10/3/20,Marshall Islands,0,0
 10/3/20,Mauritania,7517,162
-10/3/20,Mauritius,385,10
+10/3/20,Mauritius,381,10
 10/3/20,Mexico,757953,78880
 10/3/20,Micronesia (country),0,0
 10/3/20,Moldova,55888,1353
@@ -50485,7 +50485,7 @@ Date,Country/Region,Confirmed,Deaths
 10/5/20,Malta,3327,39
 10/5/20,Marshall Islands,0,0
 10/5/20,Mauritania,7523,162
-10/5/20,Mauritius,387,10
+10/5/20,Mauritius,385,10
 10/5/20,Mexico,789780,81877
 10/5/20,Micronesia (country),0,0
 10/5/20,Moldova,56901,1375
@@ -50681,7 +50681,7 @@ Date,Country/Region,Confirmed,Deaths
 10/6/20,Malta,3374,40
 10/6/20,Marshall Islands,0,0
 10/6/20,Mauritania,7529,162
-10/6/20,Mauritius,395,10
+10/6/20,Mauritius,387,10
 10/6/20,Mexico,794608,82348
 10/6/20,Micronesia (country),0,0
 10/6/20,Moldova,57732,1389
@@ -51857,7 +51857,7 @@ Date,Country/Region,Confirmed,Deaths
 10/12/20,Malta,3844,43
 10/12/20,Marshall Islands,0,0
 10/12/20,Mauritania,7554,163
-10/12/20,Mauritius,404,10
+10/12/20,Mauritius,395,10
 10/12/20,Mexico,821045,83945
 10/12/20,Micronesia (country),0,0
 10/12/20,Moldova,62618,1478
@@ -52053,7 +52053,7 @@ Date,Country/Region,Confirmed,Deaths
 10/13/20,Malta,3937,44
 10/13/20,Marshall Islands,0,0
 10/13/20,Mauritania,7565,163
-10/13/20,Mauritius,407,10
+10/13/20,Mauritius,404,10
 10/13/20,Mexico,825340,84420
 10/13/20,Micronesia (country),0,0
 10/13/20,Moldova,63275,1495
@@ -52445,7 +52445,7 @@ Date,Country/Region,Confirmed,Deaths
 10/15/20,Malta,4160,45
 10/15/20,Marshall Islands,0,0
 10/15/20,Mauritania,7585,163
-10/15/20,Mauritius,415,10
+10/15/20,Mauritius,407,10
 10/15/20,Mexico,834910,85285
 10/15/20,Micronesia (country),0,0
 10/15/20,Moldova,65076,1530
@@ -52641,7 +52641,7 @@ Date,Country/Region,Confirmed,Deaths
 10/16/20,Malta,4282,45
 10/16/20,Marshall Islands,0,0
 10/16/20,Mauritania,7603,163
-10/16/20,Mauritius,417,10
+10/16/20,Mauritius,407,10
 10/16/20,Mexico,841661,85704
 10/16/20,Micronesia (country),0,0
 10/16/20,Moldova,65860,1549
@@ -52837,7 +52837,7 @@ Date,Country/Region,Confirmed,Deaths
 10/17/20,Malta,4486,45
 10/17/20,Marshall Islands,0,0
 10/17/20,Mauritania,7607,163
-10/17/20,Mauritius,417,10
+10/17/20,Mauritius,407,10
 10/17/20,Mexico,847108,86059
 10/17/20,Micronesia (country),0,0
 10/17/20,Moldova,66652,1569
@@ -53033,7 +53033,7 @@ Date,Country/Region,Confirmed,Deaths
 10/18/20,Malta,4628,45
 10/18/20,Marshall Islands,0,0
 10/18/20,Mauritania,7608,163
-10/18/20,Mauritius,417,10
+10/18/20,Mauritius,407,10
 10/18/20,Mexico,851227,86167
 10/18/20,Micronesia (country),0,0
 10/18/20,Moldova,67050,1584
@@ -53229,7 +53229,7 @@ Date,Country/Region,Confirmed,Deaths
 10/19/20,Malta,4737,45
 10/19/20,Marshall Islands,0,0
 10/19/20,Mauritania,7621,163
-10/19/20,Mauritius,419,10
+10/19/20,Mauritius,407,10
 10/19/20,Mexico,854926,86338
 10/19/20,Micronesia (country),0,0
 10/19/20,Moldova,67302,1600
@@ -53425,7 +53425,7 @@ Date,Country/Region,Confirmed,Deaths
 10/20/20,Malta,4871,46
 10/20/20,Marshall Islands,0,0
 10/20/20,Mauritania,7634,163
-10/20/20,Mauritius,419,10
+10/20/20,Mauritius,420,10
 10/20/20,Mexico,860714,86893
 10/20/20,Micronesia (country),0,0
 10/20/20,Moldova,67958,1617
@@ -53621,7 +53621,7 @@ Date,Country/Region,Confirmed,Deaths
 10/21/20,Malta,5026,46
 10/21/20,Marshall Islands,0,0
 10/21/20,Mauritania,7638,163
-10/21/20,Mauritius,419,10
+10/21/20,Mauritius,421,10
 10/21/20,Mexico,867559,87415
 10/21/20,Micronesia (country),0,0
 10/21/20,Moldova,68791,1630
@@ -53817,7 +53817,7 @@ Date,Country/Region,Confirmed,Deaths
 10/22/20,Malta,5137,49
 10/22/20,Marshall Islands,0,0
 10/22/20,Mauritania,7650,163
-10/22/20,Mauritius,425,10
+10/22/20,Mauritius,421,10
 10/22/20,Mexico,874171,87415
 10/22/20,Micronesia (country),0,0
 10/22/20,Moldova,69568,1641
@@ -54013,7 +54013,7 @@ Date,Country/Region,Confirmed,Deaths
 10/23/20,Malta,5258,49
 10/23/20,Marshall Islands,0,0
 10/23/20,Mauritania,7662,163
-10/23/20,Mauritius,435,10
+10/23/20,Mauritius,421,10
 10/23/20,Mexico,880775,88312
 10/23/20,Micronesia (country),0,0
 10/23/20,Moldova,70256,1654
@@ -54601,7 +54601,7 @@ Date,Country/Region,Confirmed,Deaths
 10/26/20,Malta,5578,53
 10/26/20,Marshall Islands,0,0
 10/26/20,Mauritania,7677,163
-10/26/20,Mauritius,439,10
+10/26/20,Mauritius,435,10
 10/26/20,Mexico,895326,89171
 10/26/20,Micronesia (country),0,0
 10/26/20,Moldova,71811,1700
@@ -55189,7 +55189,7 @@ Date,Country/Region,Confirmed,Deaths
 10/29/20,Malta,5866,59
 10/29/20,Marshall Islands,2,0
 10/29/20,Mauritania,7700,163
-10/29/20,Mauritius,439,10
+10/29/20,Mauritius,441,10
 10/29/20,Mexico,912811,90773
 10/29/20,Micronesia (country),0,0
 10/29/20,Moldova,74233,1747
@@ -55777,7 +55777,7 @@ Date,Country/Region,Confirmed,Deaths
 11/1/20,Malta,6182,64
 11/1/20,Marshall Islands,2,0
 11/1/20,Mauritania,7704,163
-11/1/20,Mauritius,446,10
+11/1/20,Mauritius,441,10
 11/1/20,Mexico,929392,91895
 11/1/20,Micronesia (country),0,0
 11/1/20,Moldova,76582,1800
@@ -55973,7 +55973,7 @@ Date,Country/Region,Confirmed,Deaths
 11/2/20,Malta,6400,66
 11/2/20,Marshall Islands,2,0
 11/2/20,Mauritania,7704,163
-11/2/20,Mauritius,451,10
+11/2/20,Mauritius,446,10
 11/2/20,Mexico,933155,92100
 11/2/20,Micronesia (country),0,0
 11/2/20,Moldova,76777,1818
@@ -56365,7 +56365,7 @@ Date,Country/Region,Confirmed,Deaths
 11/4/20,Malta,6590,65
 11/4/20,Marshall Islands,2,0
 11/4/20,Mauritania,7744,164
-11/4/20,Mauritius,452,10
+11/4/20,Mauritius,451,10
 11/4/20,Mexico,943630,93228
 11/4/20,Micronesia (country),0,0
 11/4/20,Moldova,78507,1851
@@ -56561,7 +56561,7 @@ Date,Country/Region,Confirmed,Deaths
 11/5/20,Malta,6764,70
 11/5/20,Marshall Islands,1,0
 11/5/20,Mauritania,7777,165
-11/5/20,Mauritius,453,10
+11/5/20,Mauritius,452,10
 11/5/20,Mexico,949197,93772
 11/5/20,Micronesia (country),0,0
 11/5/20,Moldova,79566,1866
@@ -56953,7 +56953,7 @@ Date,Country/Region,Confirmed,Deaths
 11/7/20,Malta,7039,74
 11/7/20,Marshall Islands,1,0
 11/7/20,Mauritania,7814,165
-11/7/20,Mauritius,453,10
+11/7/20,Mauritius,455,10
 11/7/20,Mexico,961938,94808
 11/7/20,Micronesia (country),0,0
 11/7/20,Moldova,81675,1891
@@ -57149,7 +57149,7 @@ Date,Country/Region,Confirmed,Deaths
 11/8/20,Malta,7141,76
 11/8/20,Marshall Islands,1,0
 11/8/20,Mauritania,7820,165
-11/8/20,Mauritius,453,10
+11/8/20,Mauritius,455,10
 11/8/20,Mexico,967825,95027
 11/8/20,Micronesia (country),0,0
 11/8/20,Moldova,82346,1893
@@ -57345,7 +57345,7 @@ Date,Country/Region,Confirmed,Deaths
 11/9/20,Malta,7243,78
 11/9/20,Marshall Islands,1,0
 11/9/20,Mauritania,7833,165
-11/9/20,Mauritius,453,10
+11/9/20,Mauritius,467,10
 11/9/20,Mexico,972785,95225
 11/9/20,Micronesia (country),0,0
 11/9/20,Moldova,82677,1912
@@ -57541,7 +57541,7 @@ Date,Country/Region,Confirmed,Deaths
 11/10/20,Malta,7396,81
 11/10/20,Marshall Islands,1,0
 11/10/20,Mauritania,7848,165
-11/10/20,Mauritius,453,10
+11/10/20,Mauritius,467,10
 11/10/20,Mexico,978531,95842
 11/10/20,Micronesia (country),0,0
 11/10/20,Moldova,83592,1930
@@ -57737,7 +57737,7 @@ Date,Country/Region,Confirmed,Deaths
 11/11/20,Malta,7537,88
 11/11/20,Marshall Islands,1,0
 11/11/20,Mauritania,7885,165
-11/11/20,Mauritius,453,10
+11/11/20,Mauritius,467,10
 11/11/20,Mexico,986177,96430
 11/11/20,Micronesia (country),0,0
 11/11/20,Moldova,84707,1950
@@ -57933,7 +57933,7 @@ Date,Country/Region,Confirmed,Deaths
 11/12/20,Malta,7646,88
 11/12/20,Marshall Islands,1,0
 11/12/20,Mauritania,7900,165
-11/12/20,Mauritius,468,10
+11/12/20,Mauritius,467,10
 11/12/20,Mexico,991835,97056
 11/12/20,Micronesia (country),0,0
 11/12/20,Moldova,86038,1969
@@ -58521,7 +58521,7 @@ Date,Country/Region,Confirmed,Deaths
 11/15/20,Malta,8034,97
 11/15/20,Marshall Islands,1,0
 11/15/20,Mauritania,7952,165
-11/15/20,Mauritius,478,10
+11/15/20,Mauritius,470,10
 11/15/20,Mexico,1006522,98542
 11/15/20,Micronesia (country),0,0
 11/15/20,Moldova,89279,2019
@@ -59109,7 +59109,7 @@ Date,Country/Region,Confirmed,Deaths
 11/18/20,Malta,8420,103
 11/18/20,Marshall Islands,4,0
 11/18/20,Mauritania,8010,167
-11/18/20,Mauritius,494,10
+11/18/20,Mauritius,491,10
 11/18/20,Mexico,1015071,99528
 11/18/20,Micronesia (country),0,0
 11/18/20,Moldova,92519,2072
@@ -59305,7 +59305,7 @@ Date,Country/Region,Confirmed,Deaths
 11/19/20,Malta,8560,104
 11/19/20,Marshall Islands,4,0
 11/19/20,Mauritania,8034,168
-11/19/20,Mauritius,494,10
+11/19/20,Mauritius,492,10
 11/19/20,Mexico,1019543,100104
 11/19/20,Micronesia (country),0,0
 11/19/20,Moldova,93961,2091
@@ -59501,7 +59501,7 @@ Date,Country/Region,Confirmed,Deaths
 11/20/20,Malta,8681,108
 11/20/20,Marshall Islands,4,0
 11/20/20,Mauritania,8075,169
-11/20/20,Mauritius,494,10
+11/20/20,Mauritius,493,10
 11/20/20,Mexico,1025969,100823
 11/20/20,Micronesia (country),0,0
 11/20/20,Moldova,95383,2111
@@ -59893,7 +59893,7 @@ Date,Country/Region,Confirmed,Deaths
 11/22/20,Malta,8924,111
 11/22/20,Marshall Islands,4,0
 11/22/20,Mauritania,8128,169
-11/22/20,Mauritius,494,10
+11/22/20,Mauritius,495,10
 11/22/20,Mexico,1041875,101676
 11/22/20,Micronesia (country),0,0
 11/22/20,Moldova,97941,2149
@@ -60089,7 +60089,7 @@ Date,Country/Region,Confirmed,Deaths
 11/23/20,Malta,9004,113
 11/23/20,Marshall Islands,4,0
 11/23/20,Mauritania,8167,169
-11/23/20,Mauritius,494,10
+11/23/20,Mauritius,496,10
 11/23/20,Mexico,1049358,101926
 11/23/20,Micronesia (country),0,0
 11/23/20,Moldova,98418,2169
@@ -60285,7 +60285,7 @@ Date,Country/Region,Confirmed,Deaths
 11/24/20,Malta,9137,117
 11/24/20,Marshall Islands,4,0
 11/24/20,Mauritania,8193,169
-11/24/20,Mauritius,494,10
+11/24/20,Mauritius,497,10
 11/24/20,Mexico,1060152,102739
 11/24/20,Micronesia (country),0,0
 11/24/20,Moldova,99633,2188
@@ -60481,7 +60481,7 @@ Date,Country/Region,Confirmed,Deaths
 11/25/20,Malta,9253,122
 11/25/20,Marshall Islands,4,0
 11/25/20,Mauritania,8246,171
-11/25/20,Mauritius,497,10
+11/25/20,Mauritius,500,10
 11/25/20,Mexico,1070487,103597
 11/25/20,Micronesia (country),0,0
 11/25/20,Moldova,101203,2209
@@ -60677,7 +60677,7 @@ Date,Country/Region,Confirmed,Deaths
 11/26/20,Malta,9405,125
 11/26/20,Marshall Islands,4,0
 11/26/20,Mauritania,8288,171
-11/26/20,Mauritius,498,10
+11/26/20,Mauritius,500,10
 11/26/20,Mexico,1078594,104242
 11/26/20,Micronesia (country),0,0
 11/26/20,Moldova,102894,2229
@@ -61069,7 +61069,7 @@ Date,Country/Region,Confirmed,Deaths
 11/28/20,Malta,9609,132
 11/28/20,Marshall Islands,4,0
 11/28/20,Mauritania,8458,172
-11/28/20,Mauritius,501,10
+11/28/20,Mauritius,502,10
 11/28/20,Mexico,1101403,105459
 11/28/20,Micronesia (country),0,0
 11/28/20,Moldova,105852,2269
@@ -61265,7 +61265,7 @@ Date,Country/Region,Confirmed,Deaths
 11/29/20,Malta,9752,133
 11/29/20,Marshall Islands,4,0
 11/29/20,Mauritania,8547,175
-11/29/20,Mauritius,501,10
+11/29/20,Mauritius,503,10
 11/29/20,Mexico,1107071,105655
 11/29/20,Micronesia (country),0,0
 11/29/20,Moldova,107017,2290
@@ -61657,7 +61657,7 @@ Date,Country/Region,Confirmed,Deaths
 12/1/20,Malta,9975,141
 12/1/20,Marshall Islands,4,0
 12/1/20,Mauritania,8710,177
-12/1/20,Mauritius,505,10
+12/1/20,Mauritius,504,10
 12/1/20,Mexico,1122362,106765
 12/1/20,Micronesia (country),0,0
 12/1/20,Moldova,108863,2323
@@ -61853,7 +61853,7 @@ Date,Country/Region,Confirmed,Deaths
 12/2/20,Malta,10101,146
 12/2/20,Marshall Islands,4,0
 12/2/20,Mauritania,8863,179
-12/2/20,Mauritius,508,10
+12/2/20,Mauritius,505,10
 12/2/20,Mexico,1133613,107565
 12/2/20,Micronesia (country),0,0
 12/2/20,Moldova,110580,2343
@@ -62049,7 +62049,7 @@ Date,Country/Region,Confirmed,Deaths
 12/3/20,Malta,10197,148
 12/3/20,Marshall Islands,4,0
 12/3/20,Mauritania,9005,181
-12/3/20,Mauritius,508,10
+12/3/20,Mauritius,505,10
 12/3/20,Mexico,1144643,108173
 12/3/20,Micronesia (country),0,0
 12/3/20,Moldova,112307,2363
@@ -62245,7 +62245,7 @@ Date,Country/Region,Confirmed,Deaths
 12/4/20,Malta,10320,149
 12/4/20,Marshall Islands,4,0
 12/4/20,Mauritania,9181,182
-12/4/20,Mauritius,508,10
+12/4/20,Mauritius,505,10
 12/4/20,Mexico,1156770,108863
 12/4/20,Micronesia (country),0,0
 12/4/20,Moldova,113829,2384
@@ -62441,7 +62441,7 @@ Date,Country/Region,Confirmed,Deaths
 12/5/20,Malta,10423,149
 12/5/20,Marshall Islands,4,0
 12/5/20,Mauritania,9359,184
-12/5/20,Mauritius,508,10
+12/5/20,Mauritius,505,10
 12/5/20,Mexico,1168395,109456
 12/5/20,Micronesia (country),0,0
 12/5/20,Moldova,115557,2403
@@ -62637,7 +62637,7 @@ Date,Country/Region,Confirmed,Deaths
 12/6/20,Malta,10520,151
 12/6/20,Marshall Islands,4,0
 12/6/20,Mauritania,9516,188
-12/6/20,Mauritius,508,10
+12/6/20,Mauritius,505,10
 12/6/20,Mexico,1175850,109717
 12/6/20,Micronesia (country),0,0
 12/6/20,Moldova,116365,2419
@@ -62833,7 +62833,7 @@ Date,Country/Region,Confirmed,Deaths
 12/7/20,Malta,10659,155
 12/7/20,Marshall Islands,4,0
 12/7/20,Mauritania,9679,194
-12/7/20,Mauritius,511,10
+12/7/20,Mauritius,514,10
 12/7/20,Mexico,1182249,110074
 12/7/20,Micronesia (country),0,0
 12/7/20,Moldova,117495,2438
@@ -63225,7 +63225,7 @@ Date,Country/Region,Confirmed,Deaths
 12/9/20,Malta,10778,160
 12/9/20,Marshall Islands,4,0
 12/9/20,Mauritania,10105,202
-12/9/20,Mauritius,515,10
+12/9/20,Mauritius,516,10
 12/9/20,Mexico,1205229,111655
 12/9/20,Micronesia (country),0,0
 12/9/20,Moldova,120970,2481
@@ -63421,7 +63421,7 @@ Date,Country/Region,Confirmed,Deaths
 12/10/20,Malta,10884,164
 12/10/20,Marshall Islands,4,0
 12/10/20,Mauritania,10268,210
-12/10/20,Mauritius,515,10
+12/10/20,Mauritius,517,10
 12/10/20,Mexico,1217126,112326
 12/10/20,Micronesia (country),0,0
 12/10/20,Moldova,122685,2500
@@ -63617,7 +63617,7 @@ Date,Country/Region,Confirmed,Deaths
 12/11/20,Malta,10980,166
 12/11/20,Marshall Islands,4,0
 12/11/20,Mauritania,10501,210
-12/11/20,Mauritius,515,10
+12/11/20,Mauritius,518,10
 12/11/20,Mexico,1229379,113019
 12/11/20,Micronesia (country),0,0
 12/11/20,Moldova,124264,2521
@@ -63813,7 +63813,7 @@ Date,Country/Region,Confirmed,Deaths
 12/12/20,Malta,11101,166
 12/12/20,Marshall Islands,4,0
 12/12/20,Mauritania,10780,222
-12/12/20,Mauritius,515,10
+12/12/20,Mauritius,519,10
 12/12/20,Mexico,1241436,113704
 12/12/20,Micronesia (country),0,0
 12/12/20,Moldova,125723,2547
@@ -64009,7 +64009,7 @@ Date,Country/Region,Confirmed,Deaths
 12/13/20,Malta,11153,169
 12/13/20,Marshall Islands,4,0
 12/13/20,Mauritania,10971,225
-12/13/20,Mauritius,515,10
+12/13/20,Mauritius,523,10
 12/13/20,Mexico,1250044,113953
 12/13/20,Micronesia (country),0,0
 12/13/20,Moldova,126518,2572
@@ -65773,7 +65773,7 @@ Date,Country/Region,Confirmed,Deaths
 12/22/20,Malta,11910,196
 12/22/20,Marshall Islands,4,0
 12/22/20,Mauritania,12745,290
-12/22/20,Mauritius,526,10
+12/22/20,Mauritius,527,10
 12/22/20,Mexico,1338426,119495
 12/22/20,Micronesia (country),0,0
 12/22/20,Moldova,136931,2803
@@ -68321,7 +68321,7 @@ Date,Country/Region,Confirmed,Deaths
 1/4/21,Malta,13230,222
 1/4/21,Marshall Islands,4,0
 1/4/21,Mauritania,14875,360
-1/4/21,Mauritius,531,10
+1/4/21,Mauritius,527,10
 1/4/21,Mexico,1455219,127757
 1/4/21,Micronesia (country),0,0
 1/4/21,Moldova,146309,3054
@@ -68713,7 +68713,7 @@ Date,Country/Region,Confirmed,Deaths
 1/6/21,Malta,13612,227
 1/6/21,Marshall Islands,4,0
 1/6/21,Mauritania,15111,373
-1/6/21,Mauritius,539,10
+1/6/21,Mauritius,531,10
 1/6/21,Mexico,1479835,129987
 1/6/21,Micronesia (country),0,0
 1/6/21,Moldova,147871,3088
@@ -69693,7 +69693,7 @@ Date,Country/Region,Confirmed,Deaths
 1/11/21,Malta,14529,233
 1/11/21,Marshall Islands,4,0
 1/11/21,Mauritania,15611,387
-1/11/21,Mauritius,545,10
+1/11/21,Mauritius,539,10
 1/11/21,Mexico,1541633,134368
 1/11/21,Micronesia (country),0,0
 1/11/21,Moldova,149662,3156
@@ -69889,7 +69889,7 @@ Date,Country/Region,Confirmed,Deaths
 1/12/21,Malta,14769,234
 1/12/21,Marshall Islands,4,0
 1/12/21,Mauritania,15707,392
-1/12/21,Mauritius,546,10
+1/12/21,Mauritius,545,10
 1/12/21,Mexico,1556028,135682
 1/12/21,Micronesia (country),0,0
 1/12/21,Moldova,150138,3176
@@ -70085,7 +70085,7 @@ Date,Country/Region,Confirmed,Deaths
 1/13/21,Malta,14958,234
 1/13/21,Marshall Islands,4,0
 1/13/21,Mauritania,15794,395
-1/13/21,Mauritius,547,10
+1/13/21,Mauritius,546,10
 1/13/21,Mexico,1571901,136917
 1/13/21,Micronesia (country),0,0
 1/13/21,Moldova,150946,3193
@@ -71065,7 +71065,7 @@ Date,Country/Region,Confirmed,Deaths
 1/18/21,Malta,15742,241
 1/18/21,Marshall Islands,4,0
 1/18/21,Mauritania,16081,403
-1/18/21,Mauritius,556,10
+1/18/21,Mauritius,547,10
 1/18/21,Mexico,1649502,141248
 1/18/21,Micronesia (country),0,0
 1/18/21,Moldova,153112,3267
@@ -72437,7 +72437,7 @@ Date,Country/Region,Confirmed,Deaths
 1/25/21,Malta,16861,253
 1/25/21,Marshall Islands,4,0
 1/25/21,Mauritania,16421,417
-1/25/21,Mauritius,568,10
+1/25/21,Mauritius,556,10
 1/25/21,Mexico,1771740,150273
 1/25/21,Micronesia (country),1,0
 1/25/21,Moldova,156426,3368
@@ -72829,7 +72829,7 @@ Date,Country/Region,Confirmed,Deaths
 1/27/21,Malta,17192,258
 1/27/21,Marshall Islands,4,0
 1/27/21,Mauritania,16506,419
-1/27/21,Mauritius,569,10
+1/27/21,Mauritius,568,10
 1/27/21,Mexico,1806849,153639
 1/27/21,Micronesia (country),1,0
 1/27/21,Moldova,157626,3396
@@ -73025,7 +73025,7 @@ Date,Country/Region,Confirmed,Deaths
 1/28/21,Malta,17400,261
 1/28/21,Marshall Islands,4,0
 1/28/21,Mauritania,16543,421
-1/28/21,Mauritius,569,10
+1/28/21,Mauritius,568,10
 1/28/21,Mexico,1825519,155145
 1/28/21,Micronesia (country),1,0
 1/28/21,Moldova,158309,3413
@@ -73221,7 +73221,7 @@ Date,Country/Region,Confirmed,Deaths
 1/29/21,Malta,17585,264
 1/29/21,Marshall Islands,4,0
 1/29/21,Mauritania,16576,421
-1/29/21,Mauritius,569,10
+1/29/21,Mauritius,568,10
 1/29/21,Mexico,1841893,156579
 1/29/21,Micronesia (country),1,0
 1/29/21,Moldova,158860,3424
@@ -73417,7 +73417,7 @@ Date,Country/Region,Confirmed,Deaths
 1/30/21,Malta,17721,265
 1/30/21,Marshall Islands,4,0
 1/30/21,Mauritania,16608,422
-1/30/21,Mauritius,569,10
+1/30/21,Mauritius,568,10
 1/30/21,Mexico,1857230,158074
 1/30/21,Micronesia (country),1,0
 1/30/21,Moldova,159513,3434
@@ -73613,7 +73613,7 @@ Date,Country/Region,Confirmed,Deaths
 1/31/21,Malta,17903,267
 1/31/21,Marshall Islands,4,0
 1/31/21,Mauritania,16635,422
-1/31/21,Mauritius,569,10
+1/31/21,Mauritius,568,10
 1/31/21,Mexico,1864260,158536
 1/31/21,Micronesia (country),1,0
 1/31/21,Moldova,159804,3438
@@ -73809,7 +73809,7 @@ Date,Country/Region,Confirmed,Deaths
 2/1/21,Malta,18027,269
 2/1/21,Marshall Islands,4,0
 2/1/21,Mauritania,16662,422
-2/1/21,Mauritius,582,10
+2/1/21,Mauritius,568,10
 2/1/21,Mexico,1869708,159100
 2/1/21,Micronesia (country),1,0
 2/1/21,Moldova,160086,3446
@@ -74201,7 +74201,7 @@ Date,Country/Region,Confirmed,Deaths
 2/3/21,Malta,18306,273
 2/3/21,Marshall Islands,4,0
 2/3/21,Mauritania,16720,424
-2/3/21,Mauritius,584,10
+2/3/21,Mauritius,583,10
 2/3/21,Mexico,1886245,161240
 2/3/21,Micronesia (country),1,0
 2/3/21,Moldova,161642,3480
@@ -75181,7 +75181,7 @@ Date,Country/Region,Confirmed,Deaths
 2/8/21,Malta,18813,282
 2/8/21,Marshall Islands,4,0
 2/8/21,Mauritania,16827,427
-2/8/21,Mauritius,593,10
+2/8/21,Mauritius,584,10
 2/8/21,Mexico,1936013,166731
 2/8/21,Micronesia (country),1,0
 2/8/21,Moldova,164858,3557
@@ -75377,7 +75377,7 @@ Date,Country/Region,Confirmed,Deaths
 2/9/21,Malta,19015,284
 2/9/21,Marshall Islands,4,0
 2/9/21,Mauritania,16868,427
-2/9/21,Mauritius,594,10
+2/9/21,Mauritius,584,10
 2/9/21,Mexico,1946751,168432
 2/9/21,Micronesia (country),1,0
 2/9/21,Moldova,165663,3573
@@ -75573,7 +75573,7 @@ Date,Country/Region,Confirmed,Deaths
 2/10/21,Malta,19182,286
 2/10/21,Marshall Islands,4,0
 2/10/21,Mauritania,16902,427
-2/10/21,Mauritius,595,10
+2/10/21,Mauritius,594,10
 2/10/21,Mexico,1957889,169760
 2/10/21,Micronesia (country),1,0
 2/10/21,Moldova,166553,3589
@@ -76553,7 +76553,7 @@ Date,Country/Region,Confirmed,Deaths
 2/15/21,Malta,19945,295
 2/15/21,Marshall Islands,4,0
 2/15/21,Mauritania,16996,430
-2/15/21,Mauritius,601,10
+2/15/21,Mauritius,595,10
 2/15/21,Mexico,1995892,174657
 2/15/21,Micronesia (country),1,0
 2/15/21,Moldova,170549,3661
@@ -76749,7 +76749,7 @@ Date,Country/Region,Confirmed,Deaths
 2/16/21,Malta,20047,297
 2/16/21,Marshall Islands,4,0
 2/16/21,Mauritania,17016,431
-2/16/21,Mauritius,603,10
+2/16/21,Mauritius,601,10
 2/16/21,Mexico,2004575,175986
 2/16/21,Micronesia (country),1,0
 2/16/21,Moldova,171514,3678
@@ -78121,7 +78121,7 @@ Date,Country/Region,Confirmed,Deaths
 2/23/21,Malta,21306,306
 2/23/21,Marshall Islands,4,0
 2/23/21,Mauritania,17130,437
-2/23/21,Mauritius,610,10
+2/23/21,Mauritius,603,10
 2/23/21,Mexico,2052266,181809
 2/23/21,Micronesia (country),1,0
 2/23/21,Moldova,178540,3823
@@ -80081,7 +80081,7 @@ Date,Country/Region,Confirmed,Deaths
 3/5/21,Malta,23871,328
 3/5/21,Marshall Islands,4,0
 3/5/21,Mauritania,17285,442
-3/5/21,Mauritius,625,10
+3/5/21,Mauritius,621,10
 3/5/21,Mexico,2119305,189578
 3/5/21,Micronesia (country),1,0
 3/5/21,Moldova,192985,4071
@@ -80277,7 +80277,7 @@ Date,Country/Region,Confirmed,Deaths
 3/6/21,Malta,24216,329
 3/6/21,Marshall Islands,4,0
 3/6/21,Mauritania,17309,442
-3/6/21,Mauritius,639,10
+3/6/21,Mauritius,626,10
 3/6/21,Mexico,2125866,190357
 3/6/21,Micronesia (country),1,0
 3/6/21,Moldova,194605,4091
@@ -80473,7 +80473,7 @@ Date,Country/Region,Confirmed,Deaths
 3/7/21,Malta,24398,334
 3/7/21,Marshall Islands,4,0
 3/7/21,Mauritania,17322,442
-3/7/21,Mauritius,641,10
+3/7/21,Mauritius,639,10
 3/7/21,Mexico,2128600,190604
 3/7/21,Micronesia (country),1,0
 3/7/21,Moldova,195252,4111
@@ -81257,7 +81257,7 @@ Date,Country/Region,Confirmed,Deaths
 3/11/21,Malta,25640,341
 3/11/21,Marshall Islands,4,0
 3/11/21,Mauritania,17394,442
-3/11/21,Mauritius,664,10
+3/11/21,Mauritius,641,10
 3/11/21,Mexico,2150955,193152
 3/11/21,Micronesia (country),1,0
 3/11/21,Moldova,200124,4220
@@ -81453,7 +81453,7 @@ Date,Country/Region,Confirmed,Deaths
 3/12/21,Malta,25969,346
 3/12/21,Marshall Islands,4,0
 3/12/21,Mauritania,17410,442
-3/12/21,Mauritius,711,10
+3/12/21,Mauritius,691,10
 3/12/21,Mexico,2157771,193851
 3/12/21,Micronesia (country),1,0
 3/12/21,Moldova,201909,4258
@@ -81649,7 +81649,7 @@ Date,Country/Region,Confirmed,Deaths
 3/13/21,Malta,26267,350
 3/13/21,Marshall Islands,4,0
 3/13/21,Mauritania,17424,443
-3/13/21,Mauritius,739,10
+3/13/21,Mauritius,691,10
 3/13/21,Mexico,2163875,194490
 3/13/21,Micronesia (country),1,0
 3/13/21,Moldova,203710,4294
@@ -81845,7 +81845,7 @@ Date,Country/Region,Confirmed,Deaths
 3/14/21,Malta,26535,351
 3/14/21,Marshall Islands,4,0
 3/14/21,Mauritania,17438,444
-3/14/21,Mauritius,742,10
+3/14/21,Mauritius,691,10
 3/14/21,Mexico,2166290,194710
 3/14/21,Micronesia (country),1,0
 3/14/21,Moldova,204463,4330
@@ -82041,7 +82041,7 @@ Date,Country/Region,Confirmed,Deaths
 3/15/21,Malta,26748,354
 3/15/21,Marshall Islands,4,0
 3/15/21,Mauritania,17457,444
-3/15/21,Mauritius,747,10
+3/15/21,Mauritius,770,10
 3/15/21,Mexico,2167729,194944
 3/15/21,Micronesia (country),1,0
 3/15/21,Moldova,205324,4369
@@ -82237,7 +82237,7 @@ Date,Country/Region,Confirmed,Deaths
 3/16/21,Malta,27061,357
 3/16/21,Marshall Islands,4,0
 3/16/21,Mauritania,17487,444
-3/16/21,Mauritius,758,10
+3/16/21,Mauritius,770,10
 3/16/21,Mexico,2169007,195119
 3/16/21,Micronesia (country),1,0
 3/16/21,Moldova,207012,4402
@@ -82433,7 +82433,7 @@ Date,Country/Region,Confirmed,Deaths
 3/17/21,Malta,27272,361
 3/17/21,Marshall Islands,4,0
 3/17/21,Mauritania,17521,445
-3/17/21,Mauritius,762,10
+3/17/21,Mauritius,784,10
 3/17/21,Mexico,2175462,195908
 3/17/21,Micronesia (country),1,0
 3/17/21,Moldova,208928,4436
@@ -82629,7 +82629,7 @@ Date,Country/Region,Confirmed,Deaths
 3/18/21,Malta,27515,363
 3/18/21,Marshall Islands,4,0
 3/18/21,Mauritania,17542,445
-3/18/21,Mauritius,768,10
+3/18/21,Mauritius,789,10
 3/18/21,Mexico,2182188,196606
 3/18/21,Micronesia (country),1,0
 3/18/21,Moldova,210725,4472
@@ -82825,7 +82825,7 @@ Date,Country/Region,Confirmed,Deaths
 3/19/21,Malta,27694,364
 3/19/21,Marshall Islands,4,0
 3/19/21,Mauritania,17570,446
-3/19/21,Mauritius,793,10
+3/19/21,Mauritius,792,10
 3/19/21,Mexico,2187910,197219
 3/19/21,Micronesia (country),1,0
 3/19/21,Moldova,212568,4501
@@ -83021,7 +83021,7 @@ Date,Country/Region,Confirmed,Deaths
 3/20/21,Malta,27904,369
 3/20/21,Marshall Islands,4,0
 3/20/21,Mauritania,17587,446
-3/20/21,Mauritius,796,10
+3/20/21,Mauritius,812,10
 3/20/21,Mexico,2193639,197827
 3/20/21,Micronesia (country),1,0
 3/20/21,Moldova,214203,4531
@@ -83217,7 +83217,7 @@ Date,Country/Region,Confirmed,Deaths
 3/21/21,Malta,28128,372
 3/21/21,Marshall Islands,4,0
 3/21/21,Mauritania,17601,446
-3/21/21,Mauritius,805,10
+3/21/21,Mauritius,812,10
 3/21/21,Mexico,2195772,198036
 3/21/21,Micronesia (country),1,0
 3/21/21,Moldova,215034,4559
@@ -83413,7 +83413,7 @@ Date,Country/Region,Confirmed,Deaths
 3/22/21,Malta,28319,373
 3/22/21,Marshall Islands,4,0
 3/22/21,Mauritania,17630,447
-3/22/21,Mauritius,809,10
+3/22/21,Mauritius,812,10
 3/22/21,Mexico,2197160,198239
 3/22/21,Micronesia (country),1,0
 3/22/21,Moldova,216094,4590
@@ -83609,7 +83609,7 @@ Date,Country/Region,Confirmed,Deaths
 3/23/21,Malta,28409,375
 3/23/21,Marshall Islands,4,0
 3/23/21,Mauritania,17658,447
-3/23/21,Mauritius,826,10
+3/23/21,Mauritius,812,10
 3/23/21,Mexico,2203041,199048
 3/23/21,Micronesia (country),1,0
 3/23/21,Moldova,217715,4623
@@ -83805,7 +83805,7 @@ Date,Country/Region,Confirmed,Deaths
 3/24/21,Malta,28510,377
 3/24/21,Marshall Islands,4,0
 3/24/21,Mauritania,17690,447
-3/24/21,Mauritius,850,10
+3/24/21,Mauritius,812,10
 3/24/21,Mexico,2208755,199627
 3/24/21,Micronesia (country),1,0
 3/24/21,Moldova,219988,4661
@@ -84001,7 +84001,7 @@ Date,Country/Region,Confirmed,Deaths
 3/25/21,Malta,28612,378
 3/25/21,Marshall Islands,4,0
 3/25/21,Mauritania,17712,447
-3/25/21,Mauritius,853,10
+3/25/21,Mauritius,860,10
 3/25/21,Mexico,2214542,200211
 3/25/21,Micronesia (country),1,0
 3/25/21,Moldova,222120,4702
@@ -84197,7 +84197,7 @@ Date,Country/Region,Confirmed,Deaths
 3/26/21,Malta,28715,382
 3/26/21,Marshall Islands,4,0
 3/26/21,Mauritania,17745,448
-3/26/21,Mauritius,871,10
+3/26/21,Mauritius,860,10
 3/26/21,Mexico,2219845,200862
 3/26/21,Micronesia (country),1,0
 3/26/21,Moldova,223986,4745
@@ -84393,7 +84393,7 @@ Date,Country/Region,Confirmed,Deaths
 3/27/21,Malta,28808,385
 3/27/21,Marshall Islands,4,0
 3/27/21,Mauritania,17756,448
-3/27/21,Mauritius,871,10
+3/27/21,Mauritius,870,10
 3/27/21,Mexico,2224904,201429
 3/27/21,Micronesia (country),1,0
 3/27/21,Moldova,225660,4785
@@ -84589,7 +84589,7 @@ Date,Country/Region,Confirmed,Deaths
 3/28/21,Malta,28875,387
 3/28/21,Marshall Islands,4,0
 3/28/21,Mauritania,17771,448
-3/28/21,Mauritius,933,10
+3/28/21,Mauritius,870,10
 3/28/21,Mexico,2226550,201623
 3/28/21,Micronesia (country),1,0
 3/28/21,Moldova,226521,4827
@@ -84785,7 +84785,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/21,Malta,28938,388
 3/29/21,Marshall Islands,4,0
 3/29/21,Mauritania,17796,449
-3/29/21,Mauritius,958,10
+3/29/21,Mauritius,933,10
 3/29/21,Mexico,2227843,201832
 3/29/21,Micronesia (country),1,0
 3/29/21,Moldova,227453,4869
@@ -84981,7 +84981,7 @@ Date,Country/Region,Confirmed,Deaths
 3/30/21,Malta,28993,390
 3/30/21,Marshall Islands,4,0
 3/30/21,Mauritania,17824,449
-3/30/21,Mauritius,996,10
+3/30/21,Mauritius,963,10
 3/30/21,Mexico,2232910,202633
 3/30/21,Micronesia (country),1,0
 3/30/21,Moldova,228370,4915
@@ -85177,7 +85177,7 @@ Date,Country/Region,Confirmed,Deaths
 3/31/21,Malta,29033,392
 3/31/21,Marshall Islands,4,0
 3/31/21,Mauritania,17847,449
-3/31/21,Mauritius,1028,12
+3/31/21,Mauritius,963,10
 3/31/21,Mexico,2238887,203210
 3/31/21,Micronesia (country),1,0
 3/31/21,Moldova,230241,4960
@@ -85373,7 +85373,7 @@ Date,Country/Region,Confirmed,Deaths
 4/1/21,Malta,29085,394
 4/1/21,Marshall Islands,4,0
 4/1/21,Mauritania,17878,449
-4/1/21,Mauritius,1039,12
+4/1/21,Mauritius,1034,12
 4/1/21,Mexico,2244268,203664
 4/1/21,Micronesia (country),1,0
 4/1/21,Moldova,231756,5003
@@ -85569,7 +85569,7 @@ Date,Country/Region,Confirmed,Deaths
 4/2/21,Malta,29127,395
 4/2/21,Marshall Islands,4,0
 4/2/21,Mauritania,17904,449
-4/2/21,Mauritius,1095,12
+4/2/21,Mauritius,1066,12
 4/2/21,Mexico,2247357,203854
 4/2/21,Micronesia (country),1,0
 4/2/21,Moldova,233136,5048
@@ -85765,7 +85765,7 @@ Date,Country/Region,Confirmed,Deaths
 4/3/21,Malta,29189,397
 4/3/21,Marshall Islands,4,0
 4/3/21,Mauritania,17917,449
-4/3/21,Mauritius,1104,12
+4/3/21,Mauritius,1099,12
 4/3/21,Mexico,2249195,204011
 4/3/21,Micronesia (country),1,0
 4/3/21,Moldova,234394,5092
@@ -86157,7 +86157,7 @@ Date,Country/Region,Confirmed,Deaths
 4/5/21,Malta,29279,399
 4/5/21,Marshall Islands,4,0
 4/5/21,Mauritania,17939,449
-4/5/21,Mauritius,1121,12
+4/5/21,Mauritius,1120,12
 4/5/21,Mexico,2251705,204399
 4/5/21,Micronesia (country),1,0
 4/5/21,Moldova,235790,5178
@@ -86353,7 +86353,7 @@ Date,Country/Region,Confirmed,Deaths
 4/6/21,Malta,29343,399
 4/6/21,Marshall Islands,4,0
 4/6/21,Mauritania,17955,450
-4/6/21,Mauritius,1130,12
+4/6/21,Mauritius,1129,12
 4/6/21,Mexico,2256509,204985
 4/6/21,Micronesia (country),1,0
 4/6/21,Moldova,236563,5224
@@ -86549,7 +86549,7 @@ Date,Country/Region,Confirmed,Deaths
 4/7/21,Malta,29408,400
 4/7/21,Marshall Islands,4,0
 4/7/21,Mauritania,17974,450
-4/7/21,Mauritius,1167,12
+4/7/21,Mauritius,1138,12
 4/7/21,Mexico,2261879,205598
 4/7/21,Micronesia (country),1,0
 4/7/21,Moldova,237718,5268
@@ -86745,7 +86745,7 @@ Date,Country/Region,Confirmed,Deaths
 4/8/21,Malta,29463,401
 4/8/21,Marshall Islands,4,0
 4/8/21,Mauritania,17995,450
-4/8/21,Mauritius,1171,12
+4/8/21,Mauritius,1172,12
 4/8/21,Mexico,2267019,206146
 4/8/21,Micronesia (country),1,0
 4/8/21,Moldova,239146,5307
@@ -86941,7 +86941,7 @@ Date,Country/Region,Confirmed,Deaths
 4/9/21,Malta,29511,401
 4/9/21,Marshall Islands,4,0
 4/9/21,Mauritania,18005,450
-4/9/21,Mauritius,1183,12
+4/9/21,Mauritius,1176,12
 4/9/21,Mexico,2272064,207020
 4/9/21,Micronesia (country),1,0
 4/9/21,Moldova,240056,5339
@@ -87137,7 +87137,7 @@ Date,Country/Region,Confirmed,Deaths
 4/10/21,Malta,29548,402
 4/10/21,Marshall Islands,4,0
 4/10/21,Mauritania,18012,450
-4/10/21,Mauritius,1190,12
+4/10/21,Mauritius,1176,12
 4/10/21,Mexico,2278420,209212
 4/10/21,Micronesia (country),1,0
 4/10/21,Moldova,240886,5369
@@ -87333,7 +87333,7 @@ Date,Country/Region,Confirmed,Deaths
 4/11/21,Malta,29614,402
 4/11/21,Marshall Islands,4,0
 4/11/21,Mauritania,18022,450
-4/11/21,Mauritius,1192,12
+4/11/21,Mauritius,1176,12
 4/11/21,Mexico,2280213,209338
 4/11/21,Micronesia (country),1,0
 4/11/21,Moldova,241217,5388
@@ -87529,7 +87529,7 @@ Date,Country/Region,Confirmed,Deaths
 4/12/21,Malta,29661,402
 4/12/21,Marshall Islands,4,0
 4/12/21,Mauritania,18035,450
-4/12/21,Mauritius,1193,15
+4/12/21,Mauritius,1176,12
 4/12/21,Mexico,2281840,209702
 4/12/21,Micronesia (country),1,0
 4/12/21,Moldova,241820,5409
@@ -87921,7 +87921,7 @@ Date,Country/Region,Confirmed,Deaths
 4/14/21,Malta,29778,403
 4/14/21,Marshall Islands,4,0
 4/14/21,Mauritania,18066,452
-4/14/21,Mauritius,1201,15
+4/14/21,Mauritius,1198,15
 4/14/21,Mexico,2291246,210812
 4/14/21,Micronesia (country),1,0
 4/14/21,Moldova,243365,5466
@@ -88117,7 +88117,7 @@ Date,Country/Region,Confirmed,Deaths
 4/15/21,Malta,29833,403
 4/15/21,Marshall Islands,4,0
 4/15/21,Mauritania,18072,452
-4/15/21,Mauritius,1202,15
+4/15/21,Mauritius,1198,15
 4/15/21,Mexico,2295435,211213
 4/15/21,Micronesia (country),1,0
 4/15/21,Moldova,244177,5493
@@ -88313,7 +88313,7 @@ Date,Country/Region,Confirmed,Deaths
 4/16/21,Malta,29860,405
 4/16/21,Marshall Islands,4,0
 4/16/21,Mauritania,18103,452
-4/16/21,Mauritius,1202,15
+4/16/21,Mauritius,1198,15
 4/16/21,Mexico,2299939,211693
 4/16/21,Micronesia (country),1,0
 4/16/21,Moldova,244866,5521
@@ -88509,7 +88509,7 @@ Date,Country/Region,Confirmed,Deaths
 4/17/21,Malta,29927,409
 4/17/21,Marshall Islands,4,0
 4/17/21,Mauritania,18121,452
-4/17/21,Mauritius,1203,15
+4/17/21,Mauritius,1198,15
 4/17/21,Mexico,2304096,212228
 4/17/21,Micronesia (country),1,0
 4/17/21,Moldova,245494,5548
@@ -89293,7 +89293,7 @@ Date,Country/Region,Confirmed,Deaths
 4/21/21,Malta,30063,411
 4/21/21,Marshall Islands,4,0
 4/21/21,Mauritania,18175,454
-4/21/21,Mauritius,1204,15
+4/21/21,Mauritius,1203,15
 4/21/21,Mexico,2315811,213597
 4/21/21,Micronesia (country),1,0
 4/21/21,Moldova,247391,5643
@@ -89489,7 +89489,7 @@ Date,Country/Region,Confirmed,Deaths
 4/22/21,Malta,30096,411
 4/22/21,Marshall Islands,4,0
 4/22/21,Mauritania,18192,454
-4/22/21,Mauritius,1205,16
+4/22/21,Mauritius,1203,15
 4/22/21,Mexico,2319519,214095
 4/22/21,Micronesia (country),1,0
 4/22/21,Moldova,248009,5668
@@ -89685,7 +89685,7 @@ Date,Country/Region,Confirmed,Deaths
 4/23/21,Malta,30129,412
 4/23/21,Marshall Islands,4,0
 4/23/21,Mauritania,18207,454
-4/23/21,Mauritius,1205,16
+4/23/21,Mauritius,1206,16
 4/23/21,Mexico,2323430,214504
 4/23/21,Micronesia (country),1,0
 4/23/21,Moldova,248518,5691
@@ -90273,7 +90273,7 @@ Date,Country/Region,Confirmed,Deaths
 4/26/21,Malta,30189,413
 4/26/21,Marshall Islands,4,0
 4/26/21,Mauritania,18282,455
-4/26/21,Mauritius,1206,17
+4/26/21,Mauritius,1206,16
 4/26/21,Mexico,2329534,215113
 4/26/21,Micronesia (country),1,0
 4/26/21,Moldova,249385,5745
@@ -90469,7 +90469,7 @@ Date,Country/Region,Confirmed,Deaths
 4/27/21,Malta,30234,413
 4/27/21,Marshall Islands,4,0
 4/27/21,Mauritania,18314,455
-4/27/21,Mauritius,1206,17
+4/27/21,Mauritius,1206,16
 4/27/21,Mexico,2333126,215547
 4/27/21,Micronesia (country),1,0
 4/27/21,Moldova,249714,5762
@@ -90665,7 +90665,7 @@ Date,Country/Region,Confirmed,Deaths
 4/28/21,Malta,30249,413
 4/28/21,Marshall Islands,4,0
 4/28/21,Mauritania,18346,455
-4/28/21,Mauritius,1207,17
+4/28/21,Mauritius,1206,16
 4/28/21,Mexico,2336944,215918
 4/28/21,Micronesia (country),1,0
 4/28/21,Moldova,250138,5780
@@ -90861,7 +90861,7 @@ Date,Country/Region,Confirmed,Deaths
 4/29/21,Malta,30276,413
 4/29/21,Marshall Islands,4,0
 4/29/21,Mauritania,18377,455
-4/29/21,Mauritius,1208,17
+4/29/21,Mauritius,1206,16
 4/29/21,Mexico,2340934,216447
 4/29/21,Micronesia (country),1,0
 4/29/21,Moldova,250508,5795
@@ -91057,7 +91057,7 @@ Date,Country/Region,Confirmed,Deaths
 4/30/21,Malta,30292,413
 4/30/21,Marshall Islands,4,0
 4/30/21,Mauritania,18402,455
-4/30/21,Mauritius,1209,17
+4/30/21,Mauritius,1206,16
 4/30/21,Mexico,2344755,216907
 4/30/21,Micronesia (country),1,0
 4/30/21,Moldova,250837,5812
@@ -91253,7 +91253,7 @@ Date,Country/Region,Confirmed,Deaths
 5/1/21,Malta,30307,415
 5/1/21,Marshall Islands,4,0
 5/1/21,Mauritania,18429,455
-5/1/21,Mauritius,1211,17
+5/1/21,Mauritius,1206,16
 5/1/21,Mexico,2347780,217168
 5/1/21,Micronesia (country),1,0
 5/1/21,Moldova,251160,5826
@@ -91449,7 +91449,7 @@ Date,Country/Region,Confirmed,Deaths
 5/2/21,Malta,30319,416
 5/2/21,Marshall Islands,4,0
 5/2/21,Mauritania,18448,455
-5/2/21,Mauritius,1211,17
+5/2/21,Mauritius,1241,17
 5/2/21,Mexico,2348873,217233
 5/2/21,Micronesia (country),1,0
 5/2/21,Moldova,251335,5838
@@ -91645,7 +91645,7 @@ Date,Country/Region,Confirmed,Deaths
 5/3/21,Malta,30354,416
 5/3/21,Marshall Islands,4,0
 5/3/21,Mauritania,18476,455
-5/3/21,Mauritius,1211,17
+5/3/21,Mauritius,1241,17
 5/3/21,Mexico,2349900,217345
 5/3/21,Micronesia (country),1,0
 5/3/21,Moldova,251378,5850
@@ -91841,7 +91841,7 @@ Date,Country/Region,Confirmed,Deaths
 5/4/21,Malta,30381,416
 5/4/21,Marshall Islands,4,0
 5/4/21,Mauritania,18503,455
-5/4/21,Mauritius,1214,17
+5/4/21,Mauritius,1241,17
 5/4/21,Mexico,2352964,217740
 5/4/21,Micronesia (country),1,0
 5/4/21,Moldova,251504,5869
@@ -92037,7 +92037,7 @@ Date,Country/Region,Confirmed,Deaths
 5/5/21,Malta,30411,416
 5/5/21,Marshall Islands,4,0
 5/5/21,Mauritania,18542,456
-5/5/21,Mauritius,1216,17
+5/5/21,Mauritius,1241,17
 5/5/21,Mexico,2355985,218007
 5/5/21,Micronesia (country),1,0
 5/5/21,Moldova,251820,5892
@@ -92233,7 +92233,7 @@ Date,Country/Region,Confirmed,Deaths
 5/6/21,Malta,30420,416
 5/6/21,Marshall Islands,4,0
 5/6/21,Mauritania,18576,456
-5/6/21,Mauritius,1216,17
+5/6/21,Mauritius,1241,17
 5/6/21,Mexico,2358831,218173
 5/6/21,Micronesia (country),1,0
 5/6/21,Moldova,252153,5912
@@ -92429,7 +92429,7 @@ Date,Country/Region,Confirmed,Deaths
 5/7/21,Malta,30432,417
 5/7/21,Marshall Islands,4,0
 5/7/21,Mauritania,18613,456
-5/7/21,Mauritius,1226,17
+5/7/21,Mauritius,1241,17
 5/7/21,Mexico,2361874,218657
 5/7/21,Micronesia (country),1,0
 5/7/21,Moldova,252413,5929
@@ -92625,7 +92625,7 @@ Date,Country/Region,Confirmed,Deaths
 5/8/21,Malta,30438,417
 5/8/21,Marshall Islands,4,0
 5/8/21,Mauritania,18636,456
-5/8/21,Mauritius,1240,17
+5/8/21,Mauritius,1246,17
 5/8/21,Mexico,2364617,218928
 5/8/21,Micronesia (country),1,0
 5/8/21,Moldova,252604,5943
@@ -93017,7 +93017,7 @@ Date,Country/Region,Confirmed,Deaths
 5/10/21,Malta,30458,417
 5/10/21,Marshall Islands,4,0
 5/10/21,Mauritania,18691,456
-5/10/21,Mauritius,1256,17
+5/10/21,Mauritius,1288,17
 5/10/21,Mexico,2366496,219089
 5/10/21,Micronesia (country),1,0
 5/10/21,Moldova,252798,5958
@@ -93213,7 +93213,7 @@ Date,Country/Region,Confirmed,Deaths
 5/11/21,Malta,30464,417
 5/11/21,Marshall Islands,4,0
 5/11/21,Mauritania,18691,456
-5/11/21,Mauritius,1257,17
+5/11/21,Mauritius,1288,17
 5/11/21,Mexico,2368393,219323
 5/11/21,Micronesia (country),1,0
 5/11/21,Moldova,252949,5970
@@ -93409,7 +93409,7 @@ Date,Country/Region,Confirmed,Deaths
 5/12/21,Malta,30469,417
 5/12/21,Marshall Islands,4,0
 5/12/21,Mauritania,18745,457
-5/12/21,Mauritius,1266,17
+5/12/21,Mauritius,1288,17
 5/12/21,Mexico,2371483,219590
 5/12/21,Micronesia (country),1,0
 5/12/21,Moldova,253173,5981
@@ -93605,7 +93605,7 @@ Date,Country/Region,Confirmed,Deaths
 5/13/21,Malta,30473,417
 5/13/21,Marshall Islands,4,0
 5/13/21,Mauritania,18767,457
-5/13/21,Mauritius,1274,17
+5/13/21,Mauritius,1288,17
 5/13/21,Mexico,2375115,219901
 5/13/21,Micronesia (country),1,0
 5/13/21,Moldova,253386,5995
@@ -93801,7 +93801,7 @@ Date,Country/Region,Confirmed,Deaths
 5/14/21,Malta,30474,417
 5/14/21,Marshall Islands,4,0
 5/14/21,Mauritania,18781,457
-5/14/21,Mauritius,1277,17
+5/14/21,Mauritius,1288,17
 5/14/21,Mexico,2377995,220159
 5/14/21,Micronesia (country),1,0
 5/14/21,Moldova,253567,6006
@@ -93997,7 +93997,7 @@ Date,Country/Region,Confirmed,Deaths
 5/15/21,Malta,30478,417
 5/15/21,Marshall Islands,4,0
 5/15/21,Mauritania,18806,457
-5/15/21,Mauritius,1280,17
+5/15/21,Mauritius,1288,17
 5/15/21,Mexico,2380690,220384
 5/15/21,Micronesia (country),1,0
 5/15/21,Moldova,253736,6016
@@ -94193,7 +94193,7 @@ Date,Country/Region,Confirmed,Deaths
 5/16/21,Malta,30480,417
 5/16/21,Marshall Islands,4,0
 5/16/21,Mauritania,18828,457
-5/16/21,Mauritius,1282,17
+5/16/21,Mauritius,1288,17
 5/16/21,Mexico,2381923,220437
 5/16/21,Micronesia (country),1,0
 5/16/21,Moldova,253845,6027
@@ -94389,7 +94389,7 @@ Date,Country/Region,Confirmed,Deaths
 5/17/21,Malta,30484,417
 5/17/21,Marshall Islands,4,0
 5/17/21,Mauritania,18858,457
-5/17/21,Mauritius,1287,17
+5/17/21,Mauritius,1288,17
 5/17/21,Mexico,2382745,220493
 5/17/21,Micronesia (country),1,0
 5/17/21,Moldova,253954,6034
@@ -94781,7 +94781,7 @@ Date,Country/Region,Confirmed,Deaths
 5/19/21,Malta,30489,417
 5/19/21,Marshall Islands,4,0
 5/19/21,Mauritania,18957,457
-5/19/21,Mauritius,1288,17
+5/19/21,Mauritius,1322,17
 5/19/21,Mexico,2387512,220850
 5/19/21,Micronesia (country),1,0
 5/19/21,Moldova,254213,6053
@@ -94977,7 +94977,7 @@ Date,Country/Region,Confirmed,Deaths
 5/20/21,Malta,30491,417
 5/20/21,Marshall Islands,4,0
 5/20/21,Mauritania,19011,457
-5/20/21,Mauritius,1288,17
+5/20/21,Mauritius,1322,17
 5/20/21,Mexico,2390140,221080
 5/20/21,Micronesia (country),1,0
 5/20/21,Moldova,254379,6061
@@ -95173,7 +95173,7 @@ Date,Country/Region,Confirmed,Deaths
 5/21/21,Malta,30497,417
 5/21/21,Marshall Islands,4,0
 5/21/21,Mauritania,19049,458
-5/21/21,Mauritius,1292,17
+5/21/21,Mauritius,1322,17
 5/21/21,Mexico,2392744,221256
 5/21/21,Micronesia (country),1,0
 5/21/21,Moldova,254499,6067
@@ -95369,7 +95369,7 @@ Date,Country/Region,Confirmed,Deaths
 5/22/21,Malta,30499,417
 5/22/21,Marshall Islands,4,0
 5/22/21,Mauritania,19114,458
-5/22/21,Mauritius,1293,17
+5/22/21,Mauritius,1322,17
 5/22/21,Mexico,2395330,221597
 5/22/21,Micronesia (country),1,0
 5/22/21,Moldova,254601,6072
@@ -95565,7 +95565,7 @@ Date,Country/Region,Confirmed,Deaths
 5/23/21,Malta,30504,417
 5/23/21,Marshall Islands,4,0
 5/23/21,Mauritania,19149,458
-5/23/21,Mauritius,1293,17
+5/23/21,Mauritius,1322,17
 5/23/21,Mexico,2396604,221647
 5/23/21,Micronesia (country),1,0
 5/23/21,Moldova,254676,6075
@@ -95761,7 +95761,7 @@ Date,Country/Region,Confirmed,Deaths
 5/24/21,Malta,30506,417
 5/24/21,Marshall Islands,4,0
 5/24/21,Mauritania,19195,460
-5/24/21,Mauritius,1296,17
+5/24/21,Mauritius,1322,17
 5/24/21,Mexico,2397307,221695
 5/24/21,Micronesia (country),1,0
 5/24/21,Moldova,254741,6080
@@ -95957,7 +95957,7 @@ Date,Country/Region,Confirmed,Deaths
 5/25/21,Malta,30509,418
 5/25/21,Marshall Islands,4,0
 5/25/21,Mauritania,19251,460
-5/25/21,Mauritius,1311,17
+5/25/21,Mauritius,1322,17
 5/25/21,Mexico,2399790,221960
 5/25/21,Micronesia (country),1,0
 5/25/21,Moldova,254814,6084
@@ -96153,7 +96153,7 @@ Date,Country/Region,Confirmed,Deaths
 5/26/21,Malta,30516,419
 5/26/21,Marshall Islands,4,0
 5/26/21,Mauritania,19287,461
-5/26/21,Mauritius,1332,17
+5/26/21,Mauritius,1364,17
 5/26/21,Mexico,2402722,222232
 5/26/21,Micronesia (country),1,0
 5/26/21,Moldova,254908,6088
@@ -96349,7 +96349,7 @@ Date,Country/Region,Confirmed,Deaths
 5/27/21,Malta,30520,419
 5/27/21,Marshall Islands,4,0
 5/27/21,Mauritania,19344,462
-5/27/21,Mauritius,1341,17
+5/27/21,Mauritius,1376,17
 5/27/21,Mexico,2405772,222661
 5/27/21,Micronesia (country),1,0
 5/27/21,Moldova,254985,6093
@@ -96545,7 +96545,7 @@ Date,Country/Region,Confirmed,Deaths
 5/28/21,Malta,30526,419
 5/28/21,Marshall Islands,4,0
 5/28/21,Mauritania,19407,462
-5/28/21,Mauritius,1356,17
+5/28/21,Mauritius,1393,17
 5/28/21,Mexico,2408778,223072
 5/28/21,Micronesia (country),1,0
 5/28/21,Moldova,255060,6097
@@ -96741,7 +96741,7 @@ Date,Country/Region,Confirmed,Deaths
 5/29/21,Malta,30529,419
 5/29/21,Marshall Islands,4,0
 5/29/21,Mauritania,19463,463
-5/29/21,Mauritius,1363,17
+5/29/21,Mauritius,1393,17
 5/29/21,Mexico,2411503,223455
 5/29/21,Micronesia (country),1,0
 5/29/21,Moldova,255105,6100
@@ -96937,7 +96937,7 @@ Date,Country/Region,Confirmed,Deaths
 5/30/21,Malta,30533,419
 5/30/21,Marshall Islands,4,0
 5/30/21,Mauritania,19494,463
-5/30/21,Mauritius,1367,18
+5/30/21,Mauritius,1393,17
 5/30/21,Mexico,2412810,223507
 5/30/21,Micronesia (country),1,0
 5/30/21,Moldova,255145,6104
@@ -97133,7 +97133,7 @@ Date,Country/Region,Confirmed,Deaths
 5/31/21,Malta,30535,419
 5/31/21,Marshall Islands,4,0
 5/31/21,Mauritania,19547,463
-5/31/21,Mauritius,1375,18
+5/31/21,Mauritius,1411,18
 5/31/21,Mexico,2413742,223568
 5/31/21,Micronesia (country),1,0
 5/31/21,Moldova,255186,6107
@@ -97329,7 +97329,7 @@ Date,Country/Region,Confirmed,Deaths
 6/1/21,Malta,30543,419
 6/1/21,Marshall Islands,4,0
 6/1/21,Mauritania,19598,463
-6/1/21,Mauritius,1399,18
+6/1/21,Mauritius,1416,18
 6/1/21,Mexico,2420659,227840
 6/1/21,Micronesia (country),1,0
 6/1/21,Moldova,255241,6114
@@ -97525,7 +97525,7 @@ Date,Country/Region,Confirmed,Deaths
 6/2/21,Malta,30553,419
 6/2/21,Marshall Islands,4,0
 6/2/21,Mauritania,19650,464
-6/2/21,Mauritius,1418,18
+6/2/21,Mauritius,1445,18
 6/2/21,Mexico,2423928,228146
 6/2/21,Micronesia (country),1,0
 6/2/21,Moldova,255285,6120
@@ -97721,7 +97721,7 @@ Date,Country/Region,Confirmed,Deaths
 6/3/21,Malta,30557,419
 6/3/21,Marshall Islands,4,0
 6/3/21,Mauritania,19695,464
-6/3/21,Mauritius,1421,18
+6/3/21,Mauritius,1458,18
 6/3/21,Mexico,2426822,228362
 6/3/21,Micronesia (country),1,0
 6/3/21,Moldova,255354,6125
@@ -97917,7 +97917,7 @@ Date,Country/Region,Confirmed,Deaths
 6/4/21,Malta,30559,419
 6/4/21,Marshall Islands,4,0
 6/4/21,Mauritania,19752,466
-6/4/21,Mauritius,1421,18
+6/4/21,Mauritius,1458,18
 6/4/21,Mexico,2429631,228568
 6/4/21,Micronesia (country),1,0
 6/4/21,Moldova,255402,6129
@@ -98113,7 +98113,7 @@ Date,Country/Region,Confirmed,Deaths
 6/5/21,Malta,30568,419
 6/5/21,Marshall Islands,4,0
 6/5/21,Mauritania,19785,466
-6/5/21,Mauritius,1421,18
+6/5/21,Mauritius,1458,18
 6/5/21,Mexico,2431702,228758
 6/5/21,Micronesia (country),1,0
 6/5/21,Moldova,255432,6132
@@ -98505,7 +98505,7 @@ Date,Country/Region,Confirmed,Deaths
 6/7/21,Malta,30571,419
 6/7/21,Marshall Islands,4,0
 6/7/21,Mauritania,19853,470
-6/7/21,Mauritius,1458,18
+6/7/21,Mauritius,1509,18
 6/7/21,Mexico,2434562,228838
 6/7/21,Micronesia (country),1,0
 6/7/21,Moldova,255501,6137
@@ -98701,7 +98701,7 @@ Date,Country/Region,Confirmed,Deaths
 6/8/21,Malta,30572,419
 6/8/21,Marshall Islands,4,0
 6/8/21,Mauritania,19895,470
-6/8/21,Mauritius,1458,18
+6/8/21,Mauritius,1519,18
 6/8/21,Mexico,2438011,229100
 6/8/21,Micronesia (country),1,0
 6/8/21,Moldova,255541,6141
@@ -98897,7 +98897,7 @@ Date,Country/Region,Confirmed,Deaths
 6/9/21,Malta,30573,419
 6/9/21,Marshall Islands,4,0
 6/9/21,Mauritania,19923,470
-6/9/21,Mauritius,1496,18
+6/9/21,Mauritius,1519,18
 6/9/21,Mexico,2441866,229353
 6/9/21,Micronesia (country),1,0
 6/9/21,Moldova,255601,6145
@@ -99093,7 +99093,7 @@ Date,Country/Region,Confirmed,Deaths
 6/10/21,Malta,30577,419
 6/10/21,Marshall Islands,4,0
 6/10/21,Mauritania,19959,472
-6/10/21,Mauritius,1496,18
+6/10/21,Mauritius,1519,18
 6/10/21,Mexico,2445538,229580
 6/10/21,Micronesia (country),1,0
 6/10/21,Moldova,255661,6147
@@ -99289,7 +99289,7 @@ Date,Country/Region,Confirmed,Deaths
 6/11/21,Malta,30579,419
 6/11/21,Marshall Islands,4,0
 6/11/21,Mauritania,20005,473
-6/11/21,Mauritius,1564,18
+6/11/21,Mauritius,1572,18
 6/11/21,Mexico,2448820,229823
 6/11/21,Micronesia (country),1,0
 6/11/21,Moldova,255715,6149
@@ -99485,7 +99485,7 @@ Date,Country/Region,Confirmed,Deaths
 6/12/21,Malta,30581,419
 6/12/21,Marshall Islands,4,0
 6/12/21,Mauritania,20040,475
-6/12/21,Mauritius,1566,18
+6/12/21,Mauritius,1572,18
 6/12/21,Mexico,2452469,230097
 6/12/21,Micronesia (country),1,0
 6/12/21,Moldova,255758,6152
@@ -99681,7 +99681,7 @@ Date,Country/Region,Confirmed,Deaths
 6/13/21,Malta,30581,419
 6/13/21,Marshall Islands,4,0
 6/13/21,Mauritania,20073,475
-6/13/21,Mauritius,1673,18
+6/13/21,Mauritius,1709,18
 6/13/21,Mexico,2454176,230150
 6/13/21,Micronesia (country),1,0
 6/13/21,Moldova,255797,6154
@@ -102229,7 +102229,7 @@ Date,Country/Region,Confirmed,Deaths
 6/26/21,Malta,30606,420
 6/26/21,Marshall Islands,4,0
 6/26/21,Mauritania,20604,486
-6/26/21,Mauritius,1852,18
+6/26/21,Mauritius,1880,18
 6/26/21,Mexico,2503408,232521
 6/26/21,Micronesia (country),1,0
 6/26/21,Moldova,256527,6183
@@ -102425,7 +102425,7 @@ Date,Country/Region,Confirmed,Deaths
 6/27/21,Malta,30606,420
 6/27/21,Marshall Islands,4,0
 6/27/21,Mauritania,20635,486
-6/27/21,Mauritius,1852,18
+6/27/21,Mauritius,1880,18
 6/27/21,Mexico,2505792,232564
 6/27/21,Micronesia (country),1,0
 6/27/21,Moldova,256559,6184
@@ -103209,7 +103209,7 @@ Date,Country/Region,Confirmed,Deaths
 7/1/21,Malta,30627,420
 7/1/21,Marshall Islands,4,0
 7/1/21,Mauritania,20894,489
-7/1/21,Mauritius,1898,18
+7/1/21,Mauritius,1913,18
 7/1/21,Mexico,2525350,233248
 7/1/21,Micronesia (country),1,0
 7/1/21,Moldova,256816,6194
@@ -103601,7 +103601,7 @@ Date,Country/Region,Confirmed,Deaths
 7/3/21,Malta,30640,420
 7/3/21,Marshall Islands,4,0
 7/3/21,Mauritania,21027,489
-7/3/21,Mauritius,1913,18
+7/3/21,Mauritius,1984,18
 7/3/21,Mexico,2537457,233580
 7/3/21,Micronesia (country),1,0
 7/3/21,Moldova,256931,6195
@@ -103797,7 +103797,7 @@ Date,Country/Region,Confirmed,Deaths
 7/4/21,Malta,30652,420
 7/4/21,Marshall Islands,4,0
 7/4/21,Mauritania,21076,489
-7/4/21,Mauritius,1913,18
+7/4/21,Mauritius,1984,18
 7/4/21,Mexico,2540068,233622
 7/4/21,Micronesia (country),1,0
 7/4/21,Moldova,256970,6196
@@ -106345,7 +106345,7 @@ Date,Country/Region,Confirmed,Deaths
 7/17/21,Malta,32275,420
 7/17/21,Marshall Islands,4,0
 7/17/21,Mauritania,22508,508
-7/17/21,Mauritius,2364,18
+7/17/21,Mauritius,2535,19
 7/17/21,Mexico,2654699,236240
 7/17/21,Micronesia (country),1,0
 7/17/21,Moldova,257903,6224
@@ -107717,7 +107717,7 @@ Date,Country/Region,Confirmed,Deaths
 7/24/21,Malta,33541,421
 7/24/21,Marshall Islands,4,0
 7/24/21,Mauritania,23555,528
-7/24/21,Mauritius,3388,19
+7/24/21,Mauritius,3593,19
 7/24/21,Mexico,2741983,238316
 7/24/21,Micronesia (country),1,0
 7/24/21,Moldova,258581,6242
@@ -107913,7 +107913,7 @@ Date,Country/Region,Confirmed,Deaths
 7/25/21,Malta,33668,421
 7/25/21,Marshall Islands,4,0
 7/25/21,Mauritania,23755,535
-7/25/21,Mauritius,3388,19
+7/25/21,Mauritius,3729,19
 7/25/21,Mexico,2748518,238424
 7/25/21,Micronesia (country),1,0
 7/25/21,Moldova,258624,6243
@@ -108305,7 +108305,7 @@ Date,Country/Region,Confirmed,Deaths
 7/27/21,Malta,33904,421
 7/27/21,Marshall Islands,4,0
 7/27/21,Mauritania,24349,542
-7/27/21,Mauritius,3785,19
+7/27/21,Mauritius,3844,19
 7/27/21,Mexico,2771846,239079
 7/27/21,Micronesia (country),1,0
 7/27/21,Moldova,258852,6247
@@ -109089,7 +109089,7 @@ Date,Country/Region,Confirmed,Deaths
 7/31/21,Malta,34295,423
 7/31/21,Marshall Islands,4,0
 7/31/21,Mauritania,25691,562
-7/31/21,Mauritius,3913,19
+7/31/21,Mauritius,4214,20
 7/31/21,Mexico,2848252,240906
 7/31/21,Micronesia (country),1,0
 7/31/21,Moldova,259478,6255
@@ -109285,7 +109285,7 @@ Date,Country/Region,Confirmed,Deaths
 8/1/21,Malta,34375,423
 8/1/21,Marshall Islands,4,0
 8/1/21,Mauritania,25973,567
-8/1/21,Mauritius,3913,19
+8/1/21,Mauritius,4214,20
 8/1/21,Mexico,2854992,241034
 8/1/21,Micronesia (country),1,0
 8/1/21,Moldova,259549,6255
@@ -110657,7 +110657,7 @@ Date,Country/Region,Confirmed,Deaths
 8/8/21,Malta,34846,426
 8/8/21,Marshall Islands,4,0
 8/8/21,Mauritania,28197,605
-8/8/21,Mauritius,4592,20
+8/8/21,Mauritius,5010,20
 8/8/21,Mexico,2971817,244420
 8/8/21,Micronesia (country),1,0
 8/8/21,Moldova,260630,6282
@@ -112029,7 +112029,7 @@ Date,Country/Region,Confirmed,Deaths
 8/15/21,Malta,35337,430
 8/15/21,Marshall Islands,4,0
 8/15/21,Mauritania,30121,640
-8/15/21,Mauritius,5607,21
+8/15/21,Mauritius,5965,21
 8/15/21,Mexico,3091971,248167
 8/15/21,Micronesia (country),1,0
 8/15/21,Moldova,262044,6308
@@ -113205,7 +113205,7 @@ Date,Country/Region,Confirmed,Deaths
 8/21/21,Malta,35721,436
 8/21/21,Marshall Islands,4,0
 8/21/21,Mauritania,31642,672
-8/21/21,Mauritius,7070,22
+8/21/21,Mauritius,7443,22
 8/21/21,Mexico,3217415,252927
 8/21/21,Micronesia (country),1,0
 8/21/21,Moldova,264283,6356
@@ -113401,7 +113401,7 @@ Date,Country/Region,Confirmed,Deaths
 8/22/21,Malta,35774,436
 8/22/21,Marshall Islands,4,0
 8/22/21,Mauritania,31822,673
-8/22/21,Mauritius,7070,22
+8/22/21,Mauritius,7814,23
 8/22/21,Mexico,3225073,253155
 8/22/21,Micronesia (country),1,0
 8/22/21,Moldova,264432,6363
@@ -114577,7 +114577,7 @@ Date,Country/Region,Confirmed,Deaths
 8/28/21,Malta,36039,440
 8/28/21,Marshall Islands,4,0
 8/28/21,Mauritania,33158,702
-8/28/21,Mauritius,8667,27
+8/28/21,Mauritius,9864,28
 8/28/21,Mexico,3328863,257906
 8/28/21,Micronesia (country),1,0
 8/28/21,Moldova,266784,6390
@@ -114773,7 +114773,7 @@ Date,Country/Region,Confirmed,Deaths
 8/29/21,Malta,36089,440
 8/29/21,Marshall Islands,4,0
 8/29/21,Mauritania,33309,705
-8/29/21,Mauritius,8667,27
+8/29/21,Mauritius,10196,29
 8/29/21,Mexico,3335700,258165
 8/29/21,Micronesia (country),1,0
 8/29/21,Moldova,266988,6394
@@ -115557,7 +115557,7 @@ Date,Country/Region,Confirmed,Deaths
 9/2/21,Malta,36322,441
 9/2/21,Marshall Islands,4,0
 9/2/21,Mauritania,33869,724
-9/2/21,Mauritius,10676,31
+9/2/21,Mauritius,11181,31
 9/2/21,Mexico,3387885,261496
 9/2/21,Micronesia (country),1,0
 9/2/21,Moldova,268892,6411
@@ -115753,7 +115753,7 @@ Date,Country/Region,Confirmed,Deaths
 9/3/21,Malta,36364,441
 9/3/21,Marshall Islands,4,0
 9/3/21,Mauritania,33989,730
-9/3/21,Mauritius,11181,31
+9/3/21,Mauritius,11466,32
 9/3/21,Mexico,3405294,262221
 9/3/21,Micronesia (country),1,0
 9/3/21,Moldova,269602,6419
@@ -115949,7 +115949,7 @@ Date,Country/Region,Confirmed,Deaths
 9/4/21,Malta,36426,442
 9/4/21,Marshall Islands,4,0
 9/4/21,Mauritania,34111,733
-9/4/21,Mauritius,11181,31
+9/4/21,Mauritius,11744,33
 9/4/21,Mexico,3420880,262868
 9/4/21,Micronesia (country),1,0
 9/4/21,Moldova,269986,6426
@@ -116145,7 +116145,7 @@ Date,Country/Region,Confirmed,Deaths
 9/5/21,Malta,36475,444
 9/5/21,Marshall Islands,4,0
 9/5/21,Mauritania,34204,733
-9/5/21,Mauritius,11181,31
+9/5/21,Mauritius,12036,34
 9/5/21,Mexico,3428384,263140
 9/5/21,Micronesia (country),1,0
 9/5/21,Moldova,270219,6436
@@ -116341,7 +116341,7 @@ Date,Country/Region,Confirmed,Deaths
 9/6/21,Malta,36512,445
 9/6/21,Marshall Islands,4,0
 9/6/21,Mauritania,34297,737
-9/6/21,Mauritius,11466,32
+9/6/21,Mauritius,12036,34
 9/6/21,Mexico,3433511,263470
 9/6/21,Micronesia (country),1,0
 9/6/21,Moldova,270685,6445
@@ -116733,7 +116733,7 @@ Date,Country/Region,Confirmed,Deaths
 9/8/21,Malta,36606,446
 9/8/21,Marshall Islands,4,0
 9/8/21,Mauritania,34504,743
-9/8/21,Mauritius,12616,34
+9/8/21,Mauritius,12783,37
 9/8/21,Mexico,3465171,265420
 9/8/21,Micronesia (country),1,0
 9/8/21,Moldova,272325,6466
@@ -117125,7 +117125,7 @@ Date,Country/Region,Confirmed,Deaths
 9/10/21,Malta,36674,446
 9/10/21,Marshall Islands,4,0
 9/10/21,Mauritania,34692,747
-9/10/21,Mauritius,12783,37
+9/10/21,Mauritius,13114,42
 9/10/21,Mexico,3479999,266150
 9/10/21,Micronesia (country),1,0
 9/10/21,Moldova,273918,6492
@@ -117321,7 +117321,7 @@ Date,Country/Region,Confirmed,Deaths
 9/11/21,Malta,36708,447
 9/11/21,Marshall Islands,4,0
 9/11/21,Mauritania,34771,749
-9/11/21,Mauritius,13114,42
+9/11/21,Mauritius,13289,43
 9/11/21,Mexico,3506743,267524
 9/11/21,Micronesia (country),1,0
 9/11/21,Moldova,274599,6507
@@ -117517,7 +117517,7 @@ Date,Country/Region,Confirmed,Deaths
 9/12/21,Malta,36758,449
 9/12/21,Marshall Islands,4,0
 9/12/21,Mauritania,34878,754
-9/12/21,Mauritius,13114,42
+9/12/21,Mauritius,13289,43
 9/12/21,Mexico,3511882,267748
 9/12/21,Micronesia (country),1,0
 9/12/21,Moldova,274812,6521
@@ -118693,7 +118693,7 @@ Date,Country/Region,Confirmed,Deaths
 9/18/21,Malta,36952,453
 9/18/21,Marshall Islands,4,0
 9/18/21,Mauritania,35380,765
-9/18/21,Mauritius,14243,50
+9/18/21,Mauritius,14406,54
 9/18/21,Mexico,3552983,270538
 9/18/21,Micronesia (country),1,0
 9/18/21,Moldova,281216,6586
@@ -118889,7 +118889,7 @@ Date,Country/Region,Confirmed,Deaths
 9/19/21,Malta,36972,453
 9/19/21,Marshall Islands,4,0
 9/19/21,Mauritania,35462,766
-9/19/21,Mauritius,14243,50
+9/19/21,Mauritius,14406,54
 9/19/21,Mexico,3569677,271503
 9/19/21,Micronesia (country),1,0
 9/19/21,Moldova,281700,6595
@@ -119477,7 +119477,7 @@ Date,Country/Region,Confirmed,Deaths
 9/22/21,Malta,37036,456
 9/22/21,Marshall Islands,4,0
 9/22/21,Mauritania,35661,768
-9/22/21,Mauritius,14863,60
+9/22/21,Mauritius,14931,67
 9/22/21,Mexico,3597168,273391
 9/22/21,Micronesia (country),1,0
 9/22/21,Moldova,285321,6632
@@ -119673,7 +119673,7 @@ Date,Country/Region,Confirmed,Deaths
 9/23/21,Malta,37048,456
 9/23/21,Marshall Islands,4,0
 9/23/21,Mauritania,35717,768
-9/23/21,Mauritius,14863,60
+9/23/21,Mauritius,15056,70
 9/23/21,Mexico,3608976,274139
 9/23/21,Micronesia (country),1,0
 9/23/21,Moldova,286536,6649
@@ -120065,7 +120065,7 @@ Date,Country/Region,Confirmed,Deaths
 9/25/21,Malta,37077,457
 9/25/21,Marshall Islands,4,0
 9/25/21,Mauritania,35819,768
-9/25/21,Mauritius,15161,71
+9/25/21,Mauritius,15269,76
 9/25/21,Mexico,3619115,274703
 9/25/21,Micronesia (country),1,0
 9/25/21,Moldova,288377,6679
@@ -120261,7 +120261,7 @@ Date,Country/Region,Confirmed,Deaths
 9/26/21,Malta,37090,457
 9/26/21,Marshall Islands,4,0
 9/26/21,Mauritania,35859,768
-9/26/21,Mauritius,15161,71
+9/26/21,Mauritius,15391,79
 9/26/21,Mexico,3632800,275450
 9/26/21,Micronesia (country),1,0
 9/26/21,Moldova,289025,6695
@@ -121241,7 +121241,7 @@ Date,Country/Region,Confirmed,Deaths
 10/1/21,Malta,37163,458
 10/1/21,Marshall Islands,4,0
 10/1/21,Mauritania,36079,776
-10/1/21,Mauritius,15695,84
+10/1/21,Mauritius,15776,90
 10/1/21,Mexico,3671611,277978
 10/1/21,Micronesia (country),1,0
 10/1/21,Moldova,295681,6803
@@ -121437,7 +121437,7 @@ Date,Country/Region,Confirmed,Deaths
 10/2/21,Malta,37187,459
 10/2/21,Marshall Islands,4,0
 10/2/21,Mauritania,36114,777
-10/2/21,Mauritius,15695,84
+10/2/21,Mauritius,15776,90
 10/2/21,Mexico,3678980,278592
 10/2/21,Micronesia (country),1,0
 10/2/21,Moldova,296672,6829
@@ -121633,7 +121633,7 @@ Date,Country/Region,Confirmed,Deaths
 10/3/21,Malta,37197,459
 10/3/21,Marshall Islands,4,0
 10/3/21,Mauritania,36163,778
-10/3/21,Mauritius,15695,84
+10/3/21,Mauritius,15776,90
 10/3/21,Mexico,3678980,278592
 10/3/21,Micronesia (country),1,0
 10/3/21,Moldova,297232,6854
@@ -121829,7 +121829,7 @@ Date,Country/Region,Confirmed,Deaths
 10/4/21,Malta,37221,459
 10/4/21,Marshall Islands,4,0
 10/4/21,Mauritania,36163,778
-10/4/21,Mauritius,15776,90
+10/4/21,Mauritius,16083,100
 10/4/21,Mexico,3684242,279106
 10/4/21,Micronesia (country),1,0
 10/4/21,Moldova,298310,6877
@@ -122025,7 +122025,7 @@ Date,Country/Region,Confirmed,Deaths
 10/5/21,Malta,37246,459
 10/5/21,Marshall Islands,4,0
 10/5/21,Mauritania,36229,782
-10/5/21,Mauritius,15776,100
+10/5/21,Mauritius,16083,100
 10/5/21,Mexico,3684242,279106
 10/5/21,Micronesia (country),1,0
 10/5/21,Moldova,299843,6901
@@ -122809,7 +122809,7 @@ Date,Country/Region,Confirmed,Deaths
 10/9/21,Malta,37323,459
 10/9/21,Marshall Islands,4,0
 10/9/21,Mauritania,36387,784
-10/9/21,Mauritius,16189,106
+10/9/21,Mauritius,16291,110
 10/9/21,Mexico,3714392,281610
 10/9/21,Micronesia (country),1,0
 10/9/21,Moldova,305977,6980
@@ -123005,7 +123005,7 @@ Date,Country/Region,Confirmed,Deaths
 10/10/21,Malta,37347,459
 10/10/21,Marshall Islands,4,0
 10/10/21,Mauritania,36414,785
-10/10/21,Mauritius,16189,106
+10/10/21,Mauritius,16291,110
 10/10/21,Mexico,3723235,282086
 10/10/21,Micronesia (country),1,0
 10/10/21,Moldova,306647,7024
@@ -124181,7 +124181,7 @@ Date,Country/Region,Confirmed,Deaths
 10/16/21,Malta,37445,459
 10/16/21,Marshall Islands,4,0
 10/16/21,Mauritania,36645,788
-10/16/21,Mauritius,16621,129
+10/16/21,Mauritius,16669,134
 10/16/21,Mexico,3755063,284321
 10/16/21,Micronesia (country),1,0
 10/16/21,Moldova,315414,7206
@@ -124377,7 +124377,7 @@ Date,Country/Region,Confirmed,Deaths
 10/17/21,Malta,37453,459
 10/17/21,Marshall Islands,4,0
 10/17/21,Mauritania,36677,788
-10/17/21,Mauritius,16621,129
+10/17/21,Mauritius,16669,134
 10/17/21,Mexico,3757056,284381
 10/17/21,Micronesia (country),1,0
 10/17/21,Moldova,316529,7241
@@ -125553,7 +125553,7 @@ Date,Country/Region,Confirmed,Deaths
 10/23/21,Malta,37539,459
 10/23/21,Marshall Islands,4,0
 10/23/21,Mauritania,36910,792
-10/23/21,Mauritius,17047,148
+10/23/21,Mauritius,17111,153
 10/23/21,Mexico,3781661,286259
 10/23/21,Micronesia (country),1,0
 10/23/21,Moldova,327094,7459
@@ -125749,7 +125749,7 @@ Date,Country/Region,Confirmed,Deaths
 10/24/21,Malta,37551,459
 10/24/21,Marshall Islands,4,0
 10/24/21,Mauritania,36955,792
-10/24/21,Mauritius,17047,148
+10/24/21,Mauritius,17190,153
 10/24/21,Mexico,3781661,286259
 10/24/21,Micronesia (country),1,0
 10/24/21,Moldova,328000,7497
@@ -125945,7 +125945,7 @@ Date,Country/Region,Confirmed,Deaths
 10/25/21,Malta,37564,460
 10/25/21,Marshall Islands,4,0
 10/25/21,Mauritania,36989,792
-10/25/21,Mauritius,17143,153
+10/25/21,Mauritius,17285,153
 10/25/21,Mexico,3784448,286496
 10/25/21,Micronesia (country),1,0
 10/25/21,Moldova,329294,7535
@@ -126141,7 +126141,7 @@ Date,Country/Region,Confirmed,Deaths
 10/26/21,Malta,37580,460
 10/26/21,Marshall Islands,4,0
 10/26/21,Mauritania,37032,792
-10/26/21,Mauritius,17416,160
+10/26/21,Mauritius,18345,160
 10/26/21,Mexico,3784448,286496
 10/26/21,Micronesia (country),1,0
 10/26/21,Moldova,330799,7576
@@ -126337,7 +126337,7 @@ Date,Country/Region,Confirmed,Deaths
 10/27/21,Malta,37595,460
 10/27/21,Marshall Islands,4,0
 10/27/21,Mauritania,37094,792
-10/27/21,Mauritius,17416,160
+10/27/21,Mauritius,19248,160
 10/27/21,Mexico,3788986,286888
 10/27/21,Micronesia (country),1,0
 10/27/21,Moldova,332625,7619
@@ -126533,7 +126533,7 @@ Date,Country/Region,Confirmed,Deaths
 10/28/21,Malta,37610,460
 10/28/21,Marshall Islands,4,0
 10/28/21,Mauritania,37155,794
-10/28/21,Mauritius,17586,164
+10/28/21,Mauritius,20265,164
 10/28/21,Mexico,3798286,287631
 10/28/21,Micronesia (country),1,0
 10/28/21,Moldova,334287,7665
@@ -126729,7 +126729,7 @@ Date,Country/Region,Confirmed,Deaths
 10/29/21,Malta,37618,461
 10/29/21,Marshall Islands,4,0
 10/29/21,Mauritania,37222,794
-10/29/21,Mauritius,17698,166
+10/29/21,Mauritius,21150,166
 10/29/21,Mexico,3802287,287951
 10/29/21,Micronesia (country),1,0
 10/29/21,Moldova,335860,7665
@@ -126925,7 +126925,7 @@ Date,Country/Region,Confirmed,Deaths
 10/30/21,Malta,37637,461
 10/30/21,Marshall Islands,4,0
 10/30/21,Mauritania,37275,795
-10/30/21,Mauritius,17698,166
+10/30/21,Mauritius,22066,176
 10/30/21,Mexico,3805765,288276
 10/30/21,Micronesia (country),1,0
 10/30/21,Moldova,337115,7751
@@ -127121,7 +127121,7 @@ Date,Country/Region,Confirmed,Deaths
 10/31/21,Malta,37653,461
 10/31/21,Marshall Islands,4,0
 10/31/21,Mauritania,37320,797
-10/31/21,Mauritius,17698,166
+10/31/21,Mauritius,22852,176
 10/31/21,Mexico,3807211,288365
 10/31/21,Micronesia (country),1,0
 10/31/21,Moldova,337768,7790
@@ -127317,7 +127317,7 @@ Date,Country/Region,Confirmed,Deaths
 11/1/21,Malta,37673,461
 11/1/21,Marshall Islands,4,0
 11/1/21,Mauritania,37368,797
-11/1/21,Mauritius,17812,176
+11/1/21,Mauritius,23588,176
 11/1/21,Mexico,3807211,288365
 11/1/21,Micronesia (country),1,0
 11/1/21,Moldova,339114,7828
@@ -127513,7 +127513,7 @@ Date,Country/Region,Confirmed,Deaths
 11/2/21,Malta,37702,462
 11/2/21,Marshall Islands,4,0
 11/2/21,Mauritania,37435,798
-11/2/21,Mauritius,17812,176
+11/2/21,Mauritius,24519,194
 11/2/21,Mexico,3808205,288464
 11/2/21,Micronesia (country),1,0
 11/2/21,Moldova,340188,7870
@@ -127709,7 +127709,7 @@ Date,Country/Region,Confirmed,Deaths
 11/3/21,Malta,37736,462
 11/3/21,Marshall Islands,4,0
 11/3/21,Mauritania,37489,799
-11/3/21,Mauritius,18205,196
+11/3/21,Mauritius,24623,196
 11/3/21,Mexico,3811793,288733
 11/3/21,Micronesia (country),1,0
 11/3/21,Moldova,341675,7912
@@ -127905,7 +127905,7 @@ Date,Country/Region,Confirmed,Deaths
 11/4/21,Malta,37773,462
 11/4/21,Marshall Islands,4,0
 11/4/21,Mauritania,37535,801
-11/4/21,Mauritius,18314,199
+11/4/21,Mauritius,25930,199
 11/4/21,Mexico,3814453,288887
 11/4/21,Micronesia (country),1,0
 11/4/21,Moldova,343261,7958
@@ -128101,7 +128101,7 @@ Date,Country/Region,Confirmed,Deaths
 11/5/21,Malta,37813,462
 11/5/21,Marshall Islands,4,0
 11/5/21,Mauritania,37608,801
-11/5/21,Mauritius,18314,199
+11/5/21,Mauritius,27143,199
 11/5/21,Mexico,3818216,289131
 11/5/21,Micronesia (country),1,0
 11/5/21,Moldova,344563,8007
@@ -128297,7 +128297,7 @@ Date,Country/Region,Confirmed,Deaths
 11/6/21,Malta,37854,462
 11/6/21,Marshall Islands,4,0
 11/6/21,Mauritania,37659,801
-11/6/21,Mauritius,18314,199
+11/6/21,Mauritius,28740,213
 11/6/21,Mexico,3825404,289674
 11/6/21,Micronesia (country),1,0
 11/6/21,Moldova,345517,8056
@@ -128493,7 +128493,7 @@ Date,Country/Region,Confirmed,Deaths
 11/7/21,Malta,37904,462
 11/7/21,Marshall Islands,4,0
 11/7/21,Mauritania,37703,801
-11/7/21,Mauritius,18314,199
+11/7/21,Mauritius,30140,213
 11/7/21,Mexico,3826786,289734
 11/7/21,Micronesia (country),1,0
 11/7/21,Moldova,345964,8099
@@ -128689,7 +128689,7 @@ Date,Country/Region,Confirmed,Deaths
 11/8/21,Malta,37931,462
 11/8/21,Marshall Islands,4,0
 11/8/21,Mauritania,37755,802
-11/8/21,Mauritius,18531,213
+11/8/21,Mauritius,31798,213
 11/8/21,Mexico,3826786,289734
 11/8/21,Micronesia (country),1,0
 11/8/21,Moldova,347105,8144
@@ -128885,7 +128885,7 @@ Date,Country/Region,Confirmed,Deaths
 11/9/21,Malta,37966,462
 11/9/21,Marshall Islands,4,0
 11/9/21,Mauritania,37755,802
-11/9/21,Mauritius,18979,240
+11/9/21,Mauritius,33923,222
 11/9/21,Mexico,3831259,290110
 11/9/21,Micronesia (country),1,0
 11/9/21,Moldova,348588,8193
@@ -129081,7 +129081,7 @@ Date,Country/Region,Confirmed,Deaths
 11/10/21,Malta,38004,462
 11/10/21,Marshall Islands,4,0
 11/10/21,Mauritania,37884,805
-11/10/21,Mauritius,18979,240
+11/10/21,Mauritius,35800,229
 11/10/21,Mexico,3831259,290110
 11/10/21,Micronesia (country),1,0
 11/10/21,Moldova,349568,8253
@@ -129277,7 +129277,7 @@ Date,Country/Region,Confirmed,Deaths
 11/11/21,Malta,38067,462
 11/11/21,Marshall Islands,4,0
 11/11/21,Mauritania,37941,805
-11/11/21,Mauritius,18979,240
+11/11/21,Mauritius,37474,233
 11/11/21,Mexico,3838308,290630
 11/11/21,Micronesia (country),1,0
 11/11/21,Moldova,350697,8323
@@ -129473,7 +129473,7 @@ Date,Country/Region,Confirmed,Deaths
 11/12/21,Malta,38117,462
 11/12/21,Marshall Islands,4,0
 11/12/21,Mauritania,38001,806
-11/12/21,Mauritius,18979,240
+11/12/21,Mauritius,39095,249
 11/12/21,Mexico,3838308,290630
 11/12/21,Micronesia (country),1,0
 11/12/21,Moldova,351940,8391
@@ -129669,7 +129669,7 @@ Date,Country/Region,Confirmed,Deaths
 11/13/21,Malta,38168,462
 11/13/21,Marshall Islands,4,0
 11/13/21,Mauritania,38069,807
-11/13/21,Mauritius,18979,240
+11/13/21,Mauritius,40694,256
 11/13/21,Mexico,3841661,290872
 11/13/21,Micronesia (country),1,0
 11/13/21,Moldova,352670,8446
@@ -129865,7 +129865,7 @@ Date,Country/Region,Confirmed,Deaths
 11/14/21,Malta,38200,462
 11/14/21,Marshall Islands,4,0
 11/14/21,Mauritania,38133,807
-11/14/21,Mauritius,18979,240
+11/14/21,Mauritius,42058,267
 11/14/21,Mexico,3844791,291089
 11/14/21,Micronesia (country),1,0
 11/14/21,Moldova,352822,8495
@@ -130061,7 +130061,7 @@ Date,Country/Region,Confirmed,Deaths
 11/15/21,Malta,38255,462
 11/15/21,Marshall Islands,4,0
 11/15/21,Mauritania,38188,807
-11/15/21,Mauritius,18979,240
+11/15/21,Mauritius,43186,280
 11/15/21,Mexico,3845733,291147
 11/15/21,Micronesia (country),1,0
 11/15/21,Moldova,353778,8549
@@ -130257,7 +130257,7 @@ Date,Country/Region,Confirmed,Deaths
 11/16/21,Malta,38319,462
 11/16/21,Marshall Islands,4,0
 11/16/21,Mauritania,38278,808
-11/16/21,Mauritius,18979,240
+11/16/21,Mauritius,45182,293
 11/16/21,Mexico,3846508,291204
 11/16/21,Micronesia (country),1,0
 11/16/21,Moldova,354755,8602
@@ -130453,7 +130453,7 @@ Date,Country/Region,Confirmed,Deaths
 11/17/21,Malta,38383,462
 11/17/21,Marshall Islands,4,0
 11/17/21,Mauritania,38358,811
-11/17/21,Mauritius,18979,240
+11/17/21,Mauritius,46578,304
 11/17/21,Mexico,3851079,291573
 11/17/21,Micronesia (country),1,0
 11/17/21,Moldova,355646,8661
@@ -130649,7 +130649,7 @@ Date,Country/Region,Confirmed,Deaths
 11/18/21,Malta,38449,462
 11/18/21,Marshall Islands,4,0
 11/18/21,Mauritania,38440,812
-11/18/21,Mauritius,19893,240
+11/18/21,Mauritius,47919,319
 11/18/21,Mexico,3854994,291929
 11/18/21,Micronesia (country),1,0
 11/18/21,Moldova,356448,8709
@@ -130845,7 +130845,7 @@ Date,Country/Region,Confirmed,Deaths
 11/19/21,Malta,38528,463
 11/19/21,Marshall Islands,4,0
 11/19/21,Mauritania,38515,814
-11/19/21,Mauritius,20031,240
+11/19/21,Mauritius,49197,333
 11/19/21,Mexico,3854994,291929
 11/19/21,Micronesia (country),1,0
 11/19/21,Moldova,357211,8756
@@ -131041,7 +131041,7 @@ Date,Country/Region,Confirmed,Deaths
 11/20/21,Malta,38587,463
 11/20/21,Marshall Islands,4,0
 11/20/21,Mauritania,38583,816
-11/20/21,Mauritius,20177,240
+11/20/21,Mauritius,50389,356
 11/20/21,Mexico,3858831,292145
 11/20/21,Micronesia (country),1,0
 11/20/21,Moldova,357831,8799
@@ -131237,7 +131237,7 @@ Date,Country/Region,Confirmed,Deaths
 11/21/21,Malta,38709,463
 11/21/21,Marshall Islands,4,0
 11/21/21,Mauritania,38647,818
-11/21/21,Mauritius,20372,240
+11/21/21,Mauritius,51526,372
 11/21/21,Mexico,3862137,292372
 11/21/21,Micronesia (country),1,0
 11/21/21,Moldova,358202,8834
@@ -131433,7 +131433,7 @@ Date,Country/Region,Confirmed,Deaths
 11/22/21,Malta,38771,464
 11/22/21,Marshall Islands,4,0
 11/22/21,Mauritania,38699,821
-11/22/21,Mauritius,20469,240
+11/22/21,Mauritius,52502,391
 11/22/21,Mexico,3864278,292524
 11/22/21,Micronesia (country),1,0
 11/22/21,Moldova,358857,8869
@@ -131629,7 +131629,7 @@ Date,Country/Region,Confirmed,Deaths
 11/23/21,Malta,38842,464
 11/23/21,Marshall Islands,4,0
 11/23/21,Mauritania,38796,822
-11/23/21,Mauritius,20616,240
+11/23/21,Mauritius,53848,397
 11/23/21,Mexico,3864278,292524
 11/23/21,Micronesia (country),1,0
 11/23/21,Moldova,359401,8915
@@ -131825,7 +131825,7 @@ Date,Country/Region,Confirmed,Deaths
 11/24/21,Malta,38928,464
 11/24/21,Marshall Islands,4,0
 11/24/21,Mauritania,38881,822
-11/24/21,Mauritius,20752,240
+11/24/21,Mauritius,55000,422
 11/24/21,Mexico,3867976,292850
 11/24/21,Micronesia (country),1,0
 11/24/21,Moldova,360261,8950
@@ -132021,7 +132021,7 @@ Date,Country/Region,Confirmed,Deaths
 11/25/21,Malta,39011,466
 11/25/21,Marshall Islands,4,0
 11/25/21,Mauritania,38950,825
-11/25/21,Mauritius,20913,240
+11/25/21,Mauritius,55161,468
 11/25/21,Mexico,3876391,293449
 11/25/21,Micronesia (country),1,0
 11/25/21,Moldova,361116,8985
@@ -132217,7 +132217,7 @@ Date,Country/Region,Confirmed,Deaths
 11/26/21,Malta,39067,468
 11/26/21,Marshall Islands,4,0
 11/26/21,Mauritania,39035,829
-11/26/21,Mauritius,21040,240
+11/26/21,Mauritius,55288,468
 11/26/21,Mexico,3879836,293614
 11/26/21,Micronesia (country),1,0
 11/26/21,Moldova,361828,9022
@@ -132413,7 +132413,7 @@ Date,Country/Region,Confirmed,Deaths
 11/27/21,Malta,39162,468
 11/27/21,Marshall Islands,4,0
 11/27/21,Mauritania,39115,831
-11/27/21,Mauritius,21191,240
+11/27/21,Mauritius,55439,468
 11/27/21,Mexico,3879836,293614
 11/27/21,Micronesia (country),1,0
 11/27/21,Moldova,362326,9054
@@ -132609,7 +132609,7 @@ Date,Country/Region,Confirmed,Deaths
 11/28/21,Malta,39234,468
 11/28/21,Marshall Islands,4,0
 11/28/21,Mauritania,39178,831
-11/28/21,Mauritius,21325,240
+11/28/21,Mauritius,55573,468
 11/28/21,Mexico,3882792,293859
 11/28/21,Micronesia (country),1,0
 11/28/21,Moldova,362433,9069
@@ -132805,7 +132805,7 @@ Date,Country/Region,Confirmed,Deaths
 11/29/21,Malta,39329,468
 11/29/21,Marshall Islands,4,0
 11/29/21,Mauritania,39213,831
-11/29/21,Mauritius,21386,240
+11/29/21,Mauritius,55634,527
 11/29/21,Mexico,3884566,293950
 11/29/21,Micronesia (country),1,0
 11/29/21,Moldova,363110,9090
@@ -133001,7 +133001,7 @@ Date,Country/Region,Confirmed,Deaths
 11/30/21,Malta,39435,468
 11/30/21,Marshall Islands,4,0
 11/30/21,Mauritania,39266,832
-11/30/21,Mauritius,21543,240
+11/30/21,Mauritius,55634,527
 11/30/21,Mexico,3884566,293950
 11/30/21,Micronesia (country),1,0
 11/30/21,Moldova,363774,9119
@@ -133197,7 +133197,7 @@ Date,Country/Region,Confirmed,Deaths
 12/1/21,Malta,39530,468
 12/1/21,Marshall Islands,4,0
 12/1/21,Mauritania,39339,835
-12/1/21,Mauritius,21655,240
+12/1/21,Mauritius,56048,568
 12/1/21,Mexico,3891218,294428
 12/1/21,Micronesia (country),1,0
 12/1/21,Moldova,364433,9141
@@ -133393,7 +133393,7 @@ Date,Country/Region,Confirmed,Deaths
 12/2/21,Malta,39668,468
 12/2/21,Marshall Islands,4,0
 12/2/21,Mauritania,39408,835
-12/2/21,Mauritius,21760,240
+12/2/21,Mauritius,56048,568
 12/2/21,Mexico,3891218,294428
 12/2/21,Micronesia (country),1,0
 12/2/21,Moldova,365165,9162
@@ -133589,7 +133589,7 @@ Date,Country/Region,Confirmed,Deaths
 12/3/21,Malta,39806,468
 12/3/21,Marshall Islands,4,0
 12/3/21,Mauritania,39468,837
-12/3/21,Mauritius,21868,240
+12/3/21,Mauritius,56306,594
 12/3/21,Mexico,3897452,294904
 12/3/21,Micronesia (country),1,0
 12/3/21,Moldova,365713,9192
@@ -133785,7 +133785,7 @@ Date,Country/Region,Confirmed,Deaths
 12/4/21,Malta,39865,468
 12/4/21,Marshall Islands,4,0
 12/4/21,Mauritania,39510,838
-12/4/21,Mauritius,21973,240
+12/4/21,Mauritius,56306,594
 12/4/21,Mexico,3897452,294904
 12/4/21,Micronesia (country),1,0
 12/4/21,Moldova,366162,9208
@@ -133981,7 +133981,7 @@ Date,Country/Region,Confirmed,Deaths
 12/5/21,Malta,39934,468
 12/5/21,Marshall Islands,4,0
 12/5/21,Mauritania,39558,840
-12/5/21,Mauritius,22090,240
+12/5/21,Mauritius,56306,594
 12/5/21,Mexico,3901263,295203
 12/5/21,Micronesia (country),1,0
 12/5/21,Moldova,366256,9217
@@ -134177,7 +134177,7 @@ Date,Country/Region,Confirmed,Deaths
 12/6/21,Malta,40015,468
 12/6/21,Marshall Islands,4,0
 12/6/21,Mauritania,39584,842
-12/6/21,Mauritius,22156,240
+12/6/21,Mauritius,62500,652
 12/6/21,Mexico,3902015,295313
 12/6/21,Micronesia (country),1,0
 12/6/21,Moldova,366751,9244
@@ -134373,7 +134373,7 @@ Date,Country/Region,Confirmed,Deaths
 12/7/21,Malta,40101,468
 12/7/21,Marshall Islands,4,0
 12/7/21,Mauritania,39621,844
-12/7/21,Mauritius,22251,240
+12/7/21,Mauritius,62595,652
 12/7/21,Mexico,3902015,295313
 12/7/21,Micronesia (country),1,0
 12/7/21,Moldova,367339,9270
@@ -134569,7 +134569,7 @@ Date,Country/Region,Confirmed,Deaths
 12/8/21,Malta,40188,468
 12/8/21,Marshall Islands,4,0
 12/8/21,Mauritania,39669,844
-12/8/21,Mauritius,22310,240
+12/8/21,Mauritius,62654,652
 12/8/21,Mexico,3905319,295602
 12/8/21,Micronesia (country),1,0
 12/8/21,Moldova,367948,9293
@@ -134765,7 +134765,7 @@ Date,Country/Region,Confirmed,Deaths
 12/9/21,Malta,40269,468
 12/9/21,Marshall Islands,4,0
 12/9/21,Mauritania,39704,846
-12/9/21,Mauritius,22393,240
+12/9/21,Mauritius,62735,680
 12/9/21,Mexico,3911714,296188
 12/9/21,Micronesia (country),1,0
 12/9/21,Moldova,368497,9315
@@ -134961,7 +134961,7 @@ Date,Country/Region,Confirmed,Deaths
 12/10/21,Malta,40357,470
 12/10/21,Marshall Islands,4,0
 12/10/21,Mauritania,39742,848
-12/10/21,Mauritius,22461,240
+12/10/21,Mauritius,62721,686
 12/10/21,Mexico,3911714,296188
 12/10/21,Micronesia (country),1,0
 12/10/21,Moldova,369013,9333
@@ -135157,7 +135157,7 @@ Date,Country/Region,Confirmed,Deaths
 12/11/21,Malta,40468,470
 12/11/21,Marshall Islands,4,0
 12/11/21,Mauritania,39778,849
-12/11/21,Mauritius,22521,240
+12/11/21,Mauritius,62781,686
 12/11/21,Mexico,3914706,296385
 12/11/21,Micronesia (country),1,0
 12/11/21,Moldova,369402,9354
@@ -135353,7 +135353,7 @@ Date,Country/Region,Confirmed,Deaths
 12/12/21,Malta,40546,470
 12/12/21,Marshall Islands,4,0
 12/12/21,Mauritania,39806,849
-12/12/21,Mauritius,22613,240
+12/12/21,Mauritius,62873,686
 12/12/21,Mexico,3917361,296620
 12/12/21,Micronesia (country),1,0
 12/12/21,Moldova,369659,9368
@@ -135549,7 +135549,7 @@ Date,Country/Region,Confirmed,Deaths
 12/13/21,Malta,40624,471
 12/13/21,Marshall Islands,4,0
 12/13/21,Mauritania,39834,850
-12/13/21,Mauritius,22651,240
+12/13/21,Mauritius,62930,719
 12/13/21,Mexico,3918216,296672
 12/13/21,Micronesia (country),1,0
 12/13/21,Moldova,370003,9393
@@ -135745,7 +135745,7 @@ Date,Country/Region,Confirmed,Deaths
 12/14/21,Malta,40724,471
 12/14/21,Marshall Islands,4,0
 12/14/21,Mauritania,39878,852
-12/14/21,Mauritius,22710,240
+12/14/21,Mauritius,62989,719
 12/14/21,Mexico,3918987,296721
 12/14/21,Micronesia (country),1,0
 12/14/21,Moldova,370459,9414
@@ -135941,7 +135941,7 @@ Date,Country/Region,Confirmed,Deaths
 12/15/21,Malta,40892,471
 12/15/21,Marshall Islands,4,0
 12/15/21,Mauritania,39924,852
-12/15/21,Mauritius,22769,240
+12/15/21,Mauritius,65737,732
 12/15/21,Mexico,3924638,297188
 12/15/21,Micronesia (country),1,0
 12/15/21,Moldova,370951,9434
@@ -136137,7 +136137,7 @@ Date,Country/Region,Confirmed,Deaths
 12/16/21,Malta,41059,471
 12/16/21,Marshall Islands,4,0
 12/16/21,Mauritania,39964,852
-12/16/21,Mauritius,22815,240
+12/16/21,Mauritius,65773,735
 12/16/21,Mexico,3927265,297356
 12/16/21,Micronesia (country),1,0
 12/16/21,Moldova,371410,9450
@@ -136333,7 +136333,7 @@ Date,Country/Region,Confirmed,Deaths
 12/17/21,Malta,41280,471
 12/17/21,Marshall Islands,4,0
 12/17/21,Mauritania,39990,852
-12/17/21,Mauritius,22869,240
+12/17/21,Mauritius,65840,741
 12/17/21,Mexico,3927265,297356
 12/17/21,Micronesia (country),1,0
 12/17/21,Moldova,371850,9466
@@ -136529,7 +136529,7 @@ Date,Country/Region,Confirmed,Deaths
 12/18/21,Malta,41571,471
 12/18/21,Marshall Islands,4,0
 12/18/21,Mauritania,40027,852
-12/18/21,Mauritius,22907,240
+12/18/21,Mauritius,65870,746
 12/18/21,Mexico,3930015,297568
 12/18/21,Micronesia (country),1,0
 12/18/21,Moldova,372154,9482
@@ -136725,7 +136725,7 @@ Date,Country/Region,Confirmed,Deaths
 12/19/21,Malta,41853,471
 12/19/21,Marshall Islands,4,0
 12/19/21,Mauritania,40083,853
-12/19/21,Mauritius,22965,240
+12/19/21,Mauritius,65890,746
 12/19/21,Mexico,3932545,297835
 12/19/21,Micronesia (country),1,0
 12/19/21,Moldova,372200,9493
@@ -136921,7 +136921,7 @@ Date,Country/Region,Confirmed,Deaths
 12/20/21,Malta,42105,471
 12/20/21,Marshall Islands,4,0
 12/20/21,Mauritania,40126,855
-12/20/21,Mauritius,22979,240
+12/20/21,Mauritius,67001,762
 12/20/21,Mexico,3934102,297916
 12/20/21,Micronesia (country),1,0
 12/20/21,Moldova,372429,9521
@@ -137117,7 +137117,7 @@ Date,Country/Region,Confirmed,Deaths
 12/21/21,Malta,42491,471
 12/21/21,Marshall Islands,4,0
 12/21/21,Mauritania,40182,857
-12/21/21,Mauritius,23020,240
+12/21/21,Mauritius,66970,762
 12/21/21,Mexico,3934102,297916
 12/21/21,Micronesia (country),1,0
 12/21/21,Moldova,372983,9540
@@ -137313,7 +137313,7 @@ Date,Country/Region,Confirmed,Deaths
 12/22/21,Malta,43073,473
 12/22/21,Marshall Islands,4,0
 12/22/21,Mauritania,40239,859
-12/22/21,Mauritius,23020,240
+12/22/21,Mauritius,66929,762
 12/22/21,Mexico,3937082,298161
 12/22/21,Micronesia (country),1,0
 12/22/21,Moldova,373373,9557
@@ -137509,7 +137509,7 @@ Date,Country/Region,Confirmed,Deaths
 12/23/21,Malta,43806,473
 12/23/21,Marshall Islands,4,0
 12/23/21,Mauritania,40308,860
-12/23/21,Mauritius,23077,240
+12/23/21,Mauritius,66986,762
 12/23/21,Mexico,3940401,298359
 12/23/21,Micronesia (country),1,0
 12/23/21,Moldova,373752,9575
@@ -137705,7 +137705,7 @@ Date,Country/Region,Confirmed,Deaths
 12/24/21,Malta,44761,473
 12/24/21,Marshall Islands,4,0
 12/24/21,Mauritania,40389,861
-12/24/21,Mauritius,23105,240
+12/24/21,Mauritius,66957,762
 12/24/21,Mexico,3947284,298670
 12/24/21,Micronesia (country),1,0
 12/24/21,Moldova,374120,9589
@@ -137901,7 +137901,7 @@ Date,Country/Region,Confirmed,Deaths
 12/25/21,Malta,45678,474
 12/25/21,Marshall Islands,4,0
 12/25/21,Mauritania,40453,862
-12/25/21,Mauritius,23170,240
+12/25/21,Mauritius,66994,762
 12/25/21,Mexico,3950200,298759
 12/25/21,Micronesia (country),1,0
 12/25/21,Moldova,374349,9605
@@ -138097,7 +138097,7 @@ Date,Country/Region,Confirmed,Deaths
 12/26/21,Malta,46250,475
 12/26/21,Marshall Islands,4,0
 12/26/21,Mauritania,40504,862
-12/26/21,Mauritius,23208,240
+12/26/21,Mauritius,66967,762
 12/26/21,Mexico,3950200,298759
 12/26/21,Micronesia (country),1,0
 12/26/21,Moldova,374526,9613
@@ -138293,7 +138293,7 @@ Date,Country/Region,Confirmed,Deaths
 12/27/21,Malta,47082,476
 12/27/21,Marshall Islands,4,0
 12/27/21,Mauritania,40614,862
-12/27/21,Mauritius,23251,240
+12/27/21,Mauritius,66972,762
 12/27/21,Mexico,3951003,298777
 12/27/21,Micronesia (country),1,0
 12/27/21,Moldova,374763,9625
@@ -138489,7 +138489,7 @@ Date,Country/Region,Confirmed,Deaths
 12/28/21,Malta,48380,476
 12/28/21,Marshall Islands,4,0
 12/28/21,Mauritania,40737,862
-12/28/21,Mauritius,23293,240
+12/28/21,Mauritius,68395,786
 12/28/21,Mexico,3951946,298819
 12/28/21,Micronesia (country),1,0
 12/28/21,Moldova,375065,9645
@@ -138685,7 +138685,7 @@ Date,Country/Region,Confirmed,Deaths
 12/29/21,Malta,49717,476
 12/29/21,Marshall Islands,4,0
 12/29/21,Mauritania,40906,862
-12/29/21,Mauritius,23372,240
+12/29/21,Mauritius,68431,786
 12/29/21,Mexico,3956372,298944
 12/29/21,Micronesia (country),1,0
 12/29/21,Moldova,375358,9667
@@ -138881,7 +138881,7 @@ Date,Country/Region,Confirmed,Deaths
 12/30/21,Malta,51070,476
 12/30/21,Marshall Islands,4,0
 12/30/21,Mauritania,41154,863
-12/30/21,Mauritius,23421,240
+12/30/21,Mauritius,68480,786
 12/30/21,Mexico,3961662,299132
 12/30/21,Micronesia (country),1,0
 12/30/21,Moldova,375780,9690
@@ -139077,7 +139077,7 @@ Date,Country/Region,Confirmed,Deaths
 12/31/21,Malta,52473,476
 12/31/21,Marshall Islands,4,0
 12/31/21,Mauritania,41473,866
-12/31/21,Mauritius,23493,240
+12/31/21,Mauritius,68480,786
 12/31/21,Mexico,3979723,299428
 12/31/21,Micronesia (country),1,0
 12/31/21,Moldova,376155,10275
@@ -139273,7 +139273,7 @@ Date,Country/Region,Confirmed,Deaths
 1/1/22,Malta,53503,477
 1/1/22,Marshall Islands,4,0
 1/1/22,Mauritania,41867,870
-1/1/22,Mauritius,23554,240
+1/1/22,Mauritius,68552,786
 1/1/22,Mexico,3988916,299525
 1/1/22,Micronesia (country),1,0
 1/1/22,Moldova,376434,10284
@@ -139469,7 +139469,7 @@ Date,Country/Region,Confirmed,Deaths
 1/2/22,Malta,54250,479
 1/2/22,Marshall Islands,4,0
 1/2/22,Mauritania,42182,872
-1/2/22,Mauritius,23602,240
+1/2/22,Mauritius,68612,786
 1/2/22,Mexico,3990587,299544
 1/2/22,Micronesia (country),1,0
 1/2/22,Moldova,376602,10290
@@ -139665,7 +139665,7 @@ Date,Country/Region,Confirmed,Deaths
 1/3/22,Malta,55062,479
 1/3/22,Marshall Islands,4,0
 1/3/22,Mauritania,42672,872
-1/3/22,Mauritius,23602,240
+1/3/22,Mauritius,68661,786
 1/3/22,Mexico,3993464,299581
 1/3/22,Micronesia (country),1,0
 1/3/22,Moldova,376844,10306
@@ -139861,7 +139861,7 @@ Date,Country/Region,Confirmed,Deaths
 1/4/22,Malta,56209,479
 1/4/22,Marshall Islands,4,0
 1/4/22,Mauritania,43497,874
-1/4/22,Mauritius,23704,240
+1/4/22,Mauritius,68661,786
 1/4/22,Mexico,4008648,299711
 1/4/22,Micronesia (country),1,0
 1/4/22,Moldova,377496,10319
@@ -140057,7 +140057,7 @@ Date,Country/Region,Confirmed,Deaths
 1/5/22,Malta,57131,482
 1/5/22,Marshall Islands,4,0
 1/5/22,Mauritania,44646,876
-1/5/22,Mauritius,23805,240
+1/5/22,Mauritius,68763,786
 1/5/22,Mexico,4029274,299842
 1/5/22,Micronesia (country),1,0
 1/5/22,Moldova,378202,10328
@@ -140253,7 +140253,7 @@ Date,Country/Region,Confirmed,Deaths
 1/6/22,Malta,58275,484
 1/6/22,Marshall Islands,7,0
 1/6/22,Mauritania,45825,880
-1/6/22,Mauritius,23886,240
+1/6/22,Mauritius,68864,786
 1/6/22,Mexico,4055095,299970
 1/6/22,Micronesia (country),1,0
 1/6/22,Moldova,378904,10339
@@ -140449,7 +140449,7 @@ Date,Country/Region,Confirmed,Deaths
 1/7/22,Malta,59061,485
 1/7/22,Marshall Islands,7,0
 1/7/22,Mauritania,47036,881
-1/7/22,Mauritius,23962,240
+1/7/22,Mauritius,68945,786
 1/7/22,Mexico,4083118,300101
 1/7/22,Micronesia (country),1,0
 1/7/22,Moldova,379572,10350
@@ -140645,7 +140645,7 @@ Date,Country/Region,Confirmed,Deaths
 1/8/22,Malta,59823,487
 1/8/22,Marshall Islands,7,0
 1/8/22,Mauritania,48105,885
-1/8/22,Mauritius,24051,240
+1/8/22,Mauritius,69021,786
 1/8/22,Mexico,4113789,300303
 1/8/22,Micronesia (country),1,0
 1/8/22,Moldova,379901,10356
@@ -140841,7 +140841,7 @@ Date,Country/Region,Confirmed,Deaths
 1/9/22,Malta,60386,487
 1/9/22,Marshall Islands,7,0
 1/9/22,Mauritania,49006,886
-1/9/22,Mauritius,24051,240
+1/9/22,Mauritius,69110,786
 1/9/22,Mexico,4125388,300334
 1/9/22,Micronesia (country),1,0
 1/9/22,Moldova,380290,10363
@@ -141037,7 +141037,7 @@ Date,Country/Region,Confirmed,Deaths
 1/10/22,Malta,60823,488
 1/10/22,Marshall Islands,7,0
 1/10/22,Mauritania,49673,888
-1/10/22,Mauritius,24264,240
+1/10/22,Mauritius,69110,786
 1/10/22,Mexico,4125388,300334
 1/10/22,Micronesia (country),1,0
 1/10/22,Moldova,380985,10380
@@ -141233,7 +141233,7 @@ Date,Country/Region,Confirmed,Deaths
 1/11/22,Malta,61255,492
 1/11/22,Marshall Islands,7,0
 1/11/22,Mauritania,50702,891
-1/11/22,Mauritius,24264,240
+1/11/22,Mauritius,69323,786
 1/11/22,Mexico,4170066,300574
 1/11/22,Micronesia (country),1,0
 1/11/22,Moldova,382124,10397
@@ -141429,7 +141429,7 @@ Date,Country/Region,Confirmed,Deaths
 1/12/22,Malta,61928,496
 1/12/22,Marshall Islands,7,0
 1/12/22,Mauritania,51795,893
-1/12/22,Mauritius,24425,240
+1/12/22,Mauritius,69423,786
 1/12/22,Mexico,4214253,300764
 1/12/22,Micronesia (country),1,0
 1/12/22,Moldova,383544,10406
@@ -141625,7 +141625,7 @@ Date,Country/Region,Confirmed,Deaths
 1/13/22,Malta,62390,496
 1/13/22,Marshall Islands,7,0
 1/13/22,Mauritania,52772,895
-1/13/22,Mauritius,24498,240
+1/13/22,Mauritius,69484,786
 1/13/22,Mexico,4257776,300912
 1/13/22,Micronesia (country),1,0
 1/13/22,Moldova,385047,10416
@@ -141821,7 +141821,7 @@ Date,Country/Region,Confirmed,Deaths
 1/14/22,Malta,62906,501
 1/14/22,Marshall Islands,7,0
 1/14/22,Mauritania,53643,900
-1/14/22,Mauritius,24607,240
+1/14/22,Mauritius,69557,786
 1/14/22,Mexico,4257776,300912
 1/14/22,Micronesia (country),1,0
 1/14/22,Moldova,386905,10427
@@ -142017,7 +142017,7 @@ Date,Country/Region,Confirmed,Deaths
 1/15/22,Malta,63409,504
 1/15/22,Marshall Islands,7,0
 1/15/22,Mauritania,54393,903
-1/15/22,Mauritius,24609,240
+1/15/22,Mauritius,69666,786
 1/15/22,Mexico,4349182,301334
 1/15/22,Micronesia (country),1,0
 1/15/22,Moldova,387920,10437
@@ -142213,7 +142213,7 @@ Date,Country/Region,Confirmed,Deaths
 1/16/22,Malta,63710,506
 1/16/22,Marshall Islands,7,0
 1/16/22,Mauritania,54991,908
-1/16/22,Mauritius,24850,240
+1/16/22,Mauritius,69668,786
 1/16/22,Mexico,4368314,301410
 1/16/22,Micronesia (country),1,0
 1/16/22,Moldova,388959,10444
@@ -142409,7 +142409,7 @@ Date,Country/Region,Confirmed,Deaths
 1/17/22,Malta,63998,506
 1/17/22,Marshall Islands,7,0
 1/17/22,Mauritania,55395,909
-1/17/22,Mauritius,24903,240
+1/17/22,Mauritius,69909,786
 1/17/22,Mexico,4385415,301469
 1/17/22,Micronesia (country),1,0
 1/17/22,Moldova,390742,10452
@@ -142605,7 +142605,7 @@ Date,Country/Region,Confirmed,Deaths
 1/18/22,Malta,64377,509
 1/18/22,Marshall Islands,7,0
 1/18/22,Mauritania,55858,911
-1/18/22,Mauritius,24903,240
+1/18/22,Mauritius,69962,786
 1/18/22,Mexico,4385415,301469
 1/18/22,Micronesia (country),1,0
 1/18/22,Moldova,393423,10462
@@ -142801,7 +142801,7 @@ Date,Country/Region,Confirmed,Deaths
 1/19/22,Malta,64719,514
 1/19/22,Marshall Islands,7,0
 1/19/22,Mauritania,56296,914
-1/19/22,Mauritius,24903,240
+1/19/22,Mauritius,69962,786
 1/19/22,Mexico,4495310,302112
 1/19/22,Micronesia (country),1,0
 1/19/22,Moldova,396678,10470
@@ -142997,7 +142997,7 @@ Date,Country/Region,Confirmed,Deaths
 1/20/22,Malta,65005,520
 1/20/22,Marshall Islands,7,0
 1/20/22,Mauritania,56666,916
-1/20/22,Mauritius,24903,240
+1/20/22,Mauritius,70094,786
 1/20/22,Mexico,4495310,302112
 1/20/22,Micronesia (country),1,0
 1/20/22,Moldova,400585,10488
@@ -143193,7 +143193,7 @@ Date,Country/Region,Confirmed,Deaths
 1/21/22,Malta,65311,521
 1/21/22,Marshall Islands,7,0
 1/21/22,Mauritania,56946,920
-1/21/22,Mauritius,24903,240
+1/21/22,Mauritius,70134,786
 1/21/22,Mexico,4595589,302721
 1/21/22,Micronesia (country),1,0
 1/21/22,Moldova,404556,10501
@@ -143389,7 +143389,7 @@ Date,Country/Region,Confirmed,Deaths
 1/22/22,Malta,65596,525
 1/22/22,Marshall Islands,7,0
 1/22/22,Mauritania,57172,924
-1/22/22,Mauritius,25159,240
+1/22/22,Mauritius,70218,786
 1/22/22,Mexico,4595589,302721
 1/22/22,Micronesia (country),1,0
 1/22/22,Moldova,407003,10513
@@ -143585,7 +143585,7 @@ Date,Country/Region,Confirmed,Deaths
 1/23/22,Malta,65869,532
 1/23/22,Marshall Islands,7,0
 1/23/22,Mauritania,57384,927
-1/23/22,Mauritius,25159,240
+1/23/22,Mauritius,70218,786
 1/23/22,Mexico,4667829,303183
 1/23/22,Micronesia (country),1,0
 1/23/22,Moldova,409397,10522
@@ -143781,7 +143781,7 @@ Date,Country/Region,Confirmed,Deaths
 1/24/22,Malta,66071,534
 1/24/22,Marshall Islands,7,0
 1/24/22,Mauritania,57480,932
-1/24/22,Mauritius,25159,240
+1/24/22,Mauritius,70218,786
 1/24/22,Mexico,4685767,303301
 1/24/22,Micronesia (country),1,0
 1/24/22,Moldova,412231,10542
@@ -143977,7 +143977,7 @@ Date,Country/Region,Confirmed,Deaths
 1/25/22,Malta,66394,536
 1/25/22,Marshall Islands,7,0
 1/25/22,Mauritania,57648,934
-1/25/22,Mauritius,25455,240
+1/25/22,Mauritius,70440,786
 1/25/22,Mexico,4730669,303776
 1/25/22,Micronesia (country),1,0
 1/25/22,Moldova,417369,10566
@@ -144173,7 +144173,7 @@ Date,Country/Region,Confirmed,Deaths
 1/26/22,Malta,66708,538
 1/26/22,Marshall Islands,7,0
 1/26/22,Mauritania,57794,937
-1/26/22,Mauritius,25455,240
+1/26/22,Mauritius,70514,786
 1/26/22,Mexico,4730669,303776
 1/26/22,Micronesia (country),1,0
 1/26/22,Moldova,423568,10587
@@ -144369,7 +144369,7 @@ Date,Country/Region,Confirmed,Deaths
 1/27/22,Malta,66938,541
 1/27/22,Marshall Islands,7,0
 1/27/22,Mauritania,57919,940
-1/27/22,Mauritius,25455,240
+1/27/22,Mauritius,70629,786
 1/27/22,Mexico,4779296,304308
 1/27/22,Micronesia (country),1,0
 1/27/22,Moldova,428934,10600
@@ -144437,7 +144437,7 @@ Date,Country/Region,Confirmed,Deaths
 1/27/22,Trinidad and Tobago,108892,3358
 1/27/22,Tunisia,876245,26096
 1/27/22,Turkey,11250107,86661
-1/27/22,United States,73427335,878421
+1/27/22,United States,73427335,878424
 1/27/22,Uganda,161259,3515
 1/27/22,Ukraine,4133396,106373
 1/27/22,United Arab Emirates,835839,2232
