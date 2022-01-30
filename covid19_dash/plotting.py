@@ -33,6 +33,8 @@ def plot_value(
         )
     )
     fig.update_layout(
+        font_color="#333",
+        font_family="serif",
         paper_bgcolor="#f0ffff",
         width=220,
         margin={"l": 20, "r": 20, "t": 50, "b": 20},
@@ -62,7 +64,7 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
         go.Scatter(
             x=data.index,
             y=data,
-            line={"width": 3, "color": color},
+            line={"width": 2, "color": color},
             showlegend=False,
             hovertemplate="<i>%{x}:</i> <b>%{y:,}</b><extra></extra>",
         ),
@@ -73,10 +75,10 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
             y=[data.iloc[-1]],
             cliponaxis=False,
             mode="markers+text",
-            marker={"size": 8, "color": color},
+            marker={"size": 5, "color": color, "symbol": "diamond"},
             text=f"{data.iloc[-1]:,.0f}",
-            textposition="top center",
-            textfont={"size": 8},
+            textposition="middle right",
+            textfont={"size": 9},
             hovertemplate="<i>%{x}:</i> <b>%{y:,.0f}</b><extra></extra>",
             showlegend=False,
         )
@@ -84,10 +86,13 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
     fig.update_xaxes(fixedrange=True, tickfont={"size": 9})
     fig.update_yaxes(visible=False, fixedrange=True)
     fig.update_layout(
-        width=220,
+        font_color="#333",
+        font_family="serif",
+        width=240,
         height=140,
-        margin={"l": 0, "r": 0, "t": 50, "b": 0},
+        margin={"l": 0, "r": 35, "t": 50, "b": 0},
         title=title,
+        title_x=0.5,
         plot_bgcolor="#f0ffff",
         paper_bgcolor="#f0ffff",
     )
@@ -98,7 +103,7 @@ def plot_gauge_chart(
     value: Union[int, float],
     reference: Union[int, float],
     title: str,
-    color: str = "teal",
+    color: str = "steelblue",
 ) -> go.Figure:
     """Get a gauge-plot for a given value.
 
@@ -111,7 +116,7 @@ def plot_gauge_chart(
     title : str
         Chart title
     color : str, optional
-        Gauge color, by default "teal"
+        Gauge color, by default "steelblue"
 
     Returns
     -------
@@ -128,11 +133,14 @@ def plot_gauge_chart(
                 "bar": {"color": color},
                 "bgcolor": "#f0ffff",
             },
-            title={"text": title, "align": "left", "font": {"size": 18}},
+            title={"text": title, "font": {"size": 17}},
         )
     )
     fig.update_layout(
+        font_color="#333",
+        font_family="serif",
         paper_bgcolor="#f0ffff",
+        title_x=0.5,
         width=250,
         margin={"l": 20, "r": 0, "t": 20, "b": 0},
         height=250,
@@ -157,12 +165,29 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
     plotly.graph_objs._figure.Figure
         A choropleth map.
     """
+    if category in {
+        "Total Cases",
+        "Total Cases Per Million",
+        "New Cases",
+        "Total Deaths",
+    }:
+        colors = ["silver", "gold", "#f51"]
+    elif category in {
+        "People Fully Vaccinated",
+        "People Fully Vaccinated Per Hundred",
+        "Hospital Beds Per Thousand",
+        "Total Vaccinations",
+        "Life Expectancy",
+    }:
+        colors = ["silver", "#fe7", "lime"]
+    elif category in {"Aged 70 Older", "Diabetes Prevalence"}:
+        colors = ["silver", "#227"]
     fig = px.choropleth(
         data,
         locations="Location",
         locationmode="country names",
         color=category,
-        color_continuous_scale=["#00334d", "#ffff77"],
+        color_continuous_scale=colors,
         title=f"<i>{category}</i> as at {date}",
     )
     fig.update_geos(
@@ -172,6 +197,8 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         resolution=110,
     )
     fig.update_layout(
+        font_color="#333",
+        font_family="serif",
         paper_bgcolor="#f0ffff",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},
         dragmode=False,
@@ -179,7 +206,15 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
     fig.update_traces(
         hovertemplate=(f"<b>%{{location}}</b><br>{category}: <b>%{{z:,}}</b>")
     )
-    fig.update_coloraxes(showscale=False)
+    fig.update_coloraxes(
+        colorbar=dict(
+            len=0.6,
+            thickness=0.032,
+            thicknessmode="fraction",
+            tickfont_size=9,
+            title_text="",
+        )
+    )
     return fig
 
 
@@ -208,6 +243,8 @@ def plot_pie_chart(data: DataFrame, metric: str, countries: list) -> go.Figure:
         hole=0.5,
     )
     fig.update_layout(
+        font_color="#333",
+        font_family="serif",
         paper_bgcolor="#f0ffff",
         plot_bgcolor="#f0ffff",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},
@@ -235,6 +272,8 @@ def plot_lines(data: DataFrame, category: str) -> go.Figure:
     """
     fig = px.line(data, x="Date", y=category, color="Country/Region")
     fig.update_layout(
+        font_color="#333",
+        font_family="serif",
         hovermode="x unified",
         paper_bgcolor="#f0ffff",
         plot_bgcolor="#f0ffff",
