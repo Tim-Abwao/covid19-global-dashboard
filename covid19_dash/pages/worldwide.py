@@ -23,17 +23,20 @@ layout = html.Div(
                     options=[
                         {"label": col, "value": col}
                         for col in [
-                            "Total Cases",
                             "New Cases",
+                            "Total Cases Per Million",
+                            "Total Cases",
                             "Total Deaths",
+                            "People Fully Vaccinated Per Hundred",
                             "People Fully Vaccinated",
                             "Total Vaccinations",
                             "Hospital Beds Per Thousand",
-                            "Aged 65 Older",
-                            "Population Density",
+                            "Aged 70 Older",
+                            "Diabetes Prevalence",
+                            "Life Expectancy",
                         ]
                     ],
-                    value="Total Cases",
+                    value="New Cases",
                     clearable=False,
                     placeholder="Select category",
                     searchable=False,
@@ -97,10 +100,10 @@ def plot_metrics_and_map(category: str) -> tuple[list, Figure]:
     )
     daily_differences = ts_data.groupby("Date").sum().diff().tail(30)
     new_cases_sparkline = plotting.plot_spark_line(
-        daily_differences["Confirmed"], color="#8080ff", title="New Cases"
+        daily_differences["Confirmed"], color="#f51", title="New Cases"
     )
     new_deaths = plotting.plot_spark_line(
-        daily_differences["Deaths"], color="silver", title="Deaths"
+        daily_differences["Deaths"], color="#555", title="Deaths"
     )
     vaccination_gauge = plotting.plot_gauge_chart(
         value=latest_data["People Fully Vaccinated"].sum(),
