@@ -12506,7 +12506,7 @@ Date,Country/Region,Confirmed,Deaths
 3/25/20,Cape Verde,4,1
 3/25/20,Cambodia,96,0
 3/25/20,Cameroon,75,1
-3/25/20,Canada,3683,47
+3/25/20,Canada,3697,47
 3/25/20,Central African Republic,3,0
 3/25/20,Chad,3,0
 3/25/20,Chile,1197,3
@@ -12902,7 +12902,7 @@ Date,Country/Region,Confirmed,Deaths
 3/27/20,Cape Verde,5,1
 3/27/20,Cambodia,99,0
 3/27/20,Cameroon,91,2
-3/27/20,Canada,5248,66
+3/27/20,Canada,5257,66
 3/27/20,Central African Republic,3,0
 3/27/20,Chad,3,0
 3/27/20,Chile,1665,5
@@ -13298,7 +13298,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/20,Cape Verde,6,1
 3/29/20,Cambodia,103,0
 3/29/20,Cameroon,139,6
-3/29/20,Canada,7015,98
+3/29/20,Canada,6993,98
 3/29/20,Central African Republic,3,0
 3/29/20,Chad,3,0
 3/29/20,Chile,2245,7
@@ -13496,7 +13496,7 @@ Date,Country/Region,Confirmed,Deaths
 3/30/20,Cape Verde,6,1
 3/30/20,Cambodia,107,0
 3/30/20,Cameroon,139,6
-3/30/20,Canada,8121,117
+3/30/20,Canada,8140,117
 3/30/20,Central African Republic,3,0
 3/30/20,Chad,5,0
 3/30/20,Chile,2555,8
@@ -14486,7 +14486,7 @@ Date,Country/Region,Confirmed,Deaths
 4/4/20,Cape Verde,7,1
 4/4/20,Cambodia,114,0
 4/4/20,Cameroon,555,9
-4/4/20,Canada,14906,360
+4/4/20,Canada,14917,360
 4/4/20,Central African Republic,8,0
 4/4/20,Chad,9,0
 4/4/20,Chile,4355,27
@@ -14882,7 +14882,7 @@ Date,Country/Region,Confirmed,Deaths
 4/6/20,Cape Verde,7,1
 4/6/20,Cambodia,114,0
 4/6/20,Cameroon,658,9
-4/6/20,Canada,17521,502
+4/6/20,Canada,17525,502
 4/6/20,Central African Republic,8,0
 4/6/20,Chad,9,0
 4/6/20,Chile,5009,37
@@ -15278,7 +15278,7 @@ Date,Country/Region,Confirmed,Deaths
 4/8/20,Cape Verde,7,1
 4/8/20,Cambodia,117,0
 4/8/20,Cameroon,730,10
-4/8/20,Canada,20154,669
+4/8/20,Canada,20165,669
 4/8/20,Central African Republic,8,0
 4/8/20,Chad,10,0
 4/8/20,Chile,5740,48
@@ -15476,7 +15476,7 @@ Date,Country/Region,Confirmed,Deaths
 4/9/20,Cape Verde,7,1
 4/9/20,Cambodia,119,0
 4/9/20,Cameroon,730,10
-4/9/20,Canada,21533,772
+4/9/20,Canada,21540,772
 4/9/20,Central African Republic,8,0
 4/9/20,Chad,11,0
 4/9/20,Chile,6166,57
@@ -16466,7 +16466,7 @@ Date,Country/Region,Confirmed,Deaths
 4/14/20,Cape Verde,11,1
 4/14/20,Cambodia,122,0
 4/14/20,Cameroon,848,14
-4/14/20,Canada,28563,1361
+4/14/20,Canada,28564,1361
 4/14/20,Central African Republic,11,0
 4/14/20,Chad,23,0
 4/14/20,Chile,8356,92
@@ -19634,7 +19634,7 @@ Date,Country/Region,Confirmed,Deaths
 4/30/20,Cape Verde,121,1
 4/30/20,Cambodia,122,0
 4/30/20,Cameroon,1832,61
-4/30/20,Canada,55508,4056
+4/30/20,Canada,55508,4055
 4/30/20,Central African Republic,50,0
 4/30/20,Chad,73,5
 4/30/20,Chile,17702,227
@@ -19832,7 +19832,7 @@ Date,Country/Region,Confirmed,Deaths
 5/1/20,Cape Verde,122,1
 5/1/20,Cambodia,122,0
 5/1/20,Cameroon,1832,61
-5/1/20,Canada,57277,4237
+5/1/20,Canada,57277,4236
 5/1/20,Central African Republic,72,0
 5/1/20,Chad,73,5
 5/1/20,Chile,18687,234
@@ -20030,7 +20030,7 @@ Date,Country/Region,Confirmed,Deaths
 5/2/20,Cape Verde,152,2
 5/2/20,Cambodia,122,0
 5/2/20,Cameroon,2077,64
-5/2/20,Canada,58821,4413
+5/2/20,Canada,58821,4412
 5/2/20,Central African Republic,72,0
 5/2/20,Chad,117,10
 5/2/20,Chile,21213,247
@@ -20228,7 +20228,7 @@ Date,Country/Region,Confirmed,Deaths
 5/3/20,Cape Verde,165,2
 5/3/20,Cambodia,122,0
 5/3/20,Cameroon,2077,64
-5/3/20,Canada,60162,4559
+5/3/20,Canada,60162,4558
 5/3/20,Central African Republic,72,0
 5/3/20,Chad,117,10
 5/3/20,Chile,22441,260
@@ -20426,7 +20426,7 @@ Date,Country/Region,Confirmed,Deaths
 5/4/20,Cape Verde,175,2
 5/4/20,Cambodia,122,0
 5/4/20,Cameroon,2104,64
-5/4/20,Canada,61569,4765
+5/4/20,Canada,61569,4764
 5/4/20,Central African Republic,85,0
 5/4/20,Chad,117,10
 5/4/20,Chile,23421,270
@@ -20624,7 +20624,7 @@ Date,Country/Region,Confirmed,Deaths
 5/5/20,Cape Verde,186,2
 5/5/20,Cambodia,122,0
 5/5/20,Cameroon,2104,64
-5/5/20,Canada,62942,4937
+5/5/20,Canada,62942,4936
 5/5/20,Central African Republic,85,0
 5/5/20,Chad,170,17
 5/5/20,Chile,24794,275
@@ -20822,7 +20822,7 @@ Date,Country/Region,Confirmed,Deaths
 5/6/20,Cape Verde,191,2
 5/6/20,Cambodia,122,0
 5/6/20,Cameroon,2265,108
-5/6/20,Canada,64515,5109
+5/6/20,Canada,64515,5108
 5/6/20,Central African Republic,94,0
 5/6/20,Chad,170,17
 5/6/20,Chile,25826,281
@@ -21020,7 +21020,7 @@ Date,Country/Region,Confirmed,Deaths
 5/7/20,Cape Verde,218,2
 5/7/20,Cambodia,122,0
 5/7/20,Cameroon,2267,108
-5/7/20,Canada,65879,5257
+5/7/20,Canada,65879,5256
 5/7/20,Central African Republic,94,0
 5/7/20,Chad,253,27
 5/7/20,Chile,27359,285
@@ -21218,7 +21218,7 @@ Date,Country/Region,Confirmed,Deaths
 5/8/20,Cape Verde,230,2
 5/8/20,Cambodia,122,0
 5/8/20,Cameroon,2267,108
-5/8/20,Canada,67257,5415
+5/8/20,Canada,67257,5414
 5/8/20,Central African Republic,143,0
 5/8/20,Chad,260,28
 5/8/20,Chile,28750,294
@@ -21416,7 +21416,7 @@ Date,Country/Region,Confirmed,Deaths
 5/9/20,Cape Verde,236,2
 5/9/20,Cambodia,122,0
 5/9/20,Cameroon,2274,108
-5/9/20,Canada,68441,5577
+5/9/20,Canada,68441,5576
 5/9/20,Central African Republic,143,0
 5/9/20,Chad,322,31
 5/9/20,Chile,32208,304
@@ -21614,7 +21614,7 @@ Date,Country/Region,Confirmed,Deaths
 5/10/20,Cape Verde,246,2
 5/10/20,Cambodia,122,0
 5/10/20,Cameroon,2579,114
-5/10/20,Canada,69505,5705
+5/10/20,Canada,69505,5704
 5/10/20,Central African Republic,143,0
 5/10/20,Chad,322,31
 5/10/20,Chile,33855,312
@@ -21812,7 +21812,7 @@ Date,Country/Region,Confirmed,Deaths
 5/11/20,Cape Verde,260,2
 5/11/20,Cambodia,122,0
 5/11/20,Cameroon,2689,125
-5/11/20,Canada,70615,5837
+5/11/20,Canada,70615,5836
 5/11/20,Central African Republic,143,0
 5/11/20,Chad,322,31
 5/11/20,Chile,35052,323
@@ -22010,7 +22010,7 @@ Date,Country/Region,Confirmed,Deaths
 5/12/20,Cape Verde,267,2
 5/12/20,Cambodia,122,0
 5/12/20,Cameroon,2689,125
-5/12/20,Canada,71832,5980
+5/12/20,Canada,71832,5979
 5/12/20,Central African Republic,143,0
 5/12/20,Chad,357,40
 5/12/20,Chile,36710,335
@@ -22208,7 +22208,7 @@ Date,Country/Region,Confirmed,Deaths
 5/13/20,Cape Verde,289,2
 5/13/20,Cambodia,122,0
 5/13/20,Cameroon,2800,136
-5/13/20,Canada,73027,6092
+5/13/20,Canada,73027,6091
 5/13/20,Central African Republic,143,0
 5/13/20,Chad,372,42
 5/13/20,Chile,39370,346
@@ -22406,7 +22406,7 @@ Date,Country/Region,Confirmed,Deaths
 5/14/20,Cape Verde,315,2
 5/14/20,Cambodia,122,0
 5/14/20,Cameroon,2954,139
-5/14/20,Canada,74144,6214
+5/14/20,Canada,74144,6213
 5/14/20,Central African Republic,143,0
 5/14/20,Chad,399,46
 5/14/20,Chile,42029,368
@@ -22604,7 +22604,7 @@ Date,Country/Region,Confirmed,Deaths
 5/15/20,Cape Verde,326,2
 5/15/20,Cambodia,122,0
 5/15/20,Cameroon,3105,140
-5/15/20,Canada,75355,6338
+5/15/20,Canada,75355,6337
 5/15/20,Central African Republic,301,0
 5/15/20,Chad,428,48
 5/15/20,Chile,44531,394
@@ -22802,7 +22802,7 @@ Date,Country/Region,Confirmed,Deaths
 5/16/20,Cape Verde,328,3
 5/16/20,Cambodia,122,0
 5/16/20,Cameroon,3105,140
-5/16/20,Canada,76539,6453
+5/16/20,Canada,76539,6452
 5/16/20,Central African Republic,327,0
 5/16/20,Chad,474,50
 5/16/20,Chile,50016,421
@@ -23000,7 +23000,7 @@ Date,Country/Region,Confirmed,Deaths
 5/17/20,Cape Verde,328,3
 5/17/20,Cambodia,122,0
 5/17/20,Cameroon,3105,140
-5/17/20,Canada,77671,6543
+5/17/20,Canada,77671,6542
 5/17/20,Central African Republic,327,0
 5/17/20,Chad,503,53
 5/17/20,Chile,52369,450
@@ -23198,7 +23198,7 @@ Date,Country/Region,Confirmed,Deaths
 5/18/20,Cape Verde,328,3
 5/18/20,Cambodia,122,0
 5/18/20,Cameroon,3529,140
-5/18/20,Canada,78704,6638
+5/18/20,Canada,78704,6637
 5/18/20,Central African Republic,327,0
 5/18/20,Chad,519,53
 5/18/20,Chile,54647,478
@@ -23396,7 +23396,7 @@ Date,Country/Region,Confirmed,Deaths
 5/19/20,Cape Verde,335,3
 5/19/20,Cambodia,122,0
 5/19/20,Cameroon,3529,140
-5/19/20,Canada,79812,6715
+5/19/20,Canada,79812,6714
 5/19/20,Central African Republic,366,0
 5/19/20,Chad,545,56
 5/19/20,Chile,58167,509
@@ -23594,7 +23594,7 @@ Date,Country/Region,Confirmed,Deaths
 5/20/20,Cape Verde,349,3
 5/20/20,Cambodia,122,0
 5/20/20,Cameroon,3733,146
-5/20/20,Canada,81065,6833
+5/20/20,Canada,81065,6832
 5/20/20,Central African Republic,418,0
 5/20/20,Chad,565,57
 5/20/20,Chile,62205,544
@@ -42602,7 +42602,7 @@ Date,Country/Region,Confirmed,Deaths
 8/24/20,Cape Verde,3532,37
 8/24/20,Cambodia,273,0
 8/24/20,Cameroon,18762,408
-8/24/20,Canada,125486,9109
+8/24/20,Canada,125485,9109
 8/24/20,Central African Republic,4679,61
 8/24/20,Chad,987,76
 8/24/20,Chile,399568,10916
@@ -53294,7 +53294,7 @@ Date,Country/Region,Confirmed,Deaths
 10/17/20,Cape Verde,7638,85
 10/17/20,Cambodia,283,0
 10/17/20,Cameroon,21441,423
-10/17/20,Canada,197369,9787
+10/17/20,Canada,197405,9787
 10/17/20,Central African Republic,4855,62
 10/17/20,Chad,1365,93
 10/17/20,Chile,490003,13588
@@ -62600,7 +62600,7 @@ Date,Country/Region,Confirmed,Deaths
 12/3/20,Cape Verde,10938,107
 12/3/20,Cambodia,335,0
 12/3/20,Cameroon,24487,441
-12/3/20,Canada,397838,12498
+12/3/20,Canada,397837,12498
 12/3/20,Central African Republic,4918,63
 12/3/20,Chad,1708,102
 12/3/20,Chile,555406,15519
@@ -62798,7 +62798,7 @@ Date,Country/Region,Confirmed,Deaths
 12/4/20,Cape Verde,10996,108
 12/4/20,Cambodia,345,0
 12/4/20,Cameroon,24752,443
-12/4/20,Canada,404561,12594
+12/4/20,Canada,404560,12594
 12/4/20,Central African Republic,4918,63
 12/4/20,Chad,1719,102
 12/4/20,Chile,557135,15558
@@ -62996,7 +62996,7 @@ Date,Country/Region,Confirmed,Deaths
 12/5/20,Cape Verde,11036,109
 12/5/20,Cambodia,346,0
 12/5/20,Cameroon,24752,443
-12/5/20,Canada,410519,12673
+12/5/20,Canada,410518,12673
 12/5/20,Central African Republic,4922,63
 12/5/20,Chad,1722,102
 12/5/20,Chile,558668,15592
@@ -63194,7 +63194,7 @@ Date,Country/Region,Confirmed,Deaths
 12/6/20,Cape Verde,11063,109
 12/6/20,Cambodia,348,0
 12/6/20,Cameroon,24752,443
-12/6/20,Canada,416628,12753
+12/6/20,Canada,416627,12753
 12/6/20,Central African Republic,4922,63
 12/6/20,Chad,1725,102
 12/6/20,Chile,560382,15628
@@ -63392,7 +63392,7 @@ Date,Country/Region,Confirmed,Deaths
 12/7/20,Cape Verde,11098,109
 12/7/20,Cambodia,350,0
 12/7/20,Cameroon,24752,443
-12/7/20,Canada,424552,12878
+12/7/20,Canada,424551,12878
 12/7/20,Central African Republic,4922,63
 12/7/20,Chad,1728,102
 12/7/20,Chile,562142,15663
@@ -63590,7 +63590,7 @@ Date,Country/Region,Confirmed,Deaths
 12/8/20,Cape Verde,11118,109
 12/8/20,Cambodia,354,0
 12/8/20,Cameroon,24752,443
-12/8/20,Canada,430625,12974
+12/8/20,Canada,430624,12974
 12/8/20,Central African Republic,4927,63
 12/8/20,Chad,1729,102
 12/8/20,Chile,563534,15680
@@ -63788,7 +63788,7 @@ Date,Country/Region,Confirmed,Deaths
 12/9/20,Cape Verde,11192,109
 12/9/20,Cambodia,356,0
 12/9/20,Cameroon,24963,443
-12/9/20,Canada,436938,13084
+12/9/20,Canada,436937,13084
 12/9/20,Central African Republic,4927,63
 12/9/20,Chad,1732,102
 12/9/20,Chile,564778,15690
@@ -63986,7 +63986,7 @@ Date,Country/Region,Confirmed,Deaths
 12/10/20,Cape Verde,11203,109
 12/10/20,Cambodia,357,0
 12/10/20,Cameroon,24963,443
-12/10/20,Canada,443595,13207
+12/10/20,Canada,443594,13207
 12/10/20,Central African Republic,4927,63
 12/10/20,Chad,1739,102
 12/10/20,Chile,566440,15774
@@ -64184,7 +64184,7 @@ Date,Country/Region,Confirmed,Deaths
 12/11/20,Cape Verde,11262,110
 12/11/20,Cambodia,357,0
 12/11/20,Cameroon,25087,443
-12/11/20,Canada,450565,13340
+12/11/20,Canada,450563,13340
 12/11/20,Central African Republic,4936,63
 12/11/20,Chad,1745,102
 12/11/20,Chile,567974,15782
@@ -64382,7 +64382,7 @@ Date,Country/Region,Confirmed,Deaths
 12/12/20,Cape Verde,11302,110
 12/12/20,Cambodia,359,0
 12/12/20,Cameroon,25143,443
-12/12/20,Canada,456665,13437
+12/12/20,Canada,456663,13437
 12/12/20,Central African Republic,4936,63
 12/12/20,Chad,1751,102
 12/12/20,Chile,569781,15846
@@ -64580,7 +64580,7 @@ Date,Country/Region,Confirmed,Deaths
 12/13/20,Cape Verde,11357,110
 12/13/20,Cambodia,359,0
 12/13/20,Cameroon,25143,443
-12/13/20,Canada,462324,13518
+12/13/20,Canada,462322,13518
 12/13/20,Central African Republic,4936,63
 12/13/20,Chad,1770,102
 12/13/20,Chile,571919,15886
@@ -64778,7 +64778,7 @@ Date,Country/Region,Confirmed,Deaths
 12/14/20,Cape Verde,11361,110
 12/14/20,Cambodia,362,0
 12/14/20,Cameroon,25214,443
-12/14/20,Canada,470715,13661
+12/14/20,Canada,470713,13661
 12/14/20,Central African Republic,4936,63
 12/14/20,Chad,1771,102
 12/14/20,Chile,573830,15931
@@ -64976,7 +64976,7 @@ Date,Country/Region,Confirmed,Deaths
 12/15/20,Cape Verde,11395,110
 12/15/20,Cambodia,362,0
 12/15/20,Cameroon,25359,445
-12/15/20,Canada,477115,13768
+12/15/20,Canada,477113,13768
 12/15/20,Central African Republic,4936,63
 12/15/20,Chad,1784,102
 12/15/20,Chile,575329,15949
@@ -65174,7 +65174,7 @@ Date,Country/Region,Confirmed,Deaths
 12/16/20,Cape Verde,11458,110
 12/16/20,Cambodia,362,0
 12/16/20,Cameroon,25472,445
-12/16/20,Canada,483752,13896
+12/16/20,Canada,483750,13896
 12/16/20,Central African Republic,4936,63
 12/16/20,Chad,1800,102
 12/16/20,Chile,576731,15959
@@ -65372,7 +65372,7 @@ Date,Country/Region,Confirmed,Deaths
 12/17/20,Cape Verde,11502,110
 12/17/20,Cambodia,362,0
 12/17/20,Cameroon,25472,445
-12/17/20,Canada,491221,14044
+12/17/20,Canada,491219,14044
 12/17/20,Central African Republic,4936,63
 12/17/20,Chad,1818,102
 12/17/20,Chile,578732,16007
@@ -65570,7 +65570,7 @@ Date,Country/Region,Confirmed,Deaths
 12/18/20,Cape Verde,11526,110
 12/18/20,Cambodia,362,0
 12/18/20,Cameroon,25472,445
-12/18/20,Canada,498273,14166
+12/18/20,Canada,498271,14166
 12/18/20,Central African Republic,4936,63
 12/18/20,Chad,1839,102
 12/18/20,Chile,581135,16051
@@ -65768,7 +65768,7 @@ Date,Country/Region,Confirmed,Deaths
 12/19/20,Cape Verde,11567,111
 12/19/20,Cambodia,362,0
 12/19/20,Cameroon,25724,445
-12/19/20,Canada,504537,14268
+12/19/20,Canada,504535,14268
 12/19/20,Central African Republic,4936,63
 12/19/20,Chad,1867,102
 12/19/20,Chile,583355,16101
@@ -65966,7 +65966,7 @@ Date,Country/Region,Confirmed,Deaths
 12/20/20,Cape Verde,11579,111
 12/20/20,Cambodia,363,0
 12/20/20,Cameroon,25849,448
-12/20/20,Canada,510559,14357
+12/20/20,Canada,510557,14357
 12/20/20,Central African Republic,4936,63
 12/20/20,Chad,1890,102
 12/20/20,Chile,585546,16154
@@ -66164,7 +66164,7 @@ Date,Country/Region,Confirmed,Deaths
 12/21/20,Cape Verde,11600,111
 12/21/20,Cambodia,363,0
 12/21/20,Cameroon,25849,448
-12/21/20,Canada,518077,14467
+12/21/20,Canada,518075,14467
 12/21/20,Central African Republic,4936,63
 12/21/20,Chad,1902,102
 12/21/20,Chile,587993,16197
@@ -66362,7 +66362,7 @@ Date,Country/Region,Confirmed,Deaths
 12/22/20,Cape Verde,11636,112
 12/22/20,Cambodia,363,0
 12/22/20,Cameroon,25849,448
-12/22/20,Canada,524244,14588
+12/22/20,Canada,524243,14588
 12/22/20,Central African Republic,4936,63
 12/22/20,Chad,1916,102
 12/22/20,Chile,589189,16217
@@ -66560,7 +66560,7 @@ Date,Country/Region,Confirmed,Deaths
 12/23/20,Cape Verde,11668,112
 12/23/20,Cambodia,363,0
 12/23/20,Cameroon,25849,448
-12/23/20,Canada,531065,14733
+12/23/20,Canada,531064,14733
 12/23/20,Central African Republic,4948,63
 12/23/20,Chad,1938,102
 12/23/20,Chile,590914,16228
@@ -66758,7 +66758,7 @@ Date,Country/Region,Confirmed,Deaths
 12/24/20,Cape Verde,11688,112
 12/24/20,Cambodia,363,0
 12/24/20,Cameroon,26277,448
-12/24/20,Canada,537909,14877
+12/24/20,Canada,537908,14877
 12/24/20,Central African Republic,4948,63
 12/24/20,Chad,1958,102
 12/24/20,Chile,594152,16303
@@ -66956,7 +66956,7 @@ Date,Country/Region,Confirmed,Deaths
 12/25/20,Cape Verde,11696,112
 12/25/20,Cambodia,363,0
 12/25/20,Cameroon,26277,448
-12/25/20,Canada,543558,14983
+12/25/20,Canada,543786,14983
 12/25/20,Central African Republic,4948,63
 12/25/20,Chad,1971,102
 12/25/20,Chile,595831,16358
@@ -67154,7 +67154,7 @@ Date,Country/Region,Confirmed,Deaths
 12/26/20,Cape Verde,11698,112
 12/26/20,Cambodia,364,0
 12/26/20,Cameroon,26277,448
-12/26/20,Canada,548703,15083
+12/26/20,Canada,549063,15083
 12/26/20,Central African Republic,4948,63
 12/26/20,Chad,1986,103
 12/26/20,Chile,598394,16404
@@ -67352,7 +67352,7 @@ Date,Country/Region,Confirmed,Deaths
 12/27/20,Cape Verde,11714,112
 12/27/20,Cambodia,364,0
 12/27/20,Cameroon,26277,448
-12/27/20,Canada,554410,15206
+12/27/20,Canada,554409,15206
 12/27/20,Central African Republic,4948,63
 12/27/20,Chad,2005,104
 12/27/20,Chile,600105,16443
@@ -67550,7 +67550,7 @@ Date,Country/Region,Confirmed,Deaths
 12/28/20,Cape Verde,11723,112
 12/28/20,Cambodia,364,0
 12/28/20,Cameroon,26277,448
-12/28/20,Canada,559697,15318
+12/28/20,Canada,559790,15318
 12/28/20,Central African Republic,4948,63
 12/28/20,Chad,2015,104
 12/28/20,Chile,602028,16443
@@ -67748,7 +67748,7 @@ Date,Country/Region,Confirmed,Deaths
 12/29/20,Cape Verde,11752,112
 12/29/20,Cambodia,364,0
 12/29/20,Cameroon,26277,448
-12/29/20,Canada,568533,15520
+12/29/20,Canada,568532,15520
 12/29/20,Central African Republic,4961,63
 12/29/20,Chad,2048,104
 12/29/20,Chile,603986,16488
@@ -67946,7 +67946,7 @@ Date,Country/Region,Confirmed,Deaths
 12/30/20,Cape Verde,11793,112
 12/30/20,Cambodia,366,0
 12/30/20,Cameroon,26277,448
-12/30/20,Canada,576300,15625
+12/30/20,Canada,576299,15625
 12/30/20,Central African Republic,4963,63
 12/30/20,Chad,2077,104
 12/30/20,Chile,606950,16499
@@ -68144,7 +68144,7 @@ Date,Country/Region,Confirmed,Deaths
 12/31/20,Cape Verde,11840,113
 12/31/20,Cambodia,378,0
 12/31/20,Cameroon,26277,448
-12/31/20,Canada,583233,15736
+12/31/20,Canada,583232,15736
 12/31/20,Central African Republic,4963,63
 12/31/20,Chad,2113,104
 12/31/20,Chile,608973,16608
@@ -68342,7 +68342,7 @@ Date,Country/Region,Confirmed,Deaths
 1/1/21,Cape Verde,11872,113
 1/1/21,Cambodia,379,0
 1/1/21,Cameroon,26848,448
-1/1/21,Canada,588451,15819
+1/1/21,Canada,588735,15819
 1/1/21,Central African Republic,4963,63
 1/1/21,Chad,2141,104
 1/1/21,Chile,612564,16660
@@ -68540,7 +68540,7 @@ Date,Country/Region,Confirmed,Deaths
 1/2/21,Cape Verde,11883,113
 1/2/21,Cambodia,381,0
 1/2/21,Cameroon,26848,448
-1/2/21,Canada,595054,15922
+1/2/21,Canada,595053,15922
 1/2/21,Central African Republic,4963,63
 1/2/21,Chad,2169,104
 1/2/21,Chile,615902,16724
@@ -68738,7 +68738,7 @@ Date,Country/Region,Confirmed,Deaths
 1/3/21,Cape Verde,11920,113
 1/3/21,Cambodia,382,0
 1/3/21,Cameroon,26848,448
-1/3/21,Canada,604330,15992
+1/3/21,Canada,604327,15992
 1/3/21,Central African Republic,4963,63
 1/3/21,Chad,2213,104
 1/3/21,Chile,618191,16767
@@ -69530,7 +69530,7 @@ Date,Country/Region,Confirmed,Deaths
 1/7/21,Cape Verde,12146,113
 1/7/21,Cambodia,386,0
 1/7/21,Cameroon,26848,448
-1/7/21,Canada,638431,16689
+1/7/21,Canada,638432,16689
 1/7/21,Central African Republic,4969,63
 1/7/21,Chad,2358,105
 1/7/21,Chile,629176,16913
@@ -69728,7 +69728,7 @@ Date,Country/Region,Confirmed,Deaths
 1/8/21,Cape Verde,12237,114
 1/8/21,Cambodia,387,0
 1/8/21,Cameroon,26848,448
-1/8/21,Canada,647804,16819
+1/8/21,Canada,647805,16819
 1/8/21,Central African Republic,4969,63
 1/8/21,Chad,2419,106
 1/8/21,Chile,633381,16974
@@ -69926,7 +69926,7 @@ Date,Country/Region,Confirmed,Deaths
 1/9/21,Cape Verde,12316,114
 1/9/21,Cambodia,391,0
 1/9/21,Cameroon,26848,448
-1/9/21,Canada,654809,16949
+1/9/21,Canada,654813,16949
 1/9/21,Central African Republic,4969,63
 1/9/21,Chad,2510,107
 1/9/21,Chile,637742,17037
@@ -70124,7 +70124,7 @@ Date,Country/Region,Confirmed,Deaths
 1/10/21,Cape Verde,12392,114
 1/10/21,Cambodia,391,0
 1/10/21,Cameroon,26848,448
-1/10/21,Canada,661763,17065
+1/10/21,Canada,662074,17065
 1/10/21,Central African Republic,4973,63
 1/10/21,Chad,2537,107
 1/10/21,Chile,641923,17096
@@ -70322,7 +70322,7 @@ Date,Country/Region,Confirmed,Deaths
 1/11/21,Cape Verde,12433,115
 1/11/21,Cambodia,392,0
 1/11/21,Cameroon,26848,448
-1/11/21,Canada,669887,17190
+1/11/21,Canada,669891,17190
 1/11/21,Central African Republic,4973,63
 1/11/21,Chad,2589,107
 1/11/21,Chile,645892,17162
@@ -70520,7 +70520,7 @@ Date,Country/Region,Confirmed,Deaths
 1/12/21,Cape Verde,12506,115
 1/12/21,Cambodia,398,0
 1/12/21,Cameroon,27336,451
-1/12/21,Canada,676429,17338
+1/12/21,Canada,676433,17338
 1/12/21,Central African Republic,4973,63
 1/12/21,Chad,2668,108
 1/12/21,Chile,649135,17182
@@ -70718,7 +70718,7 @@ Date,Country/Region,Confirmed,Deaths
 1/13/21,Cape Verde,12592,115
 1/13/21,Cambodia,411,0
 1/13/21,Cameroon,27336,451
-1/13/21,Canada,683227,17519
+1/13/21,Canada,683231,17519
 1/13/21,Central African Republic,4973,63
 1/13/21,Chad,2709,109
 1/13/21,Chile,652525,17204
@@ -70916,7 +70916,7 @@ Date,Country/Region,Confirmed,Deaths
 1/14/21,Cape Verde,12664,115
 1/14/21,Cambodia,426,0
 1/14/21,Cameroon,27336,451
-1/14/21,Canada,690604,17666
+1/14/21,Canada,690608,17666
 1/14/21,Central African Republic,4973,63
 1/14/21,Chad,2773,110
 1/14/21,Chile,656712,17294
@@ -77252,7 +77252,7 @@ Date,Country/Region,Confirmed,Deaths
 2/15/21,Cape Verde,14761,139
 2/15/21,Cambodia,479,0
 2/15/21,Cameroon,32098,479
-2/15/21,Canada,827439,21325
+2/15/21,Canada,827582,21325
 2/15/21,Central African Republic,4996,63
 2/15/21,Chad,3664,131
 2/15/21,Chile,779541,19624
@@ -80816,7 +80816,7 @@ Date,Country/Region,Confirmed,Deaths
 3/5/21,Cape Verde,15683,152
 3/5/21,Cambodia,953,0
 3/5/21,Cameroon,35714,551
-3/5/21,Canada,881486,22193
+3/5/21,Canada,881484,22193
 3/5/21,Central African Republic,5018,63
 3/5/21,Chad,4089,140
 3/5/21,Chile,845450,20928
@@ -81410,7 +81410,7 @@ Date,Country/Region,Confirmed,Deaths
 3/8/21,Cape Verde,15806,154
 3/8/21,Cambodia,1011,0
 3/8/21,Cameroon,36794,566
-3/8/21,Canada,890356,22277
+3/8/21,Canada,890355,22277
 3/8/21,Central African Republic,5021,63
 3/8/21,Chad,4193,146
 3/8/21,Chile,860533,21163
@@ -81806,7 +81806,7 @@ Date,Country/Region,Confirmed,Deaths
 3/10/21,Cape Verde,15892,155
 3/10/21,Cambodia,1163,0
 3/10/21,Cameroon,36794,566
-3/10/21,Canada,896471,22336
+3/10/21,Canada,896470,22336
 3/10/21,Central African Republic,5023,63
 3/10/21,Chad,4231,149
 3/10/21,Chile,867949,21206
@@ -82598,7 +82598,7 @@ Date,Country/Region,Confirmed,Deaths
 3/14/21,Cape Verde,16101,156
 3/14/21,Cambodia,1325,1
 3/14/21,Cameroon,40622,601
-3/14/21,Canada,908784,22464
+3/14/21,Canada,908781,22464
 3/14/21,Central African Republic,5023,63
 3/14/21,Chad,4309,154
 3/14/21,Chile,891110,21674
@@ -84182,7 +84182,7 @@ Date,Country/Region,Confirmed,Deaths
 3/22/21,Cape Verde,16517,160
 3/22/21,Cambodia,1788,4
 3/22/21,Cameroon,40622,601
-3/22/21,Canada,938526,22717
+3/22/21,Canada,938525,22717
 3/22/21,Central African Republic,5087,64
 3/22/21,Chad,4427,157
 3/22/21,Chile,938094,22359
@@ -84578,7 +84578,7 @@ Date,Country/Region,Confirmed,Deaths
 3/24/21,Cape Verde,16661,163
 3/24/21,Cambodia,1872,5
 3/24/21,Cameroon,40622,601
-3/24/21,Canada,946539,22760
+3/24/21,Canada,946536,22760
 3/24/21,Central African Republic,5088,64
 3/24/21,Chad,4453,158
 3/24/21,Chile,947783,22402
@@ -85568,7 +85568,7 @@ Date,Country/Region,Confirmed,Deaths
 3/29/21,Cape Verde,17190,165
 3/29/21,Cambodia,2378,11
 3/29/21,Cameroon,47669,721
-3/29/21,Canada,971888,22901
+3/29/21,Canada,971890,22901
 3/29/21,Central African Republic,5088,64
 3/29/21,Chad,4510,164
 3/29/21,Chile,984484,23070
@@ -86360,7 +86360,7 @@ Date,Country/Region,Confirmed,Deaths
 4/2/21,Cape Verde,17717,171
 4/2/21,Cambodia,2546,16
 4/2/21,Cameroon,57337,851
-4/2/21,Canada,993284,23032
+4/2/21,Canada,993284,23031
 4/2/21,Central African Republic,5245,72
 4/2/21,Chad,4573,164
 4/2/21,Chile,1011485,23421
@@ -87152,7 +87152,7 @@ Date,Country/Region,Confirmed,Deaths
 4/6/21,Cape Verde,18023,173
 4/6/21,Cambodia,2915,22
 4/6/21,Cameroon,57337,851
-4/6/21,Canada,1021684,23142
+4/6/21,Canada,1021686,23142
 4/6/21,Central African Republic,5313,73
 4/6/21,Chad,4603,166
 4/6/21,Chile,1037780,23734
@@ -87548,7 +87548,7 @@ Date,Country/Region,Confirmed,Deaths
 4/8/21,Cape Verde,18422,176
 4/8/21,Cambodia,3028,24
 4/8/21,Cameroon,61731,919
-4/8/21,Canada,1037296,23212
+4/8/21,Canada,1037310,23212
 4/8/21,Central African Republic,5402,74
 4/8/21,Chad,4616,167
 4/8/21,Chile,1051270,23979
@@ -87746,7 +87746,7 @@ Date,Country/Region,Confirmed,Deaths
 4/9/21,Cape Verde,18629,177
 4/9/21,Cambodia,3604,24
 4/9/21,Cameroon,61731,919
-4/9/21,Canada,1046734,23252
+4/9/21,Canada,1046733,23252
 4/9/21,Central African Republic,5402,74
 4/9/21,Chad,4619,167
 4/9/21,Chile,1060421,24108
@@ -87944,7 +87944,7 @@ Date,Country/Region,Confirmed,Deaths
 4/10/21,Cape Verde,18629,177
 4/10/21,Cambodia,4081,26
 4/10/21,Cameroon,61731,919
-4/10/21,Canada,1053872,23288
+4/10/21,Canada,1053873,23288
 4/10/21,Central African Republic,5491,74
 4/10/21,Chad,4625,167
 4/10/21,Chile,1068522,24213
@@ -88142,7 +88142,7 @@ Date,Country/Region,Confirmed,Deaths
 4/11/21,Cape Verde,19005,182
 4/11/21,Cambodia,4515,30
 4/11/21,Cameroon,61731,919
-4/11/21,Canada,1061452,23316
+4/11/21,Canada,1061451,23316
 4/11/21,Central African Republic,5491,74
 4/11/21,Chad,4636,167
 4/11/21,Chile,1076499,24346
@@ -88736,7 +88736,7 @@ Date,Country/Region,Confirmed,Deaths
 4/14/21,Cape Verde,19525,188
 4/14/21,Cambodia,4874,35
 4/14/21,Cameroon,61731,919
-4/14/21,Canada,1088272,23446
+4/14/21,Canada,1088278,23446
 4/14/21,Central African Republic,5682,75
 4/14/21,Chad,4662,167
 4/14/21,Chile,1094267,24548
@@ -88934,7 +88934,7 @@ Date,Country/Region,Confirmed,Deaths
 4/15/21,Cape Verde,19780,188
 4/15/21,Cambodia,5218,36
 4/15/21,Cameroon,61731,919
-4/15/21,Canada,1098003,23501
+4/15/21,Canada,1098013,23501
 4/15/21,Central African Republic,5682,75
 4/15/21,Chad,4673,168
 4/15/21,Chile,1101698,24766
@@ -89132,7 +89132,7 @@ Date,Country/Region,Confirmed,Deaths
 4/16/21,Cape Verde,19975,189
 4/16/21,Cambodia,5480,38
 4/16/21,Cameroon,61731,919
-4/16/21,Canada,1107278,23542
+4/16/21,Canada,1107287,23542
 4/16/21,Central African Republic,5728,75
 4/16/21,Chad,4686,168
 4/16/21,Chile,1109311,24923
@@ -89330,7 +89330,7 @@ Date,Country/Region,Confirmed,Deaths
 4/17/21,Cape Verde,19975,189
 4/17/21,Cambodia,5771,39
 4/17/21,Cameroon,64809,939
-4/17/21,Canada,1114620,23590
+4/17/21,Canada,1114876,23592
 4/17/21,Central African Republic,5728,75
 4/17/21,Chad,4691,168
 4/17/21,Chile,1117348,25055
@@ -89528,7 +89528,7 @@ Date,Country/Region,Confirmed,Deaths
 4/18/21,Cape Verde,20466,192
 4/18/21,Cambodia,6389,43
 4/18/21,Cameroon,64809,939
-4/18/21,Canada,1122147,23624
+4/18/21,Canada,1122145,23624
 4/18/21,Central African Republic,5787,75
 4/18/21,Chad,4706,169
 4/18/21,Chile,1124718,25177
@@ -89726,7 +89726,7 @@ Date,Country/Region,Confirmed,Deaths
 4/19/21,Cape Verde,20627,193
 4/19/21,Cambodia,7013,45
 4/19/21,Cameroon,64809,939
-4/19/21,Canada,1132524,23668
+4/19/21,Canada,1132525,23668
 4/19/21,Central African Republic,5787,75
 4/19/21,Chad,4708,169
 4/19/21,Chile,1131340,25277
@@ -89924,7 +89924,7 @@ Date,Country/Region,Confirmed,Deaths
 4/20/21,Cape Verde,20781,194
 4/20/21,Cambodia,7444,49
 4/20/21,Cameroon,64809,939
-4/20/21,Canada,1139881,23714
+4/20/21,Canada,1139882,23714
 4/20/21,Central African Republic,5929,79
 4/20/21,Chad,4723,169
 4/20/21,Chile,1136189,25317
@@ -90320,7 +90320,7 @@ Date,Country/Region,Confirmed,Deaths
 4/22/21,Cape Verde,21500,199
 4/22/21,Cambodia,8193,59
 4/22/21,Cameroon,64809,939
-4/22/21,Canada,1156502,23823
+4/22/21,Canada,1156512,23823
 4/22/21,Central African Republic,6175,85
 4/22/21,Chad,4735,169
 4/22/21,Chile,1148320,25532
@@ -90518,7 +90518,7 @@ Date,Country/Region,Confirmed,Deaths
 4/23/21,Cape Verde,21784,201
 4/23/21,Cambodia,8848,61
 4/23/21,Cameroon,65998,991
-4/23/21,Canada,1165123,23884
+4/23/21,Canada,1165128,23884
 4/23/21,Central African Republic,6224,85
 4/23/21,Chad,4747,169
 4/23/21,Chile,1155902,25641
@@ -92300,7 +92300,7 @@ Date,Country/Region,Confirmed,Deaths
 5/2/21,Cape Verde,24368,223
 5/2/21,Cambodia,14520,103
 5/2/21,Cameroon,72250,1107
-5/2/21,Canada,1234733,24301
+5/2/21,Canada,1234732,24301
 5/2/21,Central African Republic,6411,88
 5/2/21,Chad,4828,170
 5/2/21,Chile,1210920,26561
@@ -92498,7 +92498,7 @@ Date,Country/Region,Confirmed,Deaths
 5/3/21,Cape Verde,24548,226
 5/3/21,Cambodia,15361,106
 5/3/21,Cameroon,72250,1107
-5/3/21,Canada,1243845,24343
+5/3/21,Canada,1243856,24342
 5/3/21,Central African Republic,6411,88
 5/3/21,Chad,4828,170
 5/3/21,Chile,1215815,26659
@@ -92894,7 +92894,7 @@ Date,Country/Region,Confirmed,Deaths
 5/5/21,Cape Verde,25159,229
 5/5/21,Cambodia,16971,110
 5/5/21,Cameroon,72250,1107
-5/5/21,Canada,1258014,24451
+5/5/21,Canada,1258031,24451
 5/5/21,Central African Republic,6521,91
 5/5/21,Chad,4847,170
 5/5/21,Chile,1222949,26726
@@ -93092,7 +93092,7 @@ Date,Country/Region,Confirmed,Deaths
 5/6/21,Cape Verde,25526,230
 5/6/21,Cambodia,17621,114
 5/6/21,Cameroon,74946,1152
-5/6/21,Canada,1266137,24490
+5/6/21,Canada,1266161,24490
 5/6/21,Central African Republic,6674,93
 5/6/21,Chad,4854,170
 5/6/21,Chile,1229248,26895
@@ -93884,7 +93884,7 @@ Date,Country/Region,Confirmed,Deaths
 5/10/21,Cape Verde,26578,235
 5/10/21,Cambodia,19743,126
 5/10/21,Cameroon,74946,1152
-5/10/21,Canada,1294712,24683
+5/10/21,Canada,1294719,24683
 5/10/21,Central African Republic,6674,93
 5/10/21,Chad,4882,171
 5/10/21,Chile,1252808,27318
@@ -94082,7 +94082,7 @@ Date,Country/Region,Confirmed,Deaths
 5/11/21,Cape Verde,26709,236
 5/11/21,Cambodia,20223,131
 5/11/21,Cameroon,74946,1152
-5/11/21,Canada,1300269,24715
+5/11/21,Canada,1300278,24715
 5/11/21,Central African Republic,6674,93
 5/11/21,Chad,4888,172
 5/11/21,Chile,1256546,27356
@@ -94280,7 +94280,7 @@ Date,Country/Region,Confirmed,Deaths
 5/12/21,Cape Verde,27029,238
 5/12/21,Cambodia,20695,136
 5/12/21,Cameroon,74946,1152
-5/12/21,Canada,1306576,24769
+5/12/21,Canada,1306606,24769
 5/12/21,Central African Republic,6866,95
 5/12/21,Chad,4891,172
 5/12/21,Chile,1260448,27384
@@ -94478,7 +94478,7 @@ Date,Country/Region,Confirmed,Deaths
 5/13/21,Cape Verde,27386,243
 5/13/21,Cambodia,21141,142
 5/13/21,Cameroon,74946,1152
-5/13/21,Canada,1313324,24826
+5/13/21,Canada,1313330,24826
 5/13/21,Central African Republic,6866,95
 5/13/21,Chad,4895,172
 5/13/21,Chile,1266601,27520
@@ -94676,7 +94676,7 @@ Date,Country/Region,Confirmed,Deaths
 5/14/21,Cape Verde,27672,244
 5/14/21,Cambodia,21499,147
 5/14/21,Cameroon,74946,1152
-5/14/21,Canada,1319265,24870
+5/14/21,Canada,1319274,24870
 5/14/21,Central African Republic,6866,95
 5/14/21,Chad,4897,173
 5/14/21,Chile,1273516,27647
@@ -95270,7 +95270,7 @@ Date,Country/Region,Confirmed,Deaths
 5/17/21,Cape Verde,28281,251
 5/17/21,Cambodia,22544,154
 5/17/21,Cameroon,74946,1152
-5/17/21,Canada,1334734,24983
+5/17/21,Canada,1334737,24983
 5/17/21,Central African Republic,6866,95
 5/17/21,Chad,4904,173
 5/17/21,Chile,1292096,27934
@@ -98438,7 +98438,7 @@ Date,Country/Region,Confirmed,Deaths
 6/2/21,Cape Verde,30694,266
 6/2/21,Cambodia,31460,230
 6/2/21,Cameroon,78929,1275
-6/2/21,Canada,1385858,25613
+6/2/21,Canada,1385860,25613
 6/2/21,Central African Republic,7091,98
 6/2/21,Chad,4935,173
 6/2/21,Chile,1394973,29385
@@ -99824,7 +99824,7 @@ Date,Country/Region,Confirmed,Deaths
 6/9/21,Cape Verde,31339,270
 6/9/21,Cambodia,36240,289
 6/9/21,Cameroon,79904,1302
-6/9/21,Canada,1397297,25844
+6/9/21,Canada,1397314,25844
 6/9/21,Central African Republic,7101,98
 6/9/21,Chad,4942,174
 6/9/21,Chile,1445768,30141
@@ -100022,7 +100022,7 @@ Date,Country/Region,Confirmed,Deaths
 6/10/21,Cape Verde,31433,271
 6/10/21,Cambodia,36666,300
 6/10/21,Cameroon,79904,1302
-6/10/21,Canada,1398802,25874
+6/10/21,Canada,1398817,25874
 6/10/21,Central African Republic,7101,98
 6/10/21,Chad,4942,174
 6/10/21,Chile,1453477,30339
@@ -100220,7 +100220,7 @@ Date,Country/Region,Confirmed,Deaths
 6/11/21,Cape Verde,31512,272
 6/11/21,Cambodia,37321,311
 6/11/21,Cameroon,80090,1310
-6/11/21,Canada,1400222,25887
+6/11/21,Canada,1400227,25887
 6/11/21,Central African Republic,7101,98
 6/11/21,Chad,4942,174
 6/11/21,Chile,1461419,30472
@@ -101012,7 +101012,7 @@ Date,Country/Region,Confirmed,Deaths
 6/15/21,Cape Verde,31704,276
 6/15/21,Cambodia,39464,361
 6/15/21,Cameroon,80090,1310
-6/15/21,Canada,1404588,25973
+6/15/21,Canada,1404587,25973
 6/15/21,Central African Republic,7101,98
 6/15/21,Chad,4943,174
 6/15/21,Chile,1487239,30865
@@ -101210,7 +101210,7 @@ Date,Country/Region,Confirmed,Deaths
 6/16/21,Cape Verde,31783,279
 6/16/21,Cambodia,40157,368
 6/16/21,Cameroon,80328,1313
-6/16/21,Canada,1405625,26002
+6/16/21,Canada,1405625,26001
 6/16/21,Central African Republic,7101,98
 6/16/21,Chad,4943,174
 6/16/21,Chile,1491561,30922
@@ -102200,7 +102200,7 @@ Date,Country/Region,Confirmed,Deaths
 6/21/21,Cape Verde,32039,283
 6/21/21,Cambodia,43446,441
 6/21/21,Cameroon,80328,1313
-6/21/21,Canada,1410009,26088
+6/21/21,Canada,1409988,26087
 6/21/21,Central African Republic,7129,98
 6/21/21,Chad,4947,174
 6/21/21,Chile,1522223,31645
@@ -102398,7 +102398,7 @@ Date,Country/Region,Confirmed,Deaths
 6/22/21,Cape Verde,32111,284
 6/22/21,Cambodia,44124,459
 6/22/21,Cameroon,80487,1320
-6/22/21,Canada,1410660,26156
+6/22/21,Canada,1410658,26155
 6/22/21,Central African Republic,7137,98
 6/22/21,Chad,4948,174
 6/22/21,Chile,1525933,31690
@@ -102992,7 +102992,7 @@ Date,Country/Region,Confirmed,Deaths
 6/25/21,Cape Verde,32313,286
 6/25/21,Cambodia,46065,509
 6/25/21,Cameroon,80487,1320
-6/25/21,Canada,1412626,26198
+6/25/21,Canada,1412624,26198
 6/25/21,Central African Republic,7139,98
 6/25/21,Chad,4951,174
 6/25/21,Chile,1537471,32012
@@ -105170,7 +105170,7 @@ Date,Country/Region,Confirmed,Deaths
 7/6/21,Cape Verde,32788,289
 7/6/21,Cambodia,56122,779
 7/6/21,Cameroon,80858,1324
-7/6/21,Canada,1418450,26382
+7/6/21,Canada,1418443,26382
 7/6/21,Central African Republic,7141,98
 7/6/21,Chad,4952,174
 7/6/21,Chile,1574465,33288
@@ -106358,7 +106358,7 @@ Date,Country/Region,Confirmed,Deaths
 7/12/21,Cape Verde,33026,290
 7/12/21,Cambodia,61870,925
 7/12/21,Cameroon,80858,1324
-7/12/21,Canada,1421220,26440
+7/12/21,Canada,1421218,26440
 7/12/21,Central African Republic,7142,98
 7/12/21,Chad,4954,174
 7/12/21,Chile,1589623,33980
@@ -106754,7 +106754,7 @@ Date,Country/Region,Confirmed,Deaths
 7/14/21,Cape Verde,33127,292
 7/14/21,Cambodia,63615,986
 7/14/21,Cameroon,80858,1324
-7/14/21,Canada,1421915,26459
+7/14/21,Canada,1421904,26459
 7/14/21,Central African Republic,7142,98
 7/14/21,Chad,4955,174
 7/14/21,Chile,1592130,34049
@@ -109130,7 +109130,7 @@ Date,Country/Region,Confirmed,Deaths
 7/26/21,Cape Verde,33592,298
 7/26/21,Cambodia,73701,1305
 7/26/21,Cameroon,82064,1334
-7/26/21,Canada,1427383,26554
+7/26/21,Canada,1427383,26553
 7/26/21,Central African Republic,7148,98
 7/26/21,Chad,4969,174
 7/26/21,Chile,1610345,35119
@@ -112496,7 +112496,7 @@ Date,Country/Region,Confirmed,Deaths
 8/12/21,Cape Verde,34235,298
 8/12/21,Cambodia,83839,1634
 8/12/21,Cameroon,82454,1338
-8/12/21,Canada,1447456,26693
+8/12/21,Canada,1447453,26693
 8/12/21,Central African Republic,11195,98
 8/12/21,Chad,4981,174
 8/12/21,Chile,1626595,36243
@@ -113288,7 +113288,7 @@ Date,Country/Region,Confirmed,Deaths
 8/16/21,Cape Verde,34407,300
 8/16/21,Cambodia,86041,1704
 8/16/21,Cameroon,82454,1338
-8/16/21,Canada,1455964,26705
+8/16/21,Canada,1455966,26705
 8/16/21,Central African Republic,11251,99
 8/16/21,Chad,4984,174
 8/16/21,Chile,1629932,36420
@@ -113486,7 +113486,7 @@ Date,Country/Region,Confirmed,Deaths
 8/17/21,Cape Verde,34445,300
 8/17/21,Cambodia,86597,1718
 8/17/21,Cameroon,82454,1338
-8/17/21,Canada,1457778,26720
+8/17/21,Canada,1457779,26720
 8/17/21,Central African Republic,11251,99
 8/17/21,Chad,4984,174
 8/17/21,Chile,1630330,36438
@@ -113684,7 +113684,7 @@ Date,Country/Region,Confirmed,Deaths
 8/18/21,Cape Verde,34529,300
 8/18/21,Cambodia,87190,1730
 8/18/21,Cameroon,82454,1338
-8/18/21,Canada,1460185,26762
+8/18/21,Canada,1460186,26762
 8/18/21,Central African Republic,11251,99
 8/18/21,Chad,4984,174
 8/18/21,Chile,1630831,36456
@@ -114674,7 +114674,7 @@ Date,Country/Region,Confirmed,Deaths
 8/23/21,Cape Verde,34773,305
 8/23/21,Cambodia,89641,1808
 8/23/21,Cameroon,82454,1338
-8/23/21,Canada,1473669,26815
+8/23/21,Canada,1473687,26815
 8/23/21,Central African Republic,11270,99
 8/23/21,Chad,4987,174
 8/23/21,Chile,1634394,36688
@@ -114872,7 +114872,7 @@ Date,Country/Region,Confirmed,Deaths
 8/24/21,Cape Verde,34825,306
 8/24/21,Cambodia,90107,1821
 8/24/21,Cameroon,82454,1338
-8/24/21,Canada,1476170,26849
+8/24/21,Canada,1475999,26849
 8/24/21,Central African Republic,11270,99
 8/24/21,Chad,4987,174
 8/24/21,Chile,1634774,36701
@@ -117842,7 +117842,7 @@ Date,Country/Region,Confirmed,Deaths
 9/8/21,Cape Verde,36202,317
 9/8/21,Cambodia,96935,1987
 9/8/21,Cameroon,84210,1357
-9/8/21,Canada,1529313,27108
+9/8/21,Canada,1529305,27108
 9/8/21,Central African Republic,11296,100
 9/8/21,Chad,5011,174
 9/8/21,Chile,1642146,37122
@@ -118040,7 +118040,7 @@ Date,Country/Region,Confirmed,Deaths
 9/9/21,Cape Verde,36327,318
 9/9/21,Cambodia,97524,2007
 9/9/21,Cameroon,84210,1357
-9/9/21,Canada,1533501,27135
+9/9/21,Canada,1533500,27135
 9/9/21,Central African Republic,11309,100
 9/9/21,Chad,5011,174
 9/9/21,Chile,1642646,37159
@@ -118832,7 +118832,7 @@ Date,Country/Region,Confirmed,Deaths
 9/13/21,Cape Verde,36640,322
 9/13/21,Cambodia,100133,2049
 9/13/21,Cameroon,84210,1357
-9/13/21,Canada,1551146,27239
+9/13/21,Canada,1551145,27239
 9/13/21,Central African Republic,11309,100
 9/13/21,Chad,5017,174
 9/13/21,Chile,1644540,37253
@@ -119030,7 +119030,7 @@ Date,Country/Region,Confirmed,Deaths
 9/14/21,Cape Verde,36694,323
 9/14/21,Cambodia,100790,2058
 9/14/21,Cameroon,84210,1357
-9/14/21,Canada,1555131,27264
+9/14/21,Canada,1555130,27264
 9/14/21,Central African Republic,11309,100
 9/14/21,Chad,5019,174
 9/14/21,Chile,1644832,37253
@@ -120218,7 +120218,7 @@ Date,Country/Region,Confirmed,Deaths
 9/20/21,Cape Verde,37157,331
 9/20/21,Cambodia,104716,2123
 9/20/21,Cameroon,85414,1368
-9/20/21,Canada,1581939,27435
+9/20/21,Canada,1581936,27435
 9/20/21,Central African Republic,11340,100
 9/20/21,Chad,5029,174
 9/20/21,Chile,1647746,37367
@@ -121604,7 +121604,7 @@ Date,Country/Region,Confirmed,Deaths
 9/27/21,Cape Verde,37472,336
 9/27/21,Cambodia,109926,2261
 9/27/21,Cameroon,85414,1368
-9/27/21,Canada,1612436,27700
+9/27/21,Canada,1612433,27700
 9/27/21,Central African Republic,11371,100
 9/27/21,Chad,5034,174
 9/27/21,Chile,1652364,37445
@@ -121711,7 +121711,7 @@ Date,Country/Region,Confirmed,Deaths
 9/27/21,Papua New Guinea,19523,227
 9/27/21,Paraguay,459828,16189
 9/27/21,Peru,2173354,199314
-9/27/21,Philippines,2490858,37405
+9/27/21,Philippines,2509177,37494
 9/27/21,Poland,2903655,75572
 9/27/21,Portugal,1067175,17955
 9/27/21,Qatar,236388,605
@@ -121909,7 +121909,7 @@ Date,Country/Region,Confirmed,Deaths
 9/28/21,Papua New Guinea,19523,227
 9/28/21,Paraguay,459899,16193
 9/28/21,Peru,2174219,199329
-9/28/21,Philippines,2509177,37596
+9/28/21,Philippines,2522965,37686
 9/28/21,Poland,2904631,75601
 9/28/21,Portugal,1067775,17962
 9/28/21,Qatar,236482,605
@@ -123386,7 +123386,7 @@ Date,Country/Region,Confirmed,Deaths
 10/6/21,Cape Verde,37770,345
 10/6/21,Cambodia,113924,2431
 10/6/21,Cameroon,95399,1517
-10/6/21,Canada,1647224,28113
+10/6/21,Canada,1647222,28113
 10/6/21,Central African Republic,11391,100
 10/6/21,Chad,5051,174
 10/6/21,Chile,1658444,37512
@@ -123691,7 +123691,7 @@ Date,Country/Region,Confirmed,Deaths
 10/7/21,Papua New Guinea,21896,243
 10/7/21,Paraguay,460113,16205
 10/7/21,Peru,2182106,199581
-10/7/21,Philippines,2622917,38828
+10/7/21,Philippines,2632881,38837
 10/7/21,Poland,2916969,75803
 10/7/21,Portugal,1073268,18019
 10/7/21,Qatar,237225,607
@@ -124772,7 +124772,7 @@ Date,Country/Region,Confirmed,Deaths
 10/13/21,Cape Verde,37951,347
 10/13/21,Cambodia,115607,2559
 10/13/21,Cameroon,98402,1550
-10/13/21,Canada,1670299,28370
+10/13/21,Canada,1670277,28370
 10/13/21,Central African Republic,11469,100
 10/13/21,Chad,5063,174
 10/13/21,Chile,1664725,37578
@@ -125762,7 +125762,7 @@ Date,Country/Region,Confirmed,Deaths
 10/18/21,Cape Verde,38049,347
 10/18/21,Cambodia,116860,2670
 10/18/21,Cameroon,98402,1550
-10/18/21,Canada,1685428,28565
+10/18/21,Canada,1685424,28565
 10/18/21,Central African Republic,11478,100
 10/18/21,Chad,5069,174
 10/18/21,Chile,1672065,37620
@@ -125960,7 +125960,7 @@ Date,Country/Region,Confirmed,Deaths
 10/19/21,Cape Verde,38052,347
 10/19/21,Cambodia,117035,2681
 10/19/21,Cameroon,100289,1600
-10/19/21,Canada,1687647,28604
+10/19/21,Canada,1687646,28604
 10/19/21,Central African Republic,11478,100
 10/19/21,Chad,5069,174
 10/19/21,Chile,1672998,37623
@@ -127849,7 +127849,7 @@ Date,Country/Region,Confirmed,Deaths
 10/28/21,Papua New Guinea,28823,345
 10/28/21,Paraguay,460944,16243
 10/28/21,Peru,2199036,200179
-10/28/21,Philippines,2768849,42348
+10/28/21,Philippines,2772491,42575
 10/28/21,Poland,2998891,76773
 10/28/21,Portugal,1088133,18149
 10/28/21,Qatar,238950,609
@@ -128930,7 +128930,7 @@ Date,Country/Region,Confirmed,Deaths
 11/3/21,Cape Verde,38228,349
 11/3/21,Cambodia,118787,2807
 11/3/21,Cameroon,104348,1731
-11/3/21,Canada,1722596,29096
+11/3/21,Canada,1722595,29095
 11/3/21,Central African Republic,11579,100
 11/3/21,Chad,5107,175
 11/3/21,Chile,1699427,37790
@@ -129128,7 +129128,7 @@ Date,Country/Region,Confirmed,Deaths
 11/4/21,Cape Verde,38233,349
 11/4/21,Cambodia,118870,2813
 11/4/21,Cameroon,104348,1731
-11/4/21,Canada,1725184,29116
+11/4/21,Canada,1725184,29115
 11/4/21,Central African Republic,11579,100
 11/4/21,Chad,5107,175
 11/4/21,Chile,1701316,37795
@@ -130118,7 +130118,7 @@ Date,Country/Region,Confirmed,Deaths
 11/9/21,Cape Verde,38264,350
 11/9/21,Cambodia,119227,2840
 11/9/21,Cameroon,104348,1731
-11/9/21,Canada,1737462,29218
+11/9/21,Canada,1737461,29218
 11/9/21,Central African Republic,11579,100
 11/9/21,Chad,5107,175
 11/9/21,Chile,1713188,37883
@@ -130423,7 +130423,7 @@ Date,Country/Region,Confirmed,Deaths
 11/10/21,Papua New Guinea,32279,415
 11/10/21,Paraguay,461466,16272
 11/10/21,Peru,2210129,200532
-11/10/21,Philippines,2806694,44567
+11/10/21,Philippines,2809311,44665
 11/10/21,Poland,3143725,78250
 11/10/21,Portugal,1100961,18222
 11/10/21,Qatar,240557,611
@@ -131306,7 +131306,7 @@ Date,Country/Region,Confirmed,Deaths
 11/15/21,Cape Verde,38299,350
 11/15/21,Cambodia,119588,2872
 11/15/21,Cameroon,106190,1770
-11/15/21,Canada,1752549,29385
+11/15/21,Canada,1752480,29385
 11/15/21,Central African Republic,11666,101
 11/15/21,Chad,5107,175
 11/15/21,Chile,1728767,38000
@@ -131900,7 +131900,7 @@ Date,Country/Region,Confirmed,Deaths
 11/18/21,Cape Verde,38313,350
 11/18/21,Cambodia,119741,2887
 11/18/21,Cameroon,106190,1770
-11/18/21,Canada,1759564,29463
+11/18/21,Canada,1759563,29463
 11/18/21,Central African Republic,11666,101
 11/18/21,Chad,5107,175
 11/18/21,Chile,1735187,38049
@@ -135266,7 +135266,7 @@ Date,Country/Region,Confirmed,Deaths
 12/5/21,Cape Verde,38450,351
 12/5/21,Cambodia,120256,2960
 12/5/21,Cameroon,107148,1804
-12/5/21,Canada,1807701,29769
+12/5/21,Canada,1807700,29769
 12/5/21,Central African Republic,11742,101
 12/5/21,Chad,5703,181
 12/5/21,Chile,1772547,38501
@@ -135769,7 +135769,7 @@ Date,Country/Region,Confirmed,Deaths
 12/7/21,Papua New Guinea,35662,573
 12/7/21,Paraguay,463479,16484
 12/7/21,Peru,2246633,201450
-12/7/21,Philippines,2835154,49499
+12/7/21,Philippines,2835345,49591
 12/7/21,Poland,3704040,86205
 12/7/21,Portugal,1172420,18572
 12/7/21,Qatar,244545,611
@@ -137246,7 +137246,7 @@ Date,Country/Region,Confirmed,Deaths
 12/15/21,Cape Verde,38527,351
 12/15/21,Cambodia,120390,2995
 12/15/21,Cameroon,107662,1836
-12/15/21,Canada,1851401,29995
+12/15/21,Canada,1851400,29995
 12/15/21,Central African Republic,11961,101
 12/15/21,Chad,5703,181
 12/15/21,Chile,1786184,38727
@@ -137840,7 +137840,7 @@ Date,Country/Region,Confirmed,Deaths
 12/18/21,Cape Verde,38573,351
 12/18/21,Cambodia,120410,3003
 12/18/21,Cameroon,107662,1836
-12/18/21,Canada,1875210,30041
+12/18/21,Canada,1875209,30041
 12/18/21,Central African Republic,11961,101
 12/18/21,Chad,5703,181
 12/18/21,Chile,1790524,38840
@@ -139028,7 +139028,7 @@ Date,Country/Region,Confirmed,Deaths
 12/24/21,Cape Verde,38865,352
 12/24/21,Cambodia,120440,3007
 12/24/21,Cameroon,108451,1851
-12/24/21,Canada,1969551,30146
+12/24/21,Canada,1969756,30146
 12/24/21,Central African Republic,11961,101
 12/24/21,Chad,5703,181
 12/24/21,Chile,1797631,38984
@@ -139226,7 +139226,7 @@ Date,Country/Region,Confirmed,Deaths
 12/25/21,Cape Verde,39013,352
 12/25/21,Cambodia,120445,3008
 12/25/21,Cameroon,108451,1851
-12/25/21,Canada,1989748,30153
+12/25/21,Canada,1990194,30153
 12/25/21,Central African Republic,11961,101
 12/25/21,Chad,5703,181
 12/25/21,Chile,1799125,39013
@@ -139424,7 +139424,7 @@ Date,Country/Region,Confirmed,Deaths
 12/26/21,Cape Verde,39072,352
 12/26/21,Cambodia,120449,3008
 12/26/21,Cameroon,108676,1851
-12/26/21,Canada,2008031,30163
+12/26/21,Canada,2008628,30163
 12/26/21,Central African Republic,11961,101
 12/26/21,Chad,5703,181
 12/26/21,Chile,1800280,39034
@@ -139622,7 +139622,7 @@ Date,Country/Region,Confirmed,Deaths
 12/27/21,Cape Verde,39173,352
 12/27/21,Cambodia,120464,3009
 12/27/21,Cameroon,108676,1851
-12/27/21,Canada,2029044,30190
+12/27/21,Canada,2029777,30190
 12/27/21,Central African Republic,12163,101
 12/27/21,Chad,5703,181
 12/27/21,Chile,1801033,39056
@@ -142592,7 +142592,7 @@ Date,Country/Region,Confirmed,Deaths
 1/11/22,Cape Verde,52007,366
 1/11/22,Cambodia,120670,3015
 1/11/22,Cameroon,109666,1853
-1/11/22,Canada,2615169,30957
+1/11/22,Canada,2615168,30957
 1/11/22,Central African Republic,12650,106
 1/11/22,Chad,6558,185
 1/11/22,Chile,1837390,39289
@@ -142988,7 +142988,7 @@ Date,Country/Region,Confirmed,Deaths
 1/13/22,Cape Verde,52729,370
 1/13/22,Cambodia,120718,3015
 1/13/22,Cameroon,109666,1853
-1/13/22,Canada,2679219,31191
+1/13/22,Canada,2679209,31191
 1/13/22,Central African Republic,12650,106
 1/13/22,Chad,6558,185
 1/13/22,Chile,1849465,39331
@@ -144176,7 +144176,7 @@ Date,Country/Region,Confirmed,Deaths
 1/19/22,Cape Verde,54891,380
 1/19/22,Cambodia,120877,3015
 1/19/22,Cameroon,109666,1853
-1/19/22,Canada,2844397,32006
+1/19/22,Canada,2844396,32006
 1/19/22,Central African Republic,13319,108
 1/19/22,Chad,6889,185
 1/19/22,Chile,1902657,39431
@@ -144374,7 +144374,7 @@ Date,Country/Region,Confirmed,Deaths
 1/20/22,Cape Verde,54891,382
 1/20/22,Cambodia,120914,3015
 1/20/22,Cameroon,109666,1853
-1/20/22,Canada,2867929,32217
+1/20/22,Canada,2867927,32217
 1/20/22,Central African Republic,13509,109
 1/20/22,Chad,6889,185
 1/20/22,Chile,1916522,39456
@@ -144968,7 +144968,7 @@ Date,Country/Region,Confirmed,Deaths
 1/23/22,Cape Verde,55306,389
 1/23/22,Cambodia,121026,3015
 1/23/22,Cameroon,114113,1867
-1/23/22,Canada,2911261,32560
+1/23/22,Canada,2912903,32560
 1/23/22,Central African Republic,13611,109
 1/23/22,Chad,6889,185
 1/23/22,Chile,1965393,39512
@@ -145166,7 +145166,7 @@ Date,Country/Region,Confirmed,Deaths
 1/24/22,Cape Verde,55401,391
 1/24/22,Cambodia,121066,3015
 1/24/22,Cameroon,114113,1867
-1/24/22,Canada,2932025,32715
+1/24/22,Canada,2932024,32715
 1/24/22,Central African Republic,13611,109
 1/24/22,Chad,7073,190
 1/24/22,Chile,1984190,39535
@@ -145562,7 +145562,7 @@ Date,Country/Region,Confirmed,Deaths
 1/26/22,Cape Verde,55543,393
 1/26/22,Cambodia,121116,3015
 1/26/22,Cameroon,114113,1867
-1/26/22,Canada,2966448,33059
+1/26/22,Canada,2967694,33065
 1/26/22,Central African Republic,13840,109
 1/26/22,Chad,7075,190
 1/26/22,Chile,2020082,39547
@@ -147146,7 +147146,7 @@ Date,Country/Region,Confirmed,Deaths
 2/3/22,Cape Verde,55754,396
 2/3/22,Cambodia,121484,3015
 2/3/22,Cameroon,116718,1880
-2/3/22,Canada,3095641,34378
+2/3/22,Canada,3095639,34378
 2/3/22,Central African Republic,14023,110
 2/3/22,Chad,7157,190
 2/3/22,Chile,2258005,39824
@@ -148928,7 +148928,7 @@ Date,Country/Region,Confirmed,Deaths
 2/12/22,Cape Verde,55840,400
 2/12/22,Cambodia,123042,3015
 2/12/22,Cameroon,118675,1915
-2/12/22,Canada,3186067,35439
+2/12/22,Canada,3188589,35481
 2/12/22,Central African Republic,14154,111
 2/12/22,Chad,7216,190
 2/12/22,Chile,2582934,40464
@@ -149126,7 +149126,7 @@ Date,Country/Region,Confirmed,Deaths
 2/13/22,Cape Verde,55842,400
 2/13/22,Cambodia,123443,3015
 2/13/22,Cameroon,118675,1915
-2/13/22,Canada,3190468,35470
+2/13/22,Canada,3192990,35512
 2/13/22,Central African Republic,14154,111
 2/13/22,Chad,7216,190
 2/13/22,Chile,2621427,40558
@@ -149324,7 +149324,7 @@ Date,Country/Region,Confirmed,Deaths
 2/14/22,Cape Verde,55844,400
 2/14/22,Cambodia,123955,3015
 2/14/22,Cameroon,118675,1915
-2/14/22,Canada,3202987,35572
+2/14/22,Canada,3205509,35614
 2/14/22,Central African Republic,14187,113
 2/14/22,Chad,7216,190
 2/14/22,Chile,2652713,40666
@@ -149522,7 +149522,7 @@ Date,Country/Region,Confirmed,Deaths
 2/15/22,Cape Verde,55846,400
 2/15/22,Cambodia,124139,3015
 2/15/22,Cameroon,118675,1915
-2/15/22,Canada,3208795,35674
+2/15/22,Canada,3211317,35716
 2/15/22,Central African Republic,14187,113
 2/15/22,Chad,7216,190
 2/15/22,Chile,2677692,40698
@@ -149720,7 +149720,7 @@ Date,Country/Region,Confirmed,Deaths
 2/16/22,Cape Verde,55856,400
 2/16/22,Cambodia,124343,3015
 2/16/22,Cameroon,118675,1915
-2/16/22,Canada,3216972,35787
+2/16/22,Canada,3219494,35829
 2/16/22,Central African Republic,14187,113
 2/16/22,Chad,7216,190
 2/16/22,Chile,2709854,40735
@@ -149918,7 +149918,7 @@ Date,Country/Region,Confirmed,Deaths
 2/17/22,Cape Verde,55856,400
 2/17/22,Cambodia,124787,3015
 2/17/22,Cameroon,119107,1920
-2/17/22,Canada,3224226,35876
+2/17/22,Canada,3226748,35918
 2/17/22,Central African Republic,14187,113
 2/17/22,Chad,7216,190
 2/17/22,Chile,2747552,40936
@@ -150116,7 +150116,7 @@ Date,Country/Region,Confirmed,Deaths
 2/18/22,Cape Verde,55858,400
 2/18/22,Cambodia,125201,3015
 2/18/22,Cameroon,119107,1920
-2/18/22,Canada,3231481,35955
+2/18/22,Canada,3234003,35997
 2/18/22,Central African Republic,14187,113
 2/18/22,Chad,7216,190
 2/18/22,Chile,2783458,41067
@@ -150314,7 +150314,7 @@ Date,Country/Region,Confirmed,Deaths
 2/19/22,Cape Verde,55860,400
 2/19/22,Cambodia,125753,3015
 2/19/22,Cameroon,119107,1920
-2/19/22,Canada,3235461,35971
+2/19/22,Canada,3237983,36013
 2/19/22,Central African Republic,14187,113
 2/19/22,Chad,7216,190
 2/19/22,Chile,2819246,41196
@@ -150512,7 +150512,7 @@ Date,Country/Region,Confirmed,Deaths
 2/20/22,Cape Verde,55860,400
 2/20/22,Cambodia,126489,3017
 2/20/22,Cameroon,119107,1920
-2/20/22,Canada,3238624,36000
+2/20/22,Canada,3241146,36042
 2/20/22,Central African Republic,14187,113
 2/20/22,Chad,7216,190
 2/20/22,Chile,2851382,41347
@@ -150710,7 +150710,7 @@ Date,Country/Region,Confirmed,Deaths
 2/21/22,Cape Verde,55863,400
 2/21/22,Cambodia,126977,3020
 2/21/22,Cameroon,119107,1920
-2/21/22,Canada,3241442,36005
+2/21/22,Canada,3243964,36047
 2/21/22,Central African Republic,14187,113
 2/21/22,Chad,7246,190
 2/21/22,Chile,2876455,41491
@@ -150860,7 +150860,7 @@ Date,Country/Region,Confirmed,Deaths
 2/21/22,Trinidad and Tobago,124076,3574
 2/21/22,Tunisia,987256,27486
 2/21/22,Turkey,13589511,92719
-2/21/22,United States,78548870,936764
+2/21/22,United States,78558198,936957
 2/21/22,Uganda,163116,3585
 2/21/22,Ukraine,4959461,111561
 2/21/22,United Arab Emirates,875258,2296
@@ -150908,7 +150908,7 @@ Date,Country/Region,Confirmed,Deaths
 2/22/22,Cape Verde,55864,401
 2/22/22,Cambodia,127575,3022
 2/22/22,Cameroon,119107,1920
-2/22/22,Canada,3249989,36117
+2/22/22,Canada,3252511,36159
 2/22/22,Central African Republic,14187,113
 2/22/22,Chad,7248,190
 2/22/22,Chile,2895931,41526
@@ -151106,7 +151106,7 @@ Date,Country/Region,Confirmed,Deaths
 2/23/22,Cape Verde,55870,401
 2/23/22,Cambodia,128133,3023
 2/23/22,Cameroon,119107,1920
-2/23/22,Canada,3259200,36213
+2/23/22,Canada,3261722,36255
 2/23/22,Central African Republic,14187,113
 2/23/22,Chad,7248,190
 2/23/22,Chile,2921131,41571
@@ -151271,3 +151271,201 @@ Date,Country/Region,Confirmed,Deaths
 2/23/22,Yemen,11751,2130
 2/23/22,Zambia,311888,3947
 2/23/22,Zimbabwe,234589,5388
+2/24/22,Afghanistan,173047,7578
+2/24/22,Albania,270947,3457
+2/24/22,Algeria,264603,6820
+2/24/22,Andorra,37958,151
+2/24/22,Angola,98701,1899
+2/24/22,Antarctica,11,0
+2/24/22,Antigua and Barbuda,7435,135
+2/24/22,Argentina,8878486,125872
+2/24/22,Armenia,418220,8392
+2/24/22,Australia,3150771,5095
+2/24/22,Austria,2578962,14700
+2/24/22,Azerbaijan,781538,9330
+2/24/22,Bahamas,33105,771
+2/24/22,Bahrain,504375,1447
+2/24/22,Bangladesh,1939651,29005
+2/24/22,Barbados,54536,312
+2/24/22,Belarus,902315,6421
+2/24/22,Belgium,3537675,30101
+2/24/22,Belize,56525,648
+2/24/22,Benin,26567,163
+2/24/22,Bhutan,11010,6
+2/24/22,Bolivia,891851,21406
+2/24/22,Bosnia and Herzegovina,370295,15392
+2/24/22,Botswana,262652,2614
+2/24/22,Brazil,28589235,647703
+2/24/22,Brunei,48055,113
+2/24/22,Bulgaria,1083425,35357
+2/24/22,Burkina Faso,20751,375
+2/24/22,Myanmar,578446,19353
+2/24/22,Burundi,38047,38
+2/24/22,Cape Verde,55876,401
+2/24/22,Cambodia,128599,3026
+2/24/22,Cameroon,119240,1923
+2/24/22,Canada,3267366,36332
+2/24/22,Central African Republic,14187,113
+2/24/22,Chad,7248,190
+2/24/22,Chile,2953895,41795
+2/24/22,China,143736,5061
+2/24/22,Colombia,6056556,138421
+2/24/22,Comoros,8026,160
+2/24/22,Congo,23967,378
+2/24/22,Democratic Republic of Congo,85938,1335
+2/24/22,Costa Rica,799826,7984
+2/24/22,Cote d'Ivoire,81410,791
+2/24/22,Croatia,1049667,14964
+2/24/22,Cuba,1067522,8494
+2/24/22,Cyprus,313406,833
+2/24/22,Czechia,3549479,38433
+2/24/22,Denmark,2736535,4502
+2/24/22,Diamond Princess,712,13
+2/24/22,Djibouti,15545,189
+2/24/22,Dominica,11016,57
+2/24/22,Dominican Republic,573458,4363
+2/24/22,Ecuador,827760,35223
+2/24/22,Egypt,477173,23927
+2/24/22,El Salvador,147786,4058
+2/24/22,Equatorial Guinea,15877,182
+2/24/22,Eritrea,9696,103
+2/24/22,Estonia,478941,2195
+2/24/22,Eswatini,69095,1390
+2/24/22,Ethiopia,468564,7450
+2/24/22,Fiji,63687,826
+2/24/22,Finland,637658,2364
+2/24/22,France,22707110,138784
+2/24/22,Gabon,47520,303
+2/24/22,Gambia,11924,365
+2/24/22,Georgia,1584454,16022
+2/24/22,Germany,14458827,122381
+2/24/22,Ghana,159124,1442
+2/24/22,Greece,2369396,25603
+2/24/22,Grenada,13598,214
+2/24/22,Guatemala,770135,16906
+2/24/22,Guinea,36393,440
+2/24/22,Guinea-Bissau,7972,166
+2/24/22,Guyana,62798,1216
+2/24/22,Haiti,30336,820
+2/24/22,Vatican,29,0
+2/24/22,Honduras,411212,10720
+2/24/22,Hungary,1774676,43664
+2/24/22,Iceland,118684,61
+2/24/22,India,42894345,513226
+2/24/22,Indonesia,5408328,147342
+2/24/22,Iran,7011932,135952
+2/24/22,Iraq,2298164,24931
+2/24/22,Ireland,1287908,6471
+2/24/22,Israel,3601897,10105
+2/24/22,Italy,12651251,154013
+2/24/22,Jamaica,127799,2808
+2/24/22,Japan,4753558,22791
+2/24/22,Jordan,1606837,13767
+2/24/22,Kazakhstan,1389288,18893
+2/24/22,Kenya,322822,5638
+2/24/22,Kiribati,2883,11
+2/24/22,South Korea,2665077,7783
+2/24/22,Kosovo,225853,3108
+2/24/22,Kuwait,617275,2534
+2/24/22,Kyrgyzstan,200402,2950
+2/24/22,Laos,141933,617
+2/24/22,Latvia,624008,5159
+2/24/22,Lebanon,1060152,10044
+2/24/22,Lesotho,32599,696
+2/24/22,Liberia,7360,290
+2/24/22,Libya,491216,6232
+2/24/22,Liechtenstein,11564,77
+2/24/22,Lithuania,885863,8336
+2/24/22,Luxembourg,181195,988
+2/24/22,MS Zaandam,9,2
+2/24/22,Madagascar,63433,1350
+2/24/22,Malawi,85276,2612
+2/24/22,Malaysia,3337227,32534
+2/24/22,Maldives,168124,294
+2/24/22,Mali,30358,722
+2/24/22,Malta,71003,601
+2/24/22,Marshall Islands,7,0
+2/24/22,Mauritania,58621,977
+2/24/22,Mauritius,70862,786
+2/24/22,Mexico,5455237,316941
+2/24/22,Micronesia (country),1,0
+2/24/22,Moldova,499015,11171
+2/24/22,Monaco,9331,51
+2/24/22,Mongolia,904231,2167
+2/24/22,Montenegro,229630,2672
+2/24/22,Morocco,1160303,15952
+2/24/22,Mozambique,224999,2192
+2/24/22,Namibia,157106,4006
+2/24/22,Nepal,976512,11931
+2/24/22,Netherlands,6242839,22095
+2/24/22,New Zealand,57499,56
+2/24/22,Nicaragua,18004,224
+2/24/22,Niger,8746,306
+2/24/22,Nigeria,254428,3142
+2/24/22,North Macedonia,295712,8968
+2/24/22,Norway,1202017,1598
+2/24/22,Oman,379618,4238
+2/24/22,Pakistan,1506450,30139
+2/24/22,Palau,3696,6
+2/24/22,Panama,753694,8058
+2/24/22,Papua New Guinea,40748,638
+2/24/22,Paraguay,639078,18315
+2/24/22,Peru,3506075,210116
+2/24/22,Philippines,3657342,56165
+2/24/22,Poland,5620946,110858
+2/24/22,Portugal,3231075,20941
+2/24/22,Qatar,355740,664
+2/24/22,Romania,2708315,63073
+2/24/22,Russia,15697674,341624
+2/24/22,Rwanda,129468,1457
+2/24/22,Saint Kitts and Nevis,5525,42
+2/24/22,Saint Lucia,22627,358
+2/24/22,Saint Vincent and the Grenadines,8303,106
+2/24/22,Samoa,33,0
+2/24/22,San Marino,14291,112
+2/24/22,Sao Tome and Principe,5932,72
+2/24/22,Saudi Arabia,742541,8991
+2/24/22,Senegal,85637,1960
+2/24/22,Serbia,1900293,15059
+2/24/22,Seychelles,39251,160
+2/24/22,Sierra Leone,7665,125
+2/24/22,Singapore,661198,975
+2/24/22,Slovakia,2071372,18338
+2/24/22,Slovenia,887224,6257
+2/24/22,Solomon Islands,6654,92
+2/24/22,Somalia,26313,1348
+2/24/22,South Africa,3667560,99018
+2/24/22,South Sudan,16950,137
+2/24/22,Spain,10949997,99162
+2/24/22,Sri Lanka,641786,16116
+2/24/22,Sudan,61376,3901
+2/24/22,Summer Olympics 2020,865,0
+2/24/22,Suriname,78016,1315
+2/24/22,Sweden,2437850,17083
+2/24/22,Switzerland,2747563,13073
+2/24/22,Syria,54160,3062
+2/24/22,Taiwan,20236,852
+2/24/22,Tajikistan,17786,125
+2/24/22,Tanzania,33620,798
+2/24/22,Thailand,2819282,22809
+2/24/22,Timor,22584,126
+2/24/22,Togo,36777,272
+2/24/22,Tonga,289,0
+2/24/22,Trinidad and Tobago,125864,3603
+2/24/22,Tunisia,992574,27640
+2/24/22,Turkey,13841889,93539
+2/24/22,United States,78798989,944828
+2/24/22,Uganda,163179,3585
+2/24/22,Ukraine,5040518,112459
+2/24/22,United Arab Emirates,877406,2299
+2/24/22,United Kingdom,18906546,161675
+2/24/22,Uruguay,831950,6932
+2/24/22,Uzbekistan,235880,1626
+2/24/22,Vanuatu,18,1
+2/24/22,Venezuela,512947,5625
+2/24/22,Vietnam,3041506,39884
+2/24/22,Palestine,640214,5458
+2/24/22,Winter Olympics 2022,510,0
+2/24/22,Yemen,11751,2130
+2/24/22,Zambia,312118,3947
+2/24/22,Zimbabwe,234967,5390
