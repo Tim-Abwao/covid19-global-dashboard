@@ -150034,7 +150034,7 @@ Date,Country/Region,Confirmed,Deaths
 2/17/22,Rwanda,129345,1454
 2/17/22,Saint Kitts and Nevis,5511,40
 2/17/22,Saint Lucia,22426,353
-2/17/22,Saint Vincent and the Grenadines,8468,103
+2/17/22,Saint Vincent and the Grenadines,8278,103
 2/17/22,Samoa,33,0
 2/17/22,San Marino,14086,110
 2/17/22,Sao Tome and Principe,5922,71
@@ -150232,7 +150232,7 @@ Date,Country/Region,Confirmed,Deaths
 2/18/22,Rwanda,129359,1454
 2/18/22,Saint Kitts and Nevis,5518,42
 2/18/22,Saint Lucia,22468,356
-2/18/22,Saint Vincent and the Grenadines,8468,104
+2/18/22,Saint Vincent and the Grenadines,8278,104
 2/18/22,Samoa,33,0
 2/18/22,San Marino,14147,112
 2/18/22,Sao Tome and Principe,5924,71
@@ -150430,7 +150430,7 @@ Date,Country/Region,Confirmed,Deaths
 2/19/22,Rwanda,129369,1455
 2/19/22,Saint Kitts and Nevis,5523,42
 2/19/22,Saint Lucia,22468,356
-2/19/22,Saint Vincent and the Grenadines,8468,104
+2/19/22,Saint Vincent and the Grenadines,8278,104
 2/19/22,Samoa,33,0
 2/19/22,San Marino,14147,112
 2/19/22,Sao Tome and Principe,5925,71
@@ -150628,7 +150628,7 @@ Date,Country/Region,Confirmed,Deaths
 2/20/22,Rwanda,129372,1456
 2/20/22,Saint Kitts and Nevis,5523,42
 2/20/22,Saint Lucia,22468,356
-2/20/22,Saint Vincent and the Grenadines,8468,104
+2/20/22,Saint Vincent and the Grenadines,8278,104
 2/20/22,Samoa,33,0
 2/20/22,San Marino,14147,112
 2/20/22,Sao Tome and Principe,5926,71
@@ -150740,7 +150740,7 @@ Date,Country/Region,Confirmed,Deaths
 2/21/22,Ethiopia,468379,7440
 2/21/22,Fiji,63650,826
 2/21/22,Finland,622717,2329
-2/21/22,France,22466076,133663
+2/21/22,France,22466076,137619
 2/21/22,Gabon,47506,303
 2/21/22,Gambia,11924,365
 2/21/22,Georgia,1553668,15888
@@ -152855,3 +152855,201 @@ Date,Country/Region,Confirmed,Deaths
 3/3/22,Yemen,11772,2135
 3/3/22,Zambia,313394,3957
 3/3/22,Zimbabwe,237503,5396
+3/4/22,Afghanistan,174214,7619
+3/4/22,Albania,272030,3478
+3/4/22,Algeria,265186,6852
+3/4/22,Andorra,38434,151
+3/4/22,Angola,98796,1900
+3/4/22,Antarctica,11,0
+3/4/22,Antigua and Barbuda,7449,135
+3/4/22,Argentina,8929898,126624
+3/4/22,Armenia,421008,8516
+3/4/22,Australia,3344659,5402
+3/4/22,Austria,2808008,14960
+3/4/22,Azerbaijan,788525,9488
+3/4/22,Bahamas,33169,771
+3/4/22,Bahrain,523654,1458
+3/4/22,Bangladesh,1946369,29064
+3/4/22,Barbados,55863,316
+3/4/22,Belarus,927464,6535
+3/4/22,Belgium,3586292,30259
+3/4/22,Belize,56876,651
+3/4/22,Benin,26575,163
+3/4/22,Bhutan,14120,6
+3/4/22,Bolivia,894200,21453
+3/4/22,Bosnia and Herzegovina,372139,15519
+3/4/22,Botswana,263950,2619
+3/4/22,Brazil,28978052,651522
+3/4/22,Brunei,80749,135
+3/4/22,Bulgaria,1099423,35790
+3/4/22,Burkina Faso,20751,375
+3/4/22,Myanmar,595821,19383
+3/4/22,Burundi,38150,38
+3/4/22,Cape Verde,55890,401
+3/4/22,Cambodia,131738,3038
+3/4/22,Cameroon,119322,1926
+3/4/22,Canada,3331281,36957
+3/4/22,Central African Republic,14320,113
+3/4/22,Chad,7257,190
+3/4/22,Chile,3147434,42809
+3/4/22,China,513701,6190
+3/4/22,Colombia,6069425,138984
+3/4/22,Comoros,8047,160
+3/4/22,Congo,24020,378
+3/4/22,Democratic Republic of Congo,86154,1335
+3/4/22,Costa Rica,814583,8082
+3/4/22,Cote d'Ivoire,81534,795
+3/4/22,Croatia,1061429,15172
+3/4/22,Cuba,1071964,8498
+3/4/22,Cyprus,329674,873
+3/4/22,Czechia,3616640,38837
+3/4/22,Denmark,2883965,4820
+3/4/22,Diamond Princess,712,13
+3/4/22,Djibouti,15550,189
+3/4/22,Dominica,11248,61
+3/4/22,Dominican Republic,575592,4370
+3/4/22,Ecuador,836216,35264
+3/4/22,Egypt,488763,24162
+3/4/22,El Salvador,156364,4083
+3/4/22,Equatorial Guinea,15885,183
+3/4/22,Eritrea,9708,103
+3/4/22,Estonia,511022,2275
+3/4/22,Eswatini,69290,1391
+3/4/22,Ethiopia,468895,7476
+3/4/22,Fiji,64019,834
+3/4/22,Finland,671773,2387
+3/4/22,France,23137902,140144
+3/4/22,Gabon,47543,303
+3/4/22,Gambia,11948,365
+3/4/22,Georgia,1620639,16306
+3/4/22,Germany,15713953,124055
+3/4/22,Ghana,160028,1442
+3/4/22,Greece,2486262,26092
+3/4/22,Grenada,13690,216
+3/4/22,Guatemala,789354,17045
+3/4/22,Guinea,36397,440
+3/4/22,Guinea-Bissau,8027,167
+3/4/22,Guyana,63024,1223
+3/4/22,Haiti,30382,820
+3/4/22,Vatican,29,0
+3/4/22,Honduras,413699,10785
+3/4/22,Hungary,1800046,44286
+3/4/22,Iceland,140929,68
+3/4/22,India,42957477,514878
+3/4/22,Indonesia,5693702,149596
+3/4/22,Iran,7080217,137593
+3/4/22,Iraq,2307158,25034
+3/4/22,Ireland,1315100,6531
+3/4/22,Israel,3662064,10264
+3/4/22,Italy,12948859,155609
+3/4/22,Jamaica,128142,2825
+3/4/22,Japan,5277655,24632
+3/4/22,Jordan,1638228,13849
+3/4/22,Kazakhstan,1391813,18967
+3/4/22,Kenya,323057,5640
+3/4/22,Kiribati,2974,11
+3/4/22,South Korea,4212652,8796
+3/4/22,Kosovo,226513,3117
+3/4/22,Kuwait,621965,2543
+3/4/22,Kyrgyzstan,200599,2962
+3/4/22,Laos,143710,628
+3/4/22,Latvia,689794,5323
+3/4/22,Lebanon,1075974,10134
+3/4/22,Lesotho,32707,697
+3/4/22,Liberia,7384,294
+3/4/22,Libya,497279,6288
+3/4/22,Liechtenstein,12681,78
+3/4/22,Lithuania,923810,8481
+3/4/22,Luxembourg,186360,996
+3/4/22,MS Zaandam,9,2
+3/4/22,Madagascar,63659,1366
+3/4/22,Malawi,85396,2617
+3/4/22,Malaysia,3561766,33106
+3/4/22,Maldives,171947,297
+3/4/22,Mali,30396,724
+3/4/22,Malta,71679,607
+3/4/22,Marshall Islands,7,0
+3/4/22,Mauritania,58645,980
+3/4/22,Mauritius,70862,786
+3/4/22,Mexico,5544644,319296
+3/4/22,Micronesia (country),1,0
+3/4/22,Moldova,504307,11269
+3/4/22,Monaco,9445,51
+3/4/22,Mongolia,911183,2173
+3/4/22,Montenegro,230759,2684
+3/4/22,Morocco,1161506,16009
+3/4/22,Mozambique,225121,2195
+3/4/22,Namibia,157311,4013
+3/4/22,Nepal,977380,11945
+3/4/22,Netherlands,6747371,22212
+3/4/22,New Zealand,207564,63
+3/4/22,Nicaragua,18105,225
+3/4/22,Niger,8760,307
+3/4/22,Nigeria,254637,3142
+3/4/22,North Macedonia,299049,9065
+3/4/22,Norway,1299549,1664
+3/4/22,Oman,383874,4248
+3/4/22,Pakistan,1513503,30258
+3/4/22,Palau,3844,6
+3/4/22,Panama,757061,8106
+3/4/22,Papua New Guinea,41421,638
+3/4/22,Paraguay,643342,18454
+3/4/22,Peru,3522484,210907
+3/4/22,Philippines,3665747,56770
+3/4/22,Poland,5721316,112336
+3/4/22,Portugal,3308438,21162
+3/4/22,Qatar,357920,670
+3/4/22,Romania,2760332,63849
+3/4/22,Russia,16533932,347730
+3/4/22,Rwanda,129548,1458
+3/4/22,Saint Kitts and Nevis,5533,42
+3/4/22,Saint Lucia,22733,360
+3/4/22,Saint Vincent and the Grenadines,8316,106
+3/4/22,Samoa,33,0
+3/4/22,San Marino,14487,112
+3/4/22,Sao Tome and Principe,5939,72
+3/4/22,Saudi Arabia,746836,9005
+3/4/22,Senegal,85739,1961
+3/4/22,Serbia,1921831,15375
+3/4/22,Seychelles,39427,163
+3/4/22,Sierra Leone,7665,125
+3/4/22,Singapore,803389,1067
+3/4/22,Slovakia,2178234,18631
+3/4/22,Slovenia,900857,6341
+3/4/22,Solomon Islands,7326,111
+3/4/22,Somalia,26351,1348
+3/4/22,South Africa,3681437,99517
+3/4/22,South Sudan,16999,137
+3/4/22,Spain,11100428,100413
+3/4/22,Sri Lanka,648993,16307
+3/4/22,Sudan,61569,3912
+3/4/22,Summer Olympics 2020,865,0
+3/4/22,Suriname,78454,1317
+3/4/22,Sweden,2455966,17512
+3/4/22,Switzerland,2890568,13173
+3/4/22,Syria,54894,3089
+3/4/22,Taiwan,20717,853
+3/4/22,Tajikistan,17786,125
+3/4/22,Tanzania,33620,798
+3/4/22,Thailand,3004814,23176
+3/4/22,Timor,22741,129
+3/4/22,Togo,36815,272
+3/4/22,Tonga,715,0
+3/4/22,Trinidad and Tobago,129321,3649
+3/4/22,Tunisia,1001754,27874
+3/4/22,Turkey,14293828,95205
+3/4/22,United States,79250509,958143
+3/4/22,Uganda,163383,3590
+3/4/22,Ukraine,5040518,112459
+3/4/22,United Arab Emirates,881919,2301
+3/4/22,United Kingdom,19256835,162582
+3/4/22,Uruguay,851241,7031
+3/4/22,Uzbekistan,236771,1637
+3/4/22,Vanuatu,18,1
+3/4/22,Venezuela,516236,5645
+3/4/22,Vietnam,4059262,40644
+3/4/22,Palestine,649971,5557
+3/4/22,Winter Olympics 2022,530,0
+3/4/22,Yemen,11774,2135
+3/4/22,Zambia,313613,3958
+3/4/22,Zimbabwe,238739,5397
