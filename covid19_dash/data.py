@@ -89,7 +89,16 @@ def fetch_time_series_data() -> None:
             "Holy See": "Vatican",
         }
     )
-    case_data.to_csv(DATA_DIR / "time-series-data.csv", index=False)
+    case_data["Date"] = pd.to_datetime(case_data["Date"])
+
+    # Save last 30 daily differences
+    case_data.groupby("Date").sum().diff().tail(30).to_csv(
+        DATA_DIR / "daily-differences.csv"
+    )
+    # Aggregate weekly to reduce file size. Select values at start of week.
+    case_data.groupby("Country/Region").resample(
+        "1W", on="Date"
+    ).first().to_csv(DATA_DIR / "time-series-data.csv", index=False)
 
 
 def load_latest_day_data() -> pd.DataFrame:
