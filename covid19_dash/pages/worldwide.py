@@ -1,10 +1,9 @@
+from covid19_dash import plotting
 from covid19_dash.dash_app import app
 from covid19_dash.data import load_latest_day_data, load_time_series_data
-from covid19_dash import plotting
 from dash import dcc, html
 from dash.dependencies import Input, Output
 from plotly.graph_objects import Figure
-
 
 plot_config = {"displayModeBar": False}
 
@@ -75,20 +74,14 @@ layout = html.Div(
     Input("column-selector", "value"),
 )
 def plot_metrics_and_map(category: str) -> tuple[list, Figure]:
-    """Create cards, spark-lines of new cases, a gauge chart of vaccinations and a
-    choropleth map.
+    """Create cards, spark-lines of new cases, a gauge chart of vaccinations
+    and a choropleth map.
 
-    Parameters
-    ----------
-    category : str
-        The information (column) to plot.
+    Args:
+        category (str): The info to plot.
 
-    Returns
-    -------
-    totals : list
-        Global metrics.
-    global-choropleth-map : plotly.graph_objs._figure.Figure
-        A choropleth map with values of the specified category.
+    Returns:
+        tuple[list, Figure]: A list of metric graphs, and a choropleth map.
     """
     latest_data = load_latest_day_data()
     ts_data = load_time_series_data()
@@ -120,7 +113,6 @@ def plot_metrics_and_map(category: str) -> tuple[list, Figure]:
     # Negative and null values in the size parameter raise a ValueError
     latest_data[category] = latest_data[category].clip(lower=0).fillna(0)
 
-    # Plot choropleth map
     choropleth_map = plotting.plot_global_map(
         latest_data, category=category, date=data_date
     )

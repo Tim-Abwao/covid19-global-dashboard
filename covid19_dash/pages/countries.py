@@ -74,18 +74,14 @@ layout = html.Div(
     [Input("countries", "value"), Input("info-category", "value")],
 )
 def plot_lineplots(countries: list, category: str) -> Figure:
-    """Get a lineplot of `category` values for various countries.
+    """Get a line-plot of `category` values for various countries.
 
-    Parameters
-    ----------
-    countries : list
-        A list of country names.
-    category : {"Confirmed", "Deaths"}
+    Args:
+        countries (list): Selected countries.
+        category (str): "Confirmed" or "Deaths".
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        A comparative lineplot, with a line for each country.
+    Returns:
+        plotly.graph_objs._figure.Figure: Comparative line-plot.
     """
     if not countries:  # If no country is selected
         countries = ["Kenya", "Uganda", "Tanzania"]
@@ -98,24 +94,19 @@ def plot_lineplots(countries: list, category: str) -> Figure:
     Output("pie-charts", "children"),
     Input("countries", "value"),
 )
-def plot_piecharts(countries) -> list[Figure]:
+def plot_piecharts(countries: list) -> list[Figure]:
     """Get a barplot, and pie-charts for each of the supplied countries.
 
-    Parameters
-    ----------
-    countries : list
-        A list of countries to compare.
+    Args:
+        countries (list): Selected countries.
 
-    Returns
-    -------
-    pie-charts : list[plotly.graph_objs._figure.Figure]
-        Country comparisons.
+    Returns:
+        list[Figure]: Comparative graphs.
     """
     if countries == []:  # If no country is selected
         countries = ["Kenya", "Uganda", "Tanzania"]
 
     data = latest_day_data.set_index("Location").loc[countries].fillna(0)
-
     pie_charts = [
         html.Div(
             dcc.Graph(

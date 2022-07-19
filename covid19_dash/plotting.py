@@ -1,28 +1,20 @@
-from pandas.core.frame import DataFrame
-from pandas.core.series import Series
 import plotly.express as px
 import plotly.graph_objects as go
-from typing import Union
+from pandas import DataFrame, Series
 
 
 def plot_value(
-    value: Union[int, float], title: str, color: str = "teal"
+    value: int | float, title: str, color: str = "teal"
 ) -> go.Figure:
     """Get a numeric metric as a card.
 
-    Parameters
-    ----------
-    value : Union[int, float]
-        The number to display
-    title : str
-        Card title
-    color : str, optional
-        Font color for displayed text, by default teal
+    Args:
+        value (int | float): Amount.
+        title (str): Metric name.
+        color (str, optional): Font color. Defaults to "teal".
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        An indicator chart.
+    Returns:
+        plotly.graph_objs._figure.Figure: Indicator chart.
     """
     fig = go.Figure(
         go.Indicator(
@@ -44,21 +36,15 @@ def plot_value(
 
 
 def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
-    """Get a spark-like lineplot.
+    """Get a spark-line.
 
-    Parameters
-    ----------
-    data : Series
-        The data to plot
-    color : str
-        Line color
-    title : str
-        Graph title
+    Args:
+        data (pandas.Series): Values to plot.
+        color (str): Line color.
+        title (str): Plot title.
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        A lineplot of the data.
+    Returns:
+        plotly.graph_objs._figure.Figure: Spark-line.
     """
     fig = go.Figure(
         go.Scatter(
@@ -74,12 +60,12 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
             x=[data.index[-1]],
             y=[data.iloc[-1]],
             cliponaxis=False,
-            mode="markers+text",
-            marker={"size": 5, "color": color, "symbol": "diamond"},
-            text=f"{data.iloc[-1]:,.0f}",
-            textposition="middle right",
-            textfont={"size": 9},
             hovertemplate="<i>%{x}:</i> <b>%{y:,.0f}</b><extra></extra>",
+            marker={"size": 5, "color": color, "symbol": "diamond"},
+            mode="markers+text",
+            text=f"{data.iloc[-1]:,.0f}",
+            textfont={"size": 9},
+            textposition="middle right",
             showlegend=False,
         )
     )
@@ -88,40 +74,33 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
     fig.update_layout(
         font_color="#333",
         font_family="serif",
-        width=240,
         height=140,
         margin={"l": 0, "r": 35, "t": 50, "b": 0},
+        paper_bgcolor="#f0ffff",
+        plot_bgcolor="#f0ffff",
         title=title,
         title_x=0.5,
-        plot_bgcolor="#f0ffff",
-        paper_bgcolor="#f0ffff",
+        width=240,
     )
     return fig
 
 
 def plot_gauge_chart(
-    value: Union[int, float],
-    reference: Union[int, float],
+    value: int | float,
+    reference: int | float,
     title: str,
     color: str = "steelblue",
 ) -> go.Figure:
-    """Get a gauge-plot for a given value.
+    """Get a gauge-plot.
 
-    Parameters
-    ----------
-    value : Union[int, float]
-        The current value
-    reference : Union[int, float]
-        The target value
-    title : str
-        Chart title
-    color : str, optional
-        Gauge color, by default "steelblue"
+    Args:
+        value (int | float): Current value.
+        reference (int | float): Target value.
+        title (str): Chart title.
+        color (str, optional): Gauge color. Defaults to "steelblue".
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        A gauge-plot of the supplied data.
+    Returns:
+        plotly.graph_objs._figure.Figure: Gauge plot.
     """
     fig = go.Figure(
         go.Indicator(
@@ -139,31 +118,25 @@ def plot_gauge_chart(
     fig.update_layout(
         font_color="#333",
         font_family="serif",
+        height=250,
+        margin={"l": 20, "r": 0, "t": 20, "b": 0},
         paper_bgcolor="#f0ffff",
         title_x=0.5,
         width=250,
-        margin={"l": 20, "r": 0, "t": 20, "b": 0},
-        height=250,
     )
     return fig
 
 
 def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
-    """Get a choropleth map of the natural world (global).
+    """Get a global choropleth map.
 
-    Parameters
-    ----------
-    data : DataFrame
-        The data to plot
-    category : str
-        The column to when colouring
-    date : str
-        The data's last-updated date
+    Args:
+        data (pandas.DataFrame): Values to plot.
+        category (str): Colouring dimension.
+        date (str): Date of last update.
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        A choropleth map.
+    Returns:
+        plotly.graph_objs._figure.Figure: Choropleth map.
     """
     if category in {
         "Total Cases",
@@ -219,28 +192,22 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
 
 
 def plot_pie_chart(data: DataFrame, metric: str, countries: list) -> go.Figure:
-    """Get a donut-chart (pie-chart) of the given data.
+    """Get a donut-chart (pie-chart).
 
-    Parameters
-    ----------
-    data : DataFrame
-        The data to plot
-    metric : str
-        The column to plot
-    countries : list
-        A list of countries
+    Args:
+        data (pandas.DataFrame): Values to plot.
+        metric (str): Column to plot.
+        countries (list): Selected countries.
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        A pie chart.
+    Returns:
+        plotly.graph_objs._figure.Figure: Donut-chart.
     """
     fig = px.pie(
         values=data[metric],
         names=countries,
         color=countries,
-        title=metric,
         hole=0.5,
+        title=metric,
     )
     fig.update_layout(
         font_color="#333",
@@ -256,19 +223,14 @@ def plot_pie_chart(data: DataFrame, metric: str, countries: list) -> go.Figure:
 
 
 def plot_lines(data: DataFrame, category: str) -> go.Figure:
-    """Get a combined line-plot of the given data.
+    """Get a comparative line-plot.
 
-    Parameters
-    ----------
-    data : DataFrame
-        The data to plot
-    category : str
-        The column to plot
+    Args:
+        data (pandas.DataFrame): Values to plot.
+        category (str): Column to plot.
 
-    Returns
-    -------
-    plotly.graph_objs._figure.Figure
-        A line-plot.
+    Returns:
+        plotly.graph_objs._figure.Figure: Line-plot.
     """
     fig = px.line(data, x="Date", y=category, color="Country/Region")
     fig.update_layout(

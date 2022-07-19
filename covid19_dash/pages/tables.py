@@ -74,20 +74,16 @@ layout = html.Div(
     Input("download-button", "n_clicks"),
     prevent_initial_call=True,
 )
-def download_global_dataset(n_clicks) -> dict:
-    """Prepare a csv file for download whenever a user clicks on the download
-    button.
+def download_global_dataset(n_clicks: int) -> dict:
+    """Prepare an excel file for download whenever a user clicks on the
+    download button.
 
-    Parameters
-    ----------
-    n_clicks : int
-        The number of times the download button is clicked
+    Args:
+        n_clicks (int): Number of times the download button is clicked.
 
-    Returns
-    -------
-    dict
-        Global covid-19 data in csv format (base64 encoded), and meta data
-        used by the Download component.
+    Returns:
+        dict: Global COVID-19 data in excel format (base64 encoded), and
+            meta-data used by the Download component.
     """
     data = load_latest_day_data()
     return dcc.send_data_frame(
