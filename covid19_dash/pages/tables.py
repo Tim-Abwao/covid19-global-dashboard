@@ -4,7 +4,7 @@ from dash import dash_table, dcc, html
 from dash.dash_table.Format import Format
 from dash.dependencies import Input, Output
 
-data = load_latest_day_data()
+data = load_latest_day_data().copy()
 dates = data.pop("Last Updated Date")
 
 layout = html.Div(
