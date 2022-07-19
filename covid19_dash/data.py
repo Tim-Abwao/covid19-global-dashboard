@@ -147,7 +147,7 @@ def load_30_day_diff(date: date = TODAY) -> pd.DataFrame:
     """
     return pd.read_csv(
         f"{PROCESSED_DATA_URL}/daily-differences.csv", parse_dates=[0]
-    )
+    ).set_index("Date")
 
 
 if __name__ == "__main__":
