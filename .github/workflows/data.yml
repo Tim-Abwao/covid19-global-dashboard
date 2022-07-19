@@ -2,8 +2,8 @@ name: Update Datasets
 
 on:
   schedule:
-    # Run every day at 6:00AM and 6:00PM UTC.
-    - cron: "0 6,18 * * *"
+    # Run every day at 6:00PM UTC.
+    - cron: "0 18 * * *"
 
   workflow_dispatch:
 
