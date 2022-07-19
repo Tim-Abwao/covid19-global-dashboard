@@ -1,3 +1,5 @@
+from datetime import date
+from functools import lru_cache
 from pathlib import Path
 
 import pandas as pd
@@ -16,6 +18,7 @@ PROCESSED_DATA_URL = (
     "https://raw.githubusercontent.com/Tim-Abwao/covid19-global-dashboard/"
     "main/covid-19-data"
 )
+TODAY = date.today()
 
 
 def fetch_latest_data() -> None:
@@ -101,8 +104,12 @@ def fetch_time_series_data() -> None:
     ).first().to_csv(DATA_DIR / "time-series-data.csv", index=False)
 
 
-def load_latest_day_data() -> pd.DataFrame:
+@lru_cache(maxsize=2)
+def load_latest_day_data(date: date = TODAY) -> pd.DataFrame:
     """Get cleaned COVID-19 data for the latest day.
+
+    Args:
+        date (date): The current date.
 
     Returns:
         pandas.DataFrame: COVID-19 info for the latest day.
@@ -113,8 +120,12 @@ def load_latest_day_data() -> pd.DataFrame:
     )
 
 
-def load_time_series_data() -> pd.DataFrame:
+@lru_cache(maxsize=2)
+def load_time_series_data(date: date = TODAY) -> pd.DataFrame:
     """Get cleaned COVID-19 time series data.
+
+    Args:
+        date (date): The current date.
 
     Returns:
         pandas.DataFrame: COVID-19 time series data.
