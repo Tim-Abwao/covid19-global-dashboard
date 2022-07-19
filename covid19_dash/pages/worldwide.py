@@ -1,6 +1,6 @@
 from covid19_dash import plotting
 from covid19_dash.dash_app import app
-from covid19_dash.data import load_latest_day_data, load_time_series_data
+from covid19_dash.data import load_latest_day_data, load_30_day_diff
 from dash import dcc, html
 from dash.dependencies import Input, Output
 from plotly.graph_objects import Figure
@@ -69,34 +69,29 @@ layout = html.Div(
 )
 
 
-@app.callback(
-    [Output("totals", "children"), Output("global-choropleth-map", "figure")],
-    Input("column-selector", "value"),
-)
-def plot_metrics_and_map(category: str) -> tuple[list, Figure]:
-    """Create cards, spark-lines of new cases, a gauge chart of vaccinations
-    and a choropleth map.
+@app.callback(Output("totals", "children"), Input("column-selector", "value"))
+def plot_metrics(category: str) -> list:
+    """Create cards, spark-lines of new cases and a gauge chart of
+    vaccinations.
 
     Args:
         category (str): The info to plot.
 
     Returns:
-        tuple[list, Figure]: A list of metric graphs, and a choropleth map.
+        list: A list of metric graphs.
     """
     latest_data = load_latest_day_data()
-    ts_data = load_time_series_data()
-    data_date = latest_data["Last Updated Date"].max().strftime("%A, %b %d %Y")
+    daily_diff = load_30_day_diff()
 
     # Plot global metrics
     total_cases = plotting.plot_value(
         latest_data["Total Cases"].sum(), title="Total Cases", color="#446"
     )
-    daily_differences = ts_data.groupby("Date").sum().diff().tail(30)
     new_cases_sparkline = plotting.plot_spark_line(
-        daily_differences["Confirmed"], color="#f51", title="New Cases"
+        daily_diff["Confirmed"], color="#f51", title="New Cases"
     )
     new_deaths = plotting.plot_spark_line(
-        daily_differences["Deaths"], color="#555", title="Deaths"
+        daily_diff["Deaths"], color="#555", title="Deaths"
     )
     vaccination_gauge = plotting.plot_gauge_chart(
         value=latest_data["People Fully Vaccinated"].sum(),
@@ -104,17 +99,38 @@ def plot_metrics_and_map(category: str) -> tuple[list, Figure]:
         title="People Fully Vaccinated",
     )
     totals = [
-        dcc.Graph(figure=total_cases, config=plot_config),
-        dcc.Graph(figure=new_cases_sparkline, config=plot_config),
-        dcc.Graph(figure=new_deaths, config=plot_config),
-        dcc.Graph(figure=vaccination_gauge, config=plot_config),
+        dcc.Loading(
+            dcc.Graph(figure=graph, config=plot_config), color="steelblue"
+        )
+        for graph in [
+            total_cases,
+            new_cases_sparkline,
+            new_deaths,
+            vaccination_gauge,
+        ]
     ]
+    return totals
+
+
+@app.callback(
+    Output("global-choropleth-map", "figure"),
+    Input("column-selector", "value"),
+)
+def plot_map(category: str) -> tuple[list, Figure]:
+    """Create a choropleth map.
+
+    Args:
+        category (str): The info to plot.
+
+    Returns:
+        plotly.graph_objs._figure.Figure: A choropleth map.
+    """
+    latest_data = load_latest_day_data()
+    data_date = latest_data["Last Updated Date"].max().strftime("%A, %b %d %Y")
 
     # Negative and null values in the size parameter raise a ValueError
     latest_data[category] = latest_data[category].clip(lower=0).fillna(0)
 
-    choropleth_map = plotting.plot_global_map(
+    return plotting.plot_global_map(
         latest_data, category=category, date=data_date
     )
-
-    return totals, choropleth_map

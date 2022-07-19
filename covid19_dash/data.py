@@ -135,6 +135,21 @@ def load_time_series_data(date: date = TODAY) -> pd.DataFrame:
     )
 
 
+@lru_cache(maxsize=2)
+def load_30_day_diff(date: date = TODAY) -> pd.DataFrame:
+    """Get daily differences for the last 30 days..
+
+    Args:
+        date (date): The current date.
+
+    Returns:
+        pandas.DataFrame: Daily changes for last 30 days.
+    """
+    return pd.read_csv(
+        f"{PROCESSED_DATA_URL}/daily-differences.csv", parse_dates=[0]
+    )
+
+
 if __name__ == "__main__":
     fetch_latest_data()
     fetch_time_series_data()
