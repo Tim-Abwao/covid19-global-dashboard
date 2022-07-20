@@ -126,9 +126,11 @@ def plot_column_charts(countries: list) -> list[Figure]:
             )
         )
         for metric in (
+            "Total Cases",
             "Total Cases Per Million",
+            "Total Deaths",
             "Total Deaths Per Million",
-            "People Vaccinated Per Hundred",
+            "People Fully Vaccinated",
             "People Fully Vaccinated Per Hundred",
             "Hospital Beds Per Thousand",
             "Population Density",
