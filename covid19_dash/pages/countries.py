@@ -12,6 +12,15 @@ countries_in_ts = set(time_series_data["Country/Region"].unique())
 countries_in_latest = set(latest_day_data["Location"].unique())
 countries = sorted(countries_in_ts.intersection(countries_in_latest))
 
+EAST_AFRICA = [
+    "Burundi",
+    "Democratic Republic of Congo",
+    "Kenya",
+    "Rwanda",
+    "South Sudan",
+    "Tanzania",
+    "Uganda",
+]
 plot_config = {"displayModeBar": False}
 
 layout = html.Div(
@@ -30,7 +39,7 @@ layout = html.Div(
                             clearable=False,
                             persistence=True,
                             placeholder="Select a Country",
-                            value=["Kenya", "Uganda", "Tanzania"],
+                            value=EAST_AFRICA,
                         ),
                         # Select category
                         dcc.RadioItems(
@@ -84,7 +93,7 @@ def plot_lineplots(countries: list, category: str) -> Figure:
         plotly.graph_objs._figure.Figure: Comparative line-plot.
     """
     if not countries:  # If no country is selected
-        countries = ["Kenya", "Uganda", "Tanzania"]
+        countries = EAST_AFRICA
 
     data = time_series_data.query("`Country/Region` in @countries")
     return plotting.plot_lines(data, category)
@@ -113,7 +122,7 @@ def plot_column_charts(countries: list) -> list[Figure]:
                 id=f"{metric}-column-chart",
                 figure=plotting.plot_column_chart(data, metric),
                 config=plot_config,
-                className="a-column-chart"
+                className="a-column-chart",
             )
         )
         for metric in (
