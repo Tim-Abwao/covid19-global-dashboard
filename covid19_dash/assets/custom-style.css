@@ -5,6 +5,14 @@ body {
     text-align: center;
 }
 
+h1 {
+    margin-bottom: 10px;
+}
+
+.a-column-chart {
+    margin: 40px 0px;
+}
+
 .metrics-container {
     margin: auto;
     width: 240px;
@@ -20,7 +28,8 @@ body {
     width: 100%;
 }
 
-.line-plots, .pie-charts {
+.line-plots,
+.column-charts {
     text-align: left;
     width: 100%;
 }
@@ -48,21 +57,28 @@ button {
 }
 
 @media only screen and (min-width: 768px) {
+    .a-column-chart {
+        margin: 5px 0px;
+    }
+
     .metrics-container {
         display: grid;
         grid-template-columns: 1fr 1fr;
         width: 90%;
     }
-    .pie-charts {
+
+    .column-charts {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 10px;
+        gap: 25px;
         margin: auto;
         width: 95%;
     }
+
     .global-map-container {
         text-align: left;
     }
+
     label {
         display: block;
         margin: 10px;
@@ -73,25 +89,28 @@ button {
     body {
         margin: 2% 5%;
     }
+
     .global-dashboard {
         display: grid;
         grid-template-columns: 2fr 5fr;
         gap: 40px;
     }
+
     .metrics-container {
         display: inline-block;
         margin: auto;
     }
+
     .line-plots {
         margin: auto;
         width: 70%;
     }
-    .pie-charts {
-        margin: auto;
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+
+    .column-charts {
+        width: 90%;
         gap: 40px;
     }
+
     #global-choropleth-map {
         height: 65vh;
     }

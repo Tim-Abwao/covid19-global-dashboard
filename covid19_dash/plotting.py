@@ -200,22 +200,23 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
     return fig
 
 
-def plot_pie_chart(data: DataFrame, metric: str, countries: list) -> go.Figure:
-    """Get a donut-chart (pie-chart).
+def plot_column_chart(data: DataFrame, metric: str) -> go.Figure:
+    """Get a comparative column chart.
 
     Args:
         data (pandas.DataFrame): Values to plot.
         metric (str): Column to plot.
-        countries (list): Selected countries.
 
     Returns:
-        plotly.graph_objs._figure.Figure: Donut-chart.
+        plotly.graph_objs._figure.Figure: Column chart.
     """
-    fig = px.pie(
-        values=data[metric],
-        names=countries,
-        color=countries,
-        hole=0.5,
+    fig = px.bar(
+        data,
+        x="Location",
+        y=metric,
+        color="Location",
+        height=320,
+        text="Location",
         title=metric,
     )
     fig.update_layout(
@@ -224,10 +225,18 @@ def plot_pie_chart(data: DataFrame, metric: str, countries: list) -> go.Figure:
         paper_bgcolor="#f0ffff",
         plot_bgcolor="#f0ffff",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},
+        uniformtext_minsize=8,
     )
     fig.update_traces(
-        hovertemplate="<b>%{label}:</b> %{value:,}<extra></extra>"
+        cliponaxis=False,
+        showlegend=False,
+        hovertemplate="<b>%{label}:</b> %{value:,.2f}<extra></extra>",
+        textfont_size=11,
     )
+    fig.update_xaxes(
+        categoryorder="total descending", fixedrange=True, visible=False
+    )
+    fig.update_yaxes(fixedrange=True)
     return fig
 
 
@@ -246,6 +255,7 @@ def plot_lines(data: DataFrame, category: str) -> go.Figure:
         font_color="#333",
         font_family="serif",
         hovermode="x unified",
+        legend_font_size=11,
         paper_bgcolor="#f0ffff",
         plot_bgcolor="#f0ffff",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},

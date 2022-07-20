@@ -56,8 +56,8 @@ layout = html.Div(
                 ),
             ],
         ),
-        # Country pie-charts
-        html.Div(className="pie-charts", id="pie-charts"),
+        # Country column-charts
+        html.Div(className="column-charts", id="column-charts"),
         html.Div(
             className="page-link",
             children=[
@@ -91,11 +91,11 @@ def plot_lineplots(countries: list, category: str) -> Figure:
 
 
 @app.callback(
-    Output("pie-charts", "children"),
+    Output("column-charts", "children"),
     Input("countries", "value"),
 )
-def plot_piecharts(countries: list) -> list[Figure]:
-    """Get a barplot, and pie-charts for each of the supplied countries.
+def plot_column_charts(countries: list) -> list[Figure]:
+    """Get a barplot, and column-charts for each of the supplied countries.
 
     Args:
         countries (list): Selected countries.
@@ -106,13 +106,14 @@ def plot_piecharts(countries: list) -> list[Figure]:
     if countries == []:  # If no country is selected
         countries = ["Kenya", "Uganda", "Tanzania"]
 
-    data = latest_day_data.set_index("Location").loc[countries].fillna(0)
-    pie_charts = [
+    data = latest_day_data.query("Location in @countries")
+    column_charts = [
         html.Div(
             dcc.Graph(
-                id=f"{metric}-pie-chart",
-                figure=plotting.plot_pie_chart(data, metric, countries),
+                id=f"{metric}-column-chart",
+                figure=plotting.plot_column_chart(data, metric),
                 config=plot_config,
+                className="a-column-chart"
             )
         )
         for metric in (
@@ -124,4 +125,4 @@ def plot_piecharts(countries: list) -> list[Figure]:
             "Population Density",
         )
     ]
-    return pie_charts
+    return column_charts
