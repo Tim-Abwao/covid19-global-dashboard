@@ -85,7 +85,10 @@ def plot_metrics(category: str) -> list:
 
     # Plot global metrics
     total_cases = plotting.plot_value(
-        latest_data["Total Cases"].sum(), title="Total Cases", color="#446"
+        current_value=latest_data["Total Cases"].sum(),
+        delta=daily_diff["Confirmed"].iloc[-1],
+        title="Total Cases",
+        color="#227",
     )
     new_cases_sparkline = plotting.plot_spark_line(
         daily_diff["Confirmed"], color="#f51", title="New Cases"

@@ -4,12 +4,16 @@ from pandas import DataFrame, Series
 
 
 def plot_value(
-    value: int | float, title: str, color: str = "teal"
+    current_value: int | float,
+    delta: int | float,
+    title: str,
+    color: str = "teal",
 ) -> go.Figure:
     """Get a numeric metric as a card.
 
     Args:
-        value (int | float): Amount.
+        current_value (int | float): Amount.
+        delta (int | float): Magnitude of change from previous amount.
         title (str): Metric name.
         color (str, optional): Font color. Defaults to "teal".
 
@@ -18,19 +22,24 @@ def plot_value(
     """
     fig = go.Figure(
         go.Indicator(
-            mode="number",
-            value=value,
-            title={"text": title},
+            mode="number+delta",
+            value=current_value,
+            delta=dict(
+                relative=True,
+                reference=current_value - delta,
+                valueformat=".3%",
+            ),
+            title={"text": title, "font_size": 17},
             number={"valueformat": ",.0f", "font": {"color": color}},
         )
     )
     fig.update_layout(
         font_color="#333",
         font_family="serif",
-        paper_bgcolor="#f0ffff",
-        width=220,
-        margin={"l": 20, "r": 20, "t": 50, "b": 20},
         height=150,
+        margin={"l": 20, "r": 20, "t": 50, "b": 20},
+        paper_bgcolor="#f0ffff",
+        width=240,
     )
     return fig
 
