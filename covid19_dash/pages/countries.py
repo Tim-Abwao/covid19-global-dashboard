@@ -7,6 +7,11 @@ from plotly.graph_objects import Figure
 
 time_series_data = load_time_series_data()
 latest_day_data = load_latest_day_data()
+
+countries_in_ts = set(time_series_data["Country/Region"].unique())
+countries_in_latest = set(latest_day_data["Location"].unique())
+countries = sorted(countries_in_ts.intersection(countries_in_latest))
+
 plot_config = {"displayModeBar": False}
 
 layout = html.Div(
@@ -20,12 +25,7 @@ layout = html.Div(
                         # Select country
                         dcc.Dropdown(
                             id="countries",
-                            options=[
-                                {"label": country, "value": country}
-                                for country in time_series_data[
-                                    "Country/Region"
-                                ].unique()
-                            ],
+                            options=countries,
                             multi=True,
                             clearable=False,
                             persistence=True,

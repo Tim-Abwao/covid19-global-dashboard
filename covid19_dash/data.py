@@ -85,6 +85,7 @@ def fetch_time_series_data() -> None:
             "Micronesia": "Micronesia (country)",
             "Burma": "Myanmar",
             "West Bank and Gaza": "Palestine",
+            "Korea, North": "North Korea",
             "Korea, South": "South Korea",
             "Taiwan*": "Taiwan",
             "Timor-Leste": "Timor",
