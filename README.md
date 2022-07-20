@@ -21,6 +21,8 @@ The data is obtained from:
 
 ## Running Locally
 
+> **NOTE:** Requires **python3.10 and above**
+
 ### I. Virtual environment
 
 1. Download the code, and create a virtual environment:
