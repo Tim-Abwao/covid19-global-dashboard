@@ -20,20 +20,17 @@ layout = html.Div(
                 dcc.Dropdown(
                     id="column-selector",
                     options=[
-                        {"label": col, "value": col}
-                        for col in [
-                            "New Cases",
-                            "Total Cases Per Million",
-                            "Total Cases",
-                            "Total Deaths",
-                            "People Fully Vaccinated Per Hundred",
-                            "People Fully Vaccinated",
-                            "Total Vaccinations",
-                            "Hospital Beds Per Thousand",
-                            "Aged 70 Older",
-                            "Diabetes Prevalence",
-                            "Life Expectancy",
-                        ]
+                        "New Cases",
+                        "Total Cases Per Million",
+                        "Total Cases",
+                        "Total Deaths",
+                        "People Fully Vaccinated Per Hundred",
+                        "People Fully Vaccinated",
+                        "Total Vaccinations",
+                        "Hospital Beds Per Thousand",
+                        "Aged 70 Older",
+                        "Diabetes Prevalence",
+                        "Life Expectancy",
                     ],
                     value="New Cases",
                     clearable=False,
