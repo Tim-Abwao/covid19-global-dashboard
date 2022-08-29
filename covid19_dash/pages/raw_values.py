@@ -1,24 +1,28 @@
-from covid19_dash.dash_app import app
+import dash
 from covid19_dash.data import load_latest_day_data
-from dash import dash_table, dcc, html
+from dash import Input, Output, callback, dash_table, dcc, html
 from dash.dash_table.Format import Format
-from dash.dependencies import Input, Output
+
+dash.register_page(__name__)
 
 data = load_latest_day_data().copy()
 dates = data.pop("Last Updated Date")
+
+DATA_INTRO_TEXT = f"""
+The table below displays COVID-19 case information accross
+{data['Location'].nunique()} countries as at *{dates[0].strftime('%c')}* UTC.
+
+The data used here is obtained from the **Our World in Data**
+[owid / covid-19-data][1] GitHub repository.
+
+[1]: https://github.com/owid/covid-19-data
+"""
 
 layout = html.Div(
     [
         html.H1("Table of Values"),
         # Introductory text
-        dcc.Markdown(
-            "The table below displays COVID-19 case information accross "
-            f"{data['Location'].nunique()} countries as at "
-            f"*{dates[0].strftime('%c')}* UTC. "
-            "\n\nThe data used here is obtained from the **Our World in Data**"
-            " [owid / covid-19-data][1] GitHub repository."
-            "\n\n[1]: https://github.com/owid/covid-19-data"
-        ),
+        dcc.Markdown(DATA_INTRO_TEXT),
         # Data table
         html.Div(
             className="raw-data-table",
@@ -69,7 +73,7 @@ layout = html.Div(
 )
 
 
-@app.callback(
+@callback(
     Output("download-dataset", "data"),
     Input("download-button", "n_clicks"),
     prevent_initial_call=True,

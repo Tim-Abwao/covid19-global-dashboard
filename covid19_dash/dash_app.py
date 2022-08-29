@@ -12,7 +12,5 @@ app = dash.Dash(
             "content": "width=device-width, initial-scale=1.0",
         }
     ],
-    suppress_callback_exceptions=True,
+    use_pages=True
 )
-
-server = app.server

@@ -1,9 +1,10 @@
+import dash
 from covid19_dash import plotting
-from covid19_dash.dash_app import app
 from covid19_dash.data import load_latest_day_data, load_time_series_data
-from dash import dcc, html
-from dash.dependencies import Input, Output
+from dash import Input, Output, callback, dcc, html
 from plotly.graph_objects import Figure
+
+dash.register_page(__name__)
 
 time_series_data = load_time_series_data()
 latest_day_data = load_latest_day_data()
@@ -21,7 +22,7 @@ EAST_AFRICA = [
     "Tanzania",
     "Uganda",
 ]
-plot_config = {"displayModeBar": False}
+PLOT_CONFIG = {"displayModeBar": False}
 
 layout = html.Div(
     [
@@ -57,7 +58,7 @@ layout = html.Div(
                         dcc.Loading(
                             id="line-plot-container",
                             children=dcc.Graph(
-                                id="line-plot", config=plot_config
+                                id="line-plot", config=PLOT_CONFIG
                             ),
                             color="steelblue",
                         ),
@@ -71,14 +72,14 @@ layout = html.Div(
             className="page-link",
             children=[
                 dcc.Link("Global Dashboard", href="/"),
-                dcc.Link("View Data", href="/data"),
+                dcc.Link("View Data", href="/raw-values"),
             ],
         ),
     ]
 )
 
 
-@app.callback(
+@callback(
     Output("line-plot", "figure"),
     [Input("countries", "value"), Input("info-category", "value")],
 )
@@ -99,7 +100,7 @@ def plot_lineplots(countries: list, category: str) -> Figure:
     return plotting.plot_lines(data, category)
 
 
-@app.callback(
+@callback(
     Output("column-charts", "children"),
     Input("countries", "value"),
 )
@@ -121,7 +122,7 @@ def plot_column_charts(countries: list) -> list[Figure]:
             dcc.Graph(
                 id=f"{metric}-column-chart",
                 figure=plotting.plot_column_chart(data, metric),
-                config=plot_config,
+                config=PLOT_CONFIG,
                 className="a-column-chart",
             )
         )

@@ -1,11 +1,12 @@
+import dash
 from covid19_dash import plotting
-from covid19_dash.dash_app import app
-from covid19_dash.data import load_latest_day_data, load_30_day_diff
-from dash import dcc, html
-from dash.dependencies import Input, Output
+from covid19_dash.data import load_30_day_diff, load_latest_day_data
+from dash import Input, Output, callback, dcc, html
 from plotly.graph_objects import Figure
 
-plot_config = {"displayModeBar": False}
+dash.register_page(__name__, path="/")
+
+PLOT_CONFIG = {"displayModeBar": False}
 
 layout = html.Div(
     className="global-dashboard",
@@ -46,7 +47,7 @@ layout = html.Div(
                             id="refresh-choropleth-map",
                             color="steelblue",
                             children=dcc.Graph(
-                                id="global-choropleth-map", config=plot_config
+                                id="global-choropleth-map", config=PLOT_CONFIG
                             ),
                         ),
                     ],
@@ -57,7 +58,7 @@ layout = html.Div(
                         dcc.Link(
                             "Compare Countries", href="/compare-countries"
                         ),
-                        dcc.Link("View Data", href="/data"),
+                        dcc.Link("View Data", href="/raw-values"),
                     ],
                 ),
             ],
@@ -66,7 +67,7 @@ layout = html.Div(
 )
 
 
-@app.callback(Output("totals", "children"), Input("column-selector", "value"))
+@callback(Output("totals", "children"), Input("column-selector", "value"))
 def plot_metrics(category: str) -> list:
     """Create cards, spark-lines of new cases and a gauge chart of
     vaccinations.
@@ -100,7 +101,7 @@ def plot_metrics(category: str) -> list:
     )
     totals = [
         dcc.Loading(
-            dcc.Graph(figure=graph, config=plot_config), color="steelblue"
+            dcc.Graph(figure=graph, config=PLOT_CONFIG), color="steelblue"
         )
         for graph in [
             total_cases,
@@ -112,7 +113,7 @@ def plot_metrics(category: str) -> list:
     return totals
 
 
-@app.callback(
+@callback(
     Output("global-choropleth-map", "figure"),
     Input("column-selector", "value"),
 )
