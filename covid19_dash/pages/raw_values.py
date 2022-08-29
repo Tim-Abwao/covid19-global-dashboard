@@ -3,7 +3,7 @@ from covid19_dash.data import load_latest_day_data
 from dash import Input, Output, callback, dash_table, dcc, html
 from dash.dash_table.Format import Format
 
-dash.register_page(__name__)
+dash.register_page(__name__, title="Raw Values")
 
 data = load_latest_day_data().copy()
 dates = data.pop("Last Updated Date")

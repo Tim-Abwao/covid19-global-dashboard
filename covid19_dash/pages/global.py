@@ -4,7 +4,7 @@ from covid19_dash.data import load_30_day_diff, load_latest_day_data
 from dash import Input, Output, callback, dcc, html
 from plotly.graph_objects import Figure
 
-dash.register_page(__name__, path="/")
+dash.register_page(__name__, path="/", title="COVID-19 Dashboard")
 
 PLOT_CONFIG = {"displayModeBar": False}
 

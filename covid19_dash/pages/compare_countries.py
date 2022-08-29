@@ -4,7 +4,7 @@ from covid19_dash.data import load_latest_day_data, load_time_series_data
 from dash import Input, Output, callback, dcc, html
 from plotly.graph_objects import Figure
 
-dash.register_page(__name__)
+dash.register_page(__name__, title="Compare Countries")
 
 time_series_data = load_time_series_data()
 latest_day_data = load_latest_day_data()
