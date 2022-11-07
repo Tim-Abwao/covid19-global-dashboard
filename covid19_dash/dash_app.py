@@ -4,7 +4,7 @@ app = dash.Dash(
     "covid19_dash",
     title="COVID-19 Dashboard",
     external_scripts=[
-        "https://cdn.plot.ly/plotly-2.13.1.min.js",
+        "https://cdn.plot.ly/plotly-2.16.1.min.js",
     ],
     meta_tags=[
         {
