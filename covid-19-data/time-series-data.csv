@@ -145,6 +145,7 @@ Afghanistan,200469,7807
 Afghanistan,201276,7811
 Afghanistan,202199,7818
 Afghanistan,203063,7822
+Afghanistan,203829,7828
 Albania,0,0
 Albania,0,0
 Albania,0,0
@@ -291,6 +292,7 @@ Albania,332503,3589
 Albania,332645,3592
 Albania,332776,3592
 Albania,332966,3593
+Albania,333058,3593
 Algeria,0,0
 Algeria,0,0
 Algeria,0,0
@@ -437,6 +439,7 @@ Algeria,270713,6881
 Algeria,270757,6881
 Algeria,270788,6881
 Algeria,270838,6881
+Algeria,270881,6881
 Andorra,0,0
 Andorra,0,0
 Andorra,0,0
@@ -583,6 +586,7 @@ Andorra,46275,155
 Andorra,46366,155
 Andorra,46449,155
 Andorra,46535,155
+Andorra,46588,155
 Angola,0,0
 Angola,0,0
 Angola,0,0
@@ -729,6 +733,7 @@ Angola,103131,1917
 Angola,103131,1917
 Angola,103131,1917
 Angola,103131,1917
+Angola,103131,1917
 Antarctica,0,0
 Antarctica,0,0
 Antarctica,0,0
@@ -829,6 +834,7 @@ Antarctica,0,0
 Antarctica,0,0
 Antarctica,0,0
 Antarctica,0,0
+Antarctica,11,0
 Antarctica,11,0
 Antarctica,11,0
 Antarctica,11,0
@@ -1021,6 +1027,7 @@ Antigua and Barbuda,9098,146
 Antigua and Barbuda,9106,146
 Antigua and Barbuda,9106,146
 Antigua and Barbuda,9106,146
+Antigua and Barbuda,9106,146
 Argentina,0,0
 Argentina,0,0
 Argentina,0,0
@@ -1167,6 +1174,7 @@ Argentina,9713594,129958
 Argentina,9715464,129970
 Argentina,9717546,129979
 Argentina,9718875,129991
+Argentina,9720232,130003
 Armenia,0,0
 Armenia,0,0
 Armenia,0,0
@@ -1313,6 +1321,7 @@ Armenia,444482,8700
 Armenia,444869,8706
 Armenia,445100,8706
 Armenia,445242,8709
+Armenia,445397,8709
 Australia,0,0
 Australia,5,0
 Australia,12,0
@@ -1459,6 +1468,7 @@ Australia,10278831,15383
 Australia,10311612,15487
 Australia,10345256,15580
 Australia,10379442,15665
+Australia,10423566,15792
 Austria,0,0
 Austria,0,0
 Austria,0,0
@@ -1605,6 +1615,7 @@ Austria,5260762,20825
 Austria,5346939,20928
 Austria,5402162,20899
 Austria,5439567,20981
+Austria,5468967,21040
 Azerbaijan,0,0
 Azerbaijan,0,0
 Azerbaijan,0,0
@@ -1751,6 +1762,7 @@ Azerbaijan,822186,9928
 Azerbaijan,822617,9932
 Azerbaijan,822959,9937
 Azerbaijan,823258,9944
+Azerbaijan,823539,9957
 Bahamas,0,0
 Bahamas,0,0
 Bahamas,0,0
@@ -1896,6 +1908,7 @@ Bahamas,37309,833
 Bahamas,37318,833
 Bahamas,37334,833
 Bahamas,37364,833
+Bahamas,37386,833
 Bahamas,37386,833
 Bahrain,0,0
 Bahrain,0,0
@@ -2043,6 +2056,7 @@ Bahrain,683773,1521
 Bahrain,685969,1523
 Bahrain,688044,1524
 Bahrain,690187,1528
+Bahrain,692129,1529
 Bangladesh,0,0
 Bangladesh,0,0
 Bangladesh,0,0
@@ -2189,6 +2203,7 @@ Bangladesh,2030090,29384
 Bangladesh,2032832,29402
 Bangladesh,2034348,29415
 Bangladesh,2035240,29423
+Bangladesh,2035882,29426
 Barbados,0,0
 Barbados,0,0
 Barbados,0,0
@@ -2335,6 +2350,7 @@ Barbados,102580,560
 Barbados,103014,560
 Barbados,103014,560
 Barbados,103014,560
+Barbados,103424,560
 Belarus,0,0
 Belarus,0,0
 Belarus,0,0
@@ -2464,6 +2480,7 @@ Belarus,982867,6978
 Belarus,982867,6978
 Belarus,982867,6978
 Belarus,982867,6978
+Belarus,994037,7118
 Belarus,994037,7118
 Belarus,994037,7118
 Belarus,994037,7118
@@ -2627,6 +2644,7 @@ Belgium,4575519,32746
 Belgium,4594338,32810
 Belgium,4607296,32883
 Belgium,4612239,32902
+Belgium,4619721,32959
 Belize,0,0
 Belize,0,0
 Belize,0,0
@@ -2773,6 +2791,7 @@ Belize,68884,686
 Belize,68926,687
 Belize,68943,687
 Belize,68943,687
+Belize,68972,687
 Benin,0,0
 Benin,0,0
 Benin,0,0
@@ -2919,6 +2938,7 @@ Benin,27782,163
 Benin,27782,163
 Benin,27782,163
 Benin,27782,163
+Benin,27912,163
 Bhutan,0,0
 Bhutan,0,0
 Bhutan,0,0
@@ -3065,6 +3085,7 @@ Bhutan,62200,21
 Bhutan,62247,21
 Bhutan,62331,21
 Bhutan,62380,21
+Bhutan,62430,21
 Bolivia,0,0
 Bolivia,0,0
 Bolivia,0,0
@@ -3211,6 +3232,7 @@ Bolivia,1108702,22237
 Bolivia,1109037,22237
 Bolivia,1109238,22239
 Bolivia,1109447,22239
+Bolivia,1109652,22240
 Bosnia and Herzegovina,0,0
 Bosnia and Herzegovina,0,0
 Bosnia and Herzegovina,0,0
@@ -3357,6 +3379,7 @@ Bosnia and Herzegovina,399184,16154
 Bosnia and Herzegovina,399499,16160
 Bosnia and Herzegovina,399719,16166
 Bosnia and Herzegovina,399963,16174
+Bosnia and Herzegovina,400090,16182
 Botswana,0,0
 Botswana,0,0
 Botswana,0,0
@@ -3499,6 +3522,7 @@ Botswana,325931,2786
 Botswana,326127,2787
 Botswana,326308,2789
 Botswana,326329,2789
+Botswana,326344,2790
 Botswana,326344,2790
 Botswana,326344,2790
 Botswana,326344,2790
@@ -3649,6 +3673,7 @@ Brazil,34724189,686877
 Brazil,34746462,687144
 Brazil,34783786,687574
 Brazil,34828749,688157
+Brazil,34855492,688395
 Brunei,0,0
 Brunei,0,0
 Brunei,0,0
@@ -3795,6 +3820,7 @@ Brunei,229665,225
 Brunei,231833,225
 Brunei,234582,225
 Brunei,237656,225
+Brunei,241044,225
 Bulgaria,0,0
 Bulgaria,0,0
 Bulgaria,0,0
@@ -3941,6 +3967,7 @@ Bulgaria,1266241,37758
 Bulgaria,1271228,37795
 Bulgaria,1275481,37840
 Bulgaria,1279082,37880
+Bulgaria,1281924,37931
 Burkina Faso,0,0
 Burkina Faso,0,0
 Burkina Faso,0,0
@@ -4082,6 +4109,7 @@ Burkina Faso,21128,387
 Burkina Faso,21128,387
 Burkina Faso,21128,387
 Burkina Faso,21128,387
+Burkina Faso,21631,387
 Burkina Faso,21631,387
 Burkina Faso,21631,387
 Burkina Faso,21631,387
@@ -4233,6 +4261,7 @@ Burundi,50225,38
 Burundi,50372,38
 Burundi,50452,38
 Burundi,50470,38
+Burundi,50517,38
 Cambodia,0,0
 Cambodia,1,0
 Cambodia,1,0
@@ -4379,6 +4408,7 @@ Cambodia,137936,3056
 Cambodia,137970,3056
 Cambodia,137979,3056
 Cambodia,137991,3056
+Cambodia,137996,3056
 Cameroon,0,0
 Cameroon,0,0
 Cameroon,0,0
@@ -4525,6 +4555,7 @@ Cameroon,121652,1935
 Cameroon,121652,1935
 Cameroon,123629,1960
 Cameroon,123629,1960
+Cameroon,123993,1965
 Canada,0,0
 Canada,3,0
 Canada,4,0
@@ -4671,6 +4702,7 @@ Canada,4302719,45649
 Canada,4326726,45941
 Canada,4347202,46319
 Canada,4368845,46674
+Canada,4388506,46972
 Cape Verde,0,0
 Cape Verde,0,0
 Cape Verde,0,0
@@ -4817,6 +4849,7 @@ Cape Verde,62389,410
 Cape Verde,62397,410
 Cape Verde,62397,410
 Cape Verde,62397,410
+Cape Verde,62561,410
 Central African Republic,0,0
 Central African Republic,0,0
 Central African Republic,0,0
@@ -4963,6 +4996,7 @@ Central African Republic,14957,113
 Central African Republic,15151,113
 Central African Republic,15228,113
 Central African Republic,15260,113
+Central African Republic,15289,113
 Chad,0,0
 Chad,0,0
 Chad,0,0
@@ -5109,6 +5143,7 @@ Chad,7590,193
 Chad,7613,193
 Chad,7620,194
 Chad,7627,194
+Chad,7631,194
 Chile,0,0
 Chile,0,0
 Chile,0,0
@@ -5255,6 +5290,7 @@ Chile,4655058,61339
 Chile,4682067,61448
 Chile,4718965,61549
 Chile,4760186,61677
+Chile,4799221,61853
 China,548,17
 China,2877,82
 China,19716,425
@@ -5401,6 +5437,7 @@ China,2811879,15460
 China,2858293,15510
 China,2902917,15565
 China,2952291,15629
+China,3013968,15707
 Colombia,0,0
 Colombia,0,0
 Colombia,0,0
@@ -5547,6 +5584,7 @@ Colombia,6308087,141807
 Colombia,6308558,141820
 Colombia,6309168,141827
 Colombia,6309716,141837
+Colombia,6310332,141850
 Comoros,0,0
 Comoros,0,0
 Comoros,0,0
@@ -5693,6 +5731,7 @@ Comoros,8473,161
 Comoros,8481,161
 Comoros,8672,161
 Comoros,8762,161
+Comoros,8879,161
 Congo,0,0
 Congo,0,0
 Congo,0,0
@@ -5827,6 +5866,7 @@ Congo,24604,386
 Congo,24604,386
 Congo,24775,386
 Congo,24775,386
+Congo,24837,386
 Congo,24837,386
 Congo,24837,386
 Congo,24837,386
@@ -5985,6 +6025,7 @@ Costa Rica,1123001,8966
 Costa Rica,1127602,8974
 Costa Rica,1130568,8982
 Costa Rica,1133096,8990
+Costa Rica,1138416,9009
 Cote d'Ivoire,0,0
 Cote d'Ivoire,0,0
 Cote d'Ivoire,0,0
@@ -6131,6 +6172,7 @@ Cote d'Ivoire,87438,826
 Cote d'Ivoire,87602,827
 Cote d'Ivoire,87700,827
 Cote d'Ivoire,87774,827
+Cote d'Ivoire,87830,829
 Croatia,0,0
 Croatia,0,0
 Croatia,0,0
@@ -6277,6 +6319,7 @@ Croatia,1238160,16980
 Croatia,1241791,17032
 Croatia,1244692,17085
 Croatia,1246947,17142
+Croatia,1248635,17194
 Cuba,0,0
 Cuba,0,0
 Cuba,0,0
@@ -6423,6 +6466,7 @@ Cuba,1111238,8530
 Cuba,1111260,8530
 Cuba,1111273,8530
 Cuba,1111285,8530
+Cuba,1111298,8530
 Cyprus,0,0
 Cyprus,0,0
 Cyprus,0,0
@@ -6569,6 +6613,7 @@ Cyprus,590783,1187
 Cyprus,593542,1189
 Cyprus,596297,1191
 Cyprus,599118,1194
+Cyprus,602662,1200
 Czechia,0,0
 Czechia,0,0
 Czechia,0,0
@@ -6715,6 +6760,7 @@ Czechia,4131060,41281
 Czechia,4143498,41420
 Czechia,4152997,41524
 Czechia,4156923,41580
+Czechia,4161797,41660
 Democratic Republic of Congo,0,0
 Democratic Republic of Congo,0,0
 Democratic Republic of Congo,0,0
@@ -6861,6 +6907,7 @@ Democratic Republic of Congo,92934,1443
 Democratic Republic of Congo,92972,1444
 Democratic Republic of Congo,93027,1445
 Democratic Republic of Congo,93086,1445
+Democratic Republic of Congo,93219,1445
 Denmark,0,0
 Denmark,0,0
 Denmark,0,0
@@ -7007,6 +7054,7 @@ Denmark,3358503,7190
 Denmark,3367633,7244
 Denmark,3375154,7335
 Denmark,3381223,7396
+Denmark,3385515,7462
 Diamond Princess,0,0
 Diamond Princess,0,0
 Diamond Princess,0,0
@@ -7020,6 +7068,7 @@ Diamond Princess,712,8
 Diamond Princess,712,10
 Diamond Princess,712,11
 Diamond Princess,712,11
+Diamond Princess,712,13
 Diamond Princess,712,13
 Diamond Princess,712,13
 Diamond Princess,712,13
@@ -7299,6 +7348,7 @@ Djibouti,15690,189
 Djibouti,15690,189
 Djibouti,15690,189
 Djibouti,15690,189
+Djibouti,15690,189
 Dominica,0,0
 Dominica,0,0
 Dominica,0,0
@@ -7441,6 +7491,7 @@ Dominica,14852,68
 Dominica,14852,68
 Dominica,14852,68
 Dominica,15747,74
+Dominica,15760,74
 Dominica,15760,74
 Dominica,15760,74
 Dominica,15760,74
@@ -7591,6 +7642,7 @@ Dominican Republic,646209,4384
 Dominican Republic,647205,4384
 Dominican Republic,647205,4384
 Dominican Republic,647272,4384
+Dominican Republic,647425,4384
 Ecuador,0,0
 Ecuador,0,0
 Ecuador,0,0
@@ -7737,6 +7789,7 @@ Ecuador,1006070,35900
 Ecuador,1006922,35904
 Ecuador,1007553,35908
 Ecuador,1008035,35920
+Ecuador,1009044,35934
 Egypt,0,0
 Egypt,0,0
 Egypt,0,0
@@ -7883,6 +7936,7 @@ Egypt,515645,24797
 Egypt,515645,24797
 Egypt,515645,24798
 Egypt,515645,24798
+Egypt,515645,24798
 El Salvador,0,0
 El Salvador,0,0
 El Salvador,0,0
@@ -8025,6 +8079,7 @@ El Salvador,201785,4228
 El Salvador,201785,4228
 El Salvador,201785,4229
 El Salvador,201785,4229
+El Salvador,201785,4230
 El Salvador,201785,4230
 El Salvador,201785,4230
 El Salvador,201785,4230
@@ -8175,6 +8230,7 @@ Equatorial Guinea,17040,183
 Equatorial Guinea,17117,183
 Equatorial Guinea,17133,183
 Equatorial Guinea,17171,183
+Equatorial Guinea,17174,183
 Eritrea,0,0
 Eritrea,0,0
 Eritrea,0,0
@@ -8320,6 +8376,7 @@ Eritrea,10173,103
 Eritrea,10180,103
 Eritrea,10182,103
 Eritrea,10187,103
+Eritrea,10189,103
 Eritrea,10189,103
 Estonia,0,0
 Estonia,0,0
@@ -8467,6 +8524,7 @@ Estonia,603347,2692
 Estonia,604552,2713
 Estonia,605622,2729
 Estonia,606633,2739
+Estonia,607300,2748
 Eswatini,0,0
 Eswatini,0,0
 Eswatini,0,0
@@ -8613,6 +8671,7 @@ Eswatini,73436,1422
 Eswatini,73436,1422
 Eswatini,73526,1422
 Eswatini,73558,1422
+Eswatini,73618,1422
 Ethiopia,0,0
 Ethiopia,0,0
 Ethiopia,0,0
@@ -8759,6 +8818,7 @@ Ethiopia,493698,7572
 Ethiopia,493783,7572
 Ethiopia,493885,7572
 Ethiopia,493960,7572
+Ethiopia,494086,7572
 Fiji,0,0
 Fiji,0,0
 Fiji,0,0
@@ -8905,6 +8965,7 @@ Fiji,68245,878
 Fiji,68248,878
 Fiji,68257,878
 Fiji,68264,878
+Fiji,68270,878
 Finland,0,0
 Finland,0,0
 Finland,1,0
@@ -9051,6 +9112,7 @@ Finland,1312634,6149
 Finland,1323455,6242
 Finland,1335318,6407
 Finland,1348737,6568
+Finland,1360721,6741
 France,0,0
 France,3,0
 France,6,0
@@ -9197,6 +9259,7 @@ France,36092874,156575
 France,36487995,157020
 France,36826751,157549
 France,37033519,158034
+France,37191901,158469
 Gabon,0,0
 Gabon,0,0
 Gabon,0,0
@@ -9342,6 +9405,7 @@ Gabon,48713,306
 Gabon,48713,306
 Gabon,48810,306
 Gabon,48914,306
+Gabon,48945,306
 Gabon,48945,306
 Gambia,0,0
 Gambia,0,0
@@ -9489,6 +9553,7 @@ Gambia,12508,372
 Gambia,12508,372
 Gambia,12508,372
 Gambia,12580,372
+Gambia,12580,372
 Georgia,0,0
 Georgia,0,0
 Georgia,0,0
@@ -9635,6 +9700,7 @@ Georgia,1780691,16900
 Georgia,1780691,16900
 Georgia,1780691,16900
 Georgia,1780691,16900
+Georgia,1785138,16912
 Germany,0,0
 Germany,1,0
 Germany,12,0
@@ -9781,6 +9847,7 @@ Germany,34121168,150720
 Germany,34758889,151629
 Germany,35288228,152755
 Germany,35619687,153694
+Germany,35884834,154785
 Ghana,0,0
 Ghana,0,0
 Ghana,0,0
@@ -9927,6 +9994,7 @@ Ghana,169685,1459
 Ghana,170321,1460
 Ghana,170573,1460
 Ghana,170707,1460
+Ghana,170894,1460
 Greece,0,0
 Greece,0,0
 Greece,0,0
@@ -10073,6 +10141,7 @@ Greece,4975067,33200
 Greece,5026494,33313
 Greece,5081981,33426
 Greece,5135200,33574
+Greece,5188890,33750
 Grenada,0,0
 Grenada,0,0
 Grenada,0,0
@@ -10219,6 +10288,7 @@ Grenada,19536,237
 Grenada,19574,237
 Grenada,19584,237
 Grenada,19591,237
+Grenada,19604,237
 Guatemala,0,0
 Guatemala,0,0
 Guatemala,0,0
@@ -10365,6 +10435,7 @@ Guatemala,1129542,19836
 Guatemala,1133517,19854
 Guatemala,1136861,19871
 Guatemala,1140499,19888
+Guatemala,1142589,19907
 Guinea,0,0
 Guinea,0,0
 Guinea,0,0
@@ -10511,6 +10582,7 @@ Guinea,37950,455
 Guinea,37999,456
 Guinea,38047,456
 Guinea,38047,456
+Guinea,38122,458
 Guinea-Bissau,0,0
 Guinea-Bissau,0,0
 Guinea-Bissau,0,0
@@ -10656,6 +10728,7 @@ Guinea-Bissau,8796,175
 Guinea-Bissau,8831,176
 Guinea-Bissau,8831,176
 Guinea-Bissau,8831,176
+Guinea-Bissau,8848,176
 Guinea-Bissau,8848,176
 Guyana,0,0
 Guyana,0,0
@@ -10803,6 +10876,7 @@ Guyana,71383,1281
 Guyana,71404,1281
 Guyana,71422,1281
 Guyana,71437,1281
+Guyana,71449,1281
 Haiti,0,0
 Haiti,0,0
 Haiti,0,0
@@ -10949,6 +11023,7 @@ Haiti,33756,857
 Haiti,33764,857
 Haiti,33764,857
 Haiti,33811,857
+Haiti,33828,860
 Honduras,0,0
 Honduras,0,0
 Honduras,0,0
@@ -11095,6 +11170,7 @@ Honduras,456664,10996
 Honduras,456886,11007
 Honduras,456988,11037
 Honduras,456988,11037
+Honduras,457196,11039
 Hungary,0,0
 Hungary,0,0
 Hungary,0,0
@@ -11240,6 +11316,7 @@ Hungary,2094142,47503
 Hungary,2107907,47576
 Hungary,2120543,47680
 Hungary,2132490,47798
+Hungary,2141513,47938
 Hungary,2141513,47938
 Iceland,0,0
 Iceland,0,0
@@ -11387,6 +11464,7 @@ Iceland,205823,213
 Iceland,205963,213
 Iceland,206134,213
 Iceland,206356,213
+Iceland,206571,219
 India,0,0
 India,0,0
 India,3,0
@@ -11533,6 +11611,7 @@ India,44616394,528822
 India,44632430,528913
 India,44644938,528980
 India,44654638,529077
+India,44660293,530509
 Indonesia,0,0
 Indonesia,0,0
 Indonesia,0,0
@@ -11679,6 +11758,7 @@ Indonesia,6446143,158219
 Indonesia,6458101,158327
 Indonesia,6472664,158454
 Indonesia,6493079,158631
+Indonesia,6525120,158871
 Iran,0,0
 Iran,0,0
 Iran,0,0
@@ -11825,6 +11905,7 @@ Iran,7552404,144490
 Iran,7554703,144523
 Iran,7556632,144548
 Iran,7557650,144576
+Iran,7558502,144600
 Iraq,0,0
 Iraq,0,0
 Iraq,0,0
@@ -11971,6 +12052,7 @@ Iraq,2460868,25356
 Iraq,2460868,25356
 Iraq,2461247,25358
 Iraq,2461484,25358
+Iraq,2461857,25361
 Ireland,0,0
 Ireland,0,0
 Ireland,0,0
@@ -12117,6 +12199,7 @@ Ireland,1666048,7959
 Ireland,1668301,7988
 Ireland,1670377,8010
 Ireland,1672319,8043
+Ireland,1673665,8066
 Israel,0,0
 Israel,0,0
 Israel,0,0
@@ -12263,6 +12346,7 @@ Israel,4668642,11710
 Israel,4673402,11717
 Israel,4678728,11752
 Israel,4684451,11767
+Israel,4689152,11767
 Italy,0,0
 Italy,0,0
 Italy,2,0
@@ -12409,6 +12493,7 @@ Italy,22830825,177570
 Italy,23114013,178081
 Italy,23359680,178633
 Italy,23531023,179101
+Italy,23642011,179436
 Jamaica,0,0
 Jamaica,0,0
 Jamaica,0,0
@@ -12555,6 +12640,7 @@ Jamaica,151931,3320
 Jamaica,151931,3320
 Jamaica,151931,3320
 Jamaica,151931,3320
+Jamaica,152236,3349
 Japan,2,0
 Japan,4,0
 Japan,20,0
@@ -12701,6 +12787,7 @@ Japan,21580581,45640
 Japan,21801676,45996
 Japan,22037126,46415
 Japan,22324592,46765
+Japan,22733994,47175
 Jordan,0,0
 Jordan,0,0
 Jordan,0,0
@@ -12841,6 +12928,7 @@ Jordan,1735495,14110
 Jordan,1738867,14114
 Jordan,1742256,14114
 Jordan,1745032,14116
+Jordan,1746997,14122
 Jordan,1746997,14122
 Jordan,1746997,14122
 Jordan,1746997,14122
@@ -12993,6 +13081,7 @@ Kazakhstan,1484100,19052
 Kazakhstan,1484126,19052
 Kazakhstan,1484591,19052
 Kazakhstan,1484932,19052
+Kazakhstan,1485203,19052
 Kenya,0,0
 Kenya,0,0
 Kenya,0,0
@@ -13139,6 +13228,7 @@ Kenya,338506,5678
 Kenya,338599,5678
 Kenya,338749,5678
 Kenya,339147,5678
+Kenya,339788,5678
 Kiribati,0,0
 Kiribati,0,0
 Kiribati,0,0
@@ -13270,6 +13360,7 @@ Kiribati,3236,13
 Kiribati,3236,13
 Kiribati,3236,13
 Kiribati,3236,13
+Kiribati,3430,13
 Kiribati,3430,13
 Kiribati,3430,13
 Kiribati,3430,13
@@ -13431,6 +13522,7 @@ Kosovo,272097,3200
 Kosovo,272124,3201
 Kosovo,272143,3201
 Kosovo,272161,3202
+Kosovo,272183,3202
 Kuwait,0,0
 Kuwait,0,0
 Kuwait,0,0
@@ -13577,6 +13669,7 @@ Kuwait,660667,2564
 Kuwait,661335,2565
 Kuwait,661787,2566
 Kuwait,662073,2568
+Kuwait,662359,2569
 Kyrgyzstan,0,0
 Kyrgyzstan,0,0
 Kyrgyzstan,0,0
@@ -13723,6 +13816,7 @@ Kyrgyzstan,206250,2991
 Kyrgyzstan,206334,2991
 Kyrgyzstan,206399,2991
 Kyrgyzstan,206452,2991
+Kyrgyzstan,206464,2991
 Laos,0,0
 Laos,0,0
 Laos,0,0
@@ -13869,6 +13963,7 @@ Laos,216008,758
 Laos,216101,758
 Laos,216198,758
 Laos,216243,758
+Laos,216295,758
 Latvia,0,0
 Latvia,0,0
 Latvia,0,0
@@ -14015,6 +14110,7 @@ Latvia,939146,6013
 Latvia,944302,6033
 Latvia,948611,6041
 Latvia,952099,6053
+Latvia,954953,6064
 Lebanon,0,0
 Lebanon,0,0
 Lebanon,0,0
@@ -14161,6 +14257,7 @@ Lebanon,1216638,10684
 Lebanon,1216999,10688
 Lebanon,1218207,10701
 Lebanon,1218779,10708
+Lebanon,1219141,10713
 Lesotho,0,0
 Lesotho,0,0
 Lesotho,0,0
@@ -14300,6 +14397,7 @@ Lesotho,34206,704
 Lesotho,34206,704
 Lesotho,34287,704
 Lesotho,34287,704
+Lesotho,34490,706
 Lesotho,34490,706
 Lesotho,34490,706
 Lesotho,34490,706
@@ -14453,6 +14551,7 @@ Liberia,7974,294
 Liberia,7988,294
 Liberia,7988,294
 Liberia,7996,294
+Liberia,7998,294
 Libya,0,0
 Libya,0,0
 Libya,0,0
@@ -14599,6 +14698,7 @@ Libya,507010,6437
 Libya,507024,6437
 Libya,507034,6437
 Libya,507051,6437
+Libya,507060,6437
 Liechtenstein,0,0
 Liechtenstein,0,0
 Liechtenstein,0,0
@@ -14745,6 +14845,7 @@ Liechtenstein,20143,86
 Liechtenstein,20389,86
 Liechtenstein,20541,86
 Liechtenstein,20626,87
+Liechtenstein,20687,87
 Lithuania,0,0
 Lithuania,0,0
 Lithuania,0,0
@@ -14891,6 +14992,7 @@ Lithuania,1257011,9344
 Lithuania,1261643,9363
 Lithuania,1265161,9381
 Lithuania,1268046,9393
+Lithuania,1269806,9401
 Luxembourg,0,0
 Luxembourg,0,0
 Luxembourg,0,0
@@ -15037,6 +15139,7 @@ Luxembourg,294931,1133
 Luxembourg,297835,1136
 Luxembourg,300436,1139
 Luxembourg,302221,1145
+Luxembourg,303214,1149
 MS Zaandam,0,0
 MS Zaandam,0,0
 MS Zaandam,0,0
@@ -15048,6 +15151,7 @@ MS Zaandam,0,0
 MS Zaandam,0,0
 MS Zaandam,0,0
 MS Zaandam,2,0
+MS Zaandam,9,2
 MS Zaandam,9,2
 MS Zaandam,9,2
 MS Zaandam,9,2
@@ -15329,6 +15433,7 @@ Madagascar,66687,1410
 Madagascar,66687,1410
 Madagascar,66706,1411
 Madagascar,66749,1411
+Madagascar,66788,1411
 Malawi,0,0
 Malawi,0,0
 Malawi,0,0
@@ -15473,6 +15578,7 @@ Malawi,88005,2680
 Malawi,88030,2682
 Malawi,88047,2682
 Malawi,88057,2682
+Malawi,88073,2683
 Malawi,88073,2683
 Malawi,88073,2683
 Malaysia,0,0
@@ -15621,6 +15727,7 @@ Malaysia,4856217,36403
 Malaysia,4868402,36423
 Malaysia,4883796,36447
 Malaysia,4902964,36475
+Malaysia,4929972,36495
 Maldives,0,0
 Maldives,0,0
 Maldives,0,0
@@ -15767,6 +15874,7 @@ Maldives,185125,308
 Maldives,185194,308
 Maldives,185280,308
 Maldives,185364,308
+Maldives,185454,309
 Mali,0,0
 Mali,0,0
 Mali,0,0
@@ -15913,6 +16021,7 @@ Mali,32697,742
 Mali,32711,742
 Mali,32719,742
 Mali,32733,742
+Mali,32738,742
 Malta,0,0
 Malta,0,0
 Malta,0,0
@@ -16059,6 +16168,7 @@ Malta,114887,806
 Malta,115036,806
 Malta,115215,808
 Malta,115349,808
+Malta,115489,808
 Marshall Islands,0,0
 Marshall Islands,0,0
 Marshall Islands,0,0
@@ -16203,6 +16313,7 @@ Marshall Islands,15275,17
 Marshall Islands,15305,17
 Marshall Islands,15305,17
 Marshall Islands,15375,17
+Marshall Islands,15389,17
 Marshall Islands,15389,17
 Marshall Islands,15389,17
 Mauritania,0,0
@@ -16351,6 +16462,7 @@ Mauritania,62920,995
 Mauritania,63110,995
 Mauritania,63293,997
 Mauritania,63364,997
+Mauritania,63400,997
 Mauritius,0,0
 Mauritius,0,0
 Mauritius,0,0
@@ -16497,6 +16609,7 @@ Mauritius,263177,1028
 Mauritius,263780,1032
 Mauritius,264465,1032
 Mauritius,265301,1032
+Mauritius,266489,1033
 Mexico,0,0
 Mexico,0,0
 Mexico,0,0
@@ -16643,6 +16756,7 @@ Mexico,7097264,330208
 Mexico,7103339,330279
 Mexico,7106865,330331
 Mexico,7110993,330392
+Mexico,7113429,330406
 Micronesia (country),0,0
 Micronesia (country),0,0
 Micronesia (country),0,0
@@ -16789,6 +16903,7 @@ Micronesia (country),20833,49
 Micronesia (country),21815,55
 Micronesia (country),21815,55
 Micronesia (country),22203,55
+Micronesia (country),22203,58
 Moldova,0,0
 Moldova,0,0
 Moldova,0,0
@@ -16935,6 +17050,7 @@ Moldova,590811,11858
 Moldova,591912,11870
 Moldova,592535,11878
 Moldova,593246,11887
+Moldova,593816,11894
 Monaco,0,0
 Monaco,0,0
 Monaco,0,0
@@ -17081,6 +17197,7 @@ Monaco,14717,63
 Monaco,14808,63
 Monaco,14885,64
 Monaco,14963,65
+Monaco,15005,65
 Mongolia,0,0
 Mongolia,0,0
 Mongolia,0,0
@@ -17227,6 +17344,7 @@ Mongolia,983610,2131
 Mongolia,983988,2131
 Mongolia,984253,2131
 Mongolia,984823,2131
+Mongolia,985652,2131
 Montenegro,0,0
 Montenegro,0,0
 Montenegro,0,0
@@ -17373,6 +17491,7 @@ Montenegro,281268,2782
 Montenegro,281890,2784
 Montenegro,282314,2785
 Montenegro,282764,2786
+Montenegro,283117,2787
 Morocco,0,0
 Morocco,0,0
 Morocco,0,0
@@ -17519,6 +17638,7 @@ Morocco,1265103,16278
 Morocco,1265232,16279
 Morocco,1265396,16280
 Morocco,1265601,16281
+Morocco,1266009,16282
 Mozambique,0,0
 Mozambique,0,0
 Mozambique,0,0
@@ -17664,6 +17784,7 @@ Mozambique,230312,2222
 Mozambique,230312,2222
 Mozambique,230370,2224
 Mozambique,230431,2224
+Mozambique,230475,2224
 Mozambique,230475,2224
 Myanmar,0,0
 Myanmar,0,0
@@ -17811,6 +17932,7 @@ Myanmar,626690,19467
 Myanmar,628861,19471
 Myanmar,630742,19477
 Myanmar,631716,19482
+Myanmar,632318,19485
 Namibia,0,0
 Namibia,0,0
 Namibia,0,0
@@ -17957,6 +18079,7 @@ Namibia,169253,4080
 Namibia,169874,4080
 Namibia,169253,4080
 Namibia,169908,4080
+Namibia,169946,4080
 Nauru,0,0
 Nauru,0,0
 Nauru,0,0
@@ -18096,6 +18219,7 @@ Nauru,4610,1
 Nauru,4610,1
 Nauru,4610,1
 Nauru,4610,1
+Nauru,4611,1
 Nauru,4611,1
 Nauru,4611,1
 Nauru,4611,1
@@ -18249,6 +18373,7 @@ Nepal,999911,12018
 Nepal,1000191,12018
 Nepal,1000495,12019
 Nepal,1000556,12019
+Nepal,1000749,12019
 Netherlands,0,0
 Netherlands,0,0
 Netherlands,0,0
@@ -18395,6 +18520,7 @@ Netherlands,8564596,23334
 Netherlands,8587789,23367
 Netherlands,8605652,23418
 Netherlands,8622874,23459
+Netherlands,8632865,23499
 New Zealand,0,0
 New Zealand,0,0
 New Zealand,0,0
@@ -18541,6 +18667,7 @@ New Zealand,1807072,2056
 New Zealand,1821362,2066
 New Zealand,1837707,2096
 New Zealand,1858163,2107
+New Zealand,1878933,2120
 Nicaragua,0,0
 Nicaragua,0,0
 Nicaragua,0,0
@@ -18687,6 +18814,7 @@ Nicaragua,15092,245
 Nicaragua,15120,245
 Nicaragua,15145,245
 Nicaragua,15166,245
+Nicaragua,15186,245
 Niger,0,0
 Niger,0,0
 Niger,0,0
@@ -18833,6 +18961,7 @@ Niger,9411,314
 Niger,9415,314
 Niger,9415,314
 Niger,9425,314
+Niger,9428,314
 Nigeria,0,0
 Nigeria,0,0
 Nigeria,0,0
@@ -18979,6 +19108,7 @@ Nigeria,265816,3155
 Nigeria,265937,3155
 Nigeria,266043,3155
 Nigeria,266138,3155
+Nigeria,266192,3155
 North Korea,0,0
 North Korea,0,0
 North Korea,0,0
@@ -19100,6 +19230,7 @@ North Korea,0,0
 North Korea,0,0
 North Korea,0,0
 North Korea,0,0
+North Korea,1,6
 North Korea,1,6
 North Korea,1,6
 North Korea,1,6
@@ -19271,6 +19402,7 @@ North Macedonia,343391,9548
 North Macedonia,343665,9553
 North Macedonia,343916,9559
 North Macedonia,344146,9564
+North Macedonia,344146,9564
 Norway,0,0
 Norway,0,0
 Norway,0,0
@@ -19417,6 +19549,7 @@ Norway,1463093,4121
 Norway,1463571,4153
 Norway,1464124,4187
 Norway,1464946,4208
+Norway,1465824,4238
 Oman,0,0
 Oman,0,0
 Oman,0,0
@@ -19562,6 +19695,7 @@ Oman,398424,4628
 Oman,398424,4628
 Oman,398424,4628
 Oman,398660,4628
+Oman,398775,4628
 Oman,398775,4628
 Pakistan,0,0
 Pakistan,0,0
@@ -19709,6 +19843,7 @@ Pakistan,1572778,30619
 Pakistan,1572778,30619
 Pakistan,1572778,30619
 Pakistan,1574094,30626
+Pakistan,1574407,30627
 Palau,0,0
 Palau,0,0
 Palau,0,0
@@ -19855,6 +19990,7 @@ Palau,5481,6
 Palau,5490,7
 Palau,5490,7
 Palau,5513,7
+Palau,5530,7
 Palestine,0,0
 Palestine,0,0
 Palestine,0,0
@@ -20000,6 +20136,7 @@ Palestine,702768,5707
 Palestine,702804,5707
 Palestine,702804,5707
 Palestine,703014,5708
+Palestine,703036,5708
 Palestine,703036,5708
 Panama,0,0
 Panama,0,0
@@ -20147,6 +20284,7 @@ Panama,988280,8505
 Panama,988280,8505
 Panama,989005,8506
 Panama,990413,8509
+Panama,991251,8509
 Papua New Guinea,0,0
 Papua New Guinea,0,0
 Papua New Guinea,0,0
@@ -20293,6 +20431,7 @@ Papua New Guinea,45133,668
 Papua New Guinea,45264,668
 Papua New Guinea,45328,668
 Papua New Guinea,45465,668
+Papua New Guinea,45629,668
 Paraguay,0,0
 Paraguay,0,0
 Paraguay,0,0
@@ -20439,6 +20578,7 @@ Paraguay,717039,19595
 Paraguay,717260,19596
 Paraguay,717628,19598
 Paraguay,717955,19601
+Paraguay,717980,19606
 Peru,0,0
 Peru,0,0
 Peru,0,0
@@ -20585,6 +20725,7 @@ Peru,4148691,216788
 Peru,4150832,216877
 Peru,4152580,216877
 Peru,4156924,217012
+Peru,4161769,217098
 Philippines,0,0
 Philippines,0,0
 Philippines,2,1
@@ -20731,6 +20872,7 @@ Philippines,3969987,63297
 Philippines,3984815,63547
 Philippines,3995967,63814
 Philippines,4004465,64074
+Philippines,4011026,64291
 Poland,0,0
 Poland,0,0
 Poland,0,0
@@ -20877,6 +21019,7 @@ Poland,6315552,117756
 Poland,6327033,117900
 Poland,6335060,118029
 Poland,6340435,118124
+Poland,6343905,118170
 Portugal,0,0
 Portugal,0,0
 Portugal,0,0
@@ -21023,6 +21166,7 @@ Portugal,5502208,25087
 Portugal,5509424,25125
 Portugal,5509424,25128
 Portugal,5520731,25228
+Portugal,5527261,25312
 Qatar,0,0
 Qatar,0,0
 Qatar,0,0
@@ -21169,6 +21313,7 @@ Qatar,458391,682
 Qatar,462716,683
 Qatar,466145,684
 Qatar,469267,684
+Qatar,471816,684
 Romania,0,0
 Romania,0,0
 Romania,0,0
@@ -21315,6 +21460,7 @@ Romania,3276020,67084
 Romania,3280165,67124
 Romania,3283658,67165
 Romania,3286735,67186
+Romania,3289442,67213
 Russia,0,0
 Russia,0,0
 Russia,2,0
@@ -21461,6 +21607,7 @@ Russia,20916112,380451
 Russia,21011201,381134
 Russia,21075901,381758
 Russia,21124658,382302
+Russia,21163061,382765
 Rwanda,0,0
 Rwanda,0,0
 Rwanda,0,0
@@ -21606,6 +21753,7 @@ Rwanda,132504,1467
 Rwanda,132518,1467
 Rwanda,132530,1467
 Rwanda,132556,1467
+Rwanda,132584,1467
 Rwanda,132584,1467
 Saint Kitts and Nevis,0,0
 Saint Kitts and Nevis,0,0
@@ -21753,6 +21901,7 @@ Saint Kitts and Nevis,6545,46
 Saint Kitts and Nevis,6547,46
 Saint Kitts and Nevis,6548,46
 Saint Kitts and Nevis,6548,46
+Saint Kitts and Nevis,6549,46
 Saint Lucia,0,0
 Saint Lucia,0,0
 Saint Lucia,0,0
@@ -21899,6 +22048,7 @@ Saint Lucia,29550,404
 Saint Lucia,29550,405
 Saint Lucia,29550,405
 Saint Lucia,29639,407
+Saint Lucia,29654,407
 Saint Vincent and the Grenadines,0,0
 Saint Vincent and the Grenadines,0,0
 Saint Vincent and the Grenadines,0,0
@@ -22045,6 +22195,7 @@ Saint Vincent and the Grenadines,9448,116
 Saint Vincent and the Grenadines,9450,116
 Saint Vincent and the Grenadines,9452,116
 Saint Vincent and the Grenadines,9457,116
+Saint Vincent and the Grenadines,9459,116
 Samoa,0,0
 Samoa,0,0
 Samoa,0,0
@@ -22191,6 +22342,7 @@ Samoa,15942,29
 Samoa,15942,29
 Samoa,15946,29
 Samoa,15946,29
+Samoa,15949,29
 San Marino,0,0
 San Marino,0,0
 San Marino,0,0
@@ -22337,6 +22489,7 @@ San Marino,21053,118
 San Marino,21291,118
 San Marino,21473,119
 San Marino,21604,119
+San Marino,21681,119
 Sao Tome and Principe,0,0
 Sao Tome and Principe,0,0
 Sao Tome and Principe,0,0
@@ -22483,6 +22636,7 @@ Sao Tome and Principe,6252,77
 Sao Tome and Principe,6252,77
 Sao Tome and Principe,6263,77
 Sao Tome and Principe,6266,77
+Sao Tome and Principe,6270,77
 Saudi Arabia,0,0
 Saudi Arabia,0,0
 Saudi Arabia,0,0
@@ -22629,6 +22783,7 @@ Saudi Arabia,817838,9369
 Saudi Arabia,819083,9383
 Saudi Arabia,820644,9395
 Saudi Arabia,822459,9407
+Saudi Arabia,823834,9421
 Senegal,0,0
 Senegal,0,0
 Senegal,0,0
@@ -22775,6 +22930,7 @@ Senegal,88506,1968
 Senegal,88630,1968
 Senegal,88679,1968
 Senegal,88679,1968
+Senegal,88817,1968
 Serbia,0,0
 Serbia,0,0
 Serbia,0,0
@@ -22921,6 +23077,7 @@ Serbia,2379620,17093
 Serbia,2389987,17144
 Serbia,2397685,17193
 Serbia,2404112,17242
+Serbia,2409415,17290
 Seychelles,0,0
 Seychelles,0,0
 Seychelles,0,0
@@ -23067,6 +23224,7 @@ Seychelles,47141,169
 Seychelles,47141,170
 Seychelles,48183,170
 Seychelles,49035,171
+Seychelles,49380,171
 Sierra Leone,0,0
 Sierra Leone,0,0
 Sierra Leone,0,0
@@ -23212,6 +23370,7 @@ Sierra Leone,7751,126
 Sierra Leone,7751,126
 Sierra Leone,7752,126
 Sierra Leone,7752,126
+Sierra Leone,7754,126
 Sierra Leone,7754,126
 Singapore,0,0
 Singapore,5,0
@@ -23359,6 +23518,7 @@ Singapore,1957916,1632
 Singapore,2017261,1646
 Singapore,2067790,1663
 Singapore,2102372,1680
+Singapore,2125004,1690
 Slovakia,0,0
 Slovakia,0,0
 Slovakia,0,0
@@ -23505,6 +23665,7 @@ Slovakia,2632434,20481
 Slovakia,2637041,20518
 Slovakia,2640612,20564
 Slovakia,2643182,20606
+Slovakia,2645192,20641
 Slovenia,0,0
 Slovenia,0,0
 Slovenia,0,0
@@ -23651,6 +23812,7 @@ Slovenia,1203345,6842
 Slovenia,1216276,6855
 Slovenia,1226109,6875
 Slovenia,1233482,6889
+Slovenia,1238191,6900
 Solomon Islands,0,0
 Solomon Islands,0,0
 Solomon Islands,0,0
@@ -23777,6 +23939,7 @@ Solomon Islands,18174,146
 Solomon Islands,18174,146
 Solomon Islands,21237,149
 Solomon Islands,21237,149
+Solomon Islands,21544,153
 Solomon Islands,21544,153
 Solomon Islands,21544,153
 Solomon Islands,21544,153
@@ -23943,6 +24106,7 @@ Somalia,27223,1361
 Somalia,27223,1361
 Somalia,27225,1361
 Somalia,27237,1361
+Somalia,27254,1361
 South Africa,0,0
 South Africa,0,0
 South Africa,0,0
@@ -24089,6 +24253,7 @@ South Africa,4021386,102194
 South Africa,4023732,102246
 South Africa,4026068,102257
 South Africa,4028308,102311
+South Africa,4030660,102363
 South Korea,1,0
 South Korea,4,0
 South Korea,15,0
@@ -24235,6 +24400,7 @@ South Korea,24995246,28708
 South Korea,25164695,28856
 South Korea,25355350,29017
 South Korea,25615667,29209
+South Korea,25919183,29420
 South Sudan,0,0
 South Sudan,0,0
 South Sudan,0,0
@@ -24381,6 +24547,7 @@ South Sudan,17823,138
 South Sudan,17823,138
 South Sudan,17823,138
 South Sudan,17823,138
+South Sudan,18325,138
 Spain,0,0
 Spain,0,0
 Spain,1,0
@@ -24527,6 +24694,7 @@ Spain,13441941,114468
 Spain,13462593,114641
 Spain,13488015,114858
 Spain,13511768,115078
+Spain,13529643,115239
 Sri Lanka,0,0
 Sri Lanka,1,0
 Sri Lanka,1,0
@@ -24673,6 +24841,7 @@ Sri Lanka,670873,16768
 Sri Lanka,670929,16769
 Sri Lanka,671003,16774
 Sri Lanka,671087,16780
+Sri Lanka,671334,16782
 Sudan,0,0
 Sudan,0,0
 Sudan,0,0
@@ -24819,6 +24988,7 @@ Sudan,63344,4962
 Sudan,63449,4964
 Sudan,63449,4966
 Sudan,63481,4972
+Sudan,63518,4972
 Summer Olympics 2020,0,0
 Summer Olympics 2020,0,0
 Summer Olympics 2020,0,0
@@ -24905,6 +25075,7 @@ Summer Olympics 2020,567,0
 Summer Olympics 2020,690,0
 Summer Olympics 2020,777,0
 Summer Olympics 2020,855,0
+Summer Olympics 2020,865,0
 Summer Olympics 2020,865,0
 Summer Olympics 2020,865,0
 Summer Olympics 2020,865,0
@@ -25111,6 +25282,7 @@ Suriname,81114,1385
 Suriname,81131,1385
 Suriname,81158,1386
 Suriname,81185,1390
+Suriname,81228,1392
 Sweden,0,0
 Sweden,0,0
 Sweden,1,0
@@ -25257,6 +25429,7 @@ Sweden,2601153,20274
 Sweden,2604866,20438
 Sweden,2608289,20562
 Sweden,2611580,20659
+Sweden,2614997,20753
 Switzerland,0,0
 Switzerland,0,0
 Switzerland,0,0
@@ -25403,6 +25576,7 @@ Switzerland,4129096,14019
 Switzerland,4164685,14025
 Switzerland,4201711,14046
 Switzerland,4232022,14065
+Switzerland,4255891,14085
 Syria,0,0
 Syria,0,0
 Syria,0,0
@@ -25549,6 +25723,7 @@ Syria,57325,3163
 Syria,57337,3163
 Syria,57348,3163
 Syria,57360,3163
+Syria,57371,3163
 Taiwan,1,0
 Taiwan,5,0
 Taiwan,10,0
@@ -25695,6 +25870,7 @@ Taiwan,6903610,11584
 Taiwan,7212738,11961
 Taiwan,7476478,12385
 Taiwan,7712726,12831
+Taiwan,7904094,13232
 Tajikistan,0,0
 Tajikistan,0,0
 Tajikistan,0,0
@@ -25804,6 +25980,7 @@ Tajikistan,17578,125
 Tajikistan,17706,125
 Tajikistan,17745,125
 Tajikistan,17773,125
+Tajikistan,17786,125
 Tajikistan,17786,125
 Tajikistan,17786,125
 Tajikistan,17786,125
@@ -25987,6 +26164,7 @@ Tanzania,39513,845
 Tanzania,39679,845
 Tanzania,39804,845
 Tanzania,39920,845
+Tanzania,40054,845
 Thailand,4,0
 Thailand,8,0
 Thailand,19,0
@@ -26133,6 +26311,7 @@ Thailand,4685047,32829
 Thailand,4687281,32882
 Thailand,4689897,32922
 Thailand,4692448,32955
+Thailand,4695207,32995
 Timor,0,0
 Timor,0,0
 Timor,0,0
@@ -26279,6 +26458,7 @@ Timor,23272,138
 Timor,23288,138
 Timor,23300,138
 Timor,23301,138
+Timor,23305,138
 Togo,0,0
 Togo,0,0
 Togo,0,0
@@ -26425,6 +26605,7 @@ Togo,39199,286
 Togo,39256,287
 Togo,39284,289
 Togo,39299,290
+Togo,39312,290
 Tonga,0,0
 Tonga,0,0
 Tonga,0,0
@@ -26562,6 +26743,7 @@ Tonga,12836,12
 Tonga,13405,12
 Tonga,14135,12
 Tonga,15235,12
+Tonga,16182,12
 Tonga,16182,12
 Tonga,16182,12
 Tonga,16182,12
@@ -26717,6 +26899,7 @@ Trinidad and Tobago,183824,4224
 Trinidad and Tobago,184261,4235
 Trinidad and Tobago,184524,4241
 Trinidad and Tobago,184713,4249
+Trinidad and Tobago,184854,4255
 Tunisia,0,0
 Tunisia,0,0
 Tunisia,0,0
@@ -26863,6 +27046,7 @@ Tunisia,1145829,29254
 Tunisia,1145930,29254
 Tunisia,1146044,29257
 Tunisia,1146152,29257
+Tunisia,1146593,29259
 Turkey,0,0
 Turkey,0,0
 Turkey,0,0
@@ -27009,6 +27193,7 @@ Turkey,16919638,101203
 Turkey,16919638,101203
 Turkey,16919638,101203
 Turkey,16919638,101203
+Turkey,16919638,101203
 Tuvalu,0,0
 Tuvalu,0,0
 Tuvalu,0,0
@@ -27153,6 +27338,7 @@ Tuvalu,20,0
 Tuvalu,20,0
 Tuvalu,20,0
 Tuvalu,20,0
+Tuvalu,23,0
 Tuvalu,23,0
 Tuvalu,23,0
 Uganda,0,0
@@ -27301,6 +27487,7 @@ Uganda,169396,3630
 Uganda,169396,3630
 Uganda,169396,3630
 Uganda,169473,3630
+Uganda,169473,3630
 Ukraine,0,0
 Ukraine,0,0
 Ukraine,0,0
@@ -27447,6 +27634,7 @@ Ukraine,5480098,117050
 Ukraine,5560188,117475
 Ukraine,5583709,117687
 Ukraine,5601102,117881
+Ukraine,5617842,118070
 United Arab Emirates,0,0
 United Arab Emirates,0,0
 United Arab Emirates,5,0
@@ -27593,6 +27781,7 @@ United Arab Emirates,1031179,2346
 United Arab Emirates,1033158,2347
 United Arab Emirates,1035430,2348
 United Arab Emirates,1037636,2348
+United Arab Emirates,1039613,2348
 United Kingdom,0,0
 United Kingdom,0,0
 United Kingdom,8,2
@@ -27739,6 +27928,7 @@ United Kingdom,23957310,209667
 United Kingdom,24021790,209938
 United Kingdom,24079344,209938
 United Kingdom,24122922,209939
+United Kingdom,24155192,210680
 United States,1,0
 United States,5,0
 United States,11,0
@@ -27885,6 +28075,7 @@ United States,96716025,1062862
 United States,96982938,1065525
 United States,97243727,1068073
 United States,97503019,1070508
+United States,97780182,1072724
 Uruguay,0,0
 Uruguay,0,0
 Uruguay,0,0
@@ -28031,6 +28222,7 @@ Uruguay,986446,7495
 Uruguay,988527,7510
 Uruguay,989629,7515
 Uruguay,990560,7518
+Uruguay,991219,7526
 Uzbekistan,0,0
 Uzbekistan,0,0
 Uzbekistan,0,0
@@ -28177,6 +28369,7 @@ Uzbekistan,244334,1637
 Uzbekistan,244421,1637
 Uzbekistan,244500,1637
 Uzbekistan,244648,1637
+Uzbekistan,244827,1637
 Vanuatu,0,0
 Vanuatu,0,0
 Vanuatu,0,0
@@ -28323,6 +28516,7 @@ Vanuatu,11976,14
 Vanuatu,11976,14
 Vanuatu,11976,14
 Vanuatu,11981,14
+Vanuatu,11981,14
 Vatican,0,0
 Vatican,0,0
 Vatican,0,0
@@ -28428,6 +28622,7 @@ Vatican,27,0
 Vatican,27,0
 Vatican,27,0
 Vatican,27,0
+Vatican,29,0
 Vatican,29,0
 Vatican,29,0
 Vatican,29,0
@@ -28615,6 +28810,7 @@ Venezuela,544964,5818
 Venezuela,545323,5820
 Venezuela,545616,5820
 Venezuela,545899,5820
+Venezuela,546110,5823
 Vietnam,0,0
 Vietnam,2,0
 Vietnam,8,0
@@ -28761,6 +28957,7 @@ Vietnam,11487459,43153
 Vietnam,11493271,43157
 Vietnam,11497533,43161
 Vietnam,11502885,43163
+Vietnam,11506214,43166
 Winter Olympics 2022,0,0
 Winter Olympics 2022,0,0
 Winter Olympics 2022,0,0
@@ -28873,6 +29070,7 @@ Winter Olympics 2022,501,0
 Winter Olympics 2022,509,0
 Winter Olympics 2022,521,0
 Winter Olympics 2022,532,0
+Winter Olympics 2022,535,0
 Winter Olympics 2022,535,0
 Winter Olympics 2022,535,0
 Winter Olympics 2022,535,0
@@ -29053,6 +29251,7 @@ Yemen,11939,2158
 Yemen,11939,2158
 Yemen,11939,2158
 Yemen,11939,2158
+Yemen,11945,2159
 Zambia,0,0
 Zambia,0,0
 Zambia,0,0
@@ -29199,6 +29398,7 @@ Zambia,333624,4017
 Zambia,333644,4017
 Zambia,333644,4017
 Zambia,333681,4017
+Zambia,333685,4017
 Zimbabwe,0,0
 Zimbabwe,0,0
 Zimbabwe,0,0
@@ -29342,6 +29542,7 @@ Zimbabwe,257090,5598
 Zimbabwe,257342,5599
 Zimbabwe,257538,5603
 Zimbabwe,257749,5604
+Zimbabwe,257893,5606
 Zimbabwe,257893,5606
 Zimbabwe,257893,5606
 Zimbabwe,257893,5606
