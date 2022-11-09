@@ -54,7 +54,7 @@ def fetch_jhu_data(category: str) -> pd.Series:
         # Eliminate unnecessary columns
         data.drop(["Lat", "Long", "Province/State"], axis=1)
         # Get totals for each country
-        .groupby("Country/Region").sum()
+        .groupby("Country/Region").sum(numeric_only=True)
         # Remaining columns are all dates
         .rename_axis(columns="Date")
         # Pivot the index. This results in a Series with a MultiIndex having
@@ -96,13 +96,13 @@ def fetch_time_series_data() -> None:
     case_data["Date"] = pd.to_datetime(case_data["Date"])
 
     # Save last 30 daily differences
-    case_data.groupby("Date").sum().diff().tail(30).to_csv(
+    case_data.groupby("Date").sum(numeric_only=True).diff().tail(30).to_csv(
         DATA_DIR / "daily-differences.csv"
     )
     # Aggregate weekly to reduce file size. Select values at start of week.
     case_data.groupby("Country/Region").resample(
         "1W", on="Date"
-    ).first().to_csv(DATA_DIR / "time-series-data.csv", index=False)
+    ).first().droplevel(0).to_csv(DATA_DIR / "time-series-data.csv")
 
 
 @lru_cache(maxsize=2)
