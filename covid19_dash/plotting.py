@@ -25,9 +25,8 @@ def plot_value(
             mode="number+delta",
             value=current_value,
             delta=dict(
-                relative=True,
                 reference=current_value - delta,
-                valueformat=".3%",
+                valueformat=",.0f",
             ),
             title={"text": title, "font_size": 17},
             number={"valueformat": ",.0f", "font": {"color": color}},
