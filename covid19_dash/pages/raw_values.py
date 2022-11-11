@@ -1,7 +1,8 @@
 import dash
-from covid19_dash.data import load_latest_day_data
 from dash import Input, Output, callback, dash_table, dcc, html
 from dash.dash_table.Format import Format
+
+from covid19_dash.data import load_latest_day_data
 
 dash.register_page(__name__, title="Raw Values")
 
@@ -22,7 +23,7 @@ layout = html.Div(
     [
         html.H1("Table of Values"),
         # Introductory text
-        dcc.Markdown(DATA_INTRO_TEXT),
+        dcc.Markdown(DATA_INTRO_TEXT, className="data-description"),
         # Data table
         html.Div(
             className="raw-data-table",
@@ -49,10 +50,20 @@ layout = html.Div(
                         {"column_id": "Total Cases", "direction": "desc"}
                     ],
                     style_cell={
-                        "whiteSpace": "normal",
+                        "border": "1px solid #555",
                         "height": "auto",
+                        "whiteSpace": "normal",
                     },
-                    sort_action="native",
+                    style_data={
+                        "backgroundColor": "#236",
+                        "border": "1px solid #555",
+                        "color": "#ddd",
+                    },
+                    style_header={
+                        "backgroundColor": "#236",
+                        "color": "#ddd",
+                        "fontWeight": 600,
+                    },
                 )
             ],
         ),
@@ -69,8 +80,12 @@ layout = html.Div(
         html.Div(
             className="page-link",
             children=[
-                dcc.Link("Compare Countries", href="/compare-countries"),
-                dcc.Link("Global Dashboard", href="/"),
+                dcc.Link(
+                    "Compare Countries",
+                    href="/compare-countries",
+                    refresh=True,
+                ),
+                dcc.Link("Global Dashboard", href="/", refresh=True),
             ],
         ),
     ]

@@ -1,5 +1,6 @@
 body {
-    background-color: #f0ffff;
+    background-color: #236;
+    color: #ddd;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 5%;
     text-align: center;
@@ -13,6 +14,9 @@ h1 {
     margin: 40px 0px;
 }
 
+.data-description a {
+    color: skyblue;
+}
 .metrics-container {
     margin: auto;
     width: 240px;
@@ -114,4 +118,33 @@ button {
     #global-choropleth-map {
         height: 65vh;
     }
+}
+
+/* Customize plotly components */
+.Select {
+    color: #ccc;
+}
+
+.Select-control {
+    background-color: #347;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.is-open>.Select-control {
+    background: #347;
+    border-color: #ccc;
+}
+
+.is-focused:not(.is-open)>.Select-control {
+    border-color: #ccc;
+}
+
+.Select-menu-outer {
+    background-color: #347;
+    border: 1px solid #ddd;
+}
+
+.Select-value-label {
+    color: #ddd !important;
 }

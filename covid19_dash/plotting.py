@@ -33,11 +33,11 @@ def plot_value(
         )
     )
     fig.update_layout(
-        font_color="#333",
+        font_color="#ddd",
         font_family="serif",
         height=150,
         margin={"l": 20, "r": 20, "t": 50, "b": 20},
-        paper_bgcolor="#f0ffff",
+        paper_bgcolor="#236",
         width=240,
     )
     return fig
@@ -72,20 +72,20 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
             marker={"size": 5, "color": color, "symbol": "diamond"},
             mode="markers+text",
             text=f"{data.iloc[-1]:,.0f}",
-            textfont={"size": 9},
+            textfont={"size": 10},
             textposition="middle right",
             showlegend=False,
         )
     )
-    fig.update_xaxes(fixedrange=True, tickfont={"size": 9})
+    fig.update_xaxes(fixedrange=True, tickfont={"size": 9}, showgrid=False)
     fig.update_yaxes(visible=False, fixedrange=True)
     fig.update_layout(
-        font_color="#333",
+        font_color="#ddd",
         font_family="serif",
         height=140,
         margin={"l": 0, "r": 35, "t": 50, "b": 0},
-        paper_bgcolor="#f0ffff",
-        plot_bgcolor="#f0ffff",
+        paper_bgcolor="#236",
+        plot_bgcolor="#236",
         title=title,
         title_x=0.5,
         width=240,
@@ -118,17 +118,17 @@ def plot_gauge_chart(
             gauge={
                 "axis": {"range": [None, reference]},
                 "bar": {"color": color},
-                "bgcolor": "#f0ffff",
+                "bgcolor": "#236",
             },
             title={"text": title, "font": {"size": 17}},
         )
     )
     fig.update_layout(
-        font_color="#333",
+        font_color="#ddd",
         font_family="serif",
         height=250,
         margin={"l": 20, "r": 0, "t": 20, "b": 0},
-        paper_bgcolor="#f0ffff",
+        paper_bgcolor="#236",
         title_x=0.5,
         width=250,
     )
@@ -152,7 +152,7 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         "New Cases",
         "Total Deaths",
     }:
-        colors = ["silver", "gold", "#f51"]
+        colors = ["#236", "gold", "#f51"]
     elif category in {
         "People Fully Vaccinated",
         "People Fully Vaccinated Per Hundred",
@@ -160,9 +160,9 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         "Total Vaccinations",
         "Life Expectancy",
     }:
-        colors = ["silver", "#fe7", "lime"]
+        colors = ["#236", "#fe7", "lime"]
     elif category in {"Aged 70 Older", "Diabetes Prevalence"}:
-        colors = ["silver", "#227"]
+        colors = ["#236", "#227"]
     fig = px.choropleth(
         data,
         locations="Location",
@@ -171,21 +171,17 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         color_continuous_scale=colors,
         title=f"<i>{category}</i> as at {date}",
     )
-    fig.update_geos(
-        bgcolor="#f0ffff",
-        fitbounds="locations",
-        showframe=False,
-        resolution=110,
-    )
     fig.update_layout(
-        font_color="#333",
+        font_color="#ddd",
         font_family="serif",
-        paper_bgcolor="#f0ffff",
+        paper_bgcolor="#236",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},
         dragmode=False,
     )
     fig.update_traces(
-        hovertemplate=(f"<b>%{{location}}</b><br>{category}: <b>%{{z:,}}</b>")
+        hovertemplate=(f"<b>%{{location}}</b><br>{category}: <b>%{{z:,}}</b>"),
+        marker_line_color="#777",
+        marker_line_width=0.5,
     )
     fig.update_coloraxes(
         colorbar=dict(
@@ -195,6 +191,12 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
             tickfont_size=9,
             title_text="",
         )
+    )
+    fig.update_geos(
+        bgcolor="#236",
+        fitbounds="locations",
+        showframe=False,
+        resolution=110,
     )
     return fig
 
@@ -219,10 +221,10 @@ def plot_column_chart(data: DataFrame, metric: str) -> go.Figure:
         title=metric,
     )
     fig.update_layout(
-        font_color="#333",
+        font_color="#ddd",
         font_family="serif",
-        paper_bgcolor="#f0ffff",
-        plot_bgcolor="#f0ffff",
+        paper_bgcolor="#236",
+        plot_bgcolor="#236",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},
         uniformtext_minsize=8,
     )
@@ -235,7 +237,7 @@ def plot_column_chart(data: DataFrame, metric: str) -> go.Figure:
     fig.update_xaxes(
         categoryorder="total descending", fixedrange=True, visible=False
     )
-    fig.update_yaxes(fixedrange=True)
+    fig.update_yaxes(fixedrange=True, gridcolor="#444")
     return fig
 
 
@@ -251,17 +253,15 @@ def plot_lines(data: DataFrame, category: str) -> go.Figure:
     """
     fig = px.line(data, x="Date", y=category, color="Country/Region")
     fig.update_layout(
-        font_color="#333",
+        font_color="#ddd",
         font_family="serif",
         hovermode="x unified",
         legend_font_size=11,
-        paper_bgcolor="#f0ffff",
-        plot_bgcolor="#f0ffff",
+        paper_bgcolor="#236",
+        plot_bgcolor="#236",
         margin={"l": 0, "r": 0, "t": 50, "b": 0},
     )
     fig.update_traces(hovertemplate="<i>%{x}</i><br><b>%{y:,}</b>")
-    fig.update_xaxes(
-        fixedrange=True,
-    )
-    fig.update_yaxes(fixedrange=True)
+    fig.update_xaxes(fixedrange=True, showgrid=False)
+    fig.update_yaxes(fixedrange=True, gridcolor="#444")
     return fig

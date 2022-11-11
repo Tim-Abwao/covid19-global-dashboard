@@ -1,8 +1,9 @@
 import dash
-from covid19_dash import plotting
-from covid19_dash.data import load_30_day_diff, load_latest_day_data
 from dash import Input, Output, callback, dcc, html
 from plotly.graph_objects import Figure
+
+from covid19_dash import plotting
+from covid19_dash.data import load_30_day_diff, load_latest_day_data
 
 dash.register_page(__name__, path="/", title="COVID-19 Dashboard")
 
@@ -56,9 +57,13 @@ layout = html.Div(
                     className="page-link",
                     children=[
                         dcc.Link(
-                            "Compare Countries", href="/compare-countries"
+                            "Compare Countries",
+                            href="/compare-countries",
+                            refresh=True,
                         ),
-                        dcc.Link("View Data", href="/raw-values"),
+                        dcc.Link(
+                            "View Data", href="/raw-values", refresh=True
+                        ),
                     ],
                 ),
             ],
@@ -86,13 +91,13 @@ def plot_metrics(category: str) -> list:
         current_value=latest_data["Total Cases"].sum(),
         delta=daily_diff["Confirmed"].iloc[-1],
         title="Total Cases",
-        color="#227",
+        color="#d43",
     )
     new_cases_sparkline = plotting.plot_spark_line(
-        daily_diff["Confirmed"], color="#f51", title="New Cases"
+        daily_diff["Confirmed"], color="#35d", title="New Cases"
     )
     new_deaths = plotting.plot_spark_line(
-        daily_diff["Deaths"], color="#555", title="Deaths"
+        daily_diff["Deaths"], color="#080808", title="Deaths"
     )
     vaccination_gauge = plotting.plot_gauge_chart(
         value=latest_data["People Fully Vaccinated"].sum(),

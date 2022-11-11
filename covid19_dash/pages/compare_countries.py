@@ -71,8 +71,8 @@ layout = html.Div(
         html.Div(
             className="page-link",
             children=[
-                dcc.Link("Global Dashboard", href="/"),
-                dcc.Link("View Data", href="/raw-values"),
+                dcc.Link("Global Dashboard", href="/", refresh=True),
+                dcc.Link("View Data", href="/raw-values", refresh=True),
             ],
         ),
     ]
