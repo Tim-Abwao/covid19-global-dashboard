@@ -44,6 +44,10 @@ layout = html.Div(
                     ],
                     data=data.to_dict("records"),
                     page_size=25,
+                    sort_action="native",
+                    sort_by=[
+                        {"column_id": "Total Cases", "direction": "desc"}
+                    ],
                     style_cell={
                         "whiteSpace": "normal",
                         "height": "auto",
