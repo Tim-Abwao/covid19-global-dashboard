@@ -33,7 +33,7 @@ def plot_value(
         )
     )
     fig.update_layout(
-        font_color="#ddd",
+        font_color=color,
         font_family="serif",
         height=150,
         margin={"l": 20, "r": 20, "t": 50, "b": 20},
@@ -80,7 +80,7 @@ def plot_spark_line(data: Series, color: str, title: str) -> go.Figure:
     fig.update_xaxes(fixedrange=True, tickfont={"size": 9}, showgrid=False)
     fig.update_yaxes(visible=False, fixedrange=True)
     fig.update_layout(
-        font_color="#ddd",
+        font_color=color,
         font_family="serif",
         height=140,
         margin={"l": 0, "r": 35, "t": 50, "b": 0},
@@ -97,7 +97,7 @@ def plot_gauge_chart(
     value: int | float,
     reference: int | float,
     title: str,
-    color: str = "steelblue",
+    color: str,
 ) -> go.Figure:
     """Get a gauge-plot.
 
@@ -105,7 +105,7 @@ def plot_gauge_chart(
         value (int | float): Current value.
         reference (int | float): Target value.
         title (str): Chart title.
-        color (str, optional): Gauge color. Defaults to "steelblue".
+        color (str, optional): Gauge color.
 
     Returns:
         plotly.graph_objs._figure.Figure: Gauge plot.
@@ -124,7 +124,7 @@ def plot_gauge_chart(
         )
     )
     fig.update_layout(
-        font_color="#ddd",
+        font_color=color,
         font_family="serif",
         height=250,
         margin={"l": 20, "r": 0, "t": 20, "b": 0},
@@ -152,7 +152,7 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         "New Cases",
         "Total Deaths",
     }:
-        colors = ["#236", "gold", "#f51"]
+        colors = ["#236", "#fe7", "#f55"]
     elif category in {
         "People Fully Vaccinated",
         "People Fully Vaccinated Per Hundred",
@@ -162,7 +162,7 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
     }:
         colors = ["#236", "#fe7", "lime"]
     elif category in {"Aged 70 Older", "Diabetes Prevalence"}:
-        colors = ["#236", "#227"]
+        colors = ["#236", "#99f"]
     fig = px.choropleth(
         data,
         locations="Location",
@@ -180,7 +180,7 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
     )
     fig.update_traces(
         hovertemplate=(f"<b>%{{location}}</b><br>{category}: <b>%{{z:,}}</b>"),
-        marker_line_color="#777",
+        marker_line_color="#aaa",
         marker_line_width=0.5,
     )
     fig.update_coloraxes(

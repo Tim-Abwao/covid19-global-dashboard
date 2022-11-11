@@ -91,18 +91,19 @@ def plot_metrics(category: str) -> list:
         current_value=latest_data["Total Cases"].sum(),
         delta=daily_diff["Confirmed"].iloc[-1],
         title="Total Cases",
-        color="#d43",
+        color="#f77",
     )
     new_cases_sparkline = plotting.plot_spark_line(
-        daily_diff["Confirmed"], color="#35d", title="New Cases"
+        daily_diff["Confirmed"], color="#bbf", title="New Cases"
     )
     new_deaths = plotting.plot_spark_line(
-        daily_diff["Deaths"], color="#080808", title="Deaths"
+        daily_diff["Deaths"], color="#aaa", title="Deaths"
     )
     vaccination_gauge = plotting.plot_gauge_chart(
         value=latest_data["People Fully Vaccinated"].sum(),
         reference=latest_data["Population"].sum(),
         title="People Fully Vaccinated",
+        color="#7b7",
     )
     totals = [
         dcc.Loading(
