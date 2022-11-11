@@ -38,7 +38,7 @@ h1 {
     width: 100%;
 }
 
-.page-link a {
+.page-link a, .custom-button {
     display: inline-block;
     font-size: 0.9em;
     background-color: slategrey;
@@ -57,7 +57,7 @@ h1 {
 }
 
 button {
-    padding: 7px 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 @media only screen and (min-width: 768px) {

@@ -71,7 +71,11 @@ layout = html.Div(
         html.Div(
             style={"margin": "5%"},
             children=[
-                html.Button("Download (Excel)", id="download-button"),
+                html.Button(
+                    "Download data",
+                    id="download-button",
+                    className="custom-button",
+                ),
                 dcc.Download(
                     id="download-dataset", type="application/vnd.ms-excel"
                 ),
