@@ -3,6 +3,7 @@
 Track COVID-19 cases worldwide.
 
 [![Update Datasets](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml/badge.svg)](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/data.yml)
+[![python3.10](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/test.yml/badge.svg)](https://github.com/Tim-Abwao/covid19-global-dashboard/actions/workflows/test.yml)
 
 1. View global metrics:
 
