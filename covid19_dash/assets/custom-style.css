@@ -41,9 +41,9 @@ h1 {
 .page-link a, .custom-button {
     display: inline-block;
     font-size: 0.9em;
-    background-color: slategrey;
+    background-color: #77a;
     border-radius: 4px;
-    color: #fff;
+    color: #ddd;
     margin: 4%;
     justify-content: center;
     padding: 15px;

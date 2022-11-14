@@ -151,8 +151,10 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         "Total Cases Per Million",
         "New Cases",
         "Total Deaths",
+        "Aged 70 Older",
+        "Diabetes Prevalence",
     }:
-        colors = ["#236", "#fe7", "#f55"]
+        colors = ["#236", "#fe7", "#f77"]
     elif category in {
         "People Fully Vaccinated",
         "People Fully Vaccinated Per Hundred",
@@ -160,9 +162,8 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
         "Total Vaccinations",
         "Life Expectancy",
     }:
-        colors = ["#236", "#fe7", "lime"]
-    elif category in {"Aged 70 Older", "Diabetes Prevalence"}:
-        colors = ["#236", "#99f"]
+        colors = ["#236", "#fe7", "#2b2"]
+
     fig = px.choropleth(
         data,
         locations="Location",
@@ -180,7 +181,7 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
     )
     fig.update_traces(
         hovertemplate=(f"<b>%{{location}}</b><br>{category}: <b>%{{z:,}}</b>"),
-        marker_line_color="#aaa",
+        marker_line_color="#777",
         marker_line_width=0.5,
     )
     fig.update_coloraxes(
