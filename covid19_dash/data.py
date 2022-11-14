@@ -22,7 +22,8 @@ TODAY = date.today()
 
 
 def fetch_latest_data() -> None:
-    """Get COVID-19 data from the "Our World in Data" public GitHub repo."""
+    """Collect COVID-19 & health-related data from the "Our World in Data"
+    public GitHub repo, and save it locally."""
     print("Fetching latest data...")
     data = pd.read_csv(OWID_URL)
 
@@ -40,14 +41,14 @@ def fetch_latest_data() -> None:
 
 
 def fetch_jhu_data(category: str) -> pd.Series:
-    """Get global covid-19 data for the given `category` from the JHU CSSE
-    COVID-19 repository.
+    """Get COVID-19 time-series data for the given `category` from the JHU
+    CSSE COVID-19 repository.
 
     Args:
-        category (str): The information to fetch.
+        category (str): Info to fetch, either "confirmed" or "deaths".
 
     Returns:
-        pandas.Series: Data for the specified category.
+        pandas.Series: Data for the specified `category`.
     """
     data = pd.read_csv(f"{JHU_URL}_{category}_global.csv")
     data = (
@@ -67,7 +68,9 @@ def fetch_jhu_data(category: str) -> pd.Series:
 
 
 def fetch_time_series_data() -> None:
-    """Get "confirmed" and "deaths" info from JHU CSSE."""
+    """Gather "confirmed" and "deaths" time-series data from JHU CSSE, compute
+    differences for the last 30 days; and persist both locally.
+    """
     print("Fetching time series info...")
     case_data = pd.concat(
         [fetch_jhu_data(category) for category in ("confirmed", "deaths")],

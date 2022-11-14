@@ -202,11 +202,11 @@ def plot_global_map(data: DataFrame, category: str, date: str) -> go.Figure:
 
 
 def plot_column_chart(data: DataFrame, metric: str) -> go.Figure:
-    """Get a comparative column chart.
+    """Get a column chart.
 
     Args:
         data (pandas.DataFrame): Values to plot.
-        metric (str): Column to plot.
+        metric (str): Info to plot.
 
     Returns:
         plotly.graph_objs._figure.Figure: Column chart.
@@ -246,7 +246,7 @@ def plot_lines(data: DataFrame, category: str) -> go.Figure:
 
     Args:
         data (pandas.DataFrame): Values to plot.
-        category (str): Column to plot.
+        category (str): Info to plot.
 
     Returns:
         plotly.graph_objs._figure.Figure: Line-plot.

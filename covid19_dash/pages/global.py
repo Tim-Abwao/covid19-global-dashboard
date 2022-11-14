@@ -74,8 +74,8 @@ layout = html.Div(
 
 @callback(Output("totals", "children"), Input("column-selector", "value"))
 def plot_metrics(category: str) -> list:
-    """Create cards, spark-lines of new cases and a gauge chart of
-    vaccinations.
+    """Create a card with total cases, spark-lines of new cases & deaths, and
+    a gauge chart of people fully vaccinated.
 
     Args:
         category (str): The info to plot.
@@ -124,7 +124,7 @@ def plot_metrics(category: str) -> list:
     Input("column-selector", "value"),
 )
 def plot_map(category: str) -> tuple[list, Figure]:
-    """Create a choropleth map.
+    """Create a choropleth map showing `category`s distribution globally.
 
     Args:
         category (str): The info to plot.

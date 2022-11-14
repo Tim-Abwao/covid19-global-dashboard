@@ -84,7 +84,7 @@ layout = html.Div(
     [Input("countries", "value"), Input("info-category", "value")],
 )
 def plot_lineplots(countries: list, category: str) -> Figure:
-    """Get a line-plot of `category` values for various countries.
+    """Get a line-plot of `category` for specified `countries`.
 
     Args:
         countries (list): Selected countries.
@@ -105,7 +105,7 @@ def plot_lineplots(countries: list, category: str) -> Figure:
     Input("countries", "value"),
 )
 def plot_column_charts(countries: list) -> list[Figure]:
-    """Get a barplot, and column-charts for each of the supplied countries.
+    """Get column-charts of metrics from the supplied `countries`.
 
     Args:
         countries (list): Selected countries.
