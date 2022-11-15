@@ -7,13 +7,15 @@ Track COVID-19 cases worldwide.
 
 1. View global metrics:
 
-    [![global screencast](screencasts/global.gif)][live_app]
+   ![global screencast](screencasts/global.gif)
 
-2. Compare the situation among Countries:
+2. Compare the situation among countries:
 
-    [![countries screencast](screencasts/countries.gif)][live_app]
+   ![countries screencast](screencasts/countries.gif)
 
-Built with [Dash][dash].
+Built with [Dash][dash]. [Available online][live_app] for free courtesy of [Render][render].
+
+>**NOTE:** Free-hosted apps might take a while to load since they are shut down when not in use.
 
 The data is obtained from:
 
@@ -23,8 +25,6 @@ The data is obtained from:
 ## Running Locally
 
 > **NOTE:** Requires **python3.10 and above**
-
-### I. Virtual environment
 
 1. Download the code, and create a virtual environment:
 
@@ -48,21 +48,10 @@ The data is obtained from:
     waitress-serve covid19_dash:server
     ```
 
-    Afterwards, browse to <http://localhost:8080>.
-
-### II. Docker
-
-Fetch the image from [Docker Hub][docker-hub]:
-
-```bash
-docker pull abwao/covid19-dash:latest
-docker run --rm -p 8080:8080 --name covid19-dashboard abwao/covid19-dash
-```
-
 Afterwards, browse to <http://localhost:8080>.
 
 [dash]: https://plotly.com/dash/
 [owid]: https://github.com/owid/covid-19-data/tree/master/public/data
 [jhucsse]: https://github.com/CSSEGISandData/COVID-19
-[live_app]: https://covid19-global-dash.herokuapp.com/
-[docker-hub]: https://hub.docker.com/r/abwao/covid19-dash
+[render]: https://render.com/
+[live_app]: https://covid19-global-dashboard.onrender.com/
