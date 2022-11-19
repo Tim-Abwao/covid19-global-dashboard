@@ -60,6 +60,15 @@ layout = html.Div(
                         "border": "1px solid #555",
                         "color": "#ddd",
                     },
+                    style_data_conditional=[
+                        {
+                            "if": {"state": "selected"},
+                            "backgroundColor": "#347",
+                            "border": "1px solid #ddf",
+                            "borderRadius": "2px",
+                            "color": "#ddd",
+                        }
+                    ],
                     style_header={
                         "backgroundColor": "#236",
                         "color": "#ddd",
