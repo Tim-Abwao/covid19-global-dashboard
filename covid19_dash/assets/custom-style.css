@@ -148,3 +148,7 @@ button {
 .Select-value-label {
     color: #ddd !important;
 }
+
+.dash-spreadsheet.dash-freeze-left {
+    max-width: none !important;
+}

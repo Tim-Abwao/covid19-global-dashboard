@@ -44,6 +44,7 @@ layout = html.Div(
                         ],
                     ],
                     data=data.to_dict("records"),
+                    fixed_columns={"headers": True, "data": 1},
                     page_size=25,
                     sort_action="native",
                     sort_by=[
