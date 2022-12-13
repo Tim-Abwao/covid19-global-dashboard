@@ -150,6 +150,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Afghanistan,205229,7832
 2022-12-04,Afghanistan,205802,7833
 2022-12-11,Afghanistan,206273,7835
+2022-12-18,Afghanistan,206702,7840
 2020-01-26,Albania,0,0
 2020-02-02,Albania,0,0
 2020-02-09,Albania,0,0
@@ -301,6 +302,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Albania,333257,3594
 2022-12-04,Albania,333330,3594
 2022-12-11,Albania,333413,3594
+2022-12-18,Albania,333535,3594
 2020-01-26,Algeria,0,0
 2020-02-02,Algeria,0,0
 2020-02-09,Algeria,0,0
@@ -452,6 +454,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Algeria,271028,6881
 2022-12-04,Algeria,271079,6881
 2022-12-11,Algeria,271113,6881
+2022-12-18,Algeria,271147,6881
 2020-01-26,Andorra,0,0
 2020-02-02,Andorra,0,0
 2020-02-09,Andorra,0,0
@@ -603,6 +606,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Andorra,46824,156
 2022-12-04,Andorra,46824,156
 2022-12-11,Andorra,47219,157
+2022-12-18,Andorra,47446,158
 2020-01-26,Angola,0,0
 2020-02-02,Angola,0,0
 2020-02-09,Angola,0,0
@@ -754,6 +758,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Angola,103131,1917
 2022-12-04,Angola,104491,1923
 2022-12-11,Angola,104750,1925
+2022-12-18,Angola,104808,1925
 2020-01-26,Antarctica,0,0
 2020-02-02,Antarctica,0,0
 2020-02-09,Antarctica,0,0
@@ -905,6 +910,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Antarctica,11,0
 2022-12-04,Antarctica,11,0
 2022-12-11,Antarctica,11,0
+2022-12-18,Antarctica,11,0
 2020-01-26,Antigua and Barbuda,0,0
 2020-02-02,Antigua and Barbuda,0,0
 2020-02-09,Antigua and Barbuda,0,0
@@ -1056,6 +1062,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Antigua and Barbuda,9106,146
 2022-12-04,Antigua and Barbuda,9106,146
 2022-12-11,Antigua and Barbuda,9106,146
+2022-12-18,Antigua and Barbuda,9106,146
 2020-01-26,Argentina,0,0
 2020-02-02,Argentina,0,0
 2020-02-09,Argentina,0,0
@@ -1207,6 +1214,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Argentina,9723924,130017
 2022-12-04,Argentina,9727247,130025
 2022-12-11,Argentina,9739856,130034
+2022-12-18,Argentina,9766975,130041
 2020-01-26,Armenia,0,0
 2020-02-02,Armenia,0,0
 2020-02-09,Armenia,0,0
@@ -1358,6 +1366,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Armenia,445631,8709
 2022-12-04,Armenia,445737,8710
 2022-12-11,Armenia,445828,8712
+2022-12-18,Armenia,445881,8712
 2020-01-26,Australia,0,0
 2020-02-02,Australia,5,0
 2020-02-09,Australia,12,0
@@ -1509,6 +1518,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Australia,10564087,16007
 2022-12-04,Australia,10653896,16119
 2022-12-11,Australia,10759272,16264
+2022-12-18,Australia,10866876,16482
 2020-01-26,Austria,0,0
 2020-02-02,Austria,0,0
 2020-02-09,Austria,0,0
@@ -1660,6 +1670,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Austria,5520300,21144
 2022-12-04,Austria,5550575,21189
 2022-12-11,Austria,5583979,21232
+2022-12-18,Austria,5616644,21265
 2020-01-26,Azerbaijan,0,0
 2020-02-02,Azerbaijan,0,0
 2020-02-09,Azerbaijan,0,0
@@ -1811,6 +1822,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Azerbaijan,823975,9973
 2022-12-04,Azerbaijan,824245,9976
 2022-12-11,Azerbaijan,824512,9983
+2022-12-18,Azerbaijan,824879,9987
 2020-01-26,Bahamas,0,0
 2020-02-02,Bahamas,0,0
 2020-02-09,Bahamas,0,0
@@ -1962,6 +1974,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bahamas,37453,833
 2022-12-04,Bahamas,37476,833
 2022-12-11,Bahamas,37491,833
+2022-12-18,Bahamas,37491,833
 2020-01-26,Bahrain,0,0
 2020-02-02,Bahrain,0,0
 2020-02-09,Bahrain,0,0
@@ -2113,6 +2126,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bahrain,695133,1534
 2022-12-04,Bahrain,696061,1536
 2022-12-11,Bahrain,696851,1536
+2022-12-18,Bahrain,697461,1536
 2020-01-26,Bangladesh,0,0
 2020-02-02,Bangladesh,0,0
 2020-02-09,Bangladesh,0,0
@@ -2264,6 +2278,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bangladesh,2036393,29431
 2022-12-04,Bangladesh,2036556,29432
 2022-12-11,Bangladesh,2036663,29435
+2022-12-18,Bangladesh,2036825,29437
 2020-01-26,Barbados,0,0
 2020-02-02,Barbados,0,0
 2020-02-09,Barbados,0,0
@@ -2415,6 +2430,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Barbados,103545,564
 2022-12-04,Barbados,103955,564
 2022-12-11,Barbados,104416,567
+2022-12-18,Barbados,104416,567
 2020-01-26,Belarus,0,0
 2020-02-02,Belarus,0,0
 2020-02-09,Belarus,0,0
@@ -2566,6 +2582,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Belarus,994037,7118
 2022-12-04,Belarus,994037,7118
 2022-12-11,Belarus,994037,7118
+2022-12-18,Belarus,994037,7118
 2020-01-26,Belgium,0,0
 2020-02-02,Belgium,0,0
 2020-02-09,Belgium,0,0
@@ -2717,6 +2734,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Belgium,4627186,33021
 2022-12-04,Belgium,4636264,33057
 2022-12-11,Belgium,4644478,33086
+2022-12-18,Belgium,4654473,33133
 2020-01-26,Belize,0,0
 2020-02-02,Belize,0,0
 2020-02-09,Belize,0,0
@@ -2868,6 +2886,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Belize,68988,687
 2022-12-04,Belize,69048,688
 2022-12-11,Belize,69117,688
+2022-12-18,Belize,69376,688
 2020-01-26,Benin,0,0
 2020-02-02,Benin,0,0
 2020-02-09,Benin,0,0
@@ -3019,6 +3038,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Benin,27922,163
 2022-12-04,Benin,27922,163
 2022-12-11,Benin,27980,163
+2022-12-18,Benin,27980,163
 2020-01-26,Bhutan,0,0
 2020-02-02,Bhutan,0,0
 2020-02-09,Bhutan,0,0
@@ -3170,6 +3190,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bhutan,62488,21
 2022-12-04,Bhutan,62488,21
 2022-12-11,Bhutan,62512,21
+2022-12-18,Bhutan,62521,21
 2020-01-26,Bolivia,0,0
 2020-02-02,Bolivia,0,0
 2020-02-09,Bolivia,0,0
@@ -3321,6 +3342,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bolivia,1110190,22244
 2022-12-04,Bolivia,1110766,22246
 2022-12-11,Bolivia,1112501,22250
+2022-12-18,Bolivia,1120512,22253
 2020-01-26,Bosnia and Herzegovina,0,0
 2020-02-02,Bosnia and Herzegovina,0,0
 2020-02-09,Bosnia and Herzegovina,0,0
@@ -3472,6 +3494,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bosnia and Herzegovina,400340,16193
 2022-12-04,Bosnia and Herzegovina,400501,16201
 2022-12-11,Bosnia and Herzegovina,400601,16205
+2022-12-18,Bosnia and Herzegovina,400698,16215
 2020-01-26,Botswana,0,0
 2020-02-02,Botswana,0,0
 2020-02-09,Botswana,0,0
@@ -3623,6 +3646,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Botswana,326344,2790
 2022-12-04,Botswana,326373,2790
 2022-12-11,Botswana,328760,2790
+2022-12-18,Botswana,327061,2793
 2020-01-26,Brazil,0,0
 2020-02-02,Brazil,0,0
 2020-02-09,Brazil,0,0
@@ -3774,6 +3798,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Brazil,34999495,688907
 2022-12-04,Brazil,35149503,689442
 2022-12-11,Brazil,35396191,690229
+2022-12-18,Brazil,35643770,691015
 2020-01-26,Brunei,0,0
 2020-02-02,Brunei,0,0
 2020-02-09,Brunei,0,0
@@ -3925,6 +3950,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Brunei,248861,225
 2022-12-04,Brunei,253406,225
 2022-12-11,Brunei,257921,225
+2022-12-18,Brunei,261440,225
 2020-01-26,Bulgaria,0,0
 2020-02-02,Bulgaria,0,0
 2020-02-09,Bulgaria,0,0
@@ -4076,6 +4102,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Bulgaria,1285645,38010
 2022-12-04,Bulgaria,1286872,38033
 2022-12-11,Bulgaria,1287988,38053
+2022-12-18,Bulgaria,1289255,38067
 2020-01-26,Burkina Faso,0,0
 2020-02-02,Burkina Faso,0,0
 2020-02-09,Burkina Faso,0,0
@@ -4227,6 +4254,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Burkina Faso,21631,387
 2022-12-04,Burkina Faso,21631,387
 2022-12-11,Burkina Faso,21631,387
+2022-12-18,Burkina Faso,21631,387
 2020-01-26,Burundi,0,0
 2020-02-02,Burundi,0,0
 2020-02-09,Burundi,0,0
@@ -4378,6 +4406,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Burundi,50639,38
 2022-12-04,Burundi,50778,38
 2022-12-11,Burundi,51018,38
+2022-12-18,Burundi,51276,38
 2020-01-26,Cambodia,0,0
 2020-02-02,Cambodia,1,0
 2020-02-09,Cambodia,1,0
@@ -4529,6 +4558,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Cambodia,138032,3056
 2022-12-04,Cambodia,138073,3056
 2022-12-11,Cambodia,138157,3056
+2022-12-18,Cambodia,138276,3056
 2020-01-26,Cameroon,0,0
 2020-02-02,Cameroon,0,0
 2020-02-09,Cameroon,0,0
@@ -4680,6 +4710,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Cameroon,123993,1965
 2022-12-04,Cameroon,123993,1965
 2022-12-11,Cameroon,123993,1965
+2022-12-18,Cameroon,123993,1965
 2020-01-26,Canada,0,0
 2020-02-02,Canada,3,0
 2020-02-09,Canada,4,0
@@ -4831,6 +4862,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Canada,4421434,47717
 2022-12-04,Canada,4430558,47923
 2022-12-11,Canada,4453001,48297
+2022-12-18,Canada,4467899,48574
 2020-01-26,Cape Verde,0,0
 2020-02-02,Cape Verde,0,0
 2020-02-09,Cape Verde,0,0
@@ -4982,6 +5014,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Cape Verde,62828,410
 2022-12-04,Cape Verde,62991,412
 2022-12-11,Cape Verde,63085,412
+2022-12-18,Cape Verde,63130,412
 2020-01-26,Central African Republic,0,0
 2020-02-02,Central African Republic,0,0
 2020-02-09,Central African Republic,0,0
@@ -5133,6 +5166,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Central African Republic,15289,113
 2022-12-04,Central African Republic,15311,113
 2022-12-11,Central African Republic,15311,113
+2022-12-18,Central African Republic,15311,113
 2020-01-26,Chad,0,0
 2020-02-02,Chad,0,0
 2020-02-09,Chad,0,0
@@ -5284,6 +5318,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Chad,7641,194
 2022-12-04,Chad,7646,194
 2022-12-11,Chad,7647,194
+2022-12-18,Chad,7648,194
 2020-01-26,Chile,0,0
 2020-02-02,Chile,0,0
 2020-02-09,Chile,0,0
@@ -5435,6 +5470,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Chile,4880884,62211
 2022-12-04,Chile,4912805,62407
 2022-12-11,Chile,4939304,62587
+2022-12-18,Chile,4961151,62745
 2020-01-26,China,548,17
 2020-02-02,China,2877,82
 2020-02-09,China,19716,425
@@ -5586,6 +5622,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,China,3364415,15847
 2022-12-04,China,3627131,15957
 2022-12-11,China,3931982,16067
+2022-12-18,China,4146984,16225
 2020-01-26,Colombia,0,0
 2020-02-02,Colombia,0,0
 2020-02-09,Colombia,0,0
@@ -5737,6 +5774,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Colombia,6312657,141881
 2022-12-04,Colombia,6312657,141881
 2022-12-11,Colombia,6314107,141881
+2022-12-18,Colombia,6317010,141881
 2020-01-26,Comoros,0,0
 2020-02-02,Comoros,0,0
 2020-02-09,Comoros,0,0
@@ -5888,6 +5926,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Comoros,8941,161
 2022-12-04,Comoros,8941,161
 2022-12-11,Comoros,8968,161
+2022-12-18,Comoros,8977,161
 2020-01-26,Congo,0,0
 2020-02-02,Congo,0,0
 2020-02-09,Congo,0,0
@@ -6039,6 +6078,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Congo,25375,386
 2022-12-04,Congo,25375,386
 2022-12-11,Congo,25375,386
+2022-12-18,Congo,25375,386
 2020-01-26,Costa Rica,0,0
 2020-02-02,Costa Rica,0,0
 2020-02-09,Costa Rica,0,0
@@ -6190,6 +6230,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Costa Rica,1143597,9031
 2022-12-04,Costa Rica,1143597,9031
 2022-12-11,Costa Rica,1148914,9046
+2022-12-18,Costa Rica,1148914,9046
 2020-01-26,Cote d'Ivoire,0,0
 2020-02-02,Cote d'Ivoire,0,0
 2020-02-09,Cote d'Ivoire,0,0
@@ -6341,6 +6382,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Cote d'Ivoire,87870,830
 2022-12-04,Cote d'Ivoire,87885,830
 2022-12-11,Cote d'Ivoire,87889,830
+2022-12-18,Cote d'Ivoire,87894,830
 2020-01-26,Croatia,0,0
 2020-02-02,Croatia,0,0
 2020-02-09,Croatia,0,0
@@ -6492,6 +6534,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Croatia,1251441,17268
 2022-12-04,Croatia,1253087,17306
 2022-12-11,Croatia,1254857,17348
+2022-12-18,Croatia,1257099,17415
 2020-01-26,Cuba,0,0
 2020-02-02,Cuba,0,0
 2020-02-09,Cuba,0,0
@@ -6643,6 +6686,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Cuba,1111345,8530
 2022-12-04,Cuba,1111379,8530
 2022-12-11,Cuba,1111447,8530
+2022-12-18,Cuba,1111564,8530
 2020-01-26,Cyprus,0,0
 2020-02-02,Cyprus,0,0
 2020-02-09,Cyprus,0,0
@@ -6794,6 +6838,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Cyprus,610023,1218
 2022-12-04,Cyprus,614237,1226
 2022-12-11,Cyprus,618248,1237
+2022-12-18,Cyprus,622102,1242
 2020-01-26,Czechia,0,0
 2020-02-02,Czechia,0,0
 2020-02-09,Czechia,0,0
@@ -6945,6 +6990,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Czechia,4529105,41759
 2022-12-04,Czechia,4533848,41800
 2022-12-11,Czechia,4561350,41904
+2022-12-18,Czechia,4567493,41957
 2020-01-26,Democratic Republic of Congo,0,0
 2020-02-02,Democratic Republic of Congo,0,0
 2020-02-09,Democratic Republic of Congo,0,0
@@ -7096,6 +7142,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Democratic Republic of Congo,93837,1452
 2022-12-04,Democratic Republic of Congo,94204,1455
 2022-12-11,Democratic Republic of Congo,94452,1456
+2022-12-18,Democratic Republic of Congo,94714,1457
 2020-01-26,Denmark,0,0
 2020-02-02,Denmark,0,0
 2020-02-09,Denmark,0,0
@@ -7247,6 +7294,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Denmark,3393598,7543
 2022-12-04,Denmark,3398127,7573
 2022-12-11,Denmark,3405355,7604
+2022-12-18,Denmark,3413970,7645
 2020-01-26,Diamond Princess,0,0
 2020-02-02,Diamond Princess,0,0
 2020-02-09,Diamond Princess,0,0
@@ -7398,6 +7446,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Diamond Princess,712,13
 2022-12-04,Diamond Princess,712,13
 2022-12-11,Diamond Princess,712,13
+2022-12-18,Diamond Princess,712,13
 2020-01-26,Djibouti,0,0
 2020-02-02,Djibouti,0,0
 2020-02-09,Djibouti,0,0
@@ -7549,6 +7598,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Djibouti,15690,189
 2022-12-04,Djibouti,15690,189
 2022-12-11,Djibouti,15690,189
+2022-12-18,Djibouti,15690,189
 2020-01-26,Dominica,0,0
 2020-02-02,Dominica,0,0
 2020-02-09,Dominica,0,0
@@ -7700,6 +7750,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Dominica,15760,74
 2022-12-04,Dominica,15760,74
 2022-12-11,Dominica,15760,74
+2022-12-18,Dominica,15760,74
 2020-01-26,Dominican Republic,0,0
 2020-02-02,Dominican Republic,0,0
 2020-02-09,Dominican Republic,0,0
@@ -7851,6 +7902,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Dominican Republic,648216,4384
 2022-12-04,Dominican Republic,649834,4384
 2022-12-11,Dominican Republic,650990,4384
+2022-12-18,Dominican Republic,650990,4384
 2020-01-26,Ecuador,0,0
 2020-02-02,Ecuador,0,0
 2020-02-09,Ecuador,0,0
@@ -8002,6 +8054,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Ecuador,1009388,35935
 2022-12-04,Ecuador,1011132,35940
 2022-12-11,Ecuador,1011132,35940
+2022-12-18,Ecuador,1018179,35940
 2020-01-26,Egypt,0,0
 2020-02-02,Egypt,0,0
 2020-02-09,Egypt,0,0
@@ -8153,6 +8206,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Egypt,515645,24798
 2022-12-04,Egypt,515645,24798
 2022-12-11,Egypt,515645,24799
+2022-12-18,Egypt,515645,24799
 2020-01-26,El Salvador,0,0
 2020-02-02,El Salvador,0,0
 2020-02-09,El Salvador,0,0
@@ -8304,6 +8358,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,El Salvador,201785,4230
 2022-12-04,El Salvador,201785,4230
 2022-12-11,El Salvador,201785,4230
+2022-12-18,El Salvador,201785,4230
 2020-01-26,Equatorial Guinea,0,0
 2020-02-02,Equatorial Guinea,0,0
 2020-02-09,Equatorial Guinea,0,0
@@ -8455,6 +8510,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Equatorial Guinea,17182,183
 2022-12-04,Equatorial Guinea,17182,183
 2022-12-11,Equatorial Guinea,17183,183
+2022-12-18,Equatorial Guinea,17184,183
 2020-01-26,Eritrea,0,0
 2020-02-02,Eritrea,0,0
 2020-02-09,Eritrea,0,0
@@ -8606,6 +8662,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Eritrea,10189,103
 2022-12-04,Eritrea,10189,103
 2022-12-11,Eritrea,10189,103
+2022-12-18,Eritrea,10189,103
 2020-01-26,Estonia,0,0
 2020-02-02,Estonia,0,0
 2020-02-09,Estonia,0,0
@@ -8757,6 +8814,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Estonia,608332,2757
 2022-12-04,Estonia,608796,2781
 2022-12-11,Estonia,609297,2790
+2022-12-18,Estonia,609827,2799
 2020-01-26,Eswatini,0,0
 2020-02-02,Eswatini,0,0
 2020-02-09,Eswatini,0,0
@@ -8908,6 +8966,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Eswatini,73770,1422
 2022-12-04,Eswatini,73770,1422
 2022-12-11,Eswatini,73908,1422
+2022-12-18,Eswatini,73908,1422
 2020-01-26,Ethiopia,0,0
 2020-02-02,Ethiopia,0,0
 2020-02-09,Ethiopia,0,0
@@ -9059,6 +9118,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Ethiopia,494327,7572
 2022-12-04,Ethiopia,494520,7572
 2022-12-11,Ethiopia,494786,7572
+2022-12-18,Ethiopia,495284,7572
 2020-01-26,Fiji,0,0
 2020-02-02,Fiji,0,0
 2020-02-09,Fiji,0,0
@@ -9210,6 +9270,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Fiji,68307,878
 2022-12-04,Fiji,68375,878
 2022-12-11,Fiji,68451,878
+2022-12-18,Fiji,68553,878
 2020-01-26,Finland,0,0
 2020-02-02,Finland,0,0
 2020-02-09,Finland,1,0
@@ -9361,6 +9422,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Finland,1384654,7173
 2022-12-04,Finland,1394254,7265
 2022-12-11,Finland,1405255,7448
+2022-12-18,Finland,1417909,7572
 2020-01-26,France,0,0
 2020-02-02,France,3,0
 2020-02-09,France,6,0
@@ -9512,6 +9574,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,France,37576243,159378
 2022-12-04,France,37885199,159811
 2022-12-11,France,38278536,160285
+2022-12-18,France,38717933,160913
 2020-01-26,Gabon,0,0
 2020-02-02,Gabon,0,0
 2020-02-09,Gabon,0,0
@@ -9663,6 +9726,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Gabon,48972,306
 2022-12-04,Gabon,48972,306
 2022-12-11,Gabon,48973,306
+2022-12-18,Gabon,48973,306
 2020-01-26,Gambia,0,0
 2020-02-02,Gambia,0,0
 2020-02-09,Gambia,0,0
@@ -9814,6 +9878,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Gambia,12580,372
 2022-12-04,Gambia,12586,372
 2022-12-11,Gambia,12586,372
+2022-12-18,Gambia,12586,372
 2020-01-26,Georgia,0,0
 2020-02-02,Georgia,0,0
 2020-02-09,Georgia,0,0
@@ -9965,6 +10030,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Georgia,1785138,16881
 2022-12-04,Georgia,1805698,16888
 2022-12-11,Georgia,1806918,16888
+2022-12-18,Georgia,1807654,16888
 2020-01-26,Germany,0,0
 2020-02-02,Germany,1,0
 2020-02-09,Germany,12,0
@@ -10116,6 +10182,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Germany,36247081,156812
 2022-12-04,Germany,36419717,157657
 2022-12-11,Germany,36604648,158386
+2022-12-18,Germany,36812671,159177
 2020-01-26,Ghana,0,0
 2020-02-02,Ghana,0,0
 2020-02-09,Ghana,0,0
@@ -10267,6 +10334,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Ghana,170996,1461
 2022-12-04,Ghana,171009,1461
 2022-12-11,Ghana,171023,1461
+2022-12-18,Ghana,171023,1461
 2020-01-26,Greece,0,0
 2020-02-02,Greece,0,0
 2020-02-09,Greece,0,0
@@ -10418,6 +10486,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Greece,5306482,34024
 2022-12-04,Greece,5360506,34178
 2022-12-11,Greece,5404690,34309
+2022-12-18,Greece,5448700,34482
 2020-01-26,Grenada,0,0
 2020-02-02,Grenada,0,0
 2020-02-09,Grenada,0,0
@@ -10569,6 +10638,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Grenada,19616,237
 2022-12-04,Grenada,19616,237
 2022-12-11,Grenada,19631,237
+2022-12-18,Grenada,19636,237
 2020-01-26,Guatemala,0,0
 2020-02-02,Guatemala,0,0
 2020-02-09,Guatemala,0,0
@@ -10720,6 +10790,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Guatemala,1148614,19939
 2022-12-04,Guatemala,1154211,19949
 2022-12-11,Guatemala,1160363,19957
+2022-12-18,Guatemala,1172149,19964
 2020-01-26,Guinea,0,0
 2020-02-02,Guinea,0,0
 2020-02-09,Guinea,0,0
@@ -10871,6 +10942,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Guinea,38153,464
 2022-12-04,Guinea,38153,464
 2022-12-11,Guinea,38153,464
+2022-12-18,Guinea,38153,464
 2020-01-26,Guinea-Bissau,0,0
 2020-02-02,Guinea-Bissau,0,0
 2020-02-09,Guinea-Bissau,0,0
@@ -11022,6 +11094,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Guinea-Bissau,8848,176
 2022-12-04,Guinea-Bissau,8848,176
 2022-12-11,Guinea-Bissau,8848,176
+2022-12-18,Guinea-Bissau,8848,176
 2020-01-26,Guyana,0,0
 2020-02-02,Guyana,0,0
 2020-02-09,Guyana,0,0
@@ -11173,6 +11246,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Guyana,71545,1283
 2022-12-04,Guyana,71584,1285
 2022-12-11,Guyana,71650,1285
+2022-12-18,Guyana,71757,1285
 2020-01-26,Haiti,0,0
 2020-02-02,Haiti,0,0
 2020-02-09,Haiti,0,0
@@ -11324,6 +11398,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Haiti,33837,860
 2022-12-04,Haiti,33846,860
 2022-12-11,Haiti,33862,860
+2022-12-18,Haiti,33874,860
 2020-01-26,Honduras,0,0
 2020-02-02,Honduras,0,0
 2020-02-09,Honduras,0,0
@@ -11475,6 +11550,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Honduras,457543,11043
 2022-12-04,Honduras,458023,11043
 2022-12-11,Honduras,458921,11051
+2022-12-18,Honduras,460714,11054
 2020-01-26,Hungary,0,0
 2020-02-02,Hungary,0,0
 2020-02-09,Hungary,0,0
@@ -11626,6 +11702,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Hungary,2157995,48184
 2022-12-04,Hungary,2162093,48245
 2022-12-11,Hungary,2166352,48287
+2022-12-18,Hungary,2171056,48337
 2020-01-26,Iceland,0,0
 2020-02-02,Iceland,0,0
 2020-02-09,Iceland,0,0
@@ -11777,6 +11854,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Iceland,206803,219
 2022-12-04,Iceland,207101,219
 2022-12-11,Iceland,207101,219
+2022-12-18,Iceland,207101,219
 2020-01-26,India,0,0
 2020-02-02,India,0,0
 2020-02-09,India,3,0
@@ -11928,6 +12006,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,India,44670940,530591
 2022-12-04,India,44673293,530615
 2022-12-11,India,44675006,530633
+2022-12-18,India,44676318,530658
 2020-01-26,Indonesia,0,0
 2020-02-02,Indonesia,0,0
 2020-02-09,Indonesia,0,0
@@ -12079,6 +12158,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Indonesia,6612673,159422
 2022-12-04,Indonesia,6653469,159735
 2022-12-11,Indonesia,6682437,160026
+2022-12-18,Indonesia,6700015,160255
 2020-01-26,Iran,0,0
 2020-02-02,Iran,0,0
 2020-02-09,Iran,0,0
@@ -12230,6 +12310,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Iran,7559368,144627
 2022-12-04,Iran,7559634,144633
 2022-12-11,Iran,7559924,144645
+2022-12-18,Iran,7560217,144658
 2020-01-26,Iraq,0,0
 2020-02-02,Iraq,0,0
 2020-02-09,Iraq,0,0
@@ -12381,6 +12462,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Iraq,2463021,25363
 2022-12-04,Iraq,2463724,25364
 2022-12-11,Iraq,2464375,25366
+2022-12-18,Iraq,2464375,25366
 2020-01-26,Ireland,0,0
 2020-02-02,Ireland,0,0
 2020-02-09,Ireland,0,0
@@ -12532,6 +12614,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Ireland,1677386,8141
 2022-12-04,Ireland,1678827,8170
 2022-12-11,Ireland,1680548,8197
+2022-12-18,Ireland,1682409,8231
 2020-01-26,Israel,0,0
 2020-02-02,Israel,0,0
 2020-02-09,Israel,0,0
@@ -12683,6 +12766,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Israel,4707635,11818
 2022-12-04,Israel,4718364,11845
 2022-12-11,Israel,4729605,11882
+2022-12-18,Israel,4739407,11919
 2020-01-26,Italy,0,0
 2020-02-02,Italy,0,0
 2020-02-09,Italy,2,0
@@ -12834,6 +12918,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Italy,24031538,180518
 2022-12-04,Italy,24260660,181098
 2022-12-11,Italy,24488080,181733
+2022-12-18,Italy,24709404,182419
 2020-01-26,Jamaica,0,0
 2020-02-02,Jamaica,0,0
 2020-02-09,Jamaica,0,0
@@ -12985,6 +13070,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Jamaica,152381,3351
 2022-12-04,Jamaica,152517,3399
 2022-12-11,Jamaica,152517,3399
+2022-12-18,Jamaica,152669,3433
 2020-01-26,Japan,2,0
 2020-02-02,Japan,4,0
 2020-02-09,Japan,20,0
@@ -13136,6 +13222,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Japan,23836351,48346
 2022-12-04,Japan,24541816,49289
 2022-12-11,Japan,25290215,50469
+2022-12-18,Japan,26154301,51837
 2020-01-26,Jordan,0,0
 2020-02-02,Jordan,0,0
 2020-02-09,Jordan,0,0
@@ -13287,6 +13374,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Jordan,1746997,14122
 2022-12-04,Jordan,1746997,14122
 2022-12-11,Jordan,1746997,14122
+2022-12-18,Jordan,1746997,14122
 2020-01-26,Kazakhstan,0,0
 2020-02-02,Kazakhstan,0,0
 2020-02-09,Kazakhstan,0,0
@@ -13438,6 +13526,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Kazakhstan,1485635,19053
 2022-12-04,Kazakhstan,1485635,19053
 2022-12-11,Kazakhstan,1487167,19054
+2022-12-18,Kazakhstan,1488306,19056
 2020-01-26,Kenya,0,0
 2020-02-02,Kenya,0,0
 2020-02-09,Kenya,0,0
@@ -13589,6 +13678,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Kenya,341043,5684
 2022-12-04,Kenya,341515,5684
 2022-12-11,Kenya,341933,5684
+2022-12-18,Kenya,342120,5684
 2020-01-26,Kiribati,0,0
 2020-02-02,Kiribati,0,0
 2020-02-09,Kiribati,0,0
@@ -13740,6 +13830,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Kiribati,3430,13
 2022-12-04,Kiribati,3430,13
 2022-12-11,Kiribati,3430,13
+2022-12-18,Kiribati,3430,13
 2020-01-26,Kosovo,0,0
 2020-02-02,Kosovo,0,0
 2020-02-09,Kosovo,0,0
@@ -13891,6 +13982,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Kosovo,272197,3202
 2022-12-04,Kosovo,272208,3202
 2022-12-11,Kosovo,272214,3202
+2022-12-18,Kosovo,272219,3202
 2020-01-26,Kuwait,0,0
 2020-02-02,Kuwait,0,0
 2020-02-09,Kuwait,0,0
@@ -14042,6 +14134,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Kuwait,662617,2569
 2022-12-04,Kuwait,662672,2570
 2022-12-11,Kuwait,662747,2570
+2022-12-18,Kuwait,662747,2570
 2020-01-26,Kyrgyzstan,0,0
 2020-02-02,Kyrgyzstan,0,0
 2020-02-09,Kyrgyzstan,0,0
@@ -14193,6 +14286,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Kyrgyzstan,206511,2991
 2022-12-04,Kyrgyzstan,206530,2991
 2022-12-11,Kyrgyzstan,206543,2991
+2022-12-18,Kyrgyzstan,206553,2991
 2020-01-26,Laos,0,0
 2020-02-02,Laos,0,0
 2020-02-09,Laos,0,0
@@ -14344,6 +14438,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Laos,216492,758
 2022-12-04,Laos,216660,758
 2022-12-11,Laos,216919,758
+2022-12-18,Laos,217237,758
 2020-01-26,Latvia,0,0
 2020-02-02,Latvia,0,0
 2020-02-09,Latvia,0,0
@@ -14495,6 +14590,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Latvia,959835,6083
 2022-12-04,Latvia,962085,6087
 2022-12-11,Latvia,965678,6103
+2022-12-18,Latvia,968527,6111
 2020-01-26,Lebanon,0,0
 2020-02-02,Lebanon,0,0
 2020-02-09,Lebanon,0,0
@@ -14646,6 +14742,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Lebanon,1220127,10729
 2022-12-04,Lebanon,1220443,10736
 2022-12-11,Lebanon,1220800,10740
+2022-12-18,Lebanon,1221182,10741
 2020-01-26,Lesotho,0,0
 2020-02-02,Lesotho,0,0
 2020-02-09,Lesotho,0,0
@@ -14797,6 +14894,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Lesotho,34490,706
 2022-12-04,Lesotho,34490,706
 2022-12-11,Lesotho,34490,706
+2022-12-18,Lesotho,34490,706
 2020-01-26,Liberia,0,0
 2020-02-02,Liberia,0,0
 2020-02-09,Liberia,0,0
@@ -14948,6 +15046,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Liberia,8014,294
 2022-12-04,Liberia,8014,294
 2022-12-11,Liberia,8022,294
+2022-12-18,Liberia,8037,294
 2020-01-26,Libya,0,0
 2020-02-02,Libya,0,0
 2020-02-09,Libya,0,0
@@ -15099,6 +15198,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Libya,507078,6437
 2022-12-04,Libya,507084,6437
 2022-12-11,Libya,507100,6437
+2022-12-18,Libya,507100,6437
 2020-01-26,Liechtenstein,0,0
 2020-02-02,Liechtenstein,0,0
 2020-02-09,Liechtenstein,0,0
@@ -15250,6 +15350,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Liechtenstein,20831,87
 2022-12-04,Liechtenstein,20890,87
 2022-12-11,Liechtenstein,20984,87
+2022-12-18,Liechtenstein,21094,88
 2020-01-26,Lithuania,0,0
 2020-02-02,Lithuania,0,0
 2020-02-09,Lithuania,0,0
@@ -15401,6 +15502,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Lithuania,1273064,9419
 2022-12-04,Lithuania,1274885,9432
 2022-12-11,Lithuania,1277579,9437
+2022-12-18,Lithuania,1280625,9441
 2020-01-26,Luxembourg,0,0
 2020-02-02,Luxembourg,0,0
 2020-02-09,Luxembourg,0,0
@@ -15552,6 +15654,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Luxembourg,305163,1154
 2022-12-04,Luxembourg,306343,1158
 2022-12-11,Luxembourg,307523,1165
+2022-12-18,Luxembourg,308800,1168
 2020-01-26,MS Zaandam,0,0
 2020-02-02,MS Zaandam,0,0
 2020-02-09,MS Zaandam,0,0
@@ -15703,6 +15806,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,MS Zaandam,9,2
 2022-12-04,MS Zaandam,9,2
 2022-12-11,MS Zaandam,9,2
+2022-12-18,MS Zaandam,9,2
 2020-01-26,Madagascar,0,0
 2020-02-02,Madagascar,0,0
 2020-02-09,Madagascar,0,0
@@ -15854,6 +15958,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Madagascar,67054,1411
 2022-12-04,Madagascar,67054,1411
 2022-12-11,Madagascar,67488,1413
+2022-12-18,Madagascar,67621,1414
 2020-01-26,Malawi,0,0
 2020-02-02,Malawi,0,0
 2020-02-09,Malawi,0,0
@@ -16005,6 +16110,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Malawi,88073,2896
 2022-12-04,Malawi,88083,2685
 2022-12-11,Malawi,88086,2685
+2022-12-18,Malawi,88220,2685
 2020-01-26,Malaysia,0,0
 2020-02-02,Malaysia,4,0
 2020-02-09,Malaysia,8,0
@@ -16156,6 +16262,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Malaysia,4969420,36609
 2022-12-04,Malaysia,4988759,36657
 2022-12-11,Malaysia,5001908,36716
+2022-12-18,Malaysia,5011443,36769
 2020-01-26,Maldives,0,0
 2020-02-02,Maldives,0,0
 2020-02-09,Maldives,0,0
@@ -16307,6 +16414,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Maldives,185584,311
 2022-12-04,Maldives,185618,311
 2022-12-11,Maldives,185632,311
+2022-12-18,Maldives,185651,311
 2020-01-26,Mali,0,0
 2020-02-02,Mali,0,0
 2020-02-09,Mali,0,0
@@ -16458,6 +16566,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Mali,32755,742
 2022-12-04,Mali,32758,742
 2022-12-11,Mali,32760,742
+2022-12-18,Mali,32764,743
 2020-01-26,Malta,0,0
 2020-02-02,Malta,0,0
 2020-02-09,Malta,0,0
@@ -16609,6 +16718,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Malta,115703,808
 2022-12-04,Malta,115775,809
 2022-12-11,Malta,115891,809
+2022-12-18,Malta,115981,809
 2020-01-26,Marshall Islands,0,0
 2020-02-02,Marshall Islands,0,0
 2020-02-09,Marshall Islands,0,0
@@ -16760,6 +16870,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Marshall Islands,15501,17
 2022-12-04,Marshall Islands,15541,17
 2022-12-11,Marshall Islands,15541,17
+2022-12-18,Marshall Islands,15547,17
 2020-01-26,Mauritania,0,0
 2020-02-02,Mauritania,0,0
 2020-02-09,Mauritania,0,0
@@ -16911,6 +17022,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Mauritania,63419,997
 2022-12-04,Mauritania,63420,997
 2022-12-11,Mauritania,63421,997
+2022-12-18,Mauritania,63422,997
 2020-01-26,Mauritius,0,0
 2020-02-02,Mauritius,0,0
 2020-02-09,Mauritius,0,0
@@ -17062,6 +17174,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Mauritius,268397,1033
 2022-12-04,Mauritius,271867,1034
 2022-12-11,Mauritius,281163,1036
+2022-12-18,Mauritius,284994,1038
 2020-01-26,Mexico,0,0
 2020-02-02,Mexico,0,0
 2020-02-09,Mexico,0,0
@@ -17213,6 +17326,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Mexico,7118933,330444
 2022-12-04,Mexico,7125176,330495
 2022-12-11,Mexico,7145409,330592
+2022-12-18,Mexico,7164392,330701
 2020-01-26,Micronesia (country),0,0
 2020-02-02,Micronesia (country),0,0
 2020-02-09,Micronesia (country),0,0
@@ -17364,6 +17478,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Micronesia (country),22203,55
 2022-12-04,Micronesia (country),22203,58
 2022-12-11,Micronesia (country),22203,58
+2022-12-18,Micronesia (country),22203,58
 2020-01-26,Moldova,0,0
 2020-02-02,Moldova,0,0
 2020-02-09,Moldova,0,0
@@ -17515,6 +17630,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Moldova,594441,11906
 2022-12-04,Moldova,594754,11913
 2022-12-11,Moldova,595073,11918
+2022-12-18,Moldova,595402,11920
 2020-01-26,Monaco,0,0
 2020-02-02,Monaco,0,0
 2020-02-09,Monaco,0,0
@@ -17666,6 +17782,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Monaco,15236,65
 2022-12-04,Monaco,15339,65
 2022-12-11,Monaco,15598,65
+2022-12-18,Monaco,15713,65
 2020-01-26,Mongolia,0,0
 2020-02-02,Mongolia,0,0
 2020-02-09,Mongolia,0,0
@@ -17817,6 +17934,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Mongolia,989713,2133
 2022-12-04,Mongolia,992101,2134
 2022-12-11,Mongolia,993372,2135
+2022-12-18,Mongolia,994079,2135
 2020-01-26,Montenegro,0,0
 2020-02-02,Montenegro,0,0
 2020-02-09,Montenegro,0,0
@@ -17968,6 +18086,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Montenegro,283512,2789
 2022-12-04,Montenegro,283663,2789
 2022-12-11,Montenegro,283844,2790
+2022-12-18,Montenegro,284137,2790
 2020-01-26,Morocco,0,0
 2020-02-02,Morocco,0,0
 2020-02-09,Morocco,0,0
@@ -18119,6 +18238,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Morocco,1267350,16283
 2022-12-04,Morocco,1268440,16284
 2022-12-11,Morocco,1269391,16285
+2022-12-18,Morocco,1270179,16288
 2020-01-26,Mozambique,0,0
 2020-02-02,Mozambique,0,0
 2020-02-09,Mozambique,0,0
@@ -18270,6 +18390,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Mozambique,230590,2224
 2022-12-04,Mozambique,230590,2224
 2022-12-11,Mozambique,230624,2226
+2022-12-18,Mozambique,230816,2229
 2020-01-26,Myanmar,0,0
 2020-02-02,Myanmar,0,0
 2020-02-09,Myanmar,0,0
@@ -18421,6 +18542,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Myanmar,633045,19487
 2022-12-04,Myanmar,633196,19488
 2022-12-11,Myanmar,633324,19488
+2022-12-18,Myanmar,633462,19488
 2020-01-26,Namibia,0,0
 2020-02-02,Namibia,0,0
 2020-02-09,Namibia,0,0
@@ -18572,6 +18694,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Namibia,169946,4080
 2022-12-04,Namibia,169946,4080
 2022-12-11,Namibia,169946,4080
+2022-12-18,Namibia,169946,4080
 2020-01-26,Nauru,0,0
 2020-02-02,Nauru,0,0
 2020-02-09,Nauru,0,0
@@ -18723,6 +18846,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Nauru,4621,1
 2022-12-04,Nauru,4621,1
 2022-12-11,Nauru,4621,1
+2022-12-18,Nauru,4621,1
 2020-01-26,Nepal,0,0
 2020-02-02,Nepal,1,0
 2020-02-09,Nepal,1,0
@@ -18874,6 +18998,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Nepal,1000855,12019
 2022-12-04,Nepal,1000884,12019
 2022-12-11,Nepal,1000911,12019
+2022-12-18,Nepal,1000939,12019
 2020-01-26,Netherlands,0,0
 2020-02-02,Netherlands,0,0
 2020-02-09,Netherlands,0,0
@@ -19025,6 +19150,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Netherlands,8645502,23549
 2022-12-04,Netherlands,8650785,23566
 2022-12-11,Netherlands,8656774,23579
+2022-12-18,Netherlands,8662418,23641
 2020-01-26,New Zealand,0,0
 2020-02-02,New Zealand,0,0
 2020-02-09,New Zealand,0,0
@@ -19176,6 +19302,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,New Zealand,1924559,2183
 2022-12-04,New Zealand,1951623,2213
 2022-12-11,New Zealand,1986175,2236
+2022-12-18,New Zealand,2026272,2258
 2020-01-26,Nicaragua,0,0
 2020-02-02,Nicaragua,0,0
 2020-02-09,Nicaragua,0,0
@@ -19327,6 +19454,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Nicaragua,15219,245
 2022-12-04,Nicaragua,15232,245
 2022-12-11,Nicaragua,15250,245
+2022-12-18,Nicaragua,15263,245
 2020-01-26,Niger,0,0
 2020-02-02,Niger,0,0
 2020-02-09,Niger,0,0
@@ -19478,6 +19606,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Niger,9430,314
 2022-12-04,Niger,9434,314
 2022-12-11,Niger,9434,314
+2022-12-18,Niger,9434,314
 2020-01-26,Nigeria,0,0
 2020-02-02,Nigeria,0,0
 2020-02-09,Nigeria,0,0
@@ -19629,6 +19758,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Nigeria,266283,3155
 2022-12-04,Nigeria,266283,3155
 2022-12-11,Nigeria,266283,3155
+2022-12-18,Nigeria,266381,3155
 2020-01-26,North Korea,0,0
 2020-02-02,North Korea,0,0
 2020-02-09,North Korea,0,0
@@ -19780,6 +19910,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,North Korea,1,6
 2022-12-04,North Korea,1,6
 2022-12-11,North Korea,1,6
+2022-12-18,North Korea,1,6
 2020-01-26,North Macedonia,0,0
 2020-02-02,North Macedonia,0,0
 2020-02-09,North Macedonia,0,0
@@ -19931,6 +20062,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,North Macedonia,344531,9567
 2022-12-04,North Macedonia,344710,9568
 2022-12-11,North Macedonia,344872,9591
+2022-12-18,North Macedonia,345067,9591
 2020-01-26,Norway,0,0
 2020-02-02,Norway,0,0
 2020-02-09,Norway,0,0
@@ -20082,6 +20214,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Norway,1467622,4332
 2022-12-04,Norway,1468663,4384
 2022-12-11,Norway,1469778,4439
+2022-12-18,Norway,1471132,4498
 2020-01-26,Oman,0,0
 2020-02-02,Oman,0,0
 2020-02-09,Oman,0,0
@@ -20233,6 +20366,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Oman,399027,4628
 2022-12-04,Oman,399119,4628
 2022-12-11,Oman,399119,4628
+2022-12-18,Oman,399119,4628
 2020-01-26,Pakistan,0,0
 2020-02-02,Pakistan,0,0
 2020-02-09,Pakistan,0,0
@@ -20384,6 +20518,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Pakistan,1574938,30630
 2022-12-04,Pakistan,1575146,30631
 2022-12-11,Pakistan,1575354,30632
+2022-12-18,Pakistan,1575486,30635
 2020-01-26,Palau,0,0
 2020-02-02,Palau,0,0
 2020-02-09,Palau,0,0
@@ -20535,6 +20670,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Palau,5684,7
 2022-12-04,Palau,5785,7
 2022-12-11,Palau,5896,7
+2022-12-18,Palau,5896,7
 2020-01-26,Palestine,0,0
 2020-02-02,Palestine,0,0
 2020-02-09,Palestine,0,0
@@ -20686,6 +20822,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Palestine,703036,5708
 2022-12-04,Palestine,703036,5708
 2022-12-11,Palestine,703036,5708
+2022-12-18,Palestine,703228,5708
 2020-01-26,Panama,0,0
 2020-02-02,Panama,0,0
 2020-02-09,Panama,0,0
@@ -20837,6 +20974,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Panama,995726,8519
 2022-12-04,Panama,995726,8519
 2022-12-11,Panama,1009252,8533
+2022-12-18,Panama,1009252,8533
 2020-01-26,Papua New Guinea,0,0
 2020-02-02,Papua New Guinea,0,0
 2020-02-09,Papua New Guinea,0,0
@@ -20988,6 +21126,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Papua New Guinea,45819,668
 2022-12-04,Papua New Guinea,45819,668
 2022-12-11,Papua New Guinea,46247,668
+2022-12-18,Papua New Guinea,46457,669
 2020-01-26,Paraguay,0,0
 2020-02-02,Paraguay,0,0
 2020-02-09,Paraguay,0,0
@@ -21139,6 +21278,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Paraguay,718071,19611
 2022-12-04,Paraguay,718164,19621
 2022-12-11,Paraguay,777525,19630
+2022-12-18,Paraguay,778895,19646
 2020-01-26,Peru,0,0
 2020-02-02,Peru,0,0
 2020-02-09,Peru,0,0
@@ -21290,6 +21430,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Peru,4190948,217279
 2022-12-04,Peru,4229179,217386
 2022-12-11,Peru,4300576,217496
+2022-12-18,Peru,4362281,217679
 2020-01-26,Philippines,0,0
 2020-02-02,Philippines,0,0
 2020-02-09,Philippines,2,1
@@ -21441,6 +21582,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Philippines,4026895,64485
 2022-12-04,Philippines,4034658,64608
 2022-12-11,Philippines,4042182,64750
+2022-12-18,Philippines,4050045,64902
 2020-01-26,Poland,0,0
 2020-02-02,Poland,0,0
 2020-02-09,Poland,0,0
@@ -21592,6 +21734,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Poland,6348928,118274
 2022-12-04,Poland,6351408,118306
 2022-12-11,Poland,6354511,118340
+2022-12-18,Poland,6357700,118382
 2020-01-26,Portugal,0,0
 2020-02-02,Portugal,0,0
 2020-02-09,Portugal,0,0
@@ -21743,6 +21886,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Portugal,5537108,25395
 2022-12-04,Portugal,5542265,25450
 2022-12-11,Portugal,5546290,25517
+2022-12-18,Portugal,5549479,25584
 2020-01-26,Qatar,0,0
 2020-02-02,Qatar,0,0
 2020-02-09,Qatar,0,0
@@ -21894,6 +22038,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Qatar,476171,684
 2022-12-04,Qatar,478047,685
 2022-12-11,Qatar,481296,685
+2022-12-18,Qatar,484658,685
 2020-01-26,Romania,0,0
 2020-02-02,Romania,0,0
 2020-02-09,Romania,0,0
@@ -22045,6 +22190,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Romania,3294447,67253
 2022-12-04,Romania,3296834,67276
 2022-12-11,Romania,3298738,67289
+2022-12-18,Romania,3301662,67310
 2020-01-26,Russia,0,0
 2020-02-02,Russia,0,0
 2020-02-09,Russia,2,0
@@ -22196,6 +22342,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Russia,21234988,383617
 2022-12-04,Russia,21273541,383993
 2022-12-11,Russia,21316663,384379
+2022-12-18,Russia,21364571,384749
 2020-01-26,Rwanda,0,0
 2020-02-02,Rwanda,0,0
 2020-02-09,Rwanda,0,0
@@ -22347,6 +22494,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Rwanda,132643,1467
 2022-12-04,Rwanda,132681,1467
 2022-12-11,Rwanda,132762,1467
+2022-12-18,Rwanda,132811,1467
 2020-01-26,Saint Kitts and Nevis,0,0
 2020-02-02,Saint Kitts and Nevis,0,0
 2020-02-09,Saint Kitts and Nevis,0,0
@@ -22498,6 +22646,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Saint Kitts and Nevis,6552,46
 2022-12-04,Saint Kitts and Nevis,6556,46
 2022-12-11,Saint Kitts and Nevis,6556,46
+2022-12-18,Saint Kitts and Nevis,6559,46
 2020-01-26,Saint Lucia,0,0
 2020-02-02,Saint Lucia,0,0
 2020-02-09,Saint Lucia,0,0
@@ -22649,6 +22798,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Saint Lucia,29692,408
 2022-12-04,Saint Lucia,29692,408
 2022-12-11,Saint Lucia,29711,408
+2022-12-18,Saint Lucia,29723,409
 2020-01-26,Saint Vincent and the Grenadines,0,0
 2020-02-02,Saint Vincent and the Grenadines,0,0
 2020-02-09,Saint Vincent and the Grenadines,0,0
@@ -22800,6 +22950,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Saint Vincent and the Grenadines,9462,116
 2022-12-04,Saint Vincent and the Grenadines,9462,116
 2022-12-11,Saint Vincent and the Grenadines,9474,116
+2022-12-18,Saint Vincent and the Grenadines,9500,116
 2020-01-26,Samoa,0,0
 2020-02-02,Samoa,0,0
 2020-02-09,Samoa,0,0
@@ -22951,6 +23102,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Samoa,15949,29
 2022-12-04,Samoa,15967,29
 2022-12-11,Samoa,15968,29
+2022-12-18,Samoa,15970,29
 2020-01-26,San Marino,0,0
 2020-02-02,San Marino,0,0
 2020-02-09,San Marino,0,0
@@ -23102,6 +23254,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,San Marino,21798,119
 2022-12-04,San Marino,22167,119
 2022-12-11,San Marino,22406,119
+2022-12-18,San Marino,22615,120
 2020-01-26,Sao Tome and Principe,0,0
 2020-02-02,Sao Tome and Principe,0,0
 2020-02-09,Sao Tome and Principe,0,0
@@ -23253,6 +23406,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Sao Tome and Principe,6275,77
 2022-12-04,Sao Tome and Principe,6278,77
 2022-12-11,Sao Tome and Principe,6278,77
+2022-12-18,Sao Tome and Principe,6279,77
 2020-01-26,Saudi Arabia,0,0
 2020-02-02,Saudi Arabia,0,0
 2020-02-09,Saudi Arabia,0,0
@@ -23404,6 +23558,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Saudi Arabia,825176,9448
 2022-12-04,Saudi Arabia,825497,9459
 2022-12-11,Saudi Arabia,825859,9474
+2022-12-18,Saudi Arabia,826259,9486
 2020-01-26,Senegal,0,0
 2020-02-02,Senegal,0,0
 2020-02-09,Senegal,0,0
@@ -23555,6 +23710,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Senegal,88859,1968
 2022-12-04,Senegal,88859,1968
 2022-12-11,Senegal,88873,1968
+2022-12-18,Senegal,88887,1968
 2020-01-26,Serbia,0,0
 2020-02-02,Serbia,0,0
 2020-02-09,Serbia,0,0
@@ -23706,6 +23862,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Serbia,2418306,17347
 2022-12-04,Serbia,2422181,17374
 2022-12-11,Serbia,2426176,17412
+2022-12-18,Serbia,2430656,17441
 2020-01-26,Seychelles,0,0
 2020-02-02,Seychelles,0,0
 2020-02-09,Seychelles,0,0
@@ -23857,6 +24014,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Seychelles,49380,171
 2022-12-04,Seychelles,49862,171
 2022-12-11,Seychelles,50068,171
+2022-12-18,Seychelles,50068,171
 2020-01-26,Sierra Leone,0,0
 2020-02-02,Sierra Leone,0,0
 2020-02-09,Sierra Leone,0,0
@@ -24008,6 +24166,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Sierra Leone,7758,126
 2022-12-04,Sierra Leone,7758,126
 2022-12-11,Sierra Leone,7759,126
+2022-12-18,Sierra Leone,7760,126
 2020-01-26,Singapore,0,0
 2020-02-02,Singapore,5,0
 2020-02-09,Singapore,18,0
@@ -24159,6 +24318,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Singapore,2154633,1700
 2022-12-04,Singapore,2164689,1702
 2022-12-11,Singapore,2173172,1706
+2022-12-18,Singapore,2181788,1707
 2020-01-26,Slovakia,0,0
 2020-02-02,Slovakia,0,0
 2020-02-09,Slovakia,0,0
@@ -24310,6 +24470,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Slovakia,2648151,20712
 2022-12-04,Slovakia,2649580,20729
 2022-12-11,Slovakia,2651069,20742
+2022-12-18,Slovakia,2652801,20764
 2020-01-26,Slovenia,0,0
 2020-02-02,Slovenia,0,0
 2020-02-09,Slovenia,0,0
@@ -24461,6 +24622,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Slovenia,1247979,6911
 2022-12-04,Slovenia,1254808,6930
 2022-12-11,Slovenia,1264000,6943
+2022-12-18,Slovenia,1276150,6955
 2020-01-26,Solomon Islands,0,0
 2020-02-02,Solomon Islands,0,0
 2020-02-09,Solomon Islands,0,0
@@ -24612,6 +24774,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Solomon Islands,24575,153
 2022-12-04,Solomon Islands,24575,153
 2022-12-11,Solomon Islands,24575,153
+2022-12-18,Solomon Islands,24575,153
 2020-01-26,Somalia,0,0
 2020-02-02,Somalia,0,0
 2020-02-09,Somalia,0,0
@@ -24763,6 +24926,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Somalia,27254,1361
 2022-12-04,Somalia,27286,1361
 2022-12-11,Somalia,27286,1361
+2022-12-18,Somalia,27300,1361
 2020-01-26,South Africa,0,0
 2020-02-02,South Africa,0,0
 2020-02-09,South Africa,0,0
@@ -24914,6 +25078,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,South Africa,4038121,102395
 2022-12-04,South Africa,4040980,102428
 2022-12-11,South Africa,4043017,102464
+2022-12-18,South Africa,4045262,102550
 2020-01-26,South Korea,1,0
 2020-02-02,South Korea,4,0
 2020-02-09,South Korea,15,0
@@ -25065,6 +25230,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,South Korea,26654729,30111
 2022-12-04,South Korea,27031319,30454
 2022-12-11,South Korea,27408854,30793
+2022-12-18,South Korea,27841001,31128
 2020-01-26,South Sudan,0,0
 2020-02-02,South Sudan,0,0
 2020-02-09,South Sudan,0,0
@@ -25216,6 +25382,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,South Sudan,18348,138
 2022-12-04,South Sudan,18348,138
 2022-12-11,South Sudan,18352,138
+2022-12-18,South Sudan,18352,138
 2020-01-26,Spain,0,0
 2020-02-02,Spain,0,0
 2020-02-09,Spain,1,0
@@ -25367,6 +25534,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Spain,13573721,115641
 2022-12-04,Spain,13595504,115901
 2022-12-11,Spain,13614807,116108
+2022-12-18,Spain,13632635,116422
 2020-01-26,Sri Lanka,0,0
 2020-02-02,Sri Lanka,1,0
 2020-02-09,Sri Lanka,1,0
@@ -25518,6 +25686,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Sri Lanka,671546,16795
 2022-12-04,Sri Lanka,671651,16802
 2022-12-11,Sri Lanka,671714,16805
+2022-12-18,Sri Lanka,671761,16808
 2020-01-26,Sudan,0,0
 2020-02-02,Sudan,0,0
 2020-02-09,Sudan,0,0
@@ -25669,6 +25838,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Sudan,63617,4986
 2022-12-04,Sudan,63637,4990
 2022-12-11,Sudan,63655,4991
+2022-12-18,Sudan,63663,4992
 2020-01-26,Summer Olympics 2020,0,0
 2020-02-02,Summer Olympics 2020,0,0
 2020-02-09,Summer Olympics 2020,0,0
@@ -25820,6 +25990,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Summer Olympics 2020,865,0
 2022-12-04,Summer Olympics 2020,865,0
 2022-12-11,Summer Olympics 2020,865,0
+2022-12-18,Summer Olympics 2020,865,0
 2020-01-26,Suriname,0,0
 2020-02-02,Suriname,0,0
 2020-02-09,Suriname,0,0
@@ -25971,6 +26142,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Suriname,81228,1392
 2022-12-04,Suriname,81228,1392
 2022-12-11,Suriname,81581,1393
+2022-12-18,Suriname,81581,1393
 2020-01-26,Sweden,0,0
 2020-02-02,Sweden,0,0
 2020-02-09,Sweden,1,0
@@ -26122,6 +26294,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Sweden,2622790,20928
 2022-12-04,Sweden,2626686,21034
 2022-12-11,Sweden,2632091,21127
+2022-12-18,Sweden,2640369,21234
 2020-01-26,Switzerland,0,0
 2020-02-02,Switzerland,0,0
 2020-02-09,Switzerland,0,0
@@ -26273,6 +26446,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Switzerland,4297635,14110
 2022-12-04,Switzerland,4318881,14124
 2022-12-11,Switzerland,4337983,14138
+2022-12-18,Switzerland,4356582,14148
 2020-01-26,Syria,0,0
 2020-02-02,Syria,0,0
 2020-02-09,Syria,0,0
@@ -26424,6 +26598,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Syria,57389,3163
 2022-12-04,Syria,57396,3163
 2022-12-11,Syria,57407,3163
+2022-12-18,Syria,57420,3163
 2020-01-26,Taiwan,1,0
 2020-02-02,Taiwan,5,0
 2020-02-09,Taiwan,10,0
@@ -26575,6 +26750,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Taiwan,8174903,13991
 2022-12-04,Taiwan,8278371,14276
 2022-12-11,Taiwan,8379467,14500
+2022-12-18,Taiwan,8481040,14710
 2020-01-26,Tajikistan,0,0
 2020-02-02,Tajikistan,0,0
 2020-02-09,Tajikistan,0,0
@@ -26726,6 +26902,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Tajikistan,17786,125
 2022-12-04,Tajikistan,17786,125
 2022-12-11,Tajikistan,17786,125
+2022-12-18,Tajikistan,17786,125
 2020-01-26,Tanzania,0,0
 2020-02-02,Tanzania,0,0
 2020-02-09,Tanzania,0,0
@@ -26877,6 +27054,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Tanzania,40311,845
 2022-12-04,Tanzania,40471,845
 2022-12-11,Tanzania,40656,845
+2022-12-18,Tanzania,40806,845
 2020-01-26,Thailand,4,0
 2020-02-02,Thailand,8,0
 2020-02-09,Thailand,19,0
@@ -27028,6 +27206,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Thailand,4702330,33106
 2022-12-04,Thailand,4707244,33180
 2022-12-11,Thailand,4711528,33285
+2022-12-18,Thailand,4715489,33392
 2020-01-26,Timor,0,0
 2020-02-02,Timor,0,0
 2020-02-09,Timor,0,0
@@ -27179,6 +27358,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Timor,23327,138
 2022-12-04,Timor,23337,138
 2022-12-11,Timor,23355,138
+2022-12-18,Timor,23372,138
 2020-01-26,Togo,0,0
 2020-02-02,Togo,0,0
 2020-02-09,Togo,0,0
@@ -27330,6 +27510,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Togo,39323,290
 2022-12-04,Togo,39328,290
 2022-12-11,Togo,39332,290
+2022-12-18,Togo,39337,290
 2020-01-26,Tonga,0,0
 2020-02-02,Tonga,0,0
 2020-02-09,Tonga,0,0
@@ -27481,6 +27662,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Tonga,16182,12
 2022-12-04,Tonga,16182,12
 2022-12-11,Tonga,16182,12
+2022-12-18,Tonga,16182,12
 2020-01-26,Trinidad and Tobago,0,0
 2020-02-02,Trinidad and Tobago,0,0
 2020-02-09,Trinidad and Tobago,0,0
@@ -27632,6 +27814,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Trinidad and Tobago,185094,4263
 2022-12-04,Trinidad and Tobago,185237,4266
 2022-12-11,Trinidad and Tobago,185377,4267
+2022-12-18,Trinidad and Tobago,185528,4268
 2020-01-26,Tunisia,0,0
 2020-02-02,Tunisia,0,0
 2020-02-09,Tunisia,0,0
@@ -27783,6 +27966,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Tunisia,1146799,29266
 2022-12-04,Tunisia,1146991,29268
 2022-12-11,Tunisia,1147072,29268
+2022-12-18,Tunisia,1147145,29269
 2020-01-26,Turkey,0,0
 2020-02-02,Turkey,0,0
 2020-02-09,Turkey,0,0
@@ -27934,6 +28118,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Turkey,16919638,101203
 2022-12-04,Turkey,16919638,101203
 2022-12-11,Turkey,16919638,101203
+2022-12-18,Turkey,16919638,101203
 2020-01-26,Tuvalu,0,0
 2020-02-02,Tuvalu,0,0
 2020-02-09,Tuvalu,0,0
@@ -28085,6 +28270,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Tuvalu,2387,0
 2022-12-04,Tuvalu,2805,0
 2022-12-11,Tuvalu,2805,0
+2022-12-18,Tuvalu,2805,0
 2020-01-26,Uganda,0,0
 2020-02-02,Uganda,0,0
 2020-02-09,Uganda,0,0
@@ -28236,6 +28422,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Uganda,169663,3630
 2022-12-04,Uganda,169663,3630
 2022-12-11,Uganda,169810,3630
+2022-12-18,Uganda,169810,3630
 2020-01-26,Ukraine,0,0
 2020-02-02,Ukraine,0,0
 2020-02-09,Ukraine,0,0
@@ -28387,6 +28574,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Ukraine,5635439,118295
 2022-12-04,Ukraine,5642564,118402
 2022-12-11,Ukraine,5647889,118490
+2022-12-18,Ukraine,5653051,118552
 2020-01-26,United Arab Emirates,0,0
 2020-02-02,United Arab Emirates,0,0
 2020-02-09,United Arab Emirates,5,0
@@ -28538,6 +28726,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,United Arab Emirates,1042779,2348
 2022-12-04,United Arab Emirates,1044058,2348
 2022-12-11,United Arab Emirates,1044843,2348
+2022-12-18,United Arab Emirates,1045616,2348
 2020-01-26,United Kingdom,0,0
 2020-02-02,United Kingdom,0,0
 2020-02-09,United Kingdom,8,2
@@ -28689,6 +28878,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,United Kingdom,24203873,213036
 2022-12-04,United Kingdom,24224763,213036
 2022-12-11,United Kingdom,24252017,213037
+2022-12-18,United Kingdom,24281498,213508
 2020-01-26,United States,1,0
 2020-02-02,United States,5,0
 2020-02-09,United States,11,0
@@ -28840,6 +29030,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,United States,98360670,1077499
 2022-12-04,United States,98636387,1079661
 2022-12-11,United States,99034014,1081825
+2022-12-18,United States,99470198,1084651
 2020-01-26,Uruguay,0,0
 2020-02-02,Uruguay,0,0
 2020-02-09,Uruguay,0,0
@@ -28991,6 +29182,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Uruguay,992887,7530
 2022-12-04,Uruguay,993875,7537
 2022-12-11,Uruguay,995402,7541
+2022-12-18,Uruguay,998047,7548
 2020-01-26,Uzbekistan,0,0
 2020-02-02,Uzbekistan,0,0
 2020-02-09,Uzbekistan,0,0
@@ -29142,6 +29334,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Uzbekistan,245508,1637
 2022-12-04,Uzbekistan,246248,1637
 2022-12-11,Uzbekistan,247304,1637
+2022-12-18,Uzbekistan,248210,1637
 2020-01-26,Vanuatu,0,0
 2020-02-02,Vanuatu,0,0
 2020-02-09,Vanuatu,0,0
@@ -29293,6 +29486,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Vanuatu,11981,14
 2022-12-04,Vanuatu,11981,14
 2022-12-11,Vanuatu,11981,14
+2022-12-18,Vanuatu,11981,14
 2020-01-26,Vatican,0,0
 2020-02-02,Vatican,0,0
 2020-02-09,Vatican,0,0
@@ -29444,6 +29638,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Vatican,29,0
 2022-12-04,Vatican,29,0
 2022-12-11,Vatican,29,0
+2022-12-18,Vatican,29,0
 2020-01-26,Venezuela,0,0
 2020-02-02,Venezuela,0,0
 2020-02-09,Venezuela,0,0
@@ -29595,6 +29790,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Venezuela,546839,5827
 2022-12-04,Venezuela,547351,5828
 2022-12-11,Venezuela,547891,5829
+2022-12-18,Venezuela,548455,5830
 2020-01-26,Vietnam,0,0
 2020-02-02,Vietnam,2,0
 2020-02-09,Vietnam,8,0
@@ -29746,6 +29942,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Vietnam,11511822,43169
 2022-12-04,Vietnam,11514865,43170
 2022-12-11,Vietnam,11518149,43177
+2022-12-18,Vietnam,11529639,43178
 2020-01-26,Winter Olympics 2022,0,0
 2020-02-02,Winter Olympics 2022,0,0
 2020-02-09,Winter Olympics 2022,0,0
@@ -29897,6 +30094,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Winter Olympics 2022,535,0
 2022-12-04,Winter Olympics 2022,535,0
 2022-12-11,Winter Olympics 2022,535,0
+2022-12-18,Winter Olympics 2022,535,0
 2020-01-26,Yemen,0,0
 2020-02-02,Yemen,0,0
 2020-02-09,Yemen,0,0
@@ -30048,6 +30246,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Yemen,11945,2159
 2022-12-04,Yemen,11945,2159
 2022-12-11,Yemen,11945,2159
+2022-12-18,Yemen,11945,2159
 2020-01-26,Zambia,0,0
 2020-02-02,Zambia,0,0
 2020-02-09,Zambia,0,0
@@ -30199,6 +30398,7 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Zambia,333685,4017
 2022-12-04,Zambia,333721,4019
 2022-12-11,Zambia,333746,4019
+2022-12-18,Zambia,333746,4019
 2020-01-26,Zimbabwe,0,0
 2020-02-02,Zimbabwe,0,0
 2020-02-09,Zimbabwe,0,0
@@ -30350,3 +30550,4 @@ Date,Country/Region,Confirmed,Deaths
 2022-11-27,Zimbabwe,257893,5606
 2022-12-04,Zimbabwe,257893,5606
 2022-12-11,Zimbabwe,259164,5620
+2022-12-18,Zimbabwe,259356,5622
